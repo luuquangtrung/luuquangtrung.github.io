@@ -60,19 +60,19 @@ plugins:
 author:
   name   : "Quang-Trung Luu"
   avatar : "/assets/images/trung_circle_mini.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Postdoctoral fellow @ University of Toulouse & University of Avignon"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://luuquangtrung.github.io/"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/luuquangtrung/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/luuquangtrung"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=en"
 
 footer:
