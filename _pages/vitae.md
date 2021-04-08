@@ -3,7 +3,7 @@ permalink: /vitae/
 title: "Short Bio"
 ---
 
-Last updated: October 2, 2020
+*Last updated: October 2, 2020*
 
 ### Experiences
 * Postdoctoral Researcher, [University of Avignon](https://lia.univ-avignon.fr/) and [University of Toulouse](https://www.laas.fr/public/), France (03/2021-03/2022)
