@@ -29,7 +29,7 @@ title: "Miscellaneous"
 * [Nokia Bell Labs](https://www.bell-labs.com/) 
 * [Laboratoire des Signaux et Systèmes (L2S), CentraleSupélec](http://www.l2s.centralesupelec.fr/) 
 * [Laboratoire Traitement et Communication de l'Information (LTCI), Télécom Paris](https://ltci.telecom-paristech.fr/en/) 
-* [Laboratoire de l'Informatique du Parallélisme, Inria & ENS Lyon](http://www.ens-lyon.fr/LIP/"> 
+* [Laboratoire de l'Informatique du Parallélisme, Inria & ENS Lyon](http://www.ens-lyon.fr/LIP/)
 * [Laboratoire Génie Electrique et Electronique de Paris (GeePs), CentraleSupélec](http://www.lgep.supelec.fr/)
 
 ### Useful tools
