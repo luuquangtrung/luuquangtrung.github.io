@@ -6,11 +6,11 @@ title: "Publications"
 For more updated list of publications, please visit my [ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu), [Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr), or [HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu).
 
 ### Patents
-* S. Kerboeuf, Q.-T. Luu, M. Kieffer, and A. Mouradian, "[Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee](https://patents.google.com/patent/WO2020114608A1/en)," WIPO Patent No. WO2020114608A1 (filed on December 07, 2018 by Nokia)
+* S. Kerboeuf, Q.-T. Luu, M. Kieffer, and A. Mouradian, "Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee," WIPO Patent No. WO2020114608A1 (filed on December 07, 2018 by Nokia) ([URL](https://patents.google.com/patent/WO2020114608A1/en))
 ### Journal papers
 * Q.-T. Luu, S. Kerboeuf, and M. Kieffer, "Admission Control and Resource Provisioning for Prioritized Slice Requests with Uncertainties," submitted to IEEE Transactions on Network and Service Management, 2021
-* Q.-T. Luu, S. Kerboeuf, and M. Kieffer, "Uncertainty-Aware Resource Provisioning for Network Slicing," in IEEE Transactions on Network and Service Management, vol. 18, no. 1, 2021 [IEEEXplore](https://ieeexplore.ieee.org/document/9351563) (pre-print available at [arXiv:2006.01104 [cs.NI]](https://arxiv.org/abs/2006.01104))
-* Q.-T. Luu, S. Kerboeuf, A. Mouradian, and M. Kieffer, "Coverage-Aware Resource Provisioning Method for Network Slicing," in IEEE/ACM Transactions on Networking, 2020, vol. 28, no 6, p. 2393-2406. [IEEEXplore](https://ieeexplore.ieee.org/document/9187556/) (pre-print available at [arXiv:1907.09211v3 [cs.NI]](https://arxiv.org/abs/1907.09211v3)
+* Q.-T. Luu, S. Kerboeuf, and M. Kieffer, "Uncertainty-Aware Resource Provisioning for Network Slicing," in IEEE Transactions on Network and Service Management, vol. 18, no. 1, 2021 (URL: [IEEEXplore](https://ieeexplore.ieee.org/document/9351563), [arXiv](https://arxiv.org/abs/2006.01104))
+* Q.-T. Luu, S. Kerboeuf, A. Mouradian, and M. Kieffer, "Coverage-Aware Resource Provisioning Method for Network Slicing," in IEEE/ACM Transactions on Networking, 2020, vol. 28, no 6, p. 2393-2406. (URL: [IEEEXplore](https://ieeexplore.ieee.org/document/9187556/), [arXiv](https://arxiv.org/abs/1907.09211v3)
 ### Conference and workshop papers
 * Q.-T. Luu, S. Kerboeuf, A. Mouradian, and M. Kieffer, "Radio Resource Provisioning for Network Slicing with Coverage Constraints," in Proc. IEEE International Conference on Communications (ICC), Dublin, Ireland, June, 2020, pp. 1-6.
 * Q.-T. Luu, M. Kieffer, A. Mouradian, and S. Kerboeuf, "Aggregated Resource Provisioning for Network Slices," in Proc. IEEE Global Communications Conference (GLOBECOM), Abu Dhabi, UAE, Dec. 2018, pp. 1-6. [IEEEXplore] [PDF]
