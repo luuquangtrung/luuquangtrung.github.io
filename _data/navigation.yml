@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "home"
+    url: /home/
+  - title: "vitae"
+    url: /vitae/
+  - title: "misc"
+    url: /misc/       
+  - title: "posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
+  - title: "tags"
     url: /tags/
-  - title: "About"
-    url: /about/
