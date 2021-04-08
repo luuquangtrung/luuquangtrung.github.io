@@ -1,5 +1,5 @@
 ---
-title: "Genova Deep Learning Summer School 2018"
+title: "Notes from Genova Deep Learning Summer School 2018"
 last_modified_at: 2016-03-09T16:20:02-05:00
 categories:
   - Blog
@@ -9,6 +9,8 @@ tags:
   - italy
   - summer school
 ---
+
+The following are my notes from the [Deep Learning Summer School 2018](http://irdta.eu/deeplearn2018/) in Genova, Italy, 2018. 
 
 ## Zaki: Introductory Tutorials on Regression and Deep Learning
 
