@@ -1,6 +1,6 @@
 main:
   - title: "home"
-    url: //
+    url: /
   - title: "vitae"
     url: /vitae/
   - title: "misc"
