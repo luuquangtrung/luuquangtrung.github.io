@@ -15,7 +15,9 @@ The following are my notes from the [Deep Learning Summer School 2018](http://ir
 ## Zaki: Introductory Tutorials on Regression and Deep Learning
 
 Frameworks: `Kera 10`, `PyTorch`, `TensorFlow`
-**Part 1: Regression:** 
+
+#### Part 1: Regression:
+
 * Goal: Fit the data
 * Prediction accuracy evaluation metrics: `OLS` (Ordinary Least Square), `SSE` (Sum of Squared Errors) 
 * Simplest way: Linear Regression
@@ -26,7 +28,9 @@ Frameworks: `Kera 10`, `PyTorch`, `TensorFlow`
 * Error function: Show how well trained a network is
 * Gradients: Parallel derivatives 
 * Regularization: \\(L_1, L_2\\)
-**Part 2: Logistic Regression**
+
+#### Part 2: Logistic Regression
+
 * `Sigmoid`, `tanh` function acting like `ReLU` (activation function)
 * `Cross-entropy`: \\( Likelihood = \mathbb{P} (Data \| Parameters) = \mathbb{P} (D \| w) \\) 
 * `Stochastic Gradient Descent` (SGD): Find the smallest by going downward
@@ -37,16 +41,22 @@ Frameworks: `Kera 10`, `PyTorch`, `TensorFlow`
 * Any neuron is connected to others with weights
 
 ## Gschwind (Huawei): Deploy DL Applications at Enterprise-Scale
+
 **Rule-based reasoning**
+
 * Limit: Data classification for rich, but fuzzy data \\( \rightarrow \\) Not enough resources (human, time, etc.)
 to write all rules for complex objects with many possible variations 
 * Rules: Often complex, non-intuitive
+
 **Developer-centric AI ecosystems:**
+
 * PowerAI: IBM
 * Deep Learning containers: NVIDIA
 * Cloud AutoML: Google
 * Azure DL virual machine: Microsoft
+
 **Performance evaluation and measurement:**
+
 * Comparation of execution time
 * Drawback: Optimization that improves 1 metric often degrade others
 	* Image/Time
@@ -57,10 +67,14 @@ to write all rules for complex objects with many possible variations
 * Lower precision: Trading off FP precision and throughput  
 
 ## Xing: NN Programming
+
 **Symbolic programming vs. Imperative programming**
+
 * Symbolic: `Caffe`, `PyTorch`
 * Imperative: `TensorFlow`, `theano`, `Caffe2`
+
 **Building an NN:**
+
 * In general: One needs those following information in order to build an NN:
 	* I/O dataflow?
 	* Number of layers [full-connected (`fc`), convolution (`conv`), rectifier (`ReLU`)]
@@ -76,6 +90,7 @@ to write all rules for complex objects with many possible variations
 ## Li Errran Li: Deep Reinforcement Learning
 
 **Reinforcement learning**
+
 * MDP planning: 
 	* Planning: Assumed a full knowledge of MDP. Leads us to Dynamic Programming
 		* Policy interation
@@ -91,6 +106,7 @@ to write all rules for complex objects with many possible variations
 	* Bandits: One-state MDP
 
 **Deep Q-Learning:** 
+
 * `Q-Net`: Mnih et al. Nevertheless Q-net in this paper is not up-to-date
 * Improvements to Deep Q-Network:
 	* Double Q-Network
