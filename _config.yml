@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Quang-Trung Luu"
   avatar : "/assets/images/trung_circle_mini.png"
-  bio    : "Postdoctoral fellow @ University of Toulouse & University of Avignon"
+  bio    : "Postdoctoral Fellow @ University of Toulouse & University of Avignon"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
