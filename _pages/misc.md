@@ -31,7 +31,7 @@ title: "Miscellaneous"
 * [Laboratoire d'Analyse et d'Architectures des Systèmes (LAAS)](https://www.laas.fr/public/), University of Toulouse, France
 * [Laboratoire des Signaux et Systèmes (L2S)](http://www.l2s.centralesupelec.fr/), CentraleSupélec - University of Paris-Saclay, France
 * [Laboratoire Traitement et Communication de l'Information (LTCI)](https://ltci.telecom-paristech.fr/en/), Télécom Paris, Institut Polytechnique de Paris, France
-* [Laboratoire de l'Informatique du Parallélisme](http://www.ens-lyon.fr/LIP/), Inria & Ecole Normale Supérieure de Lyon, France
+* [Laboratoire de l'Informatique du Parallélisme (LIP)](http://www.ens-lyon.fr/LIP/), Inria & Ecole Normale Supérieure de Lyon, France
 * [Laboratoire Génie Electrique et Electronique de Paris (GeePs)](http://www.lgep.supelec.fr/), CentraleSupélec - University of Paris-Saclay, France
 
 ### Useful tools
