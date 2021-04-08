@@ -3,6 +3,8 @@ main:
     url: https://luuquangtrung.github.io/
   - title: "vitae"
     url: /vitae/
+  - title: "publications"
+    url: /publications/
   - title: "misc"
     url: /misc/       
   - title: "posts"
