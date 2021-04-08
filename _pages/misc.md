@@ -27,10 +27,12 @@ title: "Miscellaneous"
 
 ### Useful links
 * [Nokia Bell Labs](https://www.bell-labs.com/) 
-* [Laboratoire des Signaux et Systèmes (L2S), CentraleSupélec](http://www.l2s.centralesupelec.fr/) 
-* [Laboratoire Traitement et Communication de l'Information (LTCI), Télécom Paris](https://ltci.telecom-paristech.fr/en/) 
-* [Laboratoire de l'Informatique du Parallélisme, Inria & ENS Lyon](http://www.ens-lyon.fr/LIP/)
-* [Laboratoire Génie Electrique et Electronique de Paris (GeePs), CentraleSupélec](http://www.lgep.supelec.fr/)
+* [Laboratoire Informatique d’Avignon (LIA)](https://lia.univ-avignon.fr/), University of Avignon, France
+* [Laboratoire d'Analyse et d'Architectures des Systèmes (LAAS)](https://www.laas.fr/public/), University of Toulouse, France
+* [Laboratoire des Signaux et Systèmes (L2S)](http://www.l2s.centralesupelec.fr/), CentraleSupélec - University of Paris-Saclay, France
+* [Laboratoire Traitement et Communication de l'Information (LTCI)](https://ltci.telecom-paristech.fr/en/), Télécom Paris, Institut Polytechnique de Paris, France
+* [Laboratoire de l'Informatique du Parallélisme](http://www.ens-lyon.fr/LIP/), Inria & Ecole Normale Supérieure de Lyon, France
+* [Laboratoire Génie Electrique et Electronique de Paris (GeePs)](http://www.lgep.supelec.fr/), CentraleSupélec - University of Paris-Saclay, France
 
 ### Useful tools
 * [Academic Phrasebank (Univ. of Manchester)](http://www.phrasebank.manchester.ac.uk/)
