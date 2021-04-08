@@ -1,6 +1,7 @@
 ---
 permalink: /vitae/
 title: "Short Bio"
+classes: wide
 ---
 
 *Last updated: April 8, 2021*
