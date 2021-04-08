@@ -38,7 +38,7 @@ title: "Miscellaneous"
 * [Academic Phrasebank (Univ. of Manchester)](http://www.phrasebank.manchester.ac.uk/)
 * [Prof. Nguyen Van Tuan's some guides on writing academic papers](http://tuanvannguyen.blogspot.fr/) 
 * [LaTeX Poster Template](http://www.brian-amberg.de/uni/poster/) 
-* My [answer](https://www.quora.com/What-are-some-tools-every-PhD-student-should-use/answer/Trung-15) for the question "What are some tools every PhD student should use?" on Quora 
+* My [answer](https://www.quora.com/What-are-some-tools-every-PhD-student-should-use/answer/Trung-15) to the question "What are some tools every PhD student should use?" on Quora 
 * If you are a fan of Inkscape & LaTeX, try using Textext, a very nice extension to directly write LaTeX formulas in Inkscape. [Here](http://www.mediafire.com/file/d00x529v00iwkas/Textext_full.zip) is all the needed packages and installation instruction provided by [James. M. Davis](http://people.orie.cornell.edu/jmd388/)
 
 ### Network data sets
