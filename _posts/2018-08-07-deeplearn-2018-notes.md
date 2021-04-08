@@ -10,7 +10,7 @@ tags:
   - summer school
 ---
 
-### Zaki: Introductory Tutorials on Regression and Deep Learning
+## Zaki: Introductory Tutorials on Regression and Deep Learning
 
 Frameworks: `Kera 10`, `PyTorch`, `TensorFlow`
 * **Part 1: Regression:** 
@@ -34,7 +34,7 @@ Frameworks: `Kera 10`, `PyTorch`, `TensorFlow`
 * **Part 3: From Perception to Multilayer Perceptions (`MLP`) to CNN**
 	* Any neuron is connected to others with weights
 
-### Gschwind (Huawei): Deploy DL Applications at Enterprise-Scale
+## Gschwind (Huawei): Deploy DL Applications at Enterprise-Scale
 * **Rule-based reasoning**
 	* Limit: Data classification for rich, but fuzzy data \\( \rightarrow \\) Not enough resources (human, time, etc.)
 	to write all rules for complex objects with many possible variations 
@@ -54,7 +54,7 @@ Frameworks: `Kera 10`, `PyTorch`, `TensorFlow`
 	* \\( \uparrow \\) batch size: OK. Nevertheless: \\( \uparrow \\) convergence but \\( \downarrow \\) gain
 	* Lower precision: Trading off FP precision and throughput  
 
-### Xing: NN Programming
+## Xing: NN Programming
 * **Symbolic programming vs. Imperative programming**
 	* Symbolic: `Caffe`, `PyTorch`
 	* Imperative: `TensorFlow`, `theano`, `Caffe2`
@@ -71,7 +71,7 @@ Frameworks: `Kera 10`, `PyTorch`, `TensorFlow`
 		(3) Dynamic Unroll: Control flow operations
 	* Dynamic Declaration (`DD`): Declare and construct each Dataflow graph *for each* input sample
 
-### Li Errran Li: Deep Reinforcement Learning
+## Li Errran Li: Deep Reinforcement Learning
 
 * **Reinforcement learning**
 	* MDP planning: 
