@@ -1,6 +1,6 @@
 main:
   - title: "home"
-    url: /
+    url: https://luuquangtrung.github.io/
   - title: "vitae"
     url: /vitae/
   - title: "misc"
