@@ -1,6 +1,7 @@
 ---
 permalink: /misc/
 title: "Miscellaneous"
+classes: wide
 ---
 
 ### Forthcoming events 
