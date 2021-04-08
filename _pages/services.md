@@ -1,6 +1,7 @@
 ---
 permalink: /services/
 title: "Services"
+classes: wide
 ---
 
 ### Technical Program Committee Member
