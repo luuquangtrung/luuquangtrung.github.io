@@ -37,25 +37,26 @@ Frameworks: `Kera 10`, `PyTorch`, `TensorFlow`
 	* Compute for one single point
 	* Initial guess of weights: \\(w^0 = (0,0, \cdots, 0). \\)
 	* Compute `SGD` at this point and then update the weights for all points (back-propagation)
-**Part 3: From Perception to Multilayer Perceptions (`MLP`) to CNN**
+
+#### Part 3: From Perception to Multilayer Perceptions (`MLP`) to CNN
 * Any neuron is connected to others with weights
 
 ## Gschwind (Huawei): Deploy DL Applications at Enterprise-Scale
 
-**Rule-based reasoning**
+#### Rule-based reasoning
 
 * Limit: Data classification for rich, but fuzzy data \\( \rightarrow \\) Not enough resources (human, time, etc.)
 to write all rules for complex objects with many possible variations 
 * Rules: Often complex, non-intuitive
 
-**Developer-centric AI ecosystems:**
+#### Developer-centric AI ecosystems:
 
 * PowerAI: IBM
 * Deep Learning containers: NVIDIA
 * Cloud AutoML: Google
 * Azure DL virual machine: Microsoft
 
-**Performance evaluation and measurement:**
+#### Performance evaluation and measurement:
 
 * Comparation of execution time
 * Drawback: Optimization that improves 1 metric often degrade others
@@ -68,12 +69,12 @@ to write all rules for complex objects with many possible variations
 
 ## Xing: NN Programming
 
-**Symbolic programming vs. Imperative programming**
+#### Symbolic programming vs. Imperative programming
 
 * Symbolic: `Caffe`, `PyTorch`
 * Imperative: `TensorFlow`, `theano`, `Caffe2`
 
-**Building an NN:**
+#### Building an NN:
 
 * In general: One needs those following information in order to build an NN:
 	* I/O dataflow?
@@ -89,7 +90,7 @@ to write all rules for complex objects with many possible variations
 
 ## Li Errran Li: Deep Reinforcement Learning
 
-**Reinforcement learning**
+#### Reinforcement learning
 
 * MDP planning: 
 	* Planning: Assumed a full knowledge of MDP. Leads us to Dynamic Programming
@@ -105,7 +106,7 @@ to write all rules for complex objects with many possible variations
 	* Partially observable problems: Can be converted to MDPs
 	* Bandits: One-state MDP
 
-**Deep Q-Learning:** 
+#### Deep Q-Learning: 
 
 * `Q-Net`: Mnih et al. Nevertheless Q-net in this paper is not up-to-date
 * Improvements to Deep Q-Network:
