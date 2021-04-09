@@ -13,3 +13,5 @@ main:
     url: /posts/
   - title: "tags"
     url: /tags/
+  - title: "blog"
+    url: /blog/
