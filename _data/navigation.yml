@@ -5,11 +5,11 @@ main:
     url: /vitae/
   - title: "publications"
     url: /publications/
-  - title: "misc"
-    url: /misc/ 
   - title: "activities"
     url: /activities/
   - title: "posts"
     url: /posts/
+  - title: "misc"
+    url: /misc/ 
   - title: "tags"
     url: /tags/
