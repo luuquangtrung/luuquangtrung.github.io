@@ -17,4 +17,7 @@ classes: wide
 * [AlgoTel 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr), [CoRes 2021](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10988&lang=fr), [ICN 2020](https://www.iaria.org/conferences2020/ICN20.html), 
 
 ### Other Activities
-* Invited Lecturer, [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/) (VSSS), Hanoi, Vietnam, 2015
+* 11/2019: [2nd Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/), Vietnam
+* 08/2015: Invited Lecturer, [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/) (VSSS), Hanoi, Vietnam
+
+![GYVSF2019](/assets/images/banner_gyvsf2019.jpg)
