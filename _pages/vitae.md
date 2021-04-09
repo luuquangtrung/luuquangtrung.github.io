@@ -26,5 +26,5 @@ classes: wide
 * Nokia France Student Award (finalist), by [Nokia France](https://www.nokia.com/fr_int/), July 2019
 * [Student Travel Grant](https://globecom2018.ieee-globecom.org/content/student-travel-grants), by [IEEE Communications Society](https://www.comsoc.org/), Dec. 2018
 * CIFRE Fellowship, by the [French National Association for Technical Research](http://www.anrt.asso.fr/fr), 2017-2020
-* International Master’s Scholarship, by the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/), 2015-2016
+* [International Master’s Scholarship](https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program-idex), by the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/), 2015-2016
 * Student Research Prize (first runner-up), by the [Hanoi University of Science and Technology](https://hust.edu.vn/), May 2013
