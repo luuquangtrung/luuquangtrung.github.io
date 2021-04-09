@@ -20,4 +20,9 @@ classes: wide
 * 11/2019: [2nd Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/), Vietnam
 * 08/2015: Invited Lecturer, [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/) (VSSS), Hanoi, Vietnam
 
-![GYVSF2019](/assets/images/banner_gyvsf2019.jpg)
+<!--
+<img src="http://....jpg" width="200" height="200" />
+-->
+
+![GYVSF2019](/assets/images/event_gyvsf2019.jpg)
+![VSSS2015](/assets/images/event_vsss2015.jpg)
