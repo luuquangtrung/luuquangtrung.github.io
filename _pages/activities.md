@@ -26,6 +26,8 @@ classes: wide
 ![VSSS2015](/assets/images/event_vsss2015.jpg)
 -->
 
-<img src="/assets/images/event_gyvsf2019.jpg" width="500" />
-<img src="/assets/images/event_vsss2015.jpg" width="500" />
+<img src="/assets/images/event_gyvsf2019.jpg" width="800" />
+
+
+<img src="/assets/images/event_vsss2015.jpg" width="800" />
 
