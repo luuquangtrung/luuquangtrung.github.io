@@ -21,10 +21,10 @@ classes: wide
 * High school diploma, [HUS High School for Gifted Students (HSGS)](https://hsgs.edu.vn/), Vietnam National University, Hanoi, Vietnam (2005-2008)
 
 ### Honors, Awards, Grants
-* ENSA Publication Award, by Nokia Bell Labs, Oct. 2020
-* Travel Grant, by Global Young Vietnamese Scholars Network, Dec. 2019
-* Nokia France Student Award (finalist), by Nokia France, July 2019
-* [Student Travel Grant](https://globecom2018.ieee-globecom.org/content/student-travel-grants), by IEEE Communications Society, Dec. 2018
-* CIFRE Fellowship, by French National Association for Technical Research, 2017-2020
+* ENSA Publication Award, by [Nokia Bell Labs](https://www.bell-labs.com/), Oct. 2020
+* Travel Grant, by the [Global Young Vietnamese Scholars Network](http://trithuctrevietnam.vn/), Dec. 2019
+* Nokia France Student Award (finalist), by [Nokia France](https://www.nokia.com/fr_int/), July 2019
+* [Student Travel Grant](https://globecom2018.ieee-globecom.org/content/student-travel-grants), by [IEEE Communications Society](https://www.comsoc.org/), Dec. 2018
+* CIFRE Fellowship, by the [French National Association for Technical Research](http://www.anrt.asso.fr/fr), 2017-2020
 * International Master’s Scholarship, by the University of Paris-Saclay, 2015-2016
-* Student Research Prize (first runner-up), by Hanoi University of Science and Technology, May 2013
+* Student Research Prize (first runner-up), by the [Hanoi University of Science and Technology](https://hust.edu.vn/), May 2013
