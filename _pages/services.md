@@ -1,6 +1,6 @@
 ---
-permalink: /services/
-title: "Services"
+permalink: /activities/
+title: "Activities"
 classes: wide
 ---
 
