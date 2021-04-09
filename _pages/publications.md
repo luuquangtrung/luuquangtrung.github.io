@@ -35,9 +35,9 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 ### Posters
 1. **Q.-T. Luu**, M. Kieffer, A. Mouradian, and S. Kerboeuf, "Resource Provisioning for Network Slices with Coverage Constraints," [*ANR MAESTRO-5G Workshop on Orchestration of 5G Networks and Beyond*](https://orch5g.roc.cnam.fr/), CentraleSupélec, Gif-sur-Yvette, June, 2020.
 
-2. **Q.-T. Luu**, S. Kerboeuf, A. Mouradian, and M. Kieffer, "Towards Green Computing for Next Generation Mobile Net-works: A Resource Provisioning Method for 5G," in *Global Young Vietnamese Scholars Forum (GYVSF)*, Hanoi, Vietnam, Dec. 2019.
+<!-- 2. **Q.-T. Luu**, S. Kerboeuf, A. Mouradian, and M. Kieffer, "Towards Green Computing for Next Generation Mobile Net-works: A Resource Provisioning Method for 5G," in *Global Young Vietnamese Scholars Forum (GYVSF)*, Hanoi, Vietnam, Dec. 2019. -->
 
-3. A. Diet, S. Koulouridis, Y. Le Bihan, **Q.-T. Luu**, O. Meyer, L. Pichon, M. Biancheri-Astier, "RF Link for Implanted Medical Devices (IMDs) and Sub-GHz Inductive Power Transmission," in [*Journées d’Etude sur la Télésanté (JetSan)*](https://jetsan2017.sciencesconf.org/program), 6ème édition, Bourges, France, May 2017. (URL: [HAL](https://hal.archives-ouvertes.fr/hal-01692423/))
+2. A. Diet, S. Koulouridis, Y. Le Bihan, **Q.-T. Luu**, O. Meyer, L. Pichon, M. Biancheri-Astier, "RF Link for Implanted Medical Devices (IMDs) and Sub-GHz Inductive Power Transmission," in [*Journées d’Etude sur la Télésanté (JetSan)*](https://jetsan2017.sciencesconf.org/program), 6ème édition, Bourges, France, May 2017. (URL: [HAL](https://hal.archives-ouvertes.fr/hal-01692423/))
 
 ### Demonstrations
 1. B. Orlandi, S. Kerboeuf, F. Faucheux, J.-L. Lafragette, and **Q.-T. Luu**, "Network Slicing Made Easy! From Graph-based Design to Automated Deployment of Network Slices in 5G," *Nokia 5G Smart Campus Event*, Nozay, 2018.
