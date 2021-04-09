@@ -109,7 +109,7 @@ defaults:
   # _blog
   - scope:
       path: "_blog"
-      type: blog
+      type: posts
     values:
       layout: single
       author_profile: true
