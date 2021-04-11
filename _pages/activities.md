@@ -19,7 +19,7 @@ classes: wide
 ### Other Activities
 * 11/2019: Participant & Presenter, [2nd Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/), Vietnam
 * 08/2015: Invited Lecturer, [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/) (VSSS), Hanoi, Vietnam
-* 08/2015: Participant, [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/) (VSSS), Hanoi, Vietnam
+* 08/2014: Participant, [Vietnam Summer School of Science](https://www.truonghekhoahoc.com/) (VSSS), Hanoi, Vietnam
 
 <img src="/assets/images/event_gyvsf2019.jpg" width="800" />
 
