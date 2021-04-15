@@ -4,4 +4,4 @@ title: "Research"
 classes: wide
 ---
 
-[Publications](https://luuquangtrung.github.io/publications/)
+[Publications](https://luuquangtrung.github.io/research/publications/)
