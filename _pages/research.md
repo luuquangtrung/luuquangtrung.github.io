@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /publication/research/
 title: "Research"
 classes: wide
 ---
