@@ -4,7 +4,7 @@ title: "Research"
 classes: wide
 ---
 
-### Research interest
+### Research interests
 * Network slicing in 5G and beyond 
 * Network function virtualization (NFV) and softwared defined networking (SDN)
 * Opimisation of resource allocation and provisioning
@@ -12,7 +12,7 @@ classes: wide
 * Modeling of integer linear program (ILP) and design of heuristics for network optimization problems
 
 ### Publications
-My list of publications can be found [here](https://luuquangtrung.github.io/publications/)
+My list of publications can be found [here](https://luuquangtrung.github.io/publications/).
 
 ### Collaborators
 
