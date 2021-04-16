@@ -6,9 +6,10 @@ classes: wide
 
 ### Research interest
 * Network slicing in 5G and beyond 
-* Network Function Virtualization (NFV) and Softwared Defined Networking (SDN)
-* Resource allocation and provisioning
-* Modeling of Integer Linear Program (ILP) and design of heuristics for network optimization problems
+* Network function virtualization (NFV) and softwared defined networking (SDN)
+* Opimisation of resource allocation and provisioning
+* Quality of multimedia services, *e.g.*, adaptive video streaming
+* Modeling of integer linear program (ILP) and design of heuristics for network optimization problems
 
 ### Publications
 My list of publications can be found [here](https://luuquangtrung.github.io/publications/)
