@@ -15,6 +15,10 @@ classes: wide
 My list of publications can be found [here](https://luuquangtrung.github.io/publications/).
 
 ### Collaborators
+* [‪Rachid El-Azouzi‬](http://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en), University of Avignon, France (Postdoc supervisor)
+* [Francesco De Pellegrini](https://scholar.google.com/citations?user=EYyOnEkAAAAJ&hl=en), University of Avignon, France (Postdoc supervisor)
+* [Olivier Brun](https://homepages.laas.fr/brun/), University of Toulouse, France (Postdoc supervisor)
+* [Balakrishna J. Prabhu](https://homepages.laas.fr/bala/), University of Toulouse, France (Postdoc supervisor)
 
 Former advisors: 
 * [Michel Kieffer](https://l2s.centralesupelec.fr/u/kieffer-michel), University of Paris-Saclay, France (Ph.D advisor)
