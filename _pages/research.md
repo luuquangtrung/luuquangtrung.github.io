@@ -31,7 +31,7 @@ Former advisors:
 * [Yann Le Bihan](http://lgep.geeps.centralesupelec.fr/index.php?page=yann-le-bihan), University of Paris-Saclay, France (M.Sc advisor)
 * [Lionel Pichon](http://lgep.geeps.centralesupelec.fr/index.php?page=lionel-pichon), University of Paris-Saclay, France (M.Sc advisor) 
 * [Yem Van-Vu](https://www.researchgate.net/profile/Yem-Vu), Hanoi University of Science and Techology, Vietnam (B.Sc advisor)
-* [Minh Ta-Cao](https://see.hust.edu.vn/en_US/tacaominh), Hanoi University of Science and Techology, Vietnam (B.Sc advisor)
+* [Minh Ta-Cao](https://www.gel.usherbrooke.ca/e-TESC/?page_id=202), Hanoi University of Science and Techology, Vietnam and University of Sherbrooke, Canada (B.Sc advisor)
 * [Bao-Huy Nguyen](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en), Hanoi University of Science and Techology, Vietnam (B.Sc advisor)
 
 Students:
