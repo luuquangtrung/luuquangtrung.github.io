@@ -5,6 +5,7 @@ classes: wide
 ---
 
 ### Research interests
+* Management of coflows in datacenters: scheduling, fairness, and resource allocation
 * Network slicing in 5G and beyond 
 * Network function virtualization (NFV) and softwared defined networking (SDN)
 * Opimisation of resource allocation and provisioning
