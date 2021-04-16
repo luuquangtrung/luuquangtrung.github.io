@@ -35,4 +35,4 @@ Former advisors:
 * [Bao-Huy Nguyen](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en), Hanoi University of Science and Techology, Vietnam (B.Sc advisor)
 
 Students:
-* Xavier Goeman and Carlos Guzman (Télécom SudParis, Institut Polytechnique de Paris), research project on "Modeling and Implementation of Embedding Algorithms for Network Slices Dedicated to Multimedia Services"
+* Xavier Goeman and Carlos Guzman, master students at Télécom SudParis, Institut Polytechnique de Paris, research project on "Modeling and Implementation of Embedding Algorithms for Network Slices Dedicated to Multimedia Services."
