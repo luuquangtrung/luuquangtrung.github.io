@@ -16,15 +16,15 @@ My list of publications can be found [here](https://luuquangtrung.github.io/publ
 ### Collaborators
 
 Former advisors: 
-* [Michel Kieffer](https://l2s.centralesupelec.fr/u/kieffer-michel), Univ. of Paris-Saclay, France (Ph.D advisor)
-* [Alexandre Mouradian](https://scholar.google.com/citations?hl=fr&user=ADWSU9YAAAAJ&view_op=list_works&sortby=pubdate), Univ. of Paris-Saclay (Ph.D advisor)
+* [Michel Kieffer](https://l2s.centralesupelec.fr/u/kieffer-michel), University of Paris-Saclay, France (Ph.D advisor)
+* [Alexandre Mouradian](https://scholar.google.com/citations?hl=fr&user=ADWSU9YAAAAJ&view_op=list_works&sortby=pubdate), University of Paris-Saclay (Ph.D advisor)
 * [Sylvaine Kerboeuf](https://www.researchgate.net/profile/Sylvaine-Kerboeuf), Nokia Bell Labs, France (Ph.D advisor)
-* [Anthony Busson](http://www.anthonybusson.fr/), Univ. of Lyon 1 and ENS Lyon, France (M.Sc advisor)
-* [Isabelle Guérin-Lassous](http://perso.ens-lyon.fr/isabelle.guerin-lassous/), Univ. of Lyon 1 and ENS Lyon, France (M.Sc advisor)
-* [Stavros Koulouridis](http://www.ece.upatras.gr/index.php/en/ece-faculty/koulouridis-stavros.html), Univ. of Patras, Greece (M.Sc advisor)
-* [Antoine Diet](https://cv.archives-ouvertes.fr/antoine-diet), Univ. of Paris-Saclay, France (M.Sc advisor)
-* [Yann Le Bihan](http://lgep.geeps.centralesupelec.fr/index.php?page=yann-le-bihan), Univ. of Paris-Saclay, France (M.Sc advisor)
-* [Lionel Pichon](http://lgep.geeps.centralesupelec.fr/index.php?page=lionel-pichon), Univ. of Paris-Saclay, France (M.Sc advisor) 
+* [Anthony Busson](http://www.anthonybusson.fr/), University of Lyon 1 and Ecole Normale Supérieure de Lyon, France (M.Sc advisor)
+* [Isabelle Guérin-Lassous](http://perso.ens-lyon.fr/isabelle.guerin-lassous/), University of Lyon 1 and Ecole Normale Supérieure de Lyon, France (M.Sc advisor)
+* [Stavros Koulouridis](http://www.ece.upatras.gr/index.php/en/ece-faculty/koulouridis-stavros.html), University of Patras, Greece (M.Sc advisor)
+* [Antoine Diet](https://cv.archives-ouvertes.fr/antoine-diet), University of Paris-Saclay, France (M.Sc advisor)
+* [Yann Le Bihan](http://lgep.geeps.centralesupelec.fr/index.php?page=yann-le-bihan), University of Paris-Saclay, France (M.Sc advisor)
+* [Lionel Pichon](http://lgep.geeps.centralesupelec.fr/index.php?page=lionel-pichon), University of Paris-Saclay, France (M.Sc advisor) 
 * [Yem Van-Vu](https://www.researchgate.net/profile/Yem-Vu), Hanoi University of Science and Techology, Vietnam (B.Sc advisor)
 * [Minh Ta-Cao](https://see.hust.edu.vn/en_US/tacaominh), Hanoi University of Science and Techology, Vietnam (B.Sc advisor)
 * [Bao-Huy Nguyen](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en), Hanoi University of Science and Techology, Vietnam (B.Sc advisor)
