@@ -35,4 +35,4 @@ Former advisors:
 * [Bao-Huy Nguyen](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en), Hanoi University of Science and Techology, Vietnam (B.Sc advisor)
 
 Students:
-* Xavier Goeman and Carlos Guzman (master students at Institut Polytechnique de Paris): Modeling and Implementation of Embedding Algorithms for Network Slices Dedicated to Multimedia Services (11/2020-04/2021)
+* Xavier Goeman and Carlos Guzman (master students at Institut Polytechnique de Paris): *Modeling and Implementation of Embedding Algorithms for Network Slices Dedicated to Multimedia Services*. (11/2020-04/2021)
