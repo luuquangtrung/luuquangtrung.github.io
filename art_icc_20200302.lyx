@@ -1,0 +1,5745 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass IEEEtran
+\begin_preamble
+%\usepackage[section]{algorithm}
+%\usepackage[]{algorithm}
+
+%----------------------------
+\usepackage[ruled,vlined,linesnumbered]{algorithm2e}
+%\usepackage[linesnumbered,ruled]{algorithm2e}
+
+% algorithm2e setting
+\SetKwInput{KwInput}{Input}
+\SetKwInput{KwOutput}{Output}
+
+%----------------------------
+
+% Michel
+%\usepackage{cite}
+
+
+
+\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+\usepackage{amsmath,amsfonts,amssymb}
+
+\usepackage{array,booktabs,arydshln}
+
+%==========================================================
+% Color option
+\usepackage{xcolor}
+%==========================================================
+
+
+\usepackage{arydshln}
+
+
+%\usepackage{mathbbol}
+%\usepackage{dsfont}
+%\usepackage{bbm} % Display indicator function (1)
+
+
+\usepackage{float} % Force figure position
+\newtheorem{definition}{Definition}
+
+% Label of rows and columns of matrix 
+% http://www.hss.caltech.edu/~kcb/TeX/kbordermatrix.sty --Method 2
+
+% for subfigures/subtables
+\usepackage[caption=false,font=footnotesize]{subfig}
+
+%\usepackage[options]{nohyperref} 
+
+% \usepackage{hyperref}
+
+
+
+%\usepackage[nocomma]{optidef} % To display math optimization problem
+
+%\setlength{\columnsep}{0.2in} % Gap between two document columns
+ 
+%\newcommand{\becloser}{\vspace{-2.5mm}} % To reduce the gap between figure and text
+
+\renewcommand{\bibfont}{\scriptsize}
+
+% limits underneath
+\DeclareMathOperator*{\argminA}{arg\,min}
+\end_preamble
+\options conference
+\use_default_options false
+\maintain_unincluded_children false
+\begin_local_layout
+InsetLayout ERT
+  Font
+    Color              latex
+    Family            typewriter
+    Size                scriptsize
+  EndFont
+End
+\end_local_layout
+\language english
+\language_package none
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\pdf_title "Your Title"
+\pdf_author "Your Name"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle false
+\pdf_quoted_options "pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false"
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 0
+\use_package esint 0
+\use_package mathdots 1
+\use_package mathtools 0
+\use_package mhchem 1
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine natbib
+\cite_engine_type numerical
+\biblio_style plain
+\biblio_options numbers,sort&compress
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\branch Markov_chain
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch algo1
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch algo
+\selected 1
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch bio
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch table_srd_new
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch table_srd_old
+\selected 1
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch tbl_notations
+\selected 1
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\branch tbl_notations_old
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 2
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\author 231042967 "michel"
+\author 2090656076 "qluu"
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Radio Resource Provisioning for Network Slicing with Coverage Constraints
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Parts of this work have been submitted to IEEE/ACM Transactions on Networking.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+\begin_inset Flex Author Name
+status collapsed
+
+\begin_layout Plain Layout
+Quang-Trung
+\begin_inset space ~
+\end_inset
+
+Luu
+\begin_inset Flex Author Mark
+status open
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex Author Mark
+status open
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+
+, Sylvaine
+\begin_inset space ~
+\end_inset
+
+Kerboeuf
+\begin_inset Flex Author Mark
+status open
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+
+, Alexandre
+\begin_inset space ~
+\end_inset
+
+Mouradian
+\begin_inset Flex Author Mark
+status open
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+
+, and Michel
+\begin_inset space ~
+\end_inset
+
+Kieffer
+\begin_inset Flex Author Mark
+status open
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex Author Affiliation
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex Author Mark
+status open
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+
+Nokia Bell Labs, Nozay, France
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Flex Author Affiliation
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Flex Author Mark
+status open
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+
+Laboratoire des Signaux et Syst
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+`e
+\end_layout
+
+\end_inset
+
+mes (L2S),
+\begin_inset Newline newline
+\end_inset
+
+Univ.
+\begin_inset space ~
+\end_inset
+
+Paris-Sud – CNRS – CentraleSup
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+'e
+\end_layout
+
+\end_inset
+
+lec – Univ.
+\begin_inset space ~
+\end_inset
+
+Paris-Saclay, France
+\begin_inset Newline newline
+\end_inset
+
+E-mails: 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+{quangtrung.luu, michel.kieffer
+\backslash
+}@centralesupelec.fr
+\end_layout
+
+\end_inset
+
+, sylvaine.kerboeuf@nokia-bell-labs.com
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+With network slicing, Mobile Network Operators can accommodate on a common
+ network infrastructure various customized services from Service Providers
+ (SPs).
+ Usually, the Service Function Chains belonging to a slice are deployed
+ on a best-effort basis.
+ Nothing ensures that enough infrastructure resources can be allocated to
+ satisfy the demands of SPs.
+ This paper introduces a radio resources provisioning approach to satisfy
+ the demands of slices with radio coverage constraints.
+ By provisioning, we ensure that enough resources are reserved for further
+ SFC deployment.
+ Numerical results show the effectiveness of the proposed provisioning framework
+ for a slice deployment on a mobile network infrastructure satisfying a
+ minimum data rate for users in the geographical areas where services have
+ to be made available.
+\end_layout
+
+\begin_layout Keywords
+Network slicing, resource provisioning, coverage constraints, 5G.
+\end_layout
+
+\begin_layout Peer Review Title
+
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+Network slicing has emerged as a new paradigm for 5G networks to meet various
+ service needs from diverse Service Providers (SPs) such as mobile virtual
+ network operators, vertical industries and OTT service providers 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{5GAmerica,IETF2017,Rost2017}
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+A network slice consists of collection of Service Function Chains (SFCs)
+ involving physical network resources, which are dynamically allocated to
+ build a customized logically isolated virtual network.
+ Each SFC consists of several interconnected Virtual Network Functions
+\shape italic
+\emph on
+ (
+\shape default
+\emph default
+VNFs) describing the processing applied to a data flow related to a given
+ service.
+\end_layout
+
+\begin_layout Standard
+Several entities are involved in network slicing 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Liang2014}
+\end_layout
+
+\end_inset
+
+.
+
+\shape italic
+\emph on
+ The 
+\shape default
+\emph default
+Mobile Network Operator (MNO) deploys network slices onto its own infrastructure
+ resources (Remote Radio Heads (RRHs)), fronthaul and backhaul networks,
+ data centers) and/or infrastructure resources leased to third-party Infrastruct
+ure Provider (InP).
+ The SP exploits the slices supplied by the MNO, and provides to his customers
+ the related services.
+ Service needs are forwarded by the SP to the MNO within a Service Level
+ Agreement (SLA).
+ The SLA describes, at a high level of abstraction, characteristics of the
+ service with the desired QoS, the number of devices (or the device/user
+ density), the geographical region where the service has to be made available
+ for the end-users, 
+\shape italic
+etc
+\shape default
+.
+ The MNO translates the SP high-level demands into SFCs able to fulfill
+ the service requirements.
+ SFCs are then deployed on the network infrastructure so that QoS requirements
+ are satisfied.
+ With virtualization, SFCs and VNFs can be easily and flexibly initialized,
+ launched, chained, and scaled to meet changeable workload requests 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Liang2014,Basta2014,Luong2018}
+\end_layout
+
+\end_inset
+
+.
+ Nevertheless, many research challenges remain when network slicing incorporates
+ the wireless part of legacy or 5G networks 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Li2017,Kaloxylos2018}
+\end_layout
+
+\end_inset
+
+, where the radio access has to be considered.
+\end_layout
+
+\begin_layout Standard
+This work extends the provisioning approach introduced in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Luu2018}
+\end_layout
+
+\end_inset
+
+ to situations where radio coverage constraints have to be taken into account.
+ In 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Luu2018}
+\end_layout
+
+\end_inset
+
+, we adopted the point of view of the InP, who aims at identifying the infrastru
+cture nodes on which the VNF within a slice are deployed and the links able
+ to transmit data between these nodes.
+ In the present work, we additionally account for rate and coverage constraints
+ for mobile end-users of the slice services.
+ These constraints have to be satisfied by the InP, leading to a problem
+ of appropriate RRH node selection and provisioning of their radio resources.
+\end_layout
+
+\begin_layout Standard
+In the rest of the paper, Section
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Related-work"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ introduces some related work.
+ Section
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:SystemModel"
+
+\end_inset
+
+ presents the model of the infrastructure network and of the slice resource
+ demands.
+ The slice resource provisioning problem is then formulated in Section
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:ProblemFormulation"
+
+\end_inset
+
+ as a Mixed Integer Linear Programming (MILP) problem, accounting for radio
+ resource constraints for the deployment of multiple slices.
+ Numerical results are presented in Section
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Evaluation"
+
+\end_inset
+
+.
+ Finally, Section
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:Conclusions"
+
+\end_inset
+
+ draws some conclusions and perspectives.
+\end_layout
+
+\begin_layout Section
+Related work
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Related-work"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Early results on assigning infrastructure resources to virtual network component
+s may be found, 
+\shape italic
+e.g
+\shape default
+., in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Zhu2006,Chowdhury2012}
+\end_layout
+
+\end_inset
+
+.
+ Due to its capability of sharing efficiently resources in 5G networks,
+ the concept of network virtualization has gained renewed attention in the
+ literature 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Rost2017,Foukas2017,Nakao2017,Afolabi2018}
+\end_layout
+
+\end_inset
+
+, via the concept of network slicing.
+ Network slice resource allocation is a complex problem.
+ When a slice instance is seen as a collection of SFCs, slice embedding
+ needs to deploy the SFCs on a shared infrastructure while satisfying various
+ constraints.
+ Most of prior work related to SFC and VNF deployment do not account for
+ coverage constraints 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Riggio2016,Vizarreta2017}
+\end_layout
+
+\end_inset
+
+.
+ The design of efficient allocation mechanisms for virtualized radio resources
+ has been recently addressed in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Chatterjee2018}
+\end_layout
+
+\end_inset
+
+.
+ This paper aims at minimizing the leasing cost of Base Stations (BSs) so
+ as to meet SP demands, while providing, with a given probability, a minimum
+ data rate for any user located in the BS coverage area.
+ Users are assumed to be served by their nearest BS, which facilitates the
+ evaluation of the rate constraint and reduces the dimension of the problem.
+ This assumption reduces somehow the potentiality of achieving the optimal
+ sharing of radio resources.
+\end_layout
+
+\begin_layout Standard
+A heterogeneous spatial user density is considered in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Teague}
+\end_layout
+
+\end_inset
+
+.
+ Joint BS selection and adaptive slicing are formulated as a two-stage stochasti
+c optimization problem.
+ A reduced-complexity deterministic optimization problem is obtained by
+ generating several random realizations of user locations.
+ A genetic algorithm is then used for the optimization.
+\end_layout
+
+\begin_layout Standard
+In 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Lee2016}
+\end_layout
+
+\end_inset
+
+, a network slicing framework for multi-tenant heterogeneous cloud radio
+ access network is introduced.
+ Slicing is formulated as a weighted throughput maximization problem, which
+ aims at maximizing the total rate obtained by users connected to given
+ RRHs on given sub-channels.
+ Nevertheless, the proposed framework does not consider computing and memory
+ resource associated to the processing within the Baseband Units (BBUs).
+ Such resource is assumed to be properly scaled so as to support the required
+ service rate.
+ Moreover, the proposed framework addresses only downlink data services.
+\end_layout
+
+\begin_layout Standard
+A game theory-based distributed algorithm is proposed in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{DOro2018}
+\end_layout
+
+\end_inset
+
+ to address the wireless network slicing problem.
+ This algorithm accounts for the limited availability of wireless resources
+ and considers different aspects such as congestion, deployment costs and
+ the RRH-user distance.
+ This work considers the coverage area of RRH, but ignores the possible
+ coverage constraints required by the slices.
+\end_layout
+
+\begin_layout Section
+System Model
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:SystemModel"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Consider a set of SPs whose aim is to provide different services, indexed
+ by 
+\begin_inset Formula $\sigma=1,\dots,|\mathcal{S}|$
+\end_inset
+
+, to mobile users over some geographical area.
+ The geographical area under study is denoted by 
+\begin_inset Formula $\mathcal{A}$
+\end_inset
+
+ and the subarea over which service 
+\begin_inset Formula $\sigma$
+\end_inset
+
+ has to be made available is denoted by 
+\begin_inset Formula $\mathcal{\ensuremath{A}^{\sigma}}$
+\end_inset
+
+.
+ Figure
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Orange_Map"
+
+\end_inset
+
+ illustrates three geographical subareas over which three different services
+ have to be deployed.
+ For that purpose, each SP forwards its service requirements to an MNO.
+ The MNO sends to the InP a Slice Resource Demand (SRD) consisting of (
+\shape italic
+i
+\shape default
+) an SRD graph accounting for the structure and SLA of the slice and (
+\shape italic
+ii
+\shape default
+) SRD coverage information related to the area 
+\begin_inset Formula $\mathcal{A^{\sigma}}\subset\mathcal{A}$
+\end_inset
+
+ over which the service will have to be made available.
+ The InP is then in charge of provisioning enough infrastructure resources
+ to deploy the SFCs, whose resource demands are described by the SRD graph.
+ This work focuses on the specific aspect of the SRD related to the slice
+ radio coverage constraints, which impose a minimum data rate for users
+ in the geographical areas where services have to be made available.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement t
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_intro_geographical_area.jpg
+	lyxscale 30
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+The considered metropolitan area including the Stade de France (covered
+ by the red rectangle representing 
+\begin_inset Formula $\mathcal{A}^{1}$
+\end_inset
+
+), its surrounding (blue rectangle representing 
+\begin_inset Formula $\mathcal{A}^{2}$
+\end_inset
+
+), and part of the A86 highway (orange band representing 
+\begin_inset Formula $\mathcal{A}^{3}$
+\end_inset
+
+); blue markers show the locations of RRH nodes.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Orange_Map"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Our aim, with resource provisioning is to reserve, somewhat in advance,
+ enough infrastructure resources to ensure that the MNO will have access
+ to properly located radio resources with service characteristics as stated
+ in the SLA.The time scale at which provisioning is performed is much larger
+ than that at which SFCs are deployed and adapted to meet actual time-varying
+ user demands.
+ One focuses on a time interval over which resources will be provisioned
+ so as to be compliant with the variations of user demands within a slice.
+ The duration of this time interval results from a compromise between the
+ need to update the provisioning and the level of conservatism in the amount
+ of provisioned resources required to satisfy fast fluctuating user demands.
+\end_layout
+
+\begin_layout Standard
+Table
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:notations"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ summarizes all notations used in this paper.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch tbl_notations_old
+inverted 0
+status collapsed
+
+\begin_layout Standard
+\begin_inset Float table
+placement b
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Table of Notations
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:notations0"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="21" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top" width="16col%">
+<column alignment="left" valignment="top" width="67col%">
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Symbol
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Description
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{G}_{\textrm{I}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Infrastructure network graph, 
+\begin_inset Formula $\mathcal{G}_{\textrm{I}}=\left(\mathcal{N}_{\textrm{I}},\mathcal{E}_{\textrm{I}}\right)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{N}_{\textrm{I}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Set of infrastructure nodes
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{N}_{\textrm{Ir}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Set of RRHs, 
+\begin_inset Formula $\mathcal{N}_{\textrm{Ir}}\subset\mathcal{N}_{\textrm{I}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{E}_{\textrm{I}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Set of infrastructure links
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $a_{\text{r}}(i)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Available RBs at RRH
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $i\in\mathcal{N}_{\textrm{Ir}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $c_{\text{f}}\left(i\right)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+RRH node disposal cost
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $c_{\text{r}}(i)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Per-unit cost of RB for node 
+\begin_inset Formula $i\in\mathcal{N}_{\textrm{Ir}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{S}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Set of all slices indexed 
+\begin_inset Formula $\sigma$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{A}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+The geographical area under study
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{A}^{\textrm{\sigma}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Coverage area of slice 
+\begin_inset Formula $\sigma$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{Q}^{\sigma}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Set of all divided subareas 
+\begin_inset Formula $q$
+\end_inset
+
+ in 
+\begin_inset Formula $\mathcal{A}^{\textrm{\sigma}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Subarea 
+\begin_inset Formula $q$
+\end_inset
+
+, 
+\begin_inset Formula $q\in\mathcal{Q}^{\sigma}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\rho^{\sigma}(x)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+User density function of slice 
+\begin_inset Formula $\sigma$
+\end_inset
+
+, 
+\begin_inset Formula $x\in\mathcal{A}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\underline{R}_{\text{u/d}}^{\sigma}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Min data rate
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ for UL/DL traffic
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ for each user in 
+\begin_inset Formula $\sigma$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $r_{\text{u/d}}\left(v_{\text{r}}\right)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Aggregated 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+UL/DL
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ data rate requirement at 
+\begin_inset Formula $v_{\text{r}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\eta_{\text{u/d}}^{\sigma}\left(i,q\right)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+RB proportion provisioned by RRH
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $i$
+\end_inset
+
+ to users in 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ for 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+UL/DL
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ traffic
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\widetilde{\eta}^{\sigma}\left(i\right)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Binary variable indicating whether RRH
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $i\in\mathcal{N}_{\textrm{Ir}}$
+\end_inset
+
+ provisions RBs to slice 
+\begin_inset Formula $\sigma$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $b_{\text{u/d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Data amount carried by a RB for a user located in 
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+ for 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+UL/DL
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\begin_inset Formula $\lambda$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Discount factor
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $c_{\text{rr}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+Cost function 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+for the radio resources
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch tbl_notations
+inverted 0
+status collapsed
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{table}[tbh]   
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+caption{Table of Notations
+\backslash
+label{tab:notations}}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+centering   
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{tabular}{     
+\end_layout
+
+\begin_layout Plain Layout
+
+p{0.08
+\backslash
+columnwidth}     
+\end_layout
+
+\begin_layout Plain Layout
+
+p{0.05
+\backslash
+columnwidth}          
+\end_layout
+
+\begin_layout Plain Layout
+
+}   
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+toprule   
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{
+\backslash
+it Symbol }     
+\end_layout
+
+\begin_layout Plain Layout
+
+& 
+\backslash
+multicolumn{1}{l}{
+\backslash
+it Description} 
+\backslash
+
+\backslash
+   
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+cmidrule[0.4pt](lr{0.12em}){1-1}%  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+cmidrule[0.4pt](lr{0.12em}){2-2}%  
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+mathcal{G}_{
+\backslash
+textrm{I}}$}  & 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Infrastructure network graph, $
+\backslash
+mathcal{G}_{
+\backslash
+textrm{I}}=
+\backslash
+left(
+\backslash
+mathcal{N}_{
+\backslash
+textrm{I}},
+\backslash
+mathcal{E}_{
+\backslash
+textrm{I}}
+\backslash
+right)$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+mathcal{N}_{
+\backslash
+textrm{I}}$} &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Set of infrastructure nodes}
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+mathcal{N}_{
+\backslash
+textrm{Ir}}$} &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Set of RRHs, $
+\backslash
+mathcal{N}_{
+\backslash
+textrm{Ir}}
+\backslash
+subset
+\backslash
+mathcal{N}_{
+\backslash
+textrm{I}}$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+mathcal{E}_{
+\backslash
+textrm{I}}$} &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Set of infrastructure links} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$a_{
+\backslash
+text{r}}(i)$}  &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Available RBs at RRH~$i
+\backslash
+in
+\backslash
+mathcal{N}_{
+\backslash
+textrm{Ir}}$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$c_{
+\backslash
+text{f}}
+\backslash
+left(i
+\backslash
+right)$}  &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{RRH node disposal cost} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$c_{
+\backslash
+text{r}}(i)$}  &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Per-unit cost of RB for node $i
+\backslash
+in
+\backslash
+mathcal{N}_{
+\backslash
+textrm{Ir}}$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+mathcal{S}$}  &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Set of all slices indexed $
+\backslash
+sigma$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+mathcal{A}$}  &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{The geographical area under study} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+mathcal{A}^{
+\backslash
+textrm{
+\backslash
+ensuremath{
+\backslash
+sigma}}}$}  & 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Coverage area of slice $
+\backslash
+sigma$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+mathcal{Q}^{
+\backslash
+sigma}$}  & 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Set of all divided subareas $q$ in  $
+\backslash
+mathcal{A}^{
+\backslash
+textrm{
+\backslash
+ensuremath{
+\backslash
+sigma}}}$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+mathcal{A}_{q}^{
+\backslash
+sigma}$}  & 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Subarea $q$, $q
+\backslash
+in
+\backslash
+mathcal{Q}^{
+\backslash
+sigma}$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+rho^{
+\backslash
+sigma}(x)$}  & 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{User density function of slice $
+\backslash
+sigma$, $x
+\backslash
+in
+\backslash
+mathcal{A}$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+underline{R}_{
+\backslash
+text{u/d}}^{
+\backslash
+sigma}$}  &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Min data rate for UL/DL traffic for each user in $
+\backslash
+sigma$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$r_{
+\backslash
+text{u/d}}
+\backslash
+left(v_{
+\backslash
+text{r}}
+\backslash
+right)$}  & 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Aggregated UL/DL data rate requirement at $v_{
+\backslash
+text{r}}$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+eta_{
+\backslash
+text{u/d}}^{
+\backslash
+sigma}
+\backslash
+left(i,q
+\backslash
+right)$}  &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{RB proportion provisioned by RRH~$i$ to users in $
+\backslash
+mathcal{A}_{q}^{
+\backslash
+sigma}$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{}  &  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{for UL/DL traffic} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+widetilde{
+\backslash
+eta}^{
+\backslash
+sigma}
+\backslash
+left(i
+\backslash
+right)$}  & 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Binary variable indicating whether RRH~$i
+\backslash
+in
+\backslash
+mathcal{N}_{
+\backslash
+textrm{Ir}}$ } 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{}  & 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{provisions RBs to slice $
+\backslash
+sigma$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$b_{
+\backslash
+text{u/d}}
+\backslash
+left(x_{i}^{
+\backslash
+textrm{r}},
+\backslash
+mathcal{A}_{q}^{
+\backslash
+sigma}
+\backslash
+right)$}  &  
+\backslash
+multicolumn{1}{l}{UL/DL data carried by a RB for a user located in $
+\backslash
+mathcal{A}_{q}^{
+\backslash
+sigma}$} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$
+\backslash
+lambda$}  & 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Discount factor} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{c}{$c_{
+\backslash
+text{rr}}$}  & 
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+multicolumn{1}{l}{Cost function for the radio resources} 
+\backslash
+
+\backslash
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+bottomrule  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{tabular}  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{table}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Infrastructure model
+\end_layout
+
+\begin_layout Standard
+Consider an infrastructure network managed by some InPs.
+ We devise the special case of the cloud mobile network architecture with
+ RRH nodes connected to datacenter nodes at edge and central locations as
+ depicted on Figure
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:System-architecture"
+
+\end_inset
+
+.
+ This network is represented by a directed graph 
+\begin_inset Formula $\mathcal{G}_{\textrm{I}}=\left(\mathcal{N}_{\textrm{I}},\mathcal{E}_{\textrm{I}}\right)$
+\end_inset
+
+, where 
+\begin_inset Formula $\mathcal{N}_{\textrm{I}}$
+\end_inset
+
+ is the set of infrastructure nodes and 
+\begin_inset Formula $\mathcal{E}_{\textrm{I}}$
+\end_inset
+
+ is the set of infrastructure links, which correspond to the wired connections
+ between nodes of the infrastructure network.
+\end_layout
+
+\begin_layout Standard
+Each infrastructure node and link in 
+\begin_inset Formula $\mathcal{G}_{\textrm{I}}$
+\end_inset
+
+ is characterized by a given amount of supported resources (
+\shape italic
+e.g
+\shape default
+., computing and storage for nodes as well as bandwidth for links), which
+ may be allocated to network slices.
+ Radio resources are exclusively provided by a subset 
+\begin_inset Formula $\mathcal{N}_{\textrm{Ir}}\subset\mathcal{N}_{\textrm{I}}$
+\end_inset
+
+ of RRH nodes, whose location in some Cartesian frame attached to 
+\begin_inset Formula $\mathcal{A}$
+\end_inset
+
+ is denoted 
+\begin_inset Formula $x_{i}^{\textrm{r}}$
+\end_inset
+
+.
+ The cost associated to the use of a RRH
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $i$
+\end_inset
+
+ consists of a fixed part 
+\begin_inset Formula $c_{\text{f}}\left(i\right)$
+\end_inset
+
+ for node disposal, and a variable part 
+\begin_inset Formula $c_{\text{r}}(i)$
+\end_inset
+
+, which depends linearly on the radio resource amount provided by that RRH.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement t
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_intro_slice_deploy.pdf
+	lyxscale 50
+	width 80col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Example of deployment of two slices in a cloud mobile network.
+ Slice 1 is dedicated to a video streaming service and Slice 2 aims at providing
+ video surveillance and traffic monitoring.
+ The SFCs of Slice 1 consists of a virtual Video Optimizer Controller (vVOC),
+ a virtual Gateway (vGW), and a virtual BBU (vBBU).
+ The SFCs of Slice 2 consists of a vBBU, a vGW, a virtual Traffic Monitor
+ (vTM), a vVOC, and a virtual Intrusion Detection Prevention System (vIDPS).
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:System-architecture"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+SRD Model
+\end_layout
+
+\begin_layout Standard
+A SRD is defined on the basis of the SLA between the SP and the MNO.
+ The SLA may consider several time intervals over each of which the service
+ characteristics and constraints are assumed constant, but may vary from
+ one interval to the next one.
+ These time intervals translate, 
+\emph on
+e.g.
+\emph default
+, day and night variations of user demands.
+ They last between tens of minutes and hours.
+ It is of the responsibility of the SP and MNO to properly scale the requirement
+s expressed in the SLA, by considering, for example, similar services deployed
+ in the past.
+\end_layout
+
+\begin_layout Standard
+In this work, one considers a given time interval specified in the SLA.
+ The SLA is expressed in terms of supported service type and targeted QoS
+ such as a minimum average data rate 
+\begin_inset Formula $\underline{R}_{\text{u}}^{\sigma}$
+\end_inset
+
+ and 
+\begin_inset Formula $\underline{R}_{\text{d}}^{\sigma}$
+\end_inset
+
+ for the wireless uplink (UL) and downlink (DL) traffic of each client.
+ The geographical distribution function 
+\begin_inset Formula $\rho^{\sigma}(x)$
+\end_inset
+
+, with 
+\begin_inset Formula $x\in\mathcal{A}$
+\end_inset
+
+, describes the 
+\emph on
+maximum
+\emph default
+ user/device density to be served around 
+\begin_inset Formula $x$
+\end_inset
+
+ within the considered time interval.
+\end_layout
+
+\begin_layout Standard
+A slice is also characterized by the amount of resources required for running
+ all VNFs and links supporting all the SFCs to achieve the SLA with the
+ SP.
+ The SRD represents the aggregated resource requirements of these SFCs and
+ its graph mimics the graph of SFCs, with SRD nodes corresponding to the
+ VNFs of the SFC.
+ Each SRD node is characterized by a given amount of 
+\emph on
+required
+\emph default
+ resources, 
+\shape italic
+e.g
+\shape default
+., computing and/or storage, to sustain the aggregated demand for all instances
+ of a given VNF in the slice.
+ Similarly, each SRD link can be characterized by the bandwidth required
+ to sustain the aggregated traffic demand between the VNFs at two ends.
+\end_layout
+
+\begin_layout Standard
+One assumes that the UL and DL resource demands are aggregated within a
+ single node 
+\begin_inset Formula $v_{\text{r}}$
+\end_inset
+
+ of the SRD graph.
+ The resulting aggregated UL and DL data rates 
+\begin_inset Formula $r_{\text{u}}\left(v_{\text{r}}\right)$
+\end_inset
+
+ and 
+\begin_inset Formula $r_{\text{d}}\left(v_{\text{r}}\right)$
+\end_inset
+
+ resulting from the coverage constraint of slice 
+\begin_inset Formula $\sigma$
+\end_inset
+
+ are
+\begin_inset Formula 
+\begin{align}
+ & r_{\textrm{u}}\left(v_{\text{r}}\right)=\underline{R}_{\text{u}}^{\sigma}\int_{\mathcal{\mathcal{A}^{\sigma}}}\rho^{\sigma}\left(x\right)\mathrm{d}x,\label{eq:SRD_UL}\\
+ & r_{\textrm{d}}\left(v_{\text{r}}\right)=\underline{R}_{\text{d}}^{\sigma}\int_{\mathcal{\mathcal{A}^{\sigma}}}\rho^{\sigma}\left(x\right)\mathrm{d}x.\label{eq:SRD_DL}
+\end{align}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Coverage-aware Resource Provisioning for Network Slices
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:ProblemFormulation"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This section describes a formulation of the slice resource provisioning
+ problem.
+ In Section
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Radio-Provisioning"
+
+\end_inset
+
+, we propose a framework to provision radio resources for multiple slices.
+ The problem of joint radio and other network resource provisioning is discussed
+ in Section
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Full-resource-provisioning"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Radio Provisioning
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Radio-Provisioning"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Our aim is to provision radio resources from the RRHs for the slices managed
+ by an MNO with minimum deployment cost.
+ For slice 
+\begin_inset Formula $\sigma$
+\end_inset
+
+, the InP has to provide a minimum average data rate 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+(
+\begin_inset Formula $\underline{R}_{\textrm{u}}^{\sigma}$
+\end_inset
+
+ for UL and 
+\begin_inset Formula $\underline{R}_{\textrm{d}}^{\sigma}$
+\end_inset
+
+ for DL) to each mobile user spread over 
+\begin_inset Formula $\mathcal{A}^{\sigma}$
+\end_inset
+
+ with a density 
+\begin_inset Formula $\rho^{\sigma}\left(x\right)$
+\end_inset
+
+.
+ For that purpose, the InP will have to provision resources from the RRH
+ nodes in 
+\begin_inset Formula $\mathcal{N}_{\text{Ir}}$
+\end_inset
+
+.
+ One assumes that every RRH node is able to provide a fixed amount 
+\begin_inset Formula $a_{\text{r}}\left(i\right)$
+\end_inset
+
+ of Resource Blocks (RB) per time unit to exchange data (UL and DL) with
+ users.
+ The amount of data transmitted using a single RB depends on the characteristics
+ of the RRH, of the User Equipment (UE), and on the transmission channel
+ between the RRH and the user.
+\end_layout
+
+\begin_layout Standard
+During the resource provisioning phase, the locations of users are unknown.
+ To address this problem, an approach inspired by the subarea partitioning
+ technique introduced in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Shi2007}
+\end_layout
+
+\end_inset
+
+ is considered.
+ 
+\begin_inset Formula $\mathcal{A^{\sigma}}$
+\end_inset
+
+ is partitioned into 
+\begin_inset Formula $Q^{\sigma}$
+\end_inset
+
+ convex subareas 
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+, 
+\begin_inset Formula $q\in\mathcal{Q}^{\sigma}$
+\end_inset
+
+
+\begin_inset Formula $=\left\{ 1,\dots,Q^{\sigma}\right\} $
+\end_inset
+
+.
+ Instead of allocating RBs to users, RRH nodes allocate RBs to subareas.
+ The way the partitioning is performed is not detailed here.
+ One may consider, 
+\emph on
+e.g.
+\emph default
+, a partitioning into rectangles of equal surfaces or a partitioning based
+ on 
+\begin_inset Formula $\rho^{\sigma}$
+\end_inset
+
+ that provides an equal average number of users per subarea.
+\end_layout
+
+\begin_layout Standard
+To formulate the radio resource provisioning problem, we introduce the sets
+ of variables 
+\begin_inset Formula $\boldsymbol{\eta}$
+\end_inset
+
+ and 
+\begin_inset Formula $\widetilde{\boldsymbol{\eta}}$
+\end_inset
+
+, where 
+\begin_inset Formula $\boldsymbol{\eta}=\left\{ \eta_{\text{u}}^{\sigma}\left(i,q\right),\eta_{\text{d}}^{\sigma}\left(i,q\right)\right\} _{i\in\mathcal{N}_{\text{Ir}},q\in\mathcal{Q}^{\sigma},\sigma\in\mathcal{S}}$
+\end_inset
+
+, represents the proportion of RBs provisioned by RRH
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $i$
+\end_inset
+
+ to the users in 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ for UL and DL traffic, respectively.
+ The elements of 
+\begin_inset Formula $\boldsymbol{\eta}$
+\end_inset
+
+ take real values in 
+\begin_inset Formula $\left[0,1\right]$
+\end_inset
+
+.
+ The set of binary variables 
+\begin_inset Formula $\widetilde{\boldsymbol{\eta}}=\left\{ \widetilde{\eta}^{\sigma}\left(i\right)\right\} _{i\in\mathcal{N}_{\text{Ir}}}$
+\end_inset
+
+ identifies whether a RRH
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $i\in\mathcal{N}_{\textrm{Ir}}$
+\end_inset
+
+ has provisioned some RBs to any subarea for slice 
+\begin_inset Formula $\sigma$
+\end_inset
+
+, with 
+\begin_inset Formula $\widetilde{\eta}^{\sigma}\left(i\right)=1$
+\end_inset
+
+ if 
+\begin_inset Formula $\sum_{q\in\mathcal{Q}^{\sigma}}\eta^{\sigma}\left(i,q\right)>0$
+\end_inset
+
+, and 
+\begin_inset Formula $\widetilde{\eta}^{\sigma}\left(i\right)=0$
+\end_inset
+
+ otherwise.
+\end_layout
+
+\begin_layout Subsubsection
+Single Slice 
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Single_Slices"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The cost related to the radio resource provisioning for slice 
+\begin_inset Formula $\sigma\in\mathcal{S}$
+\end_inset
+
+ consists of a fixed part 
+\begin_inset Formula $c_{\textrm{f}}\left(i\right)\widetilde{\eta}^{\sigma}\left(i\right)$
+\end_inset
+
+ related to the use of a RRH and a variable part 
+\begin_inset Formula $c_{\textrm{r}}a_{\text{r}}\left(i\right)\eta^{\sigma}\left(i,q\right)$
+\end_inset
+
+ related to the amount of RBs provided by each RRH to the slice.
+ A bias towards RB allocation by RRHs providing high spectral efficiency
+ is obtained by the introduction of a rate-related discount 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $\lambda b\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)a_{\text{r}}\left(i\right)\eta^{\sigma}\left(i,q\right)$
+\end_inset
+
+, where 
+\begin_inset Formula $\lambda$
+\end_inset
+
+ is a positive discount factor.
+ The resulting cost function 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+for the radio resources is
+\begin_inset Formula 
+\begin{equation}
+\begin{split}c_{\textrm{rr}} & \left(\boldsymbol{\eta},\widetilde{\boldsymbol{\eta}}\right)=\sum_{i\in\mathcal{N}_{\text{Ir}}}c_{\textrm{f}}\left(i\right)\widetilde{\eta}^{\sigma}\left(i\right)\\
+ & +\sum_{i\in\mathcal{N}_{\text{Ir}}}\sum_{q\in\mathcal{Q}^{\sigma}}\left[c_{\textrm{r}}-\lambda b_{\text{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)\right]a_{\text{r}}\left(i\right)\eta_{\text{u}}^{\sigma}\left(i,q\right)\\
+ & +\sum_{i\in\mathcal{N}_{\text{Ir}}}\sum_{q\in\mathcal{Q}^{\sigma}}\left[c_{\textrm{r}}-\lambda b_{\text{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)\right]a_{\text{r}}\left(i\right)\eta_{\text{d}}^{\sigma}\left(i,q\right).
+\end{split}
+\label{eq:Cover_Cost_Single}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The minimization of 
+\begin_inset Formula $c_{\text{rr}}\left(\boldsymbol{\eta},\widetilde{\boldsymbol{\eta}}\right)$
+\end_inset
+
+ has to be such that several constraints are satisfied.
+\end_layout
+
+\begin_layout Standard
+The summed proportions of RBs provided by a given RRH
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $i$
+\end_inset
+
+ must be less than one
+\begin_inset Formula 
+\begin{equation}
+\sum_{q\in\mathcal{Q}^{\sigma}}\left(\eta_{\text{u}}^{\sigma}\left(i,q\right)+\eta_{\text{d}}^{\sigma}\left(i,q\right)\right)\leqslant1,\,\forall i\in\mathcal{N}_{\text{Ir}}.\label{eq:Cover_EtaLessThanOne}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+For each subarea 
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+, the total data rate provided by the allocated resource blocks should satisfy
+ the minimum average user demand.
+ Thus, 
+\begin_inset Formula $\forall q\in\mathcal{Q}^{\sigma}$
+\end_inset
+
+, one should have
+\begin_inset Formula 
+\begin{align}
+ & \sum_{i\in\mathcal{N}_{\text{Ir}}}\eta_{\text{u}}^{\sigma}\left(i,q\right)a_{\text{r}}\left(i\right)b_{\text{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)\geqslant\underline{R}_{\text{u}}^{\sigma}\int_{\mathcal{A}_{q}^{\sigma}}\rho^{\sigma}\left(x\right)\mathrm{d}x,\label{eq:Cover_MinRate_UL}\\
+ & \sum_{i\in\mathcal{N}_{\text{Ir}}}\eta_{\text{d}}^{\sigma}\left(i,q\right)a_{\text{r}}\left(i\right)b_{\text{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)\geqslant\underline{R}_{\text{d}}^{\sigma}\int_{\mathcal{A}_{q}^{\sigma}}\rho^{\sigma}\left(x\right)\mathrm{d}x,\label{eq:Cover_MinRate_DL}
+\end{align}
+
+\end_inset
+
+which corresponds to the satisfaction of the geographical coverage constraints
+ for UL and DL.
+ Here, 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $b_{\text{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+ and
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $b_{\text{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ denote the amount of data carried by a RB for a user located in 
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+ for UL and DL.
+ Depending on the level of conservatism, 
+\begin_inset Formula $b_{\text{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+ and 
+\begin_inset Formula $b_{\text{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+ may represent the minimum or the average amount of data evaluated over
+ the possible locations of users in 
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+.
+ The terms 
+\begin_inset Formula $b_{\text{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+, 
+\begin_inset Formula $b_{\text{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+, and 
+\begin_inset Formula $\int_{\mathcal{A}_{q}^{\sigma}}\rho^{\sigma}\left(x\right)\mathrm{d}x$
+\end_inset
+
+ are fixed quantities that only depend on the RRH location 
+\begin_inset Formula $x_{i}^{\textrm{r}}$
+\end_inset
+
+, on the user density 
+\begin_inset Formula $\rho^{\sigma}$
+\end_inset
+
+, and on the way the partitioning of 
+\begin_inset Formula $\mathcal{A}^{\sigma}$
+\end_inset
+
+ has been performed.
+ These terms may thus be evaluated in advance, see Section
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Rate-Allocation-Model"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ Summing 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_MinRate_DL"
+
+\end_inset
+
+ over all 
+\begin_inset Formula $q\in\mathcal{Q}^{\sigma}$
+\end_inset
+
+ and using 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:SRD_DL"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+, one gets
+\begin_inset Formula 
+\begin{align}
+ & \sum_{q\in\mathcal{Q}^{\sigma}}\sum_{i\in\mathcal{N}_{\text{Ir}}}\eta_{\text{u}}^{\sigma}\left(i,q\right)a_{\text{r}}\left(i\right)b_{\text{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)\geqslant r_{\textrm{u}}\left(v_{\text{r}}\right),\label{eq:Cover_PerVirtualNode_UL}\\
+ & \sum_{q\in\mathcal{Q}^{\sigma}}\sum_{i\in\mathcal{N}_{\text{Ir}}}\eta_{\text{d}}^{\sigma}\left(i,q\right)a_{\text{r}}\left(i\right)b_{\text{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)\geqslant r_{\textrm{d}}\left(v_{\text{r}}\right),\label{eq:Cover_PerVirtualNode_DL}
+\end{align}
+
+\end_inset
+
+which ensures, for slice 
+\begin_inset Formula $\sigma$
+\end_inset
+
+, the satisfaction of the part of the SRD graph related to the UL and DL
+ radio resource demands.
+\end_layout
+
+\begin_layout Standard
+For each RRH, the amount of provisioned UL and DL resources should be proportion
+al to the demand expressed in the SRD graph through 
+\begin_inset Formula $r_{\textrm{u}}\left(v_{\text{r}}\right)$
+\end_inset
+
+ and 
+\begin_inset Formula $r_{\textrm{d}}\left(v_{\text{r}}\right)$
+\end_inset
+
+, see 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:SRD_UL"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:SRD_DL"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ This avoids provisioning RRH resources taking care only of the UL or only
+ of the DL traffic.
+ This has to be ensured for all subareas 
+\begin_inset Formula $q\in\mathcal{Q}^{\sigma}$
+\end_inset
+
+
+\begin_inset Formula 
+\begin{equation}
+\frac{\eta_{\text{u}}^{\sigma}\left(i,q\right)a_{\text{r}}\left(i\right)b_{\text{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)}{r_{\textrm{u}}\left(v_{\text{r}}\right)}=\frac{\eta_{\text{d}}^{\sigma}\left(i,q\right)a_{\text{r}}\left(i\right)b_{\text{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)}{r_{\textrm{d}}\left(v_{\text{r}}\right)}.\label{eq:Proportionality}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The nonlinear relation between 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $\eta^{\sigma}\left(i,q\right)=\eta_{\text{u}}^{\sigma}\left(i,q\right)+\eta_{\text{d}}^{\sigma}\left(i,q\right)$
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ and 
+\begin_inset Formula $\widetilde{\eta}^{\sigma}\left(i\right)$
+\end_inset
+
+ can be linearly expressed as
+\begin_inset Formula 
+\begin{equation}
+0\leq\widetilde{\eta}^{\sigma}\left(i\right)-\sum_{q\in\mathcal{Q}^{\sigma}}\eta^{\sigma}\left(i,q\right)<1,\,\forall i\in\mathcal{N}_{\text{Ir}},\forall\sigma\in\mathcal{S}.\label{eq:Cover_RelationEta}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Finally, the radio provisioning problem consists in finding 
+\begin_inset Formula 
+\[
+(\widehat{\boldsymbol{\eta}},\widehat{\widetilde{\boldsymbol{\eta}}})=\argminA_{\boldsymbol{\eta},\widetilde{\boldsymbol{\eta}}}c_{\text{rr}}\left(\boldsymbol{\eta},\widetilde{\boldsymbol{\eta}}\right),\,\text{subject to: \,}\eqref{eq:Cover_EtaLessThanOne}-\eqref{eq:Cover_RelationEta},
+\]
+
+\end_inset
+
+which is an MILP problem.
+\end_layout
+
+\begin_layout Subsubsection
+Multiple Slices
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Multiple_Slices"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When several SRD graphs for slices indexed 
+\begin_inset Formula $\sigma\in\mathcal{S}$
+\end_inset
+
+ have to be considered, 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_Cost_Single"
+
+\end_inset
+
+ becomes
+\begin_inset Formula 
+\begin{equation}
+\begin{split}c_{\textrm{rr}} & \left(\boldsymbol{\eta},\widetilde{\boldsymbol{\eta}}\right)=\sum_{\sigma\in\mathcal{S}}\sum_{i\in\mathcal{N}_{\text{Ir}}}c_{\textrm{f}}\left(i\right)\widetilde{\eta}^{\sigma}\left(i\right)\\
+ & +\sum_{\sigma\in\mathcal{S}}\sum_{i\in\mathcal{N}_{\text{Ir}}}\sum_{q\in\mathcal{Q}^{\sigma}}\left[c_{\textrm{r}}-\lambda b_{\text{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)\right]a_{\text{r}}\left(i\right)\eta_{\text{u}}^{\sigma}\left(i,q\right)\\
+ & +\sum_{\sigma\in\mathcal{S}}\sum_{i\in\mathcal{N}_{\text{Ir}}}\sum_{q\in\mathcal{Q}^{\sigma}}\left[c_{\textrm{r}}-\lambda b_{\text{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)\right]a_{\text{r}}\left(i\right)\eta_{\text{d}}^{\sigma}\left(i,q\right),
+\end{split}
+\label{eq:Cover_Cost_Multi}
+\end{equation}
+
+\end_inset
+
+with the constraints 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_MinRate_UL"
+
+\end_inset
+
+-
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_RelationEta"
+
+\end_inset
+
+ and the constraint 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_EtaLessThanOne"
+
+\end_inset
+
+ replaced by
+\begin_inset Formula 
+\begin{equation}
+\sum_{\sigma\in\mathcal{S}}\sum_{q\in\mathcal{Q}^{\sigma}}\left(\eta_{\text{u}}^{\sigma}\left(i,q\right)+\eta_{\text{d}}^{\sigma}\left(i,q\right)\right)\leqslant1,\,\forall i\in\mathcal{N}_{\text{Ir}}.\label{eq:Cover_Multi_EtaLessThanOne}
+\end{equation}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Full resource provisioning for slices
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Full-resource-provisioning"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+To complete the slice resource provisioning, one has to account for other
+ resources in terms of computing, storage, and networking requirements to
+ run the interconnected VNFs that are parts of the slice.
+ A joint provisioning of radio and other network resources should be considered.
+\end_layout
+
+\begin_layout Standard
+This provisioning is represented by a mapping between the infrastructure
+ graph 
+\begin_inset Formula $\mathcal{G}_{\textrm{I}}$
+\end_inset
+
+ and the SRD graph, as depicted in Figure
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:SRDProvExample"
+
+\end_inset
+
+.
+ In this example, the slice 
+\begin_inset Formula $\sigma$
+\end_inset
+
+ is described by an SRD graph aggregating the demands of several linear
+ SFCs.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_intro_prov_example.jpg
+	lyxscale 150
+	width 60col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Provisioning of infrastructure resource to an SRD graph: Resources from
+ the infrastructure node 
+\begin_inset Formula $i_{1}$
+\end_inset
+
+ is provisioned for SRD node 
+\begin_inset Formula $v_{1}$
+\end_inset
+
+; Resources from 
+\begin_inset Formula $i_{2}$
+\end_inset
+
+ and 
+\begin_inset Formula $i_{4}$
+\end_inset
+
+ are provisioned for SRD node 
+\begin_inset Formula $v_{2}$
+\end_inset
+
+; and resources from 
+\begin_inset Formula $i_{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $i_{5}$
+\end_inset
+
+ are provisioned for SRD node 
+\begin_inset Formula $v_{3}$
+\end_inset
+
+.
+ Correspondingly, the infrastructure links 
+\begin_inset Formula $i_{1}i_{2}$
+\end_inset
+
+ and 
+\begin_inset Formula $i_{1}i_{4}$
+\end_inset
+
+ are provisioned for SRD link 
+\begin_inset Formula $v_{1}v_{2}$
+\end_inset
+
+ and resources from links 
+\begin_inset Formula $i_{2}i_{3}$
+\end_inset
+
+ and 
+\begin_inset Formula $i_{4}i_{5}$
+\end_inset
+
+ are provisioned for SRD link 
+\begin_inset Formula $v_{2}v_{3}$
+\end_inset
+
+.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:SRDProvExample"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+An additional set of constraints for these other resources needs to be introduce
+d.
+ This set of constraints, which expresses the other resource demands for
+ each 
+\begin_inset Formula $\sigma\in\mathcal{S}$
+\end_inset
+
+, has to be consistent with the coverage constraints presented in Sections
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Single_Slices"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Multiple_Slices"
+
+\end_inset
+
+.
+ For instance, the other types of network resources (
+\shape italic
+e.g
+\shape default
+., link bandwidth or node storage capacity) provisioned by an infrastructure
+ node should be commensurate with the provisioned radio resources.
+ When considering demands on both UL and DL traffic, it is relevant to ensure
+ the balance between radio and other network resources provisioned by infrastruc
+ture nodes and links.
+ Details of those constraints can be found in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Luu2019}
+\end_layout
+
+\end_inset
+
+, where a two-step algorithm to solve the joint radio and other network
+ resources provisioning problem is introduced.
+ The radio provisioning proposed in Section
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Multiple_Slices"
+
+\end_inset
+
+ is first achieved.
+ Then, only the subset of infrastructure nodes that contains RRHs involved
+ in the slice coverage and identified from the first step are considered
+ in the resource provisioning for the remaining functions and links of the
+ slice.
+\end_layout
+
+\begin_layout Section
+Evaluation
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Evaluation"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In this section, one compares via simulations the performance of three different
+ radio resource provisioning schemes for network slicing: a Sequential approach
+ (
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+), a Joint approach (
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+) and a Baseline approach.
+ In 
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+, resources are provisioned slice by slice by solving the single slice MILP
+ problem 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_Cost_Single"
+
+\end_inset
+
+-
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_RelationEta"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+.
+ In 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+, provisioning is performed taking into account all slices simultaneously
+ and solving the multiple slices MILP problem 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_Cost_Multi"
+
+\end_inset
+
+-
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_Multi_EtaLessThanOne"
+
+\end_inset
+
+.
+ All simulations are performed with the CPLEX MILP solver interfaced with
+ MATLAB.
+ The Baseline approach works slice-by-slice, as the 
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+ approach.
+ For each slice, the RRHs provisioning resources to users located in subarea
+ 
+\begin_inset Formula $q$
+\end_inset
+
+ are selected starting from those providing the highest Signal-to-Noise
+ (SNR) ratio, whatever the cost for using those RRHs, contrary to what is
+ done by the 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+ and 
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+ approaches.
+ 
+\end_layout
+
+\begin_layout Standard
+Heterogeneous cellular networks will be considered.
+ Due to the large difference between the transmit power of macrocells and
+ of smaller cells with lower power, 
+\shape italic
+e.g
+\shape default
+., microcells or picocells, in the Baseline approach, an offset is introduced
+ to favor the utilization of smaller stations when they are closer to the
+ users.
+ This association strategy is known as 
+\shape italic
+Cell Range Expansion
+\shape default
+ (CRE) 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Sun2014}
+\end_layout
+
+\end_inset
+
+, which allows a UE to associate to lower power stations.
+\end_layout
+
+\begin_layout Subsection
+Infrastructure Network
+\end_layout
+
+\begin_layout Standard
+We consider a 
+\begin_inset Formula $1.4\,\textrm{km\ensuremath{\times5\,\textrm{km}}}$
+\end_inset
+
+ area around the Stade de France near Paris, shown in Figure
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Orange_Map"
+
+\end_inset
+
+.
+ The map includes real coordinates of RRH nodes (indicated by blue markers)
+ taken from the open database provided by the French National Agency of
+ Frequencies
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+L'Agence nationale des fréquences (ANFR): https://data.anfr.fr/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Slice Resource Demand (SRD)
+\end_layout
+
+\begin_layout Standard
+Three types of slices are considered:
+\end_layout
+
+\begin_layout Itemize
+Slices of type
+\begin_inset space ~
+\end_inset
+
+1 aim to provide video streaming services at 
+\begin_inset Formula $3$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Mbps for at most 
+\begin_inset Formula $250$
+\end_inset
+
+ VIP users within the stadium (DL traffic);
+\end_layout
+
+\begin_layout Itemize
+Slices of type
+\begin_inset space ~
+\end_inset
+
+2 are dedicated to a video streaming services at 
+\begin_inset Formula $0.5$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Mbps for at most 
+\begin_inset Formula $1000$
+\end_inset
+
+ users, and cover the blue-highlighted area in Figure
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Orange_Map"
+
+\end_inset
+
+ (DL traffic);
+\end_layout
+
+\begin_layout Itemize
+Slices of type
+\begin_inset space ~
+\end_inset
+
+3 aim to provide video surveillance and traffic monitoring service at 
+\begin_inset Formula $1$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Mbps for 
+\begin_inset Formula $50$
+\end_inset
+
+ cameras installed on the A86 highway (UL traffic).
+\end_layout
+
+\begin_layout Standard
+Slices of type
+\begin_inset space ~
+\end_inset
+
+1 and
+\begin_inset space ~
+\end_inset
+
+2 have the same components in their SRD graphs, illustrated by Slice
+\begin_inset space ~
+\end_inset
+
+1 in Figure
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:System-architecture"
+
+\end_inset
+
+.
+ Slices of type
+\begin_inset space ~
+\end_inset
+
+3 have an SRD graph similar to that of Slice
+\begin_inset space ~
+\end_inset
+
+2 in Figure
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:System-architecture"
+
+\end_inset
+
+.
+ In what follows, different scenarios are considered with an increasing
+ number of slices whose distribution among each type is given in Table
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Scenarios"
+
+\end_inset
+
+.
+ This represents situations where slices of the same type are provided by
+ different SPs.
+\begin_inset Float table
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Type of each slice
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:Scenarios"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $|\mathcal{S}|$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $4$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $6$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $8$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Nb.
+ of slices of Type 1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Nb.
+ of slices of Type 2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Nb.
+ of slices of Type 3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="9">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Slice 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+8
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Type
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+The coverage area 
+\begin_inset Formula $\mathcal{A}^{\sigma}$
+\end_inset
+
+ associated to each slice is partitioned into subareas 
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+ of 
+\begin_inset Formula $90\,\textrm{m\ensuremath{\times103\,\textrm{m}}}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection
+Rate Function
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Rate-Allocation-Model"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The amount of data carried by a RB for a user located in 
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+ and served by a RRH in 
+\begin_inset Formula $x_{i}^{\textrm{r}}$
+\end_inset
+
+ is 
+\begin_inset Formula $b_{\textrm{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+ and 
+\begin_inset Formula $b_{\textrm{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+, respectively for DL and UL.
+ Models for 
+\begin_inset Formula $b_{\textrm{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+ and 
+\begin_inset Formula $b_{\textrm{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+ are now considered.
+\end_layout
+
+\begin_layout Standard
+Let 
+\begin_inset Formula $d\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+ be the distance between 
+\begin_inset Formula $x_{i}^{\textrm{r}}$
+\end_inset
+
+ and the center of each rectangle 
+\begin_inset Formula $\mathcal{A}_{q}^{\sigma}$
+\end_inset
+
+.
+ Focusing on DL traffic, one considers the following model taken from 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Tse2004}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula 
+\begin{equation}
+b_{\textrm{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)=W_{i}\log_{2}\left(1+SNR_{\text{d}}\left(i,q\right)\right),\label{eq:Bd}
+\end{equation}
+
+\end_inset
+
+where 
+\begin_inset Formula $W_{i}$
+\end_inset
+
+ is the bandwidth (in Hz) of a RB provided by RRH
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Formula $i$
+\end_inset
+
+.
+ 
+\begin_inset Formula $SNR_{\text{d}}\left(i,q\right)$
+\end_inset
+
+ is the DL Signal-to-Noise (SNR) ratio from RRH 
+\begin_inset Formula $i$
+\end_inset
+
+ to users located in subarea 
+\begin_inset Formula $q$
+\end_inset
+
+, given by 
+\begin_inset Formula $SNR_{\text{d}}\left(i,q\right)=P_{\text{rx,d}}\left(d\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)\right)/P_{\text{n}}$
+\end_inset
+
+, where 
+\begin_inset Formula $P_{\text{n}}=W_{i}N_{0}$
+\end_inset
+
+ is the noise power, 
+\begin_inset Formula $N_{0}$
+\end_inset
+
+ is the noise power spectral density.
+ 
+\begin_inset Formula $P_{\text{rx}}(d)=P_{\text{tx,d}}+G_{\text{tx,d}}+G_{\text{rx,d}}-PL(d)$
+\end_inset
+
+ is the signal power at the receiver, where 
+\begin_inset Formula $P_{\text{tx}}$
+\end_inset
+
+ is the transmission power of the transmitter, 
+\begin_inset Formula $G_{\text{tx}}$
+\end_inset
+
+ and 
+\begin_inset Formula $G_{\text{rx}}$
+\end_inset
+
+ are the antenna gains of the transmitter and the receiver.
+ 
+\begin_inset Formula $PL(d)=10\alpha\log_{10}(d)+\beta+10\gamma\log_{10}(f_{i})$
+\end_inset
+
+ is the path loss given by the adapted 
+\begin_inset Formula $\alpha\beta\gamma$
+\end_inset
+
+-model introduced in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{Sun2016a}
+\end_layout
+
+\end_inset
+
+ for 5G mobile networks, where 
+\begin_inset Formula $\alpha$
+\end_inset
+
+ and 
+\begin_inset Formula $\gamma$
+\end_inset
+
+ are respectively coefficients accounting for the dependency of the path
+ loss with distance and frequency 
+\begin_inset Formula $f_{i}$
+\end_inset
+
+, 
+\begin_inset Formula $β$
+\end_inset
+
+ is an optimized offset value for path loss (in dB).
+ The model 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Bd"
+
+\end_inset
+
+ is also considered for 
+\begin_inset Formula $b_{\textrm{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+A heterogeneous cellular network is considered.
+ The RRHs 4, 5, 7, and 8 are microcells, whereas the rest are macrocells.
+ The parameters for the models 
+\begin_inset Formula $b_{\textrm{d}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+ and 
+\begin_inset Formula $b_{\textrm{u}}\left(x_{i}^{\textrm{r}},\mathcal{A}_{q}^{\sigma}\right)$
+\end_inset
+
+ are: 
+\begin_inset Formula $a_{\textrm{r}}(i)=100$
+\end_inset
+
+, 
+\begin_inset Formula $f_{i}=2.6$
+\end_inset
+
+ GHz, 
+\begin_inset Formula $W_{i}=0.2$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+MHz, 
+\begin_inset Formula $\left(P_{\text{tx,d}},P_{\text{tx,u}}\right)=\left(43,12\right)$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+dBm for macrocells and 
+\begin_inset Formula $\left(P_{\text{tx,d}},P_{\text{tx,u}}\right)=\left(35,8\right)$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+dBm for microcells, 
+\begin_inset Formula $\left(G_{\text{tx,d}},G_{\text{tx,u}}\right)=\left(15,3\right)$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+dBi, 
+\begin_inset Formula $N_{0}=-174$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+dBm/Hz, and 
+\begin_inset Formula $\left(\alpha,\beta,\gamma\right)=\left(3.6,7.6,2\right)$
+\end_inset
+
+, see 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+cite{ETSI2016}
+\end_layout
+
+\end_inset
+
+.
+ Moreover, 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset Formula $c_{\text{f}}$
+\end_inset
+
+, 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $c_{\text{r}}$
+\end_inset
+
+, 
+\begin_inset Formula $\lambda$
+\end_inset
+
+, are set to 
+\begin_inset Formula $100$
+\end_inset
+
+, 
+\begin_inset Formula $1$
+\end_inset
+
+, and 
+\begin_inset Formula $0.1$
+\end_inset
+
+ in 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_Cost_Single"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand eqref
+reference "eq:Cover_Cost_Multi"
+
+\end_inset
+
+.
+ The offset considered in the Baseline algorithm is set to 
+\begin_inset Formula $0$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+dB for a macrocell and to 
+\begin_inset Formula $4$
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+dB for a microcell.
+\end_layout
+
+\begin_layout Subsection
+Results
+\end_layout
+
+\begin_layout Standard
+Figure
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:k_PerBlockDetailed"
+
+\end_inset
+
+ illustrates the utilization of RBs per RRH for each slice, with 
+\begin_inset Formula $|\mathcal{N}_{\text{Ir}}|=8$
+\end_inset
+
+ and 
+\begin_inset Formula $|\mathcal{S}|=8$
+\end_inset
+
+.
+ Thanks to the rate-related discount introduced in the objective function
+ of the MILP problem, RRHs that are close to the coverage area of each slice
+ and provide strong signal are chosen in priority in all the considered
+ approaches.
+ For instance, with the 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+ approach, Slice 2 of type
+\begin_inset space ~
+\end_inset
+
+1, which covers the stadium, has its resource demand provisioned by RRH
+ 4 and RRH 7.
+ The advantage of the 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+ approach over the two other approaches can also be observed: with the 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+ approach, only six RRHs are required to provision resources, whereas with
+ the 
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+ and Baseline approach, seven and eight RRHs are needed, respectively.
+\end_layout
+
+\begin_layout Standard
+Figures
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:k_PerRRH"
+
+\end_inset
+
+, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:k_PerBlock"
+
+\end_inset
+
+, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:k_CoverCost"
+
+\end_inset
+
+, and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:k_Time"
+
+\end_inset
+
+ depict respectively the percentage of provisioned RRHs and RBs, the radio
+ cost, and the computing time for different 
+\begin_inset Formula $|\mathcal{S}|$
+\end_inset
+
+, see Table
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:Scenarios"
+
+\end_inset
+
+, with 
+\begin_inset Formula $|\mathcal{N}_{\text{Ir}}|=8$
+\end_inset
+
+.
+ Figures
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:nslice_PerRRH"
+
+\end_inset
+
+, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:nslice_PerBlock"
+
+\end_inset
+
+, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:nslice_CoverCost"
+
+\end_inset
+
+, and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:nslice_Time"
+
+\end_inset
+
+ consider the same metrics with different values of 
+\begin_inset Formula $|\mathcal{N}_{\text{Ir}}|$
+\end_inset
+
+, when 
+\begin_inset Formula $|\mathcal{S}|=6$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement t
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_result_rb_usage.pdf
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Distribution of RBs per RRH for each slice: with the 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+ (top), 
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+ (middle), and Baseline (bottom) approach.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:k_PerBlockDetailed"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_result_fix_k_perRRH.pdf
+	lyxscale 30
+	width 45.5col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:k_PerRRH"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_result_fix_k_perRB.pdf
+	lyxscale 30
+	width 45col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:k_PerBlock"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\change_inserted 2090656076 1582800890
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_result_fix_k_cost.pdf
+	lyxscale 30
+	width 46col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:k_CoverCost"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_result_fix_k_time.pdf
+	lyxscale 30
+	width 45col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:k_Time"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Results of (a) utilization of RBs, (b) utilization of RRHs, (c) radio cost,
+ and (d) computing time as a function of 
+\begin_inset Formula $|\mathcal{S}|$
+\end_inset
+
+, with 
+\begin_inset Formula $|\mathcal{N}_{\text{Ir}}|=8$
+\end_inset
+
+.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Results_fix_k"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement b
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_result_fix_nslice_perRRH.pdf
+	lyxscale 30
+	width 45.5col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:nslice_PerRRH"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_result_fix_nslice_perRB.pdf
+	lyxscale 30
+	width 45col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:nslice_PerBlock"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_result_fix_nslice_cost.pdf
+	lyxscale 30
+	width 45col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:nslice_CoverCost"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_result_fix_nslice_time.pdf
+	lyxscale 30
+	width 45col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:nslice_Time"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Results of (a) utilization of RBs, (b) utilization of RRHs, (c) radio cost,
+ and (d) computing time as a function of 
+\begin_inset Formula $|\mathcal{N}_{\text{Ir}}|$
+\end_inset
+
+, with 
+\begin_inset Formula $|\mathcal{S}|=6$
+\end_inset
+
+.
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Results_fix_nslice"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+ approach outperforms the 
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+ and Baseline approaches in terms of radio cost and utilization of RRH nodes:
+ the 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+ approach aims at finding the optimal solution for the whole problem, 
+\shape italic
+i.e
+\shape default
+., provisioning for all the slices, while the 
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+ and Baseline approaches only account for the constraints of each slice
+ sequentially.
+ The difference in performance of these three methods increases when four
+ slices and more are simultaneously considered.
+ For instance, with six slices, a cost reduction of 
+\begin_inset Formula $2.9\%$
+\end_inset
+
+ compared to the 
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+ approach and 
+\begin_inset Formula $96\%$
+\end_inset
+
+ compared to the baseline approach is observed in favor of the 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+ approach, see Figure
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:k_PerBlock"
+
+\end_inset
+
+.
+ With eight slices, the provisioning cost reductions are 
+\begin_inset Formula $3.3\%$
+\end_inset
+
+ and 
+\begin_inset Formula $105\%$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Nevertheless, the Baseline approach slightly outperforms the other approaches
+ in terms of RB utilization, since it is not constrained by the node disposal
+ cost when selecting RRHs, see Figures
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:k_PerBlock"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:nslice_PerBlock"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Consider now one slice of each type.
+ Figure
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:NewRes_CoverCost_Limit"
+
+\end_inset
+
+ shows the maximum supported data rate with the three considered approaches
+ as a function of the aggregated data rate demand from users, 
+\shape italic
+i.e.
+\shape default
+, 
+\begin_inset Formula $\sum_{\sigma\in\mathcal{S}}u^{\sigma}\underline{R}^{\sigma}$
+\end_inset
+
+, where 
+\begin_inset Formula $u^{\sigma}$
+\end_inset
+
+ is the number of users in 
+\begin_inset Formula $\sigma$
+\end_inset
+
+, when 
+\begin_inset Formula $\left|\mathcal{N}_{\text{Ir}}\right|=8$
+\end_inset
+
+.
+ 
+\begin_inset Formula $\underline{R}^{\sigma}$
+\end_inset
+
+ remains constant for each slice 
+\begin_inset Formula $\sigma$
+\end_inset
+
+.
+ The total number of users 
+\begin_inset Formula $u^{\sigma}$
+\end_inset
+
+ associated to each slice varies, but their relative proportions among slices
+ remain constant.
+ With the 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+ approach, a larger aggregated data rate is supported: provisioning of slices
+ with more users is then possible.
+\end_layout
+
+\begin_layout Standard
+Nevertheless, as expected, the price to be paid is a larger computing time
+ for
+\change_deleted 231042967 1582708324
+ 
+\change_unchanged
+ the 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+ approach compared to the 
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+ and Baseline approaches, as shown in Figures
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:k_Time"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:nslice_Time"
+
+\end_inset
+
+.
+ Increasing the number of slices leads to an increase of the cardinality
+ of the set of variables 
+\begin_inset Formula $\left(\boldsymbol{\eta}_{iq}^{\sigma},\tilde{\boldsymbol{\eta}}_{i}^{\sigma}\right)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+\begin_inset Graphics
+	filename fig_icc/fig_result_rate_theshold.pdf
+	width 50col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Maximum supported data rate associated to the 
+\begin_inset Formula $\mathtt{JR}$
+\end_inset
+
+, 
+\begin_inset Formula $\mathtt{SR}$
+\end_inset
+
+, and baseline provisioning approaches when 3 slices have to be deployed.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:NewRes_CoverCost_Limit"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Conclusions
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Conclusions"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This paper considers the problem of radio resource provisioning for network
+ slicing in future mobile networks.
+ Among the SLAs between MNOs and SPs, one focuses in this paper on those
+ involved in service coverage constraints, 
+\shape italic
+i.e.
+\shape default
+, related to the geographical distribution of the end-users to which the
+ service has to be provided.
+\end_layout
+
+\begin_layout Standard
+Adopting the point of view of the InP, one tries to minimize the cost related
+ to the usage of the network infrastructure, in particular the radio access
+ network, while satisfying radio coverage constraints, to ensure a minimum
+ data rate for users in the geographical areas where services have to be
+ made available.
+ This problem is cast in the framework of MILP problem.
+\end_layout
+
+\begin_layout Standard
+Two provisioning approaches are considered and compared to a Baseline approach.
+ The sequential approach provisions resources slice by slice and the joint
+ approach considers the constraints of all slices simultaneously.
+ The sequential approach scales better to network topologies of realistic
+ size, due to the exponential complexity in the number of variables of the
+ MILP problem.
+ The price to be paid is a somewhat degraded RRH and RB utilization and
+ a higher provisioning cost compared to the joint approach.
+ When compared to a Baseline approach, where only radio efficiency is considered
+, the two proposed approaches provide a lower slice provisioning cost.
+\end_layout
+
+\begin_layout Standard
+Several issues will be addressed in future work.
+ For instance, our optimization model allows UEs to be served by far RRHs
+ when the closer RRHs are saturated.
+ This can generate undesired inter-cell interference.
+ In future work, this problem should be carefully addressed.
+ On the other hand, adaptive provisioning techniques will be proposed to
+ cope with time-varying constraints using, 
+\emph on
+e.g.
+\emph default
+, iterative solutions.
+\end_layout
+
+\begin_layout Section*
+Acknowledgment
+\end_layout
+
+\begin_layout Standard
+This work is partly supported by the French Agence Nationale de la Recherche
+ (ANR), project MAESTRO-5G ANR-18-CE25-0012.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "references,IEEEabrv,IEEEexample"
+options "IEEEtran"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
