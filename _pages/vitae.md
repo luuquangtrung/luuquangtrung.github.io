@@ -23,7 +23,7 @@ classes: wide
 ### Honors, Awards, Grants
 * ENSA Publication Award, by [Nokia Bell Labs](https://www.bell-labs.com/), Oct. 2020
 * Travel Grant, by the [Global Young Vietnamese Scholars Network](http://trithuctrevietnam.vn/), Dec. 2019
-* Nokia France Student Award (finalist), by [Nokia France](https://www.nokia.com/fr_int/), July 2019
+<!-- * Nokia France Student Award (finalist), by [Nokia France](https://www.nokia.com/fr_int/), July 2019 -->
 * [Student Travel Grant](https://globecom2018.ieee-globecom.org/content/student-travel-grants), by [IEEE Communications Society](https://www.comsoc.org/), Dec. 2018
 * CIFRE Fellowship, by the [French National Association for Technical Research](http://www.anrt.asso.fr/fr), 2017-2020
 * [International Master’s Scholarship](https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program-idex), by the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/), 2015-2016
