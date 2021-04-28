@@ -27,6 +27,7 @@ classes: wide
 * [ScienceDirect Ad Hoc Networks](http://www.sciencedirect.com/science/journal/15708705?sdc=1)
 
 ### Useful links
+* [Academic Gates](https://www.academicgates.com/)
 * [Nokia Bell Labs](https://www.bell-labs.com/) 
 * [Laboratoire Informatique d’Avignon (LIA)](https://lia.univ-avignon.fr/), University of Avignon, France
 * [Laboratoire d'Analyse et d'Architectures des Systèmes (LAAS)](https://www.laas.fr/public/), University of Toulouse, France
