@@ -7,7 +7,6 @@ classes: wide
 For more updated list of publications, please visit my [ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu), [Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr), or [HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu).
 
 ### Patents
-1.  S. Kerboeuf, **Q.-T. Luu**, and M. Kieffer, In-Advance and Prioritized Slice Booking From Tenants Method, *submitted to the Patent Office of Nokia, Document No. NC322372*, Mar. 2021
 1.  S. Kerboeuf, **Q.-T. Luu**, M. Kieffer, and A. Mouradian, "Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee," *WIPO Patent No. WO2020114608A1* (filed on December 07, 2018 by Nokia) (URL: [Google Patents](https://patents.google.com/patent/WO2020114608A1/en))
 
 ### Journal papers
