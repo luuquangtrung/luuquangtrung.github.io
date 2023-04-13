@@ -1,2 +1,166 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-13T17:23:46+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="luuquangtrung.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>luuquangtrung.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="luuquangtrung.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-13T17:24:58+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">Viết đề cương thuyết minh đề tài</title><link href="luuquangtrung.github.io/posts/2023/04/project-proposal/" rel="alternate" type="text/html" title="Viết đề cương thuyết minh đề tài" /><published>2023-04-12T00:00:00+00:00</published><updated>2023-04-12T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/04/nafosted</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/04/project-proposal/"><![CDATA[<p>Nội dung của post này chủ yếu lấy từ tài liệu[^Tran2016]</p>
+
+<p>[^Tran2016]Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, <em>The 3rd NAFOSTED Conference on Information and Computer Science</em>, 2016.</p>
+
+<h3 id="references">References</h3>]]></content><author><name></name></author><category term="blog" /><category term="research proposal" /><category term="nafosted" /><category term="funding" /><summary type="html"><![CDATA[Nội dung của post này chủ yếu lấy từ tài liệu[^Tran2016]]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="luuquangtrung.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>luuquangtrung.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="luuquangtrung.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">Patent GB2591973 has been granted</title><link href="luuquangtrung.github.io/posts/2022/02/patent-GB2591973-granted/" rel="alternate" type="text/html" title="Patent GB2591973 has been granted" /><published>2022-02-16T00:00:00+00:00</published><updated>2022-02-16T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2022/02/patent-granted</id><content type="html" xml:base="luuquangtrung.github.io/posts/2022/02/patent-GB2591973-granted/"><![CDATA[<p class="notice--warning"><strong>Good news!</strong> Our patent “Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee” with Nokia Bell Labs has been granted by the UK Patent Office.</p>
+
+<!-- **Reference** -->
+
+<div class="notice--success">
+  <h4 class="no_toc">Reference</h4>
+  
+<p>S. Kerboeuf, <strong>Q.-T. Luu</strong>, M. Kieffer, and A. Mouradian, “Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee,” <em>US Patent 17,299,138</em>, filed 07 December 2018, issued 16 December 2021, granted 16 December 2022 by the UK Patent Office (URL: <a href="https://patents.google.com/patent/US20210392040A1/en">Google Patents</a>)</p>
+
+</div>
+
+<!-- **Abstract** -->
+
+<div class="notice--success">
+  <h4 class="no_toc">Abstract</h4>
+  
+<p>A network slice managing entity, comprising means configured to obtain a service request for a network slice, the service request defining service requirements; request network slice descriptions from a database and selecting at least one network slice which support said service requirements according to the descriptions;
+generate a resource graph comprising nodes representing infrastructure resources and links representing connections between the nodes, the resource graph depicting resources needed for providing the service, wherein the generating is carried out based on a network slice description of the selected at least one network slice;
+transmit the resource graph to an infrastructure manager for mapping a topology of said network infrastructure onto said resource graph and determining at least one subset of said network infrastructure; and, receive a mapping result from said infrastructure manager containing said at least one subset of said network infrastructure.</p>
+
+</div>
+
+<p><img src="/files/post_materials/GB2591973_Certificate-of-grant-of-patent.jpg" alt="GB2591973_Certificate-of-grant-of-patent" /></p>]]></content><author><name></name></author><category term="blog" /><category term="patent" /><category term="certificate of grant" /><summary type="html"><![CDATA[Good news! Our patent “Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee” with Nokia Bell Labs has been granted by the UK Patent Office.]]></summary></entry><entry><title type="html">PhD Dissertation Award</title><link href="luuquangtrung.github.io/posts/2023/02/phd-thesis-prize/" rel="alternate" type="text/html" title="PhD Dissertation Award" /><published>2022-02-16T00:00:00+00:00</published><updated>2022-02-16T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/02/thesis-prize</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/02/phd-thesis-prize/"><![CDATA[<p class="notice--warning"><strong>Good news!</strong> Glad and honored to receive the <a href="https://gdr-rsd.fr/laureats-prix-de-these-2022/">2022 Best PhD Dissertation Award on Distributed Systems and Networks</a> by <a href="https://gdr-rsd.fr/">GDR-RSD</a> and <a href="http://www.sigops-france.fr/">ACM SigOps France</a> for my Ph.D thesis.</p>
+
+<p><img src="/files/post_materials/prix_gdr-rsd.png" alt="Thesis-Prize" /></p>
+
+<!-- **Reference** -->
+
+<div class="notice--success">
+  <h4 class="no_toc">Reference</h4>
+  
+<p><strong>Q.-T. Luu</strong>, Contrôle et Optimisation des Réseaux Virtuels Sans Fil (Dynamic Control and Optimization of Wireless Virtual Network), 
+<em>Ph.D Thesis</em>, <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>, 2021 [<a href="https://hal.archives-ouvertes.fr/tel-03351942">pdf</a>, <a href="luuquangtrung.github.io/files/misc/slides_soutenance_full.pdf">slides</a>].</p>
+
+</div>
+
+<!-- **Announcement of GDR-RSD** -->
+
+<div class="notice--success">
+  <h4 class="no_toc">Announcement of GDR-RSD</h4>
+  
+<p>“Le jury décerne le prix 2022 à Quang-Trung Luu pour sa thèse intitulée “Contrôle et optimisation des réseaux virtuels sans fil”.
+Le jury a apprécié la  contribution importante de Quang-Trung Luu au domaine des réseaux  cellulaires, plus particulièrement sur l’optimisation de  l’approvisionnement en ressources dans le  contexte 5G. 
+Le jury souligne également la qualité des publications  scientifiques du doctorant et le potentiel de transfert technologique de  ses résultats.”</p>
+
+<p><strong>Translation:</strong>
+“The committee awards the 2022 prize to Quang-Trung Luu for his thesis entitled “Control and optimization of wireless virtual networks”.
+The committee appreciated Quang-Trung Luu’s important contribution to the field of cellular networks, more particularly on the optimization of resource provisioning in the 5G context. 
+The committee also highlights the quality of the doctoral student’s scientific publications and the technology transfer potential of their results.”</p>
+
+</div>]]></content><author><name></name></author><category term="blog" /><category term="PhD dissertation" /><category term="Prize" /><summary type="html"><![CDATA[Good news! Glad and honored to receive the 2022 Best PhD Dissertation Award on Distributed Systems and Networks by GDR-RSD and ACM SigOps France for my Ph.D thesis.]]></summary></entry><entry><title type="html">Some linearization techniques in linear programming</title><link href="luuquangtrung.github.io/posts/2021/12/notes-linearization/" rel="alternate" type="text/html" title="Some linearization techniques in linear programming" /><published>2021-12-04T00:00:00+00:00</published><updated>2021-12-04T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2021/12/linearization-notes</id><content type="html" xml:base="luuquangtrung.github.io/posts/2021/12/notes-linearization/"><![CDATA[<p>Linear programming (LP) is the minimization of a linear form on a polyhedron<sup id="fnref:Dantzig1955" role="doc-noteref"><a href="#fn:Dantzig1955" class="footnote" rel="footnote">1</a></sup>. The standard form of an LP is</p>
+
+\[\begin{align*}
+\min &amp; \quad c^\top x \\
+     &amp; \quad Ax = b, \\
+     &amp; \quad x \geq 0,
+\end{align*}\]
+
+<p>where \(c \in \mathbb{R}^n\), \(b \in \mathbb{R}^m\), and \(A\) is the \(m{\times}n\)-matrix of coefficients. LP has been shown<sup id="fnref:Liberti2018" role="doc-noteref"><a href="#fn:Liberti2018" class="footnote" rel="footnote">2</a></sup> to be fell into the computational complexity class <strong>P</strong>. It is hard sometimes to cast the problem as an LP. It such situation we may need to add some integer or binary variables. This leads us to an MILP (mixed integer LP) problem, which includes ILP (integer variables only), BLP (binary variables only), or LP as a special case. MILP is another fundamental problem in mathematical programming, and has been shown to be <strong>NP</strong>-hard<sup id="fnref:Liberti2018:1" role="doc-noteref"><a href="#fn:Liberti2018" class="footnote" rel="footnote">2</a></sup>.</p>
+
+<h2 id="some-linearization-techniques">Some linearization techniques</h2>
+<p>Following are some linearization techniques which transform nonlinear terms to linear forms, which may involve additional (usually integer or binary) variables.</p>
+
+<h5 id="max-min-functions">Max-min functions</h5>
+<p>The term \(X = \max\{x_{1}, x_{2}\}\) can be linearized by introducing an additional binary decision variable \(y\) and using the so-called big-\(M\) method.</p>
+
+<p>The following constraints<sup id="fnref:SE_max" role="doc-noteref"><a href="#fn:SE_max" class="footnote" rel="footnote">3</a></sup> enforce the definition of \(X\) and \(y\):</p>
+
+\[\begin{align*}
+X &amp; \geq x_{1}, \\
+X &amp; \geq x_{2}, \\
+X &amp; \leq x_{1} + M(1 - y), \\
+X &amp; \leq x_{2} + My.
+\end{align*}\]
+
+<p>Similarly, the term \(X = \min\{x_{1}, x_{2}\}\) can be linearized as follows<sup id="fnref:SE_min" role="doc-noteref"><a href="#fn:SE_min" class="footnote" rel="footnote">4</a></sup></p>
+
+\[\begin{align*}
+X &amp; \leq x_{1}, \\
+X &amp; \leq x_{2}, \\
+X &amp; \geq x_{1} - M(1 - y), \\
+X &amp; \geq x_{2} - My.
+\end{align*}\]
+
+<p>The value of \(M\) has to be carefully chosen. See more <a href="https://or.stackexchange.com/questions/236/why-is-it-important-to-choose-big-m-carefully-and-what-are-the-consequences-of-d">here</a>.</p>
+
+<h5 id="rounding-functions-ceil-and-floor">Rounding functions: Ceil and Floor</h5>
+
+<p>A floor function \(y = \lfloor x \rfloor\) can be linearized as<sup id="fnref:SE_round" role="doc-noteref"><a href="#fn:SE_round" class="footnote" rel="footnote">5</a></sup></p>
+
+\[\begin{align*}
+&amp; x - 0.999 \leq y \leq x, \\
+&amp; y \in \mathbb{Z_+}. 
+\end{align*}\]
+
+<p>Similarly, a ceiling function \(y = \lceil x \rceil\) can be linearized as</p>
+
+\[\begin{align*}
+&amp; x \leq y \leq x + 0.999, \\
+&amp; y \in \mathbb{Z_+}. 
+\end{align*}\]
+
+<h5 id="product-of-two-binary-variables">Product of two binary variables</h5>
+<p>A product term \(x_{1}x_{2}\), where \(x_{1}, x_{2} \in \{0,1\}\) occuring in a linear program can be replaced by an auxiliary continuous variable \(y \in [0,1]\) and the following so-called Fortet’ constraints<sup id="fnref:Fortet1960" role="doc-noteref"><a href="#fn:Fortet1960" class="footnote" rel="footnote">6</a></sup>:</p>
+
+\[\begin{align*}
+y &amp; \leq x_{1}, \\
+y &amp; \leq x_{2}, \\
+y &amp; \geq x_{1} + x_{2} - 1.
+\end{align*}\]
+
+<h5 id="product-of-multiple-binary-variables">Product of multiple binary variables</h5>
+<p>The above technique could also be extended to the product of multiple variables: \(y_\mathcal{I} = \prod_{i \in \mathcal{I}} x_i\), where \(x_i \in \{0,1\}\), \(\forall i \in \mathcal{I}\). The linearization constraints are<sup id="fnref:Liberti2018:2" role="doc-noteref"><a href="#fn:Liberti2018" class="footnote" rel="footnote">2</a></sup></p>
+
+\[\begin{align*}
+y_{\mathcal{I}} &amp; \leq x_{i}, \quad \forall i \in \mathcal{I}, \\
+y_{\mathcal{I}} &amp; \geq \sum_{i \in \mathcal{I}} x_{i} - |\mathcal{I}| + 1.
+\end{align*}\]
+
+<h5 id="product-of-a-binary-and-a-non-negative-continuous-variable">Product of a binary and a non-negative continuous variable</h5>
+
+<p>Suppose we have a binary variable \(x \in \{0,1\}\) and a non-negative continuous variable \(y \in \mathbb{R_+}\). The product \(z = xy\) is thus</p>
+
+\[z=\begin{cases}
+0 &amp; \text{if }x=0, \\
+y &amp; \text{if }x=1.
+\end{cases}\]
+
+<p>\(z\) can be linearized by using the big-\(M\) method<sup id="fnref:SE_prod" role="doc-noteref"><a href="#fn:SE_prod" class="footnote" rel="footnote">7</a></sup>,</p>
+
+\[z \geq y - (1-x)M,\]
+
+<p>where \(z \in \mathbb{R_+}\), \(M\) is a sufficiently large value so that it would not be part of any feasible solution.</p>
+
+<h3 id="references">References</h3>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:Dantzig1955" role="doc-endnote">
+      <p>G. Dantzig, A. Orden, and P. Wolfe. The generalized simplex method for minimizing a linear form under linear inequality restraints. <em>Pacific Journal of Mathematics</em>, 5(2):183–196, 1955. <a href="#fnref:Dantzig1955" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:Liberti2018" role="doc-endnote">
+      <p>L. Liberti, Mathematical Programming. <em>Lecture Notes</em>, Ecole Polytechnique, 2018. <a href="#fnref:Liberti2018" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:Liberti2018:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a> <a href="#fnref:Liberti2018:2" class="reversefootnote" role="doc-backlink">&#8617;<sup>3</sup></a></p>
+    </li>
+    <li id="fn:SE_max" role="doc-endnote">
+      <p>StackExchange, <a href="https://or.stackexchange.com/questions/711/how-to-formulate-linearize-a-maximum-function-in-a-constraint/712#712"><em>How to formulate (linearize) a maximum function in a constraint?</em></a>. Accessed Dec. 2021. <a href="#fnref:SE_max" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:SE_min" role="doc-endnote">
+      <p>StackExchange, <a href="https://or.stackexchange.com/questions/1160/how-to-linearize-min-function-as-a-constraint"><em>How to linearize min function as a constraint?</em></a>. Accessed Dec. 2021. <a href="#fnref:SE_min" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:SE_round" role="doc-endnote">
+      <p>StackExchange, <a href="https://math.stackexchange.com/questions/1862885/linear-program-with-ceiling-or-floor-functions"><em>Linear program with ceiling or floor functions</em></a>. Accessed Dec. 2021. <a href="#fnref:SE_round" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:Fortet1960" role="doc-endnote">
+      <p>R. Fortet. Applications de l’algèbre de Boole en recherche opérationelle. <em>Revue Française de Recherche Opérationelle</em>, 4:17–26, 1960. <a href="#fnref:Fortet1960" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:SE_prod" role="doc-endnote">
+      <p>StackExchange, <a href="https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable"><em>How to linearize the product of a binary and a non-negative continuous variable?</em></a>. Accessed Dec. 2021. <a href="#fnref:SE_prod" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><category term="blog" /><category term="linearization" /><category term="linear program" /><summary type="html"><![CDATA[Linear programming (LP) is the minimization of a linear form on a polyhedron1. The standard form of an LP is G. Dantzig, A. Orden, and P. Wolfe. The generalized simplex method for minimizing a linear form under linear inequality restraints. Pacific Journal of Mathematics, 5(2):183–196, 1955. &#8617;]]></summary></entry></feed>
