@@ -17,7 +17,7 @@ related_posts: false
 
 Nội dung của post này chủ yếu lấy từ tài liệu[^Tran2016]
 
-[^Tran2016] Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, *The 3rd NAFOSTED Conference on Information and Computer Science*, 2016.
+[^Tran2016]Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, *The 3rd NAFOSTED Conference on Information and Computer Science*, 2016.
 
 
 # Thành phần của một đề xuất đề tài
@@ -168,15 +168,14 @@ quả đã nêu.
 
 Vai trò của các thành viên
 
-----------------------------------------------------------------------------------------------
-Thành viên        | Ví dụ về nhiệm vụ
-----------------------------------------------------------------------------------------------
-Chủ nhiệm đề tài  | Theo dõi, điều phối toàn bộ đề tài, đặc biệt là tính nhất quán về khoa học
-Thư ký khoa học   | Quản lý việc nghiên cứu theo đề xuất đề tài
-Thành viên NCCC   | Đóng góp theo từng lĩnh vực chuyên sâu
-Kỹ thuật viên     | Hỗ trợ coding, thu thập/phân tích dữ liệu, tiến hành đo đạc thực nghiệm.
-Nghiên cứu sinh   | Tham gia một phần nội dung nghiên cứu
-----------------------------------------------------------------------------------------------
+
+| Thành viên        | Ví dụ về nhiệm vụ															|
+| ------------------|---------------------------------------------------------------------------|
+| Chủ nhiệm đề tài  | Theo dõi, điều phối toàn bộ đề tài, đặc biệt là tính nhất quán về khoa học|
+| Thư ký khoa học   | Quản lý việc nghiên cứu theo đề xuất đề tài								|
+| Thành viên NCCC   | Đóng góp theo từng lĩnh vực chuyên sâu									|
+| Kỹ thuật viên     | Hỗ trợ coding, thu thập/phân tích dữ liệu, tiến hành đo đạc thực nghiệm	|
+| Nghiên cứu sinh   | Tham gia một phần nội dung nghiên cứu										|
 
 #### Chủ nhiệm đề tài (1)
 * Có chuyên môn phù hợp, đang công tác nghiên cứu tại một tổ chức KNCN. T/h CNĐT không thuộc một tổ chức KHCN nào, phải được một tổ chức khoa học và công nghệ chuyên ngành có uy tín trong lĩnh vực chuyên môn phù hợp bảo trợ và chấp nhận làm tổ chức chủ trì.
@@ -223,19 +222,17 @@ Nghiên cứu sinh   | Tham gia một phần nội dung nghiên cứu
 
 # Hội đồng Khoa học ngành KHMT
 
-------------------------------------------------------------------------------------------------------------------------------
-TT  | Họ và tên           | Học hàm   | Chức vụ       | Ngành         | Đơn vị
-------------------------------------------------------------------------------------------------------------------------------
-1   | Đinh Dũng           | GS. TSKH  | Chủ tịch      | KHMT          | Viện CNTT - ĐHQGHN
-2   | Trần Xuân Nam       | PGS.TS    | Phó chủ tịch  | Hệ thống mạng | Học viện Kỹ thuật Quân sự
-3   | Võ Nguyễn Quốc Bảo  | PGS.TS    | Thư ký        | Hệ thống mạng | Học viện CNBC VT (TP. HCM)
-4   | Lê Sỹ Vinh          | PGS.TS    | Thành viên    | KHMT          | Trường ĐH Công nghệ - ĐHQGHN
-5   | Hồ Tú Bảo           | GS. TSKH  | Thành viên    | TTNT và phát hiện tri thức | Viện John von Neumann-ĐHQG TP.HCM
-6   | Lê Hoài Bắc         | PGS.TS    | Thành viên    | TTNT và phát hiện tri thức | Trường ĐH KHTN - ĐHQG TP.HCM
-7   | Hoàng Mạnh Thắng    | PGS.TS    | Thành viên    | Các HTTT      | Trường ĐHBK Hà Nội
-8   | Nguyễn Xuân Hoài    | PGS.TS    | Thành viên    | KHMT          | Viện Nghiên cứu và Phát triển CNTT - Trường ĐH Hà Nội
-9   | Hồ Văn Khương       | PGS.TS    | Thành viên    | Các HTTT      | Trường ĐHBK - ĐHQG TP.HCM
-------------------------------------------------------------------------------------------------------------------------------
+| TT| Họ và tên           | Học hàm   | Chức vụ       | Ngành         | Đơn vị													|
+|---|---------------------|-----------|---------------|---------------|---------------------------------------------------------|
+| 1 | Đinh Dũng           | GS. TSKH  | Chủ tịch      | KHMT          | Viện CNTT - ĐHQGHN										|
+| 2 | Trần Xuân Nam       | PGS.TS    | Phó chủ tịch  | Hệ thống mạng | Học viện Kỹ thuật Quân sự								|
+| 3 | Võ Nguyễn Quốc Bảo  | PGS.TS    | Thư ký        | Hệ thống mạng | Học viện CNBC VT (TP. HCM)								|
+| 4 | Lê Sỹ Vinh          | PGS.TS    | Thành viên    | KHMT          | Trường ĐH Công nghệ - ĐHQGHN							|
+| 5 | Hồ Tú Bảo           | GS. TSKH  | Thành viên    | TTNT và phát hiện tri thức | Viện John von Neumann-ĐHQG TP.HCM			|
+| 6 | Lê Hoài Bắc         | PGS.TS    | Thành viên    | TTNT và phát hiện tri thức | Trường ĐH KHTN - ĐHQG TP.HCM				|
+| 7 | Hoàng Mạnh Thắng    | PGS.TS    | Thành viên    | Các HTTT      | Trường ĐHBK Hà Nội										|
+| 8 | Nguyễn Xuân Hoài    | PGS.TS    | Thành viên    | KHMT          | Viện Nghiên cứu và Phát triển CNTT - Trường ĐH Hà Nội	|
+| 9 | Hồ Văn Khương       | PGS.TS    | Thành viên    | Các HTTT      | Trường ĐHBK - ĐHQG TP.HCM								|
 
 
 # References
