@@ -2,12 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lecturer, <a href='[#](https://en.hust.edu.vn/)'>Hanoi University of Science and Technology</a><br>
-          luuquangtrung.vn [at] gmail [dot] com (personal)
+subtitle: Lecturer, <a href='https://seee.hust.edu.vn/'>School of Electrical and Electronic Engineering</a><br>
+          <a href='https://en.hust.edu.vn/'>Hanoi University of Science and Technology</a><br>
+          luuquangtrung.vn [at] gmail [dot] com (personal)<br>
 
 profile:
   align: right
-  image: trung_square.jpg
+  image: trung_cv1.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
