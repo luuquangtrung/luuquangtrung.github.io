@@ -2,7 +2,7 @@
 layout: post
 title: Patent granted by the UK Patent Office
 date: 2022-02-16 09:00:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
