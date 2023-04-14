@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-12-29 09:00:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
