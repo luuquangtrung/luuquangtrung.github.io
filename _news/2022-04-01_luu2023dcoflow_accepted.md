@@ -2,7 +2,7 @@
 layout: post
 title: Paper DCoflow has been accepted
 date: 2022-04-01 09:00:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
