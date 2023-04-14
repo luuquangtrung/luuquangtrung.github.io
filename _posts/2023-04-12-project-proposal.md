@@ -80,20 +80,20 @@ quả đã nêu.
 
 ## 2.3 Khả năng thành công
 * Đưa ra các khẳng định về sự thành công của đề tài
-	– Phân tích về khả năng thành công trong việc giải quyết các vấn đề nghiên cứu.
-	– Trình bày các kết quả thăm dò đã đạt được.
-	– Trình bày các kết quả đạt được liên quan đến các vấn đề nghiên cứu.
-	– Phân tích năng lực của nhóm liên quan đến các nội dung nghiên cứu.
-	– Khả năng liên kết trong nước và quốc tế.
-	– Khả năng hỗ trợ cơ sở vật chất của đơn vị.
+	* Phân tích về khả năng thành công trong việc giải quyết các vấn đề nghiên cứu.
+	* Trình bày các kết quả thăm dò đã đạt được.
+	* Trình bày các kết quả đạt được liên quan đến các vấn đề nghiên cứu.
+	* Phân tích năng lực của nhóm liên quan đến các nội dung nghiên cứu.
+	* Khả năng liên kết trong nước và quốc tế.
+	* Khả năng hỗ trợ cơ sở vật chất của đơn vị.
 
 # 3. Mục tiêu đề tài
 * Nêu rõ mục tiêu cần đạt được của đề tài, làm cơ sở xác định nội dung nghiên cứu và kế hoạch triển khai.
-	– Mục tiêu là một phát biểu rộng về các kết quả dự kiến trong khi nội dung nghiên cứu thường là các bước tiến hành để giải quyết vấn đề nghiên cứu.
+	* Mục tiêu là một phát biểu rộng về các kết quả dự kiến trong khi nội dung nghiên cứu thường là các bước tiến hành để giải quyết vấn đề nghiên cứu.
 * Các mục tiêu mong đợi
-	– Về kết quả dự kiến đối với các vấn đề nghiên cứu.
-	– Về tổ chức lực lượng, xây dựng nhóm nghiên cứu.
-	– Về đào tạo cán bộ trẻ, NCS, thạc sĩ.
+	* Về kết quả dự kiến đối với các vấn đề nghiên cứu.
+	* Về tổ chức lực lượng, xây dựng nhóm nghiên cứu.
+	* Về đào tạo cán bộ trẻ, NCS, thạc sĩ.
 
 # 4. Nội dung nghiên cứu
 * Trình bày rõ từng nội dung nghiên cứu và kết quả dự kiến gắn với mỗi nội dung.
@@ -105,10 +105,10 @@ quả đã nêu.
 
 # 5. Cách tiếp cận, phương pháp nghiên cứu
 * Mô tả chi tiết cách tiếp cận, phương pháp nghiên cứu, kỹ thuật sử dụng phù hợp với từng nội dung của đề tài nhằm đạt được mục tiêu của đề tài.
-	– Đảm bảo phương pháp nghiên cứu tương ứng với các nội dung nghiên cứu cụ thể đã nêu.
-	– Đảm bảo các phương pháp nghiên cứu là hữu ích, khả thi và càng đầy đủ càng tốt.
-	– Không nên tóm tắt quá.
-	– Trình bày tóm tắt về các giới hạn (rủi ro) của đề xuất, và các phương pháp thay thế để thực hiện kế hoạch dự kiến nếu có rủi ro xảy ra.
+	* Đảm bảo phương pháp nghiên cứu tương ứng với các nội dung nghiên cứu cụ thể đã nêu.
+	* Đảm bảo các phương pháp nghiên cứu là hữu ích, khả thi và càng đầy đủ càng tốt.
+	* Không nên tóm tắt quá.
+	* Trình bày tóm tắt về các giới hạn (rủi ro) của đề xuất, và các phương pháp thay thế để thực hiện kế hoạch dự kiến nếu có rủi ro xảy ra.
 
 # 6. Kế hoạch triển khai
 * Nội dung, công việc chủ yếu, các mốc đánh giá.
@@ -122,9 +122,9 @@ quả đã nêu.
 
 ## 7.1. Dự kiến kết quả nghiên cứu
 * Nêu dự kiến kết quả nghiên cứu (phát hiện mới, lý thuyết mới, phương pháp mới, vật liệu mới, …); ý nghĩa khoa học, khả năng sử dụng kết quả nghiên cứu.
-– Trình bày rõ kết quả dự kiến tương ứng với mục tiêu nghiên cứu.
-– Ý nghĩa, đối tượng thụ hưởng của các kết quả đề tài.
-– Phạm vi ứng dụng của nghiên cứu.
+* Trình bày rõ kết quả dự kiến tương ứng với mục tiêu nghiên cứu.
+* Ý nghĩa, đối tượng thụ hưởng của các kết quả đề tài.
+* Phạm vi ứng dụng của nghiên cứu.
 
 ## 7.2 Dự kiến công trình công bố
 1. Tạp chí ISI có uy tín (nhóm Q1 của SCI-E)
@@ -136,17 +136,17 @@ quả đã nêu.
 7. Khác
 
 * Số lượng tối thiểu bắt buộc:
-	– Đề tài thường: 02 bài báo trên tạp chí quốc tế uy tín + 01 bài báo trên tạp chí quốc gia uy tín.
-	– Đề tài thăm dò: 01 bài báo trên tạp chí quốc tế uy tín.
-	– Nhóm nghiên cứu mạnh: 02 bài báo trên tạp chí ISI uy tín + 01 bài báo trên tạp chí quốc gia uy tín.
+	* Đề tài thường: 02 bài báo trên tạp chí quốc tế uy tín + 01 bài báo trên tạp chí quốc gia uy tín.
+	* Đề tài thăm dò: 01 bài báo trên tạp chí quốc tế uy tín.
+	* Nhóm nghiên cứu mạnh: 02 bài báo trên tạp chí ISI uy tín + 01 bài báo trên tạp chí quốc gia uy tín.
 * CNĐT là tác giả chính của ít nhất 01 bài báo tạp chí quốc tế uy tín.
 * Dự kiến công bố nên tương ứng với quy mô đề tài (thời gian, kinh phí, nhân lực).
 
 **Chú ý**:
-– Kết quả công bố phải trong thời gian thực hiện hợp đồng và thời gian gia hạn, chờ công bố (nếu có).
-– 01 bài báo trên tạp chí ISI uy tín được tính thay thế cho 02 bài báo trên tạp chí quốc tế có uy tín.
-– Thời gian chờ công bố: đề tài hoàn thành nội dung, đã nộp bài báo quốc tế nhưng chưa được đăng hoặc chấp nhận đăng chính thức có thể nộp hồ sơ nghiệm thu, Quỹ cho phép cập nhật kết quả trong vòng 12 tháng.
-– Bài báo phải được ghi nhận tài trợ của Quỹ theo quy định.
+* Kết quả công bố phải trong thời gian thực hiện hợp đồng và thời gian gia hạn, chờ công bố (nếu có).
+* 01 bài báo trên tạp chí ISI uy tín được tính thay thế cho 02 bài báo trên tạp chí quốc tế có uy tín.
+* Thời gian chờ công bố: đề tài hoàn thành nội dung, đã nộp bài báo quốc tế nhưng chưa được đăng hoặc chấp nhận đăng chính thức có thể nộp hồ sơ nghiệm thu, Quỹ cho phép cập nhật kết quả trong vòng 12 tháng.
+* Bài báo phải được ghi nhận tài trợ của Quỹ theo quy định.
 
 ## 7.3. Dự kiến kết quả đào tạo (từ cao học trở lên)
 * Đào tạo NCS.
@@ -156,11 +156,11 @@ quả đã nêu.
 
 # 8. Nhóm nghiên cứu của đề tài
 * Không quá 7 thành viên
-	– Chủ nhiệm đề tài
-	– Thư ký khoa học
-	– Các thành viên NCCC
-	– Kỹ thuật viên
-	– NCS
+	* Chủ nhiệm đề tài
+	* Thư ký khoa học
+	* Các thành viên NCCC
+	* Kỹ thuật viên
+	* NCS
 * Cần thể hiện được kinh nghiệm và năng lực của đề tài đối với việc thực hiện thành công đề tài.
 * Cần cho thấy dựa trên thành công đã đạt được nhóm hoàn toàn có năng lực đáp ứng yêu cầu của đề tài.
 * Lựa chọn các thành viên có khả năng bổ sung cho nhau.
@@ -168,6 +168,7 @@ quả đã nêu.
 
 Vai trò của các thành viên
 
+----------------------------------------------------------------------------------------------
 Thành viên        | Ví dụ về nhiệm vụ
 ----------------------------------------------------------------------------------------------
 Chủ nhiệm đề tài  | Theo dõi, điều phối toàn bộ đề tài, đặc biệt là tính nhất quán về khoa học
@@ -175,15 +176,16 @@ Thư ký khoa học   | Quản lý việc nghiên cứu theo đề xuất đề 
 Thành viên NCCC   | Đóng góp theo từng lĩnh vực chuyên sâu
 Kỹ thuật viên     | Hỗ trợ coding, thu thập/phân tích dữ liệu, tiến hành đo đạc thực nghiệm.
 Nghiên cứu sinh   | Tham gia một phần nội dung nghiên cứu
+----------------------------------------------------------------------------------------------
 
 #### Chủ nhiệm đề tài (1)
 * Có chuyên môn phù hợp, đang công tác nghiên cứu tại một tổ chức KNCN. T/h CNĐT không thuộc một tổ chức KHCN nào, phải được một tổ chức khoa học và công nghệ chuyên ngành có uy tín trong lĩnh vực chuyên môn phù hợp bảo trợ và chấp nhận làm tổ chức chủ trì.
 * CNĐT chịu trách nhiệm định hướng và điều phối hoạt động của đề tài, quản lý nguồn kinh phí tài trợ.
 * Tiêu chí chung:
-	– Học vị TS hoặc học hàm PGS, GS.
-	– Có công bố trên tạp chí quốc tế có uy tín trong vòng 5 năm năm tính đến ngày nộp hồ sơ.
-	– Có đủ thời gian thực hiện. Nếu đi công tác nước ngoài, không quá 1/3 thời gian (5 tháng).
-	– Không có đề tài đã chủ nhiệm bị đánh giá Không đạt trong vòng 2 năm.
+	* Học vị TS hoặc học hàm PGS, GS.
+	* Có công bố trên tạp chí quốc tế có uy tín trong vòng 5 năm năm tính đến ngày nộp hồ sơ.
+	* Có đủ thời gian thực hiện. Nếu đi công tác nước ngoài, không quá 1/3 thời gian (5 tháng).
+	* Không có đề tài đã chủ nhiệm bị đánh giá Không đạt trong vòng 2 năm.
 * Mỗi cá nhân được đồng thời tham gia không quá 2 đề tài, trong đó làm chủ nhiệm không quá 01 đề tài do Quỹ tài trợ.
 
 #### Thư ký khoa học
@@ -200,9 +202,9 @@ Nghiên cứu sinh   | Tham gia một phần nội dung nghiên cứu
 
 #### Thành viên NCCC và TKKH
 * Yêu cầu:
-	– Có học vị TS hoặc học hàm GS/PGS.
-	– Có kết quả nghiên cứu phù hợp được công bố trên các tạp chí quốc gia, quốc tế có uy tín trong vòng 5 năm.
-	– T/h là thạc sỹ phải có hướng nghiên cứu phù hợp và có ít nhất 01 bài báo công bố trên tạp chí quốc tế có uy tín.
+	* Có học vị TS hoặc học hàm GS/PGS.
+	* Có kết quả nghiên cứu phù hợp được công bố trên các tạp chí quốc gia, quốc tế có uy tín trong vòng 5 năm.
+	* T/h là thạc sỹ phải có hướng nghiên cứu phù hợp và có ít nhất 01 bài báo công bố trên tạp chí quốc tế có uy tín.
 
 #### Chuẩn bị CV thành viên đề tài
 * Tập trung vào kinh nghiệm và trình độ chuyên môn của các thành viên liên quan đến đề tài.
@@ -221,6 +223,7 @@ Nghiên cứu sinh   | Tham gia một phần nội dung nghiên cứu
 
 # Hội đồng Khoa học ngành KHMT
 
+------------------------------------------------------------------------------------------------------------------------------
 TT  | Họ và tên           | Học hàm   | Chức vụ       | Ngành         | Đơn vị
 ------------------------------------------------------------------------------------------------------------------------------
 1   | Đinh Dũng           | GS. TSKH  | Chủ tịch      | KHMT          | Viện CNTT - ĐHQGHN
@@ -232,6 +235,8 @@ TT  | Họ và tên           | Học hàm   | Chức vụ       | Ngành       
 7   | Hoàng Mạnh Thắng    | PGS.TS    | Thành viên    | Các HTTT      | Trường ĐHBK Hà Nội
 8   | Nguyễn Xuân Hoài    | PGS.TS    | Thành viên    | KHMT          | Viện Nghiên cứu và Phát triển CNTT - Trường ĐH Hà Nội
 9   | Hồ Văn Khương       | PGS.TS    | Thành viên    | Các HTTT      | Trường ĐHBK - ĐHQG TP.HCM
+------------------------------------------------------------------------------------------------------------------------------
+
 
 # References
 
