@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: images/trung_square.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## bio
+
 Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam); two masters' degrees, one in antenna and telecom devices from Université Paris-Sud (now [Paris-Saclay University](http://www.universite-paris-saclay.fr/)) in 2016, and one another in multimedia networking from [Télécom Paris](https://www.telecom-paris.fr/) in 2017. He then obtained a Ph.D in networking from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/), France, in 2021. His thesis was also realized at [Nokia Bell Labs France](https://www.bell-labs.com/) within the CIFRE Ph.D Fellowship program supported by the [French National Association for Research in Technology (ANRT)](https://www.anrt.asso.fr/fr). 
 
 He sequentially conducted postdoctoral research at the [Computer Science Lab of University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and the [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) of the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France. He is now with [Hanoi University of Science and Technology](https://en.hust.edu.vn/).
