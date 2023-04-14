@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lecturer, <a href='[#](https://en.hust.edu.vn/)'>Hanoi University of Science and Technology</a>
+subtitle: Lecturer, <a href='[#](https://en.hust.edu.vn/)'>Hanoi University of Science and Technology</a><br>
           luuquangtrung.vn [at] gmail [dot] com (personal)
 
 profile:
