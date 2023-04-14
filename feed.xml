@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-14T08:48:22+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-14T08:50:07+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Viết đề cương thuyết minh đề tài</title><link href="luuquangtrung.github.io/posts/2023/04/project-proposal/" rel="alternate" type="text/html" title="Viết đề cương thuyết minh đề tài" /><published>2023-04-12T00:00:00+00:00</published><updated>2023-04-12T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/04/project-proposal</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/04/project-proposal/"><![CDATA[<p>Nội dung của post này chủ yếu lấy từ tài liệu[Tran2016].</p>
 
-<h1 id="thành-phần-của-một-đề-xuất-đề-tài">Thành phần của một đề xuất đề tài</h1>
+<h3 id="thành-phần-của-một-đề-xuất-đề-tài">Thành phần của một đề xuất đề tài</h3>
 <ol>
   <li>Tên đề tài</li>
   <li>Giới thiệu tổng quát</li>
@@ -13,14 +13,14 @@
   <li>Dự toán kinh phí</li>
 </ol>
 
-<h1 id="tên-đề-tài">Tên đề tài</h1>
+<h3 id="tên-đề-tài">Tên đề tài</h3>
 <ul>
   <li>Tóm tắt, ngắn gọn.</li>
   <li>Cần phản ánh được nội dung nghiên cứu.</li>
   <li>Phản ánh được định hướng nghiên cứu của hội đồng khoa học ngành.</li>
 </ul>
 
-<h1 id="1-giới-thiệu-tổng-quát">1. Giới thiệu tổng quát</h1>
+<h3 id="1-giới-thiệu-tổng-quát">1. Giới thiệu tổng quát</h3>
 <ul>
   <li>Giới thiệu tóm tắt về đề tài (nêu vấn đề, mục tiêu và phương pháp nghiên cứu, không quá 300 từ)</li>
   <li>Cung cấp thông tin liên quan tới:
@@ -34,7 +34,7 @@
   </li>
 </ul>
 
-<h1 id="2-tổng-quan-tình-hình-nghiên-cứu-và-sự-cần-thiết-nghiên-cứu">2. Tổng quan tình hình nghiên cứu và sự cần thiết nghiên cứu</h1>
+<h3 id="2-tổng-quan-tình-hình-nghiên-cứu-và-sự-cần-thiết-nghiên-cứu">2. Tổng quan tình hình nghiên cứu và sự cần thiết nghiên cứu</h3>
 <ul>
   <li>Tình hình nghiên cứu trong và ngoài nước</li>
   <li>Sự cần thiết tiến hành nghiên cứu</li>
@@ -43,7 +43,7 @@
 
 <p><strong>Chú ý</strong>: Nên có phần trình bày về bối cảnh, xu thế nghiên cứu và tầm quan trọng của lĩnh vực nghiên cứu trước; Tình hình nghiên cứu trong và ngoài nước –&gt; Tầm quan trọng của lĩnh vực nghiên cứu.</p>
 
-<h2 id="21-tình-hình-nghiên-cứu-trong--ngoài-nước">2.1 Tình hình nghiên cứu trong &amp; ngoài nước</h2>
+<h5 id="21-tình-hình-nghiên-cứu-trong--ngoài-nước">2.1 Tình hình nghiên cứu trong &amp; ngoài nước</h5>
 <ul>
   <li>Nêu rõ những nghiên cứu do các nhà khoa học nước ngoài, trong nước tiến hành theo hướng nghiên cứu của đề tài, kết quả đạt được, nhận xét về những kết
 quả đã nêu.
@@ -71,7 +71,7 @@ quả đã nêu.
   </li>
 </ul>
 
-<h2 id="22-sự-cần-thiết-tiến-hành-nghiên-cứu">2.2 Sự cần thiết tiến hành nghiên cứu</h2>
+<h5 id="22-sự-cần-thiết-tiến-hành-nghiên-cứu">2.2 Sự cần thiết tiến hành nghiên cứu</h5>
 <ul>
   <li>Nêu rõ vấn đề mà đề tài tập trung giải quyết.
     <ul>
@@ -87,7 +87,7 @@ quả đã nêu.
   </li>
 </ul>
 
-<h2 id="23-khả-năng-thành-công">2.3 Khả năng thành công</h2>
+<h5 id="23-khả-năng-thành-công">2.3 Khả năng thành công</h5>
 <ul>
   <li>Đưa ra các khẳng định về sự thành công của đề tài
     <ul>
@@ -101,7 +101,7 @@ quả đã nêu.
   </li>
 </ul>
 
-<h1 id="3-mục-tiêu-đề-tài">3. Mục tiêu đề tài</h1>
+<h3 id="3-mục-tiêu-đề-tài">3. Mục tiêu đề tài</h3>
 <ul>
   <li>Nêu rõ mục tiêu cần đạt được của đề tài, làm cơ sở xác định nội dung nghiên cứu và kế hoạch triển khai.
     <ul>
@@ -117,7 +117,7 @@ quả đã nêu.
   </li>
 </ul>
 
-<h1 id="4-nội-dung-nghiên-cứu">4. Nội dung nghiên cứu</h1>
+<h3 id="4-nội-dung-nghiên-cứu">4. Nội dung nghiên cứu</h3>
 <ul>
   <li>Trình bày rõ từng nội dung nghiên cứu và kết quả dự kiến gắn với mỗi nội dung.</li>
   <li>Cần gắn được mỗi vấn đề mở với một nội dung nghiên cứu cụ thể.</li>
@@ -127,7 +127,7 @@ quả đã nêu.
 
 <p><strong>Chú ý</strong>: Nội dung nghiên cứu thường là cơ sở để xem xét đánh giá xét chọn, đánh giá mức độ hoàn thành khi nghiệm thu đề tài.</p>
 
-<h1 id="5-cách-tiếp-cận-phương-pháp-nghiên-cứu">5. Cách tiếp cận, phương pháp nghiên cứu</h1>
+<h3 id="5-cách-tiếp-cận-phương-pháp-nghiên-cứu">5. Cách tiếp cận, phương pháp nghiên cứu</h3>
 <ul>
   <li>Mô tả chi tiết cách tiếp cận, phương pháp nghiên cứu, kỹ thuật sử dụng phù hợp với từng nội dung của đề tài nhằm đạt được mục tiêu của đề tài.
     <ul>
@@ -139,7 +139,7 @@ quả đã nêu.
   </li>
 </ul>
 
-<h1 id="6-kế-hoạch-triển-khai">6. Kế hoạch triển khai</h1>
+<h3 id="6-kế-hoạch-triển-khai">6. Kế hoạch triển khai</h3>
 <ul>
   <li>Nội dung, công việc chủ yếu, các mốc đánh giá.</li>
   <li>Nên phân thành từng giai đoạn triển khai thực hiện đề tài.</li>
@@ -149,9 +149,9 @@ quả đã nêu.
   <li>Mốc thời gian triển khai xác định theo tháng thực hiện (VD: tháng thứ nhất, thứ hai…), không nên theo lịch.</li>
 </ul>
 
-<h1 id="7-dự-kiến-kết-quả-đề-tài">7. Dự kiến kết quả đề tài</h1>
+<h3 id="7-dự-kiến-kết-quả-đề-tài">7. Dự kiến kết quả đề tài</h3>
 
-<h2 id="71-dự-kiến-kết-quả-nghiên-cứu">7.1. Dự kiến kết quả nghiên cứu</h2>
+<h5 id="71-dự-kiến-kết-quả-nghiên-cứu">7.1. Dự kiến kết quả nghiên cứu</h5>
 <ul>
   <li>Nêu dự kiến kết quả nghiên cứu (phát hiện mới, lý thuyết mới, phương pháp mới, vật liệu mới, …); ý nghĩa khoa học, khả năng sử dụng kết quả nghiên cứu.</li>
   <li>Trình bày rõ kết quả dự kiến tương ứng với mục tiêu nghiên cứu.</li>
@@ -159,7 +159,7 @@ quả đã nêu.
   <li>Phạm vi ứng dụng của nghiên cứu.</li>
 </ul>
 
-<h2 id="72-dự-kiến-công-trình-công-bố">7.2 Dự kiến công trình công bố</h2>
+<h5 id="72-dự-kiến-công-trình-công-bố">7.2 Dự kiến công trình công bố</h5>
 <ol>
   <li>Tạp chí ISI có uy tín (nhóm Q1 của SCI-E)</li>
   <li>Tạp chí quốc tế có uy tín (thêm nhóm Q2 + Q3 của SCI-E)</li>
@@ -190,7 +190,7 @@ quả đã nêu.
   <li>Bài báo phải được ghi nhận tài trợ của Quỹ theo quy định.</li>
 </ul>
 
-<h2 id="73-dự-kiến-kết-quả-đào-tạo-từ-cao-học-trở-lên">7.3. Dự kiến kết quả đào tạo (từ cao học trở lên)</h2>
+<h5 id="73-dự-kiến-kết-quả-đào-tạo-từ-cao-học-trở-lên">7.3. Dự kiến kết quả đào tạo (từ cao học trở lên)</h5>
 <ul>
   <li>Đào tạo NCS.</li>
   <li>Đào tạo học viên cao học.</li>
@@ -198,7 +198,7 @@ quả đã nêu.
   <li>Số lượng đào tạo có liên quan đến kinh phí đề tài.</li>
 </ul>
 
-<h1 id="8-nhóm-nghiên-cứu-của-đề-tài">8. Nhóm nghiên cứu của đề tài</h1>
+<h3 id="8-nhóm-nghiên-cứu-của-đề-tài">8. Nhóm nghiên cứu của đề tài</h3>
 <ul>
   <li>Không quá 7 thành viên
     <ul>
@@ -248,7 +248,7 @@ quả đã nêu.
   </tbody>
 </table>
 
-<h4 id="chủ-nhiệm-đề-tài-1">Chủ nhiệm đề tài (1)</h4>
+<p><strong>Chủ nhiệm đề tài</strong></p>
 <ul>
   <li>Có chuyên môn phù hợp, đang công tác nghiên cứu tại một tổ chứxc KNCN. T/h CNĐT không thuộc một tổ chức KHCN nào, phải được một tổ chức khoa học và công nghệ chuyên ngành có uy tín trong lĩnh vực chuyên môn phù hợp bảo trợ và chấp nhận làm tổ chức chủ trì.</li>
   <li>CNĐT chịu trách nhiệm định hướng và điều phối hoạt động của đề tài, quản lý nguồn kinh phí tài trợ.</li>
@@ -263,7 +263,7 @@ quả đã nêu.
   <li>Mỗi cá nhân được đồng thời tham gia không quá 2 đề tài, trong đó làm chủ nhiệm không quá 01 đề tài do Quỹ tài trợ.</li>
 </ul>
 
-<h4 id="thư-ký-khoa-học">Thư ký khoa học</h4>
+<p><strong>Thư ký khoa học</strong></p>
 <ul>
   <li>Quản lý các hoạt độngnghiên cứu theo tiến trình đề xuất của đề tài.</li>
   <li>Không phải thư ký hành chính.</li>
@@ -271,7 +271,7 @@ quả đã nêu.
   <li>Thường yêu cầu trình độ tiến sỹ.</li>
 </ul>
 
-<h4 id="thành-viên-nccc">Thành viên NCCC</h4>
+<p><strong>Thành viên NCCC</strong></p>
 <ul>
   <li>Thành viên NCCC thường có cùng hướng nghiên cứu hoặc có liên quan có khả năng bù trừ kỹ năng và chuyên môn.</li>
   <li>Người có thể bổ sung chuyên môn, mà “không sao chép”.</li>
@@ -279,7 +279,7 @@ quả đã nêu.
   <li>Có thể hợp tác và sẵn sàng hợp tác.</li>
 </ul>
 
-<h4 id="thành-viên-nccc-và-tkkh">Thành viên NCCC và TKKH</h4>
+<p><strong>Thành viên NCCC và TKKH</strong></p>
 <ul>
   <li>Yêu cầu:
     <ul>
@@ -290,14 +290,14 @@ quả đã nêu.
   </li>
 </ul>
 
-<h4 id="chuẩn-bị-cv-thành-viên-đề-tài">Chuẩn bị CV thành viên đề tài</h4>
+<p><strong>Chuẩn bị CV thành viên đề tài</strong></p>
 <ul>
   <li>Tập trung vào kinh nghiệm và trình độ chuyên môn của các thành viên liên quan đến đề tài.</li>
   <li>Danh mục các đề tài, bài báo, báo cáo khoa học đã trình bày.</li>
   <li>CV sẽ được xem xét kỹ nên tránh bỏ sót các thành tích nghiên cứu đã đạt được.</li>
 </ul>
 
-<h4 id="tiêu-chí-đánh-giá">Tiêu chí đánh giá</h4>
+<p><strong>Tiêu chí đánh giá</strong></p>
 <ul>
   <li>Phù hợp với hướng nghiên cứu cơ bản do Quỹ tài trợ</li>
   <li>Tính mới, tính sáng tạo của vấn đề nghiên cứu đề xuất.</li>
@@ -308,7 +308,7 @@ quả đã nêu.
   <li>Dự toán kinh phí nghiên cứu hợp lý theo quy định.</li>
 </ul>
 
-<h1 id="hội-đồng-khoa-học-ngành-khmt">Hội đồng Khoa học ngành KHMT</h1>
+<h3 id="hội-đồng-khoa-học-ngành-khmt">Hội đồng Khoa học ngành KHMT</h3>
 
 <table>
   <thead>
@@ -397,7 +397,7 @@ quả đã nêu.
   </tbody>
 </table>
 
-<h1 id="references">References</h1>
+<h3 id="references">References</h3>
 <ul>
   <li>[Tran2016] Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, <em>The 3rd NAFOSTED Conference on Information and Computer Science</em>, 2016.</li>
   <li>37/2014/TT-BKHCN: [Quy định quản lý đề tài nghiên cứu cơ bản do Quỹ phát triển khoa học và công nghệ quốc gia <a href="http://www.nafosted.gov.vn/vi/archives/view/37242014TT-BKCN-26/">tài trợ.</a>, 12/12/2014.</li>
