@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "PhD Dissertation Award"
 date: 2022-02-16
 permalink: /posts/2023/02/phd-thesis-prize/ 
