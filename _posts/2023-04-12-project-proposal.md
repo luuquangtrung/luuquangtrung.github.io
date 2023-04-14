@@ -17,7 +17,7 @@ related_posts: false
 
 Nội dung của bài viết này chủ yếu lấy từ tài liệu [Tran2016][^Tran2016] và các văn bản quy chế của Quỹ Nafosted[^BKHCN37][^QĐ31][^QĐ73][^BKHCN55][^BKHCN27].
 
-[^Tran2016]: [Tran2016] Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, *The 3rd NAFOSTED Conference on Information and Computer Science*, 2016. 
+[^Tran2016]: Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, *The 3rd NAFOSTED Conference on Information and Computer Science*, 2016. 
 [^BKHCN37]: 37/2014/TT-BKHCN: [Quy định quản lý đề tài nghiên cứu cơ bản do Quỹ phát triển khoa học và công nghệ quốc gia tài trợ.](http://www.nafosted.gov.vn/vi/archives/view/37242014TT-BKCN-26/), 12/12/2014.
 [^QĐ31]: 31/QĐ-HĐQL-NAFOSTED: [Phê duyệt và ban hành các danh mục tạp chí uy tín trong lĩnh vực KHTN&KT theo quy định tại TT 37/2014/BKHCN](http://www.nafosted.gov.vn/vi/archives/view/31QD-HDQL-NAFOSTED-31/), 30/03/2016.
 [^QĐ73]: 73/QĐ-HĐQL-NAFOSTED: [Phê duyệt danh mục tạp chí quốc gia có uy tín trong lĩnh vực khoa học tự nhiên và kỹ thuật](http://www.nafosted.gov.vn/vi/archives/view/73QD-HDQL-NAFOSTED-33/), 19/05/2016.
