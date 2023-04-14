@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    Postdoctoral fellow, [LAAS-CNRS](https://www.laas.fr/public/)\
+    Toulouse, France
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +18,24 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Bio
+Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam); two masters' degrees, one in antenna and telecom devices from Université Paris-Sud (now Paris-Saclay University) in 2016, and one another in multimedia networking from [Télécom Paris](https://www.telecom-paris.fr/) in 2017. He then obtained a Ph.D in networking from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/), France, in 2021. His thesis was also realized at [Nokia Bell Labs France](https://www.bell-labs.com/) within the CIFRE Ph.D Fellowship program supported by the [French National Association for Research in Technology (ANRT)](https://www.anrt.asso.fr/fr). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+He sequentially conducted postdoctoral research at the [Computer Science Lab of University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and the [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) of the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Quang-Trung Luu is the recipient of the [*2022 Best PhD Dissertation Award on Distributed Systems and Networks*](https://gdr-rsd.fr/laureats-prix-de-these-2022/), awarded by the French Research Community on Networks and Distributed Systems ([GDR-RSD](https://gdr-rsd.fr/), operated by CNRS), and ACM SigOps France ([ASF](http://www.sigops-france.fr/)).
+
+His research interests cover network modelling, network optimization, resource allocation and orchestration in communication networks.
+
+## Research interests
+* **Networking**: 5G & beyond, network optimization, resource allocation and orchestration, flow scheduling
+* **Intelligence**: Learning algorithms for networked systems (e.g., deep reinforcement learning, federated learning)
+* **Computing**: Cloud computing, edge computing, datacenter networking
+
+
+## Contact
+Office:
+&nbsp;&nbsp;&nbsp; Équipe SARA, LAAS-CNRS, 7 avenue du Colonel Roche, 31400 Toulouse, France\
+E-mails:
+&nbsp;&nbsp;qtluu [at] laas [dot] fr (work);
+&nbsp;&nbsp;&nbsp;&nbsp; luuquangtrung.vn [at] gmail [dot] com (personal) 
