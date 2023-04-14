@@ -17,7 +17,7 @@ related_posts: false
 
 Nội dung của post này chủ yếu lấy từ tài liệu[^Tran2016]
 
-[^Tran2016]Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, *The 3rd NAFOSTED Conference on Information and Computer Science*, 2016.
+[^Tran2016] Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, *The 3rd NAFOSTED Conference on Information and Computer Science*, 2016.
 
 
 # Thành phần của một đề xuất đề tài
