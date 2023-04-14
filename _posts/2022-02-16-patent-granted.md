@@ -7,7 +7,7 @@ read_time: false
 categories:
   - blog
 header:
-  teaser: /files/post_materials/GB2591973_Certificate-of-grant-of-patent.jpg
+  teaser: /assets/post_materials/GB2591973_Certificate-of-grant-of-patent.jpg
 tags:
   - patent
   - certificate of grant
@@ -40,4 +40,4 @@ transmit the resource graph to an infrastructure manager for mapping a topology 
 </div>
 
 
-![GB2591973_Certificate-of-grant-of-patent](/files/post_materials/GB2591973_Certificate-of-grant-of-patent.jpg)
+![GB2591973_Certificate-of-grant-of-patent](/assets/post_materials/GB2591973_Certificate-of-grant-of-patent.jpg)
