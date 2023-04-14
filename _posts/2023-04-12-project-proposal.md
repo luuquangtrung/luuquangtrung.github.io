@@ -21,8 +21,7 @@ Nội dung của bài viết này chủ yếu lấy từ tài liệu [Tran2016][
 [^BKHCN37]: 37/2014/TT-BKHCN, [Quy định quản lý đề tài nghiên cứu cơ bản do Quỹ phát triển khoa học và công nghệ quốc gia tài trợ.](http://www.nafosted.gov.vn/vi/archives/view/37242014TT-BKCN-26/), 12/12/2014.
 [^QD31]: 31/QĐ-HĐQL-NAFOSTED, [Phê duyệt và ban hành các danh mục tạp chí uy tín trong lĩnh vực KHTN&KT theo quy định tại TT 37/2014/BKHCN](http://www.nafosted.gov.vn/vi/archives/view/31QD-HDQL-NAFOSTED-31/), 30/03/2016.
 [^QD73]: 73/QĐ-HĐQL-NAFOSTED, [Phê duyệt danh mục tạp chí quốc gia có uy tín trong lĩnh vực khoa học tự nhiên và kỹ thuật](http://www.nafosted.gov.vn/vi/archives/view/73QD-HDQL-NAFOSTED-33/), 19/05/2016.
-[^BKHCN55]: 55/2015/TTLT-BTC-BKHCN, [Hướng dẫn định mức xây dựng, phân bố dự toán và quyết toán kinh phí đối với nhiệm vụ khoa học và công nghệ có sử dụng ngân sách
-nhà nước](http://www.nafosted.gov.vn/vi/archives/view/552015TTLT-BTC-BKHCN-28/), 08/06/2015.
+[^BKHCN55]: 55/2015/TTLT-BTC-BKHCN, [Hướng dẫn định mức xây dựng, phân bố dự toán và quyết toán kinh phí đối với nhiệm vụ khoa học và công nghệ có sử dụng ngân sách nhà nước](http://www.nafosted.gov.vn/vi/archives/view/552015TTLT-BTC-BKHCN-28/), 08/06/2015.
 [^BKHCN27]: 27/2015/TTLT-BKHCN-BTC, [Quy định khoán chi thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước](http://www.nafosted.gov.vn/vi/archives/view/272015TTLT-BKHCN-BTC-32/), 30/12/2015.
 
 
