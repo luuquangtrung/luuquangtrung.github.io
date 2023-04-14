@@ -17,7 +17,7 @@ tags:
 {: .notice--warning}
 
 <!-- ![Thesis-Prize](/assets/post_materials/prix_gdr-rsd.png) -->
-<img src="/assets/post_materials/prix_gdr-rsd.png" width="50%" height="50%">
+<img src="/assets/post_materials/prix_gdr-rsd.png" width="90%" height="90%">
 
 
 <!-- **Reference** -->
