@@ -7,7 +7,7 @@ read_time: false
 categories:
   - blog
 header:
-  teaser: /files/post_materials/lp.png
+  teaser: /assets/post_materials/lp.png
 tags:
   - research proposal
   - nafosted
@@ -15,7 +15,7 @@ tags:
 related_posts: false
 ---
 
-Nội dung của post này chủ yếu lấy từ tài liệu[Tran2016].
+Nội dung của post này chủ yếu lấy từ tài liệu [Tran2016].
 
 
 
