@@ -2,7 +2,7 @@
 layout: post
 title: Interview with VOV
 date: 2021-01-13 09:00:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
