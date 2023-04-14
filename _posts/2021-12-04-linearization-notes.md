@@ -1,13 +1,13 @@
 ---
 title: "Some linearization techniques in linear programming"
-layout: single
+layout: post
 date: 2021-12-04
 permalink: /posts/2021/12/notes-linearization/ 
 read_time: false
 categories:
   - blog
 header:
-  teaser: /files/post_materials/lp.png
+  teaser: /assets/post_materials/lp.png
 tags:
   - linearization
   - linear program
