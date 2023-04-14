@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Lecturer, [Hanoi University of Science and Technology](https://en.hust.edu.vn/)
+          luuquangtrung.vn [at] gmail [dot] com (personal)
 
 profile:
   align: right
@@ -31,9 +32,9 @@ Quang-Trung Luu is the recipient of the [*2022 Best PhD Dissertation Award on Di
 * **Computing**: Cloud computing, edge computing, datacenter networking
 
 
-## contact
+<!-- ## contact
 Office:
 &nbsp;&nbsp;&nbsp; Équipe SARA, LAAS-CNRS, 7 avenue du Colonel Roche, 31400 Toulouse, France\
 E-mails:
 &nbsp;&nbsp;qtluu [at] laas [dot] fr (work);
-&nbsp;&nbsp;&nbsp;&nbsp; luuquangtrung.vn [at] gmail [dot] com (personal) 
+&nbsp;&nbsp;&nbsp;&nbsp; luuquangtrung.vn [at] gmail [dot] com (personal)  -->
