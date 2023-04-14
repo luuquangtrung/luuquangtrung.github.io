@@ -1,9 +1,559 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Nội dung của post này chủ yếu lấy từ tài liệu[^Tran2016]</p>
+<!DOCTYPE html>
+<html lang="en">
+
+  <!-- Head -->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
+    
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Viết đề cương thuyết minh đề tài | Trung Q. Luu</title>
+    <meta name="author" content="Trung Q. Luu">
+    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+">
+    <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
+
+
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous">
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700%7CRoboto+Slab:100,300,400,500,700%7CMaterial+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
+
+    <!-- Styles -->
+    
+    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
+    
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="canonical" href="luuquangtrung.github.io/posts/2023/04/project-proposal/">
+    
+    <!-- Dark Mode -->
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
+    
+
+  </head>
+
+  <!-- Body -->
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+    <header>
+
+      <!-- Nav Bar -->
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+        <div class="container">
+          <a class="navbar-brand title font-weight-lighter" href="/"><span class="font-weight-bold">Trung </span>Q. Luu</a>
+          <!-- Navbar Toggle -->
+          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <ul class="navbar-nav ml-auto flex-nowrap">
+
+              <!-- About -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/">about</a>
+              </li>
+              
+              <!-- Blog -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/blog/">blog</a>
+              </li>
+
+              <!-- Other pages -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/publications/">publications</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/projects/">projects</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/repositories/">repositories</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/cv/">cv</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/teaching/">teaching</a>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">submenus</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/publications/">publications</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/projects/">projects</a>
+                </div>
+              </li>
+
+              <!-- Toogle theme mode -->
+              <li class="toggle-container">
+                <button id="light-toggle" title="Change theme">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Scrolling Progress Bar -->
+      <progress id="progress" value="0">
+        <div class="progress-container">
+          <span class="progress-bar"></span>
+        </div>
+      </progress>
+    </header>
+
+
+    <!-- Content -->
+    <div class="container mt-5">
+      <!-- _layouts/post.html -->
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Viết đề cương thuyết minh đề tài</h1>
+    <p class="post-meta">April 12, 2023</p>
+    <p class="post-tags">
+      <a href="/blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
+        ·  
+        <a href="/blog/tag/research-proposal">
+          <i class="fas fa-hashtag fa-sm"></i> research proposal</a>  
+          <a href="/blog/tag/nafosted">
+          <i class="fas fa-hashtag fa-sm"></i> nafosted</a>  
+          <a href="/blog/tag/funding">
+          <i class="fas fa-hashtag fa-sm"></i> funding</a>  
+          
+        ·  
+        <a href="/blog/category/blog">
+          <i class="fas fa-tag fa-sm"></i> blog</a>  
+          
+
+    </p>
+  </header>
+
+  <article class="post-content">
+    <p>Nội dung của post này chủ yếu lấy từ tài liệu[^Tran2016]</p>
 
 <p>[^Tran2016]Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, <em>The 3rd NAFOSTED Conference on Information and Computer Science</em>, 2016.</p>
 
-<h3 id="references">References</h3>
+<h1 id="thành-phần-của-một-đề-xuất-đề-tài">Thành phần của một đề xuất đề tài</h1>
+<ol>
+  <li>Tên đề tài</li>
+  <li>Giới thiệu tổng quát</li>
+  <li>Tổng quan tình hình &amp; sự cần thiết nghiên cứu</li>
+  <li>Mục tiêu đề tài</li>
+  <li>Nội dung nghiên cứu</li>
+  <li>Cách tiếp cận, phương pháp nghiên cứu</li>
+  <li>Dự kiến kết quả</li>
+  <li>Dự toán kinh phí</li>
+</ol>
 
-</body></html>
+<h1 id="tên-đề-tài">Tên đề tài</h1>
+<ul>
+  <li>Tóm tắt, ngắn gọn.</li>
+  <li>Cần phản ánh được nội dung nghiên cứu.</li>
+  <li>Phản ánh được định hướng nghiên cứu của hội đồng khoa học ngành.</li>
+</ul>
+
+<h1 id="1-giới-thiệu-tổng-quát">1. Giới thiệu tổng quát</h1>
+<ul>
+  <li>Giới thiệu tóm tắt về đề tài (nêu vấn đề, mục tiêu và phương pháp nghiên cứu, không quá 300 từ)</li>
+  <li>Cung cấp thông tin liên quan tới:
+    <ul>
+      <li>Mục tiêu của nghiên cứu.</li>
+      <li>Tầm quan trọng của nghiên cứu.</li>
+      <li>Bối cảnh và tính khả thi của đề tài.</li>
+      <li>Mô tả tóm tắt thông tin liên quan, đối tượng quan tâm, các giả thiết, phương pháp và các kết quả mong đợi.</li>
+      <li>Mô tả các đóng góp của nghiên cứu đề xuất cho tri thức.</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="2-tổng-quan-tình-hình-nghiên-cứu-và-sự-cần-thiết-nghiên-cứu">2. Tổng quan tình hình nghiên cứu và sự cần thiết nghiên cứu</h1>
+<ul>
+  <li>Tình hình nghiên cứu trong và ngoài nước</li>
+  <li>Sự cần thiết tiến hành nghiên cứu</li>
+  <li>Khả năng thành công</li>
+</ul>
+
+<p><strong>Chú ý</strong>: Nên có phần trình bày về bối cảnh, xu thế nghiên cứu và tầm quan trọng của lĩnh vực nghiên cứu trước; Tình hình nghiên cứu trong và ngoài nước –&gt; Tầm quan trọng của lĩnh vực nghiên cứu.</p>
+
+<h2 id="21-tình-hình-nghiên-cứu-trong--ngoài-nước">2.1 Tình hình nghiên cứu trong &amp; ngoài nước</h2>
+<ul>
+  <li>Nêu rõ những nghiên cứu do các nhà khoa học nước ngoài, trong nước tiến hành theo hướng nghiên cứu của đề tài, kết quả đạt được, nhận xét về những kết
+quả đã nêu.
+    <ul>
+      <li>Tổng quan về các kết quả đã công bố liên quan đến hướng nghiên cứu của đề tài.</li>
+      <li>Sử dụng các trích dẫn trong khoảng 10 năm trở lại, ngoại trừ các công trình “hạt giống” không thể bỏ qua.</li>
+      <li>Tập trung vào các vấn đề mà nghiên cứu sẽ đề cập làm rõ; làm rõ được các vấn đề nghiên cứu mở.</li>
+      <li>Không nên tóm tắt và cũng không nên dài quá.</li>
+    </ul>
+  </li>
+  <li>Nêu mức độ cập nhật của các nghiên cứu trong nước so với các nước tiên tiến đang tiến hành theo cùng hướng nghiên cứu. Những tổ chức khoa học đang tiến hành những nghiên cứu liên quan.
+    <ul>
+      <li>Giới thiệu về các nhóm nghiên cứu và các nghiên cứu trong nước có liên quan.</li>
+      <li>Chú ý nên bổ sung đầy đủ các nhóm liên quan.</li>
+    </ul>
+  </li>
+  <li>Nêu những kết quả nghiên cứu của chủ nhiệm đề tài đã
+đạt được theo hướng nghiên cứu của đề tài.
+    <ul>
+      <li>Đây là nội dung quan trọng để phân biệt đề tài kế thừa hay thăm dò.</li>
+      <li>Đề xuất thuộc loại kế thừa nên trích dẫn, phân tích chi tiết các kết quả đạt được của nhóm, từng thành viên của nhóm.</li>
+      <li>Tập trung vào các kết quả liên quan để thấy được tính khả thi.</li>
+      <li>Đề xuất đề tài đã có các kết quả thăm dò thì sẽ tăng cả năng chấp nhận.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="22-sự-cần-thiết-tiến-hành-nghiên-cứu">2.2 Sự cần thiết tiến hành nghiên cứu</h2>
+<ul>
+  <li>Nêu rõ vấn đề mà đề tài tập trung giải quyết.
+    <ul>
+      <li>Phát biểu được rõ ràng các vấn đề sẽ tập trung nghiên cứu –&gt; Chính là các vấn đề mở đã được dẫn dắt trong phần tổng quan về tình hình nghiên cứu.</li>
+      <li>Mức độ rõ càng sẽ làm cho người phản biện và Hội đồng hiểu rõ về đề tài.</li>
+    </ul>
+  </li>
+  <li>Phân tích tính mới, tính thời sự, ý nghĩa khoa học và sự cần thiết của vấn đề cần nghiên cứu.
+    <ul>
+      <li>Chỉ rõ được các vấn đề nghiên cứu là mới, có tính thời sự và cần thiết phải nghiên cứu.</li>
+      <li>Ý nghĩa khoa học và thực tiễn của vấn đề nghiên cứu.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="23-khả-năng-thành-công">2.3 Khả năng thành công</h2>
+<ul>
+  <li>Đưa ra các khẳng định về sự thành công của đề tài
+  – Phân tích về khả năng thành công trong việc giải quyết các vấn đề nghiên cứu.
+  – Trình bày các kết quả thăm dò đã đạt được.
+  – Trình bày các kết quả đạt được liên quan đến các vấn đề nghiên cứu.
+  – Phân tích năng lực của nhóm liên quan đến các nội dung nghiên cứu.
+  – Khả năng liên kết trong nước và quốc tế.
+  – Khả năng hỗ trợ cơ sở vật chất của đơn vị.</li>
+</ul>
+
+<h1 id="3-mục-tiêu-đề-tài">3. Mục tiêu đề tài</h1>
+<ul>
+  <li>Nêu rõ mục tiêu cần đạt được của đề tài, làm cơ sở xác định nội dung nghiên cứu và kế hoạch triển khai.
+  – Mục tiêu là một phát biểu rộng về các kết quả dự kiến trong khi nội dung nghiên cứu thường là các bước tiến hành để giải quyết vấn đề nghiên cứu.</li>
+  <li>Các mục tiêu mong đợi
+  – Về kết quả dự kiến đối với các vấn đề nghiên cứu.
+  – Về tổ chức lực lượng, xây dựng nhóm nghiên cứu.
+  – Về đào tạo cán bộ trẻ, NCS, thạc sĩ.</li>
+</ul>
+
+<h1 id="4-nội-dung-nghiên-cứu">4. Nội dung nghiên cứu</h1>
+<ul>
+  <li>Trình bày rõ từng nội dung nghiên cứu và kết quả dự kiến gắn với mỗi nội dung.</li>
+  <li>Cần gắn được mỗi vấn đề mở với một nội dung nghiên cứu cụ thể.</li>
+  <li>Các nội dung nghiên cứu phải có cả khả năng định lượng, tập trung và có tính khả thi trong phạm vi đề tài.</li>
+  <li>Nên thực tế về năng lực thực hiện trong thời gian và kinh phí cho phép.</li>
+</ul>
+
+<p><strong>Chú ý</strong>: Nội dung nghiên cứu thường là cơ sở để xem xét đánh giá xét chọn, đánh giá mức độ hoàn thành khi nghiệm thu đề tài.</p>
+
+<h1 id="5-cách-tiếp-cận-phương-pháp-nghiên-cứu">5. Cách tiếp cận, phương pháp nghiên cứu</h1>
+<ul>
+  <li>Mô tả chi tiết cách tiếp cận, phương pháp nghiên cứu, kỹ thuật sử dụng phù hợp với từng nội dung của đề tài nhằm đạt được mục tiêu của đề tài.
+  – Đảm bảo phương pháp nghiên cứu tương ứng với các nội dung nghiên cứu cụ thể đã nêu.
+  – Đảm bảo các phương pháp nghiên cứu là hữu ích, khả thi và càng đầy đủ càng tốt.
+  – Không nên tóm tắt quá.
+  – Trình bày tóm tắt về các giới hạn (rủi ro) của đề xuất, và các phương pháp thay thế để thực hiện kế hoạch dự kiến nếu có rủi ro xảy ra.</li>
+</ul>
+
+<h1 id="6-kế-hoạch-triển-khai">6. Kế hoạch triển khai</h1>
+<ul>
+  <li>Nội dung, công việc chủ yếu, các mốc đánh giá.</li>
+  <li>Nên phân thành từng giai đoạn triển khai thực hiện đề tài.</li>
+  <li>Nên trình bày tương ứng với các nội dung nghiên cứu.</li>
+  <li>Phân công trách nhiệm cho thấy vai trò của từng thành viên, đặc biệt là các thành viên chủ chốt.</li>
+  <li>Thời gian thực hiện đề tài không quá 2 năm; đề tài thực nghiệm không quá 3 năm.</li>
+  <li>Mốc thời gian triển khai xác định theo tháng thực hiện (VD: tháng thứ nhất, thứ hai…), không nên theo lịch.</li>
+</ul>
+
+<h1 id="7-dự-kiến-kết-quả-đề-tài">7. Dự kiến kết quả đề tài</h1>
+
+<h2 id="71-dự-kiến-kết-quả-nghiên-cứu">7.1. Dự kiến kết quả nghiên cứu</h2>
+<ul>
+  <li>Nêu dự kiến kết quả nghiên cứu (phát hiện mới, lý thuyết mới, phương pháp mới, vật liệu mới, …); ý nghĩa khoa học, khả năng sử dụng kết quả nghiên cứu.
+– Trình bày rõ kết quả dự kiến tương ứng với mục tiêu nghiên cứu.
+– Ý nghĩa, đối tượng thụ hưởng của các kết quả đề tài.
+– Phạm vi ứng dụng của nghiên cứu.</li>
+</ul>
+
+<h2 id="72-dự-kiến-công-trình-công-bố">7.2 Dự kiến công trình công bố</h2>
+<ol>
+  <li>Tạp chí ISI có uy tín (nhóm Q1 của SCI-E)</li>
+  <li>Tạp chí quốc tế có uy tín (thêm nhóm Q2 + Q3 của SCI-E)</li>
+  <li>Tạp chí quốc tế khác</li>
+  <li>Tạp chí quốc gia có uy tín (lựa chọn từ danh sách của HĐGSNN)</li>
+  <li>Hội nghị khoa học quốc tế, quốc gia</li>
+  <li>Sách chuyên khảo (tránh nhầm lẫn với sách tham khảo)</li>
+  <li>Khác</li>
+</ol>
+
+<ul>
+  <li>Số lượng tối thiểu bắt buộc:
+  – Đề tài thường: 02 bài báo trên tạp chí quốc tế uy tín + 01 bài báo trên tạp chí quốc gia uy tín.
+  – Đề tài thăm dò: 01 bài báo trên tạp chí quốc tế uy tín.
+  – Nhóm nghiên cứu mạnh: 02 bài báo trên tạp chí ISI uy tín + 01 bài báo trên tạp chí quốc gia uy tín.</li>
+  <li>CNĐT là tác giả chính của ít nhất 01 bài báo tạp chí quốc tế uy tín.</li>
+  <li>Dự kiến công bố nên tương ứng với quy mô đề tài (thời gian, kinh phí, nhân lực).</li>
+</ul>
+
+<p><strong>Chú ý</strong>:
+– Kết quả công bố phải trong thời gian thực hiện hợp đồng và thời gian gia hạn, chờ công bố (nếu có).
+– 01 bài báo trên tạp chí ISI uy tín được tính thay thế cho 02 bài báo trên tạp chí quốc tế có uy tín.
+– Thời gian chờ công bố: đề tài hoàn thành nội dung, đã nộp bài báo quốc tế nhưng chưa được đăng hoặc chấp nhận đăng chính thức có thể nộp hồ sơ nghiệm thu, Quỹ cho phép cập nhật kết quả trong vòng 12 tháng.
+– Bài báo phải được ghi nhận tài trợ của Quỹ theo quy định.</p>
+
+<h2 id="73-dự-kiến-kết-quả-đào-tạo-từ-cao-học-trở-lên">7.3. Dự kiến kết quả đào tạo (từ cao học trở lên)</h2>
+<ul>
+  <li>Đào tạo NCS.</li>
+  <li>Đào tạo học viên cao học.</li>
+  <li>Đề tài nghiên cứu phù hợp với hướng nghiên cứu của đề tài.</li>
+  <li>Số lượng đào tạo có liên quan đến kinh phí đề tài.</li>
+</ul>
+
+<h1 id="8-nhóm-nghiên-cứu-của-đề-tài">8. Nhóm nghiên cứu của đề tài</h1>
+<ul>
+  <li>Không quá 7 thành viên
+  – Chủ nhiệm đề tài
+  – Thư ký khoa học
+  – Các thành viên NCCC
+  – Kỹ thuật viên
+  – NCS</li>
+  <li>Cần thể hiện được kinh nghiệm và năng lực của đề tài đối với việc thực hiện thành công đề tài.</li>
+  <li>Cần cho thấy dựa trên thành công đã đạt được nhóm hoàn toàn có năng lực đáp ứng yêu cầu của đề tài.</li>
+  <li>Lựa chọn các thành viên có khả năng bổ sung cho nhau.</li>
+  <li>Các thành viên phối hợp trong và ngoài nước nhằm nâng cao năng lực của nhóm.</li>
+</ul>
+
+<p>Vai trò của các thành viên</p>
+
+<h2 id="thành-viên---------ví-dụ-về-nhiệm-vụ">Thành viên        | Ví dụ về nhiệm vụ</h2>
+<p>Chủ nhiệm đề tài  | Theo dõi, điều phối toàn bộ đề tài, đặc biệt là tính nhất quán về khoa học
+Thư ký khoa học   | Quản lý việc nghiên cứu theo đề xuất đề tài
+Thành viên NCCC   | Đóng góp theo từng lĩnh vực chuyên sâu
+Kỹ thuật viên     | Hỗ trợ coding, thu thập/phân tích dữ liệu, tiến hành đo đạc thực nghiệm.
+Nghiên cứu sinh   | Tham gia một phần nội dung nghiên cứu</p>
+
+<h4 id="chủ-nhiệm-đề-tài-1">Chủ nhiệm đề tài (1)</h4>
+<ul>
+  <li>Có chuyên môn phù hợp, đang công tác nghiên cứu tại một tổ chức KNCN. T/h CNĐT không thuộc một tổ chức KHCN nào, phải được một tổ chức khoa học và công nghệ chuyên ngành có uy tín trong lĩnh vực chuyên môn phù hợp bảo trợ và chấp nhận làm tổ chức chủ trì.</li>
+  <li>CNĐT chịu trách nhiệm định hướng và điều phối hoạt động của đề tài, quản lý nguồn kinh phí tài trợ.</li>
+  <li>Tiêu chí chung:
+  – Học vị TS hoặc học hàm PGS, GS.
+  – Có công bố trên tạp chí quốc tế có uy tín trong vòng 5 năm năm tính đến ngày nộp hồ sơ.
+  – Có đủ thời gian thực hiện. Nếu đi công tác nước ngoài, không quá 1/3 thời gian (5 tháng).
+  – Không có đề tài đã chủ nhiệm bị đánh giá Không đạt trong vòng 2 năm.</li>
+  <li>Mỗi cá nhân được đồng thời tham gia không quá 2 đề tài, trong đó làm chủ nhiệm không quá 01 đề tài do Quỹ tài trợ.</li>
+</ul>
+
+<h4 id="thư-ký-khoa-học">Thư ký khoa học</h4>
+<ul>
+  <li>Quản lý các hoạt độngnghiên cứu theo tiến trình đề xuất của đề tài.</li>
+  <li>Không phải thư ký hành chính.</li>
+  <li>Yêu cầu có trình độ chuyên môn liên quan đến đề tài.</li>
+  <li>Thường yêu cầu trình độ tiến sỹ.</li>
+</ul>
+
+<h4 id="thành-viên-nccc">Thành viên NCCC</h4>
+<ul>
+  <li>Thành viên NCCC thường có cùng hướng nghiên cứu hoặc có liên quan có khả năng bù trừ kỹ năng và chuyên môn.</li>
+  <li>Người có thể bổ sung chuyên môn, mà “không sao chép”.</li>
+  <li>Không quá bận để có thể trợ giúp khi cần.</li>
+  <li>Có thể hợp tác và sẵn sàng hợp tác.</li>
+</ul>
+
+<h4 id="thành-viên-nccc-và-tkkh">Thành viên NCCC và TKKH</h4>
+<ul>
+  <li>Yêu cầu:
+  – Có học vị TS hoặc học hàm GS/PGS.
+  – Có kết quả nghiên cứu phù hợp được công bố trên các tạp chí quốc gia, quốc tế có uy tín trong vòng 5 năm.
+  – T/h là thạc sỹ phải có hướng nghiên cứu phù hợp và có ít nhất 01 bài báo công bố trên tạp chí quốc tế có uy tín.</li>
+</ul>
+
+<h4 id="chuẩn-bị-cv-thành-viên-đề-tài">Chuẩn bị CV thành viên đề tài</h4>
+<ul>
+  <li>Tập trung vào kinh nghiệm và trình độ chuyên môn của các thành viên liên quan đến đề tài.</li>
+  <li>Danh mục các đề tài, bài báo, báo cáo khoa học đã trình bày.</li>
+  <li>CV sẽ được xem xét kỹ nên tránh bỏ sót các thành tích nghiên cứu đã đạt được.</li>
+</ul>
+
+<h4 id="tiêu-chí-đánh-giá">Tiêu chí đánh giá</h4>
+<ul>
+  <li>Phù hợp với hướng nghiên cứu cơ bản do Quỹ tài trợ</li>
+  <li>Tính mới, tính sáng tạo của vấn đề nghiên cứu đề xuất.</li>
+  <li>Mục tiêu, nội dung rõ ràng; phương pháp nghiên cứu phù hợp để đạt được mục tiêu.</li>
+  <li>Năng lực, kinh nghiệm nghiên cứu của CNĐT và nhóm nghiên cứu; điều kiện cơ sở vật chất kỹ thuật phục vụ cho đề tài.</li>
+  <li>Khả năng thành công của đề tài; ý nghĩa khoa học và triển vọng ứng dụng kết quả nghiên cứu.</li>
+  <li>Tham gia đào tào thạc sỹ, tiến sỹ.</li>
+  <li>Dự toán kinh phí nghiên cứu hợp lý theo quy định.</li>
+</ul>
+
+<h1 id="hội-đồng-khoa-học-ngành-khmt">Hội đồng Khoa học ngành KHMT</h1>
+
+<h2 id="tt---họ-và-tên------------học-hàm----chức-vụ--------ngành----------đơn-vị">TT  | Họ và tên           | Học hàm   | Chức vụ       | Ngành         | Đơn vị</h2>
+<p>1   | Đinh Dũng           | GS. TSKH  | Chủ tịch      | KHMT          | Viện CNTT - ĐHQGHN
+2   | Trần Xuân Nam       | PGS.TS    | Phó chủ tịch  | Hệ thống mạng | Học viện Kỹ thuật Quân sự
+3   | Võ Nguyễn Quốc Bảo  | PGS.TS    | Thư ký        | Hệ thống mạng | Học viện CNBC VT (TP. HCM)
+4   | Lê Sỹ Vinh          | PGS.TS    | Thành viên    | KHMT          | Trường ĐH Công nghệ - ĐHQGHN
+5   | Hồ Tú Bảo           | GS. TSKH  | Thành viên    | TTNT và phát hiện tri thức | Viện John von Neumann-ĐHQG TP.HCM
+6   | Lê Hoài Bắc         | PGS.TS    | Thành viên    | TTNT và phát hiện tri thức | Trường ĐH KHTN - ĐHQG TP.HCM
+7   | Hoàng Mạnh Thắng    | PGS.TS    | Thành viên    | Các HTTT      | Trường ĐHBK Hà Nội
+8   | Nguyễn Xuân Hoài    | PGS.TS    | Thành viên    | KHMT          | Viện Nghiên cứu và Phát triển CNTT - Trường ĐH Hà Nội
+9   | Hồ Văn Khương       | PGS.TS    | Thành viên    | Các HTTT      | Trường ĐHBK - ĐHQG TP.HCM</p>
+
+<h1 id="references">References</h1>
+
+
+  </article>
+</div>
+
+    </div>
+
+    <!-- Footer -->    
+    <footer class="fixed-bottom">
+      <div class="container mt-0">
+        © Copyright 2023 Trung Q. Luu. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="external nofollow noopener">Unsplash</a>.
+
+      </div>
+    </footer>
+
+    <!-- JavaScripts -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootsrap & MDB scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- Masonry & imagesLoaded -->
+  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
+    
+  <!-- Medium Zoom JS -->
+  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
+  <script defer src="/assets/js/zoom.js"></script><!-- Load Common JS -->
+  <script defer src="/assets/js/common.js"></script>
+  <script defer src="/assets/js/copy_code.js" type="text/javascript"></script>
+
+    
+  <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+  <script async src="https://badge.dimensions.ai/badge.js"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    
+    
+
+<!-- Scrolling Progress Bar -->
+<script type="text/javascript">
+  /*
+   * This JavaScript code has been adapted from the article 
+   * https://css-tricks.com/reading-position-indicator/ authored by Pankaj Parashar, 
+   * published on the website https://css-tricks.com on the 7th of May, 2014.
+   * Couple of changes were made to the original code to make it compatible 
+   * with the `al-foio` theme.
+   */
+  const progressBar = $("#progress");
+  /*
+   * We set up the bar after all elements are done loading.
+   * In some cases, if the images in the page are larger than the intended
+   * size they'll have on the page, they'll be resized via CSS to accomodate
+   * the desired size. This mistake, however, breaks the computations as the
+   * scroll size is computed as soon as the elements finish loading.
+   * To account for this, a minimal delay was introduced before computing the
+   * values.
+   */
+  window.onload = function () {
+    setTimeout(progressBarSetup, 50);
+  };
+  /*
+   * We set up the bar according to the browser.
+   * If the browser supports the progress element we use that.
+   * Otherwise, we resize the bar thru CSS styling
+   */
+  function progressBarSetup() {
+    if ("max" in document.createElement("progress")) {
+      initializeProgressElement();
+      $(document).on("scroll", function() {
+        progressBar.attr({ value: getCurrentScrollPosition() });
+      });
+      $(window).on("resize", initializeProgressElement);
+    } else {
+      resizeProgressBar();
+      $(document).on("scroll", resizeProgressBar);
+      $(window).on("resize", resizeProgressBar);
+    }
+  }
+  /*
+   * The vertical scroll position is the same as the number of pixels that
+   * are hidden from view above the scrollable area. Thus, a value > 0 is
+   * how much the user has scrolled from the top
+   */
+  function getCurrentScrollPosition() {
+    return $(window).scrollTop();
+  }
+
+  function initializeProgressElement() {
+    let navbarHeight = $("#navbar").outerHeight(true);
+    $("body").css({ "padding-top": navbarHeight });
+    $("progress-container").css({ "padding-top": navbarHeight });
+    progressBar.css({ top: navbarHeight });
+    progressBar.attr({
+      max: getDistanceToScroll(),
+      value: getCurrentScrollPosition(),
+    });
+  }
+  /*
+   * The offset between the html document height and the browser viewport
+   * height will be greater than zero if vertical scroll is possible.
+   * This is the distance the user can scroll
+   */
+  function getDistanceToScroll() {
+    return $(document).height() - $(window).height();
+  }
+
+  function resizeProgressBar() {
+    progressBar.css({ width: getWidthPercentage() + "%" });
+  }
+  // The scroll ratio equals the percentage to resize the bar
+  function getWidthPercentage() {
+    return (getCurrentScrollPosition() / getDistanceToScroll()) * 100;
+  }
+</script>
+
+  </body>
+</html>
