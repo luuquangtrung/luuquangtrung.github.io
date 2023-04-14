@@ -17,6 +17,14 @@ related_posts: false
 
 Nội dung của post này chủ yếu lấy từ tài liệu[Tran2016].
 
+
+
+### Quy trình xét duyệt đề tài Nafosted
+
+![quy-trinh-nafosted](/assets/post_materials/quy-trinh-nafosted.png)
+
+
+
 ### Thành phần của một đề xuất đề tài
 1. Tên đề tài
 2. Giới thiệu tổng quát
@@ -219,22 +227,13 @@ Vai trò của các thành viên
 
 ### Hội đồng Khoa học ngành KHMT
 
-| TT| Họ và tên           | Học hàm   | Chức vụ       | Ngành         | Đơn vị													|
-|---|---------------------|-----------|---------------|---------------|---------------------------------------------------------|
-| 1 | Đinh Dũng           | GS. TSKH  | Chủ tịch      | KHMT          | Viện CNTT - ĐHQGHN										|
-| 2 | Trần Xuân Nam       | PGS.TS    | Phó chủ tịch  | Hệ thống mạng | Học viện Kỹ thuật Quân sự								|
-| 3 | Võ Nguyễn Quốc Bảo  | PGS.TS    | Thư ký        | Hệ thống mạng | Học viện CNBC VT (TP. HCM)								|
-| 4 | Lê Sỹ Vinh          | PGS.TS    | Thành viên    | KHMT          | Trường ĐH Công nghệ - ĐHQGHN							|
-| 5 | Hồ Tú Bảo           | GS. TSKH  | Thành viên    | TTNT và phát hiện tri thức | Viện John von Neumann-ĐHQG TP.HCM			|
-| 6 | Lê Hoài Bắc         | PGS.TS    | Thành viên    | TTNT và phát hiện tri thức | Trường ĐH KHTN - ĐHQG TP.HCM				|
-| 7 | Hoàng Mạnh Thắng    | PGS.TS    | Thành viên    | Các HTTT      | Trường ĐHBK Hà Nội										|
-| 8 | Nguyễn Xuân Hoài    | PGS.TS    | Thành viên    | KHMT          | Viện Nghiên cứu và Phát triển CNTT - Trường ĐH Hà Nội	|
-| 9 | Hồ Văn Khương       | PGS.TS    | Thành viên    | Các HTTT      | Trường ĐHBK - ĐHQG TP.HCM								|
+![hoi-dong-nafosted-khmt](/assets/post_materials/hoi-dong-nafosted-khmt.png)
 
+<br>
 
 ### References
 * [Tran2016] Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, *The 3rd NAFOSTED Conference on Information and Computer Science*, 2016.
-* 37/2014/TT-BKHCN: [Quy định quản lý đề tài nghiên cứu cơ bản do Quỹ phát triển khoa học và công nghệ quốc gia [tài trợ.](http://www.nafosted.gov.vn/vi/archives/view/37242014TT-BKCN-26/), 12/12/2014.
+* 37/2014/TT-BKHCN: [Quy định quản lý đề tài nghiên cứu cơ bản do Quỹ phát triển khoa học và công nghệ quốc gia tài trợ.](http://www.nafosted.gov.vn/vi/archives/view/37242014TT-BKCN-26/), 12/12/2014.
 * 31/QĐ-HĐQL-NAFOSTED: [Phê duyệt và ban hành các danh mục tạp chí uy tín trong lĩnh vực KHTN&KT theo quy định tại TT 37/2014/BKHCN](http://www.nafosted.gov.vn/vi/archives/view/31QD-HDQL-NAFOSTED-31/), 30/03/2016.
 * 73/QĐ-HĐQL-NAFOSTED: [Phê duyệt danh mục tạp chí quốc gia có uy tín trong lĩnh vực khoa học tự nhiên và kỹ thuật](http://www.nafosted.gov.vn/vi/archives/view/73QD-HDQL-NAFOSTED-33/), 19/05/2016.
 * 55/2015/TTLT-BTC-BKHCN: [Hướng dẫn định mức xây dựng, phân bố dự toán và quyết toán kinh phí đối với nhiệm vụ khoa học và công nghệ có sử dụng ngân sách
