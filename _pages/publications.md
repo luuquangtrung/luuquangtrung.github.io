@@ -10,7 +10,8 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
   
-For more updated list of publications, please visit my [ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu), [Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr), or [HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu).
+
+For more updated list of publications, please visit my <a href="https://www.researchgate.net/profile/Quang_Trung_Luu">ResearchGate</a>, <a href="https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr">Google Scholar</a>, or <a href="https://cv.archives-ouvertes.fr/quang-trung-luu">Google Scholar</a>
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
