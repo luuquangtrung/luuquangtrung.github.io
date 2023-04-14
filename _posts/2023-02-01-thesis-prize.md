@@ -16,7 +16,9 @@ tags:
 **Good news!** Glad and honored to receive the [2022 Best PhD Dissertation Award on Distributed Systems and Networks](https://gdr-rsd.fr/laureats-prix-de-these-2022/) by [GDR-RSD](https://gdr-rsd.fr/) and [ACM SigOps France](http://www.sigops-france.fr/) for my Ph.D thesis.
 {: .notice--warning}
 
-![Thesis-Prize](/assets/post_materials/prix_gdr-rsd.png)
+<!-- ![Thesis-Prize](/assets/post_materials/prix_gdr-rsd.png) -->
+<img src="/assets/post_materials/prix_gdr-rsd.png" width="50%" height="50%">
+
 
 <!-- **Reference** -->
 {% capture notice-text %}
