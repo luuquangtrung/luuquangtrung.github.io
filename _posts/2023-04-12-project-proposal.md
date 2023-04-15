@@ -1,5 +1,5 @@
 ---
-title: "Viết đề cương thuyết minh đề tài"
+title: "Tutorial - How to write a research proposal for Nafosted funds"
 layout: post
 date: 2023-04-12
 permalink: /posts/2023/04/project-proposal/ 
