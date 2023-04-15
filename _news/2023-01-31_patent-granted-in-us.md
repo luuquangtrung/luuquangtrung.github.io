@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patent granted by the US Patent Office
+title: Our patent has been granted by the US Patent Office
 date: 2023-01-31 09:00:00-0400
 inline: false
 related_posts: false
