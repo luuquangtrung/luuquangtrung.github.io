@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our DCoflow paper has been accepted to IFIP Networking
+title: Paper [Luu2023DCoflow] has been accepted to IFIP Networking
 date: 2022-04-01 09:00:00-0400
 inline: false
 related_posts: false
