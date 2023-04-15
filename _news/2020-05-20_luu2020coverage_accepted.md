@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our paper "*A Coverage-Aware Resource Provisioning Method for Network Slicing*" has been accepted to TON
+title: Our paper "A Coverage-Aware Resource Provisioning Method for Network Slicing" has been accepted to TON
 date: 2020-05-20 09:00:00-0400
 inline: false
 related_posts: false
