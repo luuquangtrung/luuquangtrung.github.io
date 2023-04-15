@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ANR MAESTRO-5G presentation
+title: Talk at ANR MAESTRO-5G meeting
 date: 2020-10-05 09:00:00-0400
 inline: false
 related_posts: false
