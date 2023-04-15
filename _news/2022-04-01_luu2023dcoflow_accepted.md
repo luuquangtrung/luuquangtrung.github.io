@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper DCoflow has been accepted
+title: Our paper "*DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks*" has been accepted to IFIP Networking
 date: 2022-04-01 09:00:00-0400
 inline: false
 related_posts: false
