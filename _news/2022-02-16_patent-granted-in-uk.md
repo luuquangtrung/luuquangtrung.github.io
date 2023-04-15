@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patent granted by the UK Patent Office
+title: Our patent has been granted by the UK Patent Office
 date: 2022-02-16 09:00:00-0400
 inline: false
 related_posts: false
