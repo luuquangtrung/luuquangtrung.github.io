@@ -52,7 +52,7 @@ master’s program. Weekly meetings are organized between academic mentors and g
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">Networking</h4>
+  <h6 class="no_toc">Networking</h6>
   {{ notice-text | markdownify }}
 </div>
 
@@ -68,6 +68,6 @@ master’s program. Weekly meetings are organized between academic mentors and g
 {% endcapture %}
 
 <div class="notice--info">
-  <h4 class="no_toc">Optimization & Maths</h4>
+  <h6 class="no_toc">Optimization & Maths</h6>
   {{ notice-text | markdownify }}
 </div>
