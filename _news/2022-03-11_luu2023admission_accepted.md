@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our paper "Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties" has been accepted to TNSM
+title: Paper [Luu2022Admission] has been accepted to TNSM
 date: 2022-03-11 09:00:00-0400
 inline: false
 related_posts: false
