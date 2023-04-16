@@ -53,3 +53,53 @@
     - title: High school diploma
       institution: HUS High School for Gifted Students (HSGS), Vietnam National University, Hanoi, Vietnam
       year: 2005-2008
+
+	  
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Best PhD Dissertation on Distributed Systems and Networks
+      institution: awarded by the <a href="https://gdr-rsd.fr/">French Research Community on Networks and Distributed Systems</a> and <a href="http://www.sigops-france.fr/">ACM SigOps France</a>
+      year: 2023
+      
+	- title: ENSA Publication Award
+	  institution: awarded by <a href="https://www.bell-labs.com/">Nokia Bell Labs</a>
+	  year: 10/2020
+	  
+    - title: Travel Grant
+	  institution: awarded by the <a href="http://trithuctrevietnam.vn/">Global Young Vietnamese Scholars Network</a>
+	  year: 12/2019
+	  
+	- title: <a href="https://globecom2018.ieee-globecom.org/content/student-travel-grants">Student Travel Grant</a>
+	  institution: awarded by <a href="https://www.comsoc.org/">IEEE Communications Society</a>
+	  year: 12/2018
+      
+	- title: CIFRE Ph.D Fellowship
+	  institution: awarded by the <a href="http://www.anrt.asso.fr/fr">French National Association for Technical Research</a>
+	  year: 2017-2020
+      
+	- title: <a href="https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program-idex">International Master’s Scholarship</a>
+	  institution: awarded by <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>
+	  year: 2015-2016
+      
+	- title: Student Research Prize (first runner-up)
+	  institution: awarded by the <a href="https://hust.edu.vn/">Hanoi University of Science and Technology</a>
+	  year: 05/2013
+
+		
+- title: Attended Summer Schools and Training Programs
+  type: time_table
+  contents:
+    - title: IBM Data Science Program on Coursera. 
+	  institution: completed modules: Data Science Methodology; Python for Data Science; Database and SQL for Data Science; Data Analysis with Python; Data Visualization with Python; Machine Learning with Python.
+	  year: 2023
+	- title: Master's course "Deep Learning for Multimedia"
+	  institution: organized by Télécom Paris
+	  year: 01-03/2019
+	- title: Mini-course "Statistical Learning: Bagging, Boosting, SVM, Introduction to Neural Networks"
+	  institution: organized by Vietnam Institute for Advanced Study in Mathematics
+	  year: 04/2019
+	- title: International Summer School on Deep Learning
+	  institution: organized by University of Genova and IRDTA, Genova, Italy
+	  year: 07/2018
+      
