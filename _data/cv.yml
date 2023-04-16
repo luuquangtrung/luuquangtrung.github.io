@@ -31,3 +31,10 @@
     - title: Engineer
       institution: Viettel Network, Hanoi, Vietnam
       year: 2013-2014
+	  
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D in Networking, Information, and Communications
+      institution: CentraleSupélec - Paris-Saclay University, Paris, France
+      year: 2017-2020
