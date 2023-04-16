@@ -60,7 +60,7 @@
   type: time_table
   contents:
     - title: Best PhD Dissertation on Distributed Systems and Networks
-      institution: awarded by the <a href="https://gdr-rsd.fr/">French Research Community on Networks and Distributed Systems</a> and <a href="http://www.sigops-france.fr/">ACM SigOps France</a>
+      institution: awarded by the <a href="https://gdr-rsd.fr/">French Research Community on Networks and Distributed Systems (GDR-RSD)</a> and <a href="http://www.sigops-france.fr/">ACM SigOps France</a>
       year: 2023
 
     - title: ENSA Publication Award
