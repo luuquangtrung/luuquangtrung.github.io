@@ -1,11 +1,11 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+	- name: Full Name
       value: Quang-Trung Luu
-    - name: Date of Birth
+	- name: Date of Birth
       value: 12th April 1990
-    - name: Languages
+	- name: Languages
       value: Vietnamese (native), English, French
 
 - title: Experience
@@ -13,21 +13,75 @@
   contents:
     - title: Postdoctoral Fellow
       institution: University of Avignon and LAAS-CNRS, Avignon & Toulouse, France
-      year: Mar. 2021 - Mar. 2022
+      year: 2021-2022
 
     - title: Research Engineer
       institution: Nokia Bell Labs, Nozay, France
-      year: Nov. 2017 - Nov. 2020
+      year: 2017-2020
 
     - title: Research Intern
       institution: Inria & Ecole Normale Supérieure de Lyon, France
-      year: Apr. 2017 - Sept. 2017
+      year: 04-09/2017
 
     - title: Engineer
       institution: Samsung Mobile R&D Center, Hanoi, Vietnam
-      year: Jan. 2015 - June 2015
+      year: 01-06/2015
       description:
 
     - title: Engineer
       institution: Viettel Network, Hanoi, Vietnam
-      year: Aug. 2013 - Aug. 2014
+      year: 2013-2014
+	  
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D in Networking, Information, and Communications
+      institution: CentraleSupélec - Paris-Saclay University, Paris, France
+      year: 2017-2020
+
+    - title: M.Sc. in Multimedia Networking
+      institution: Télécom Paris, Paris, France
+      year: 2016-2017
+
+    - title: M.Sc. in Antennas and Telecom Devices
+      institution: University of Paris-Sud (Paris XI, now Paris-Saclay University), Orsay, France
+      year: 2015-2016
+	  
+    - title: B.Eng. in Electronics and Telecommunications
+      institution: Hanoi University of Science and Technology (HUST), Hanoi, Vietnam
+      year: 2008-2013
+	
+	- title: High school diploma
+      institution: HUS High School for Gifted Students (HSGS), Vietnam National University, Hanoi, Vietnam
+      year: 2005-2008
+	  
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Best PhD Dissertation on Distributed Systems and Networks
+      awarded by the <a href="https://gdr-rsd.fr/">French Research Community on Networks and Distributed Systems</a> and <a href="http://www.sigops-france.fr/">ACM SigOps France</a>
+      year: 2023
+      
+	- title: ENSA Publication Award
+	  awarded by <a href="https://www.bell-labs.com/">Nokia Bell Labs</a>
+	  year: 10/2020
+	  
+    - title: Travel Grant
+	  awarded by the <a href="http://trithuctrevietnam.vn/">Global Young Vietnamese Scholars Network</a>
+	  year: 12/2019
+	  
+	- title: <a href="https://globecom2018.ieee-globecom.org/content/student-travel-grants">Student Travel Grant</a>
+	  awarded by <a href="https://www.comsoc.org/">IEEE Communications Society</a>
+	  year: 12/2018
+      
+	- title: CIFRE Ph.D Fellowship
+	  awarded by the <a href="http://www.anrt.asso.fr/fr">French National Association for Technical Research</a>
+	  year: 2017-2020
+      
+	- title: <a href="https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program-idex">International Master’s Scholarship</a>
+	  awarded by <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>
+	  year: 2015-2016
+      
+	- title: Student Research Prize (first runner-up)
+	  awarded by the <a href="https://hust.edu.vn/">Hanoi University of Science and Technology</a>
+	  year: 05/2013
