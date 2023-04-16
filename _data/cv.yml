@@ -50,14 +50,7 @@
     - title: B.Eng. in Electronics and Telecommunications
       institution: Hanoi University of Science and Technology (HUST), Hanoi, Vietnam
       year: 2008-2013
-	
-	- title: High school diploma
+
+    - title: High school diploma
       institution: HUS High School for Gifted Students (HSGS), Vietnam National University, Hanoi, Vietnam
       year: 2005-2008
-	  
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - title: Best PhD Dissertation on Distributed Systems and Networks
-      institution: awarded by the <a href="https://gdr-rsd.fr/">French Research Community on Networks and Distributed Systems</a> and <a href="http://www.sigops-france.fr/">ACM SigOps France</a>
-      year: 2023
