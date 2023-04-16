@@ -89,3 +89,24 @@
     - title: Student Research Prize (first runner-up)
       institution: awarded by the <a href="https://hust.edu.vn/">Hanoi University of Science and Technology</a>
       year: 05/2013  
+
+- title: Attended Summer Schools and Training Programs
+  type: time_table
+  contents:
+    - title: IBM Data Science Program on Coursera
+      institution: completed modules includes Data Science Methodology; Python for Data Science; Database and SQL for Data Science; Data Analysis with Python; Data Visualization with Python; Machine Learning with Python.
+      year: 2023
+
+    - title: Master's course "Deep Learning for Multimedia"
+      institution: organized by Télécom Paris
+      year: 01-03/2019
+
+    - title: Mini-course "Statistical Learning - Bagging, Boosting, SVM, Introduction to Neural Networks"
+      institution: organized by Vietnam Institute for Advanced Study in Mathematics (VIASM), Hanoi, Vietnam
+      year: 04/2019
+
+    - title: International Summer School on Deep Learning
+      institution: organized by University of Genova and IRDTA, Genova, Italy
+      year: 07/2018
+
+
