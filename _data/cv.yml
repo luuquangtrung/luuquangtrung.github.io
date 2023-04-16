@@ -89,19 +89,19 @@
 - title: Attended Summer Schools and Training Programs
   type: time_table
   contents:
-    - title: IBM Data Science Program on Coursera
-      institution: completed modules includes Data Science Methodology; Python for Data Science; Database and SQL for Data Science; Data Analysis with Python; Data Visualization with Python; Machine Learning with Python.
+    - title: <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Program on Coursera</a>
+      institution: completed modules includes Data Science Methodology; Python for Data Science; Database and SQL for Data Science; Data Analysis with Python; Data Visualization with Python; Machine Learning with Python
       year: 2023
 
-    - title: Master's course "Deep Learning for Multimedia"
+    - title: <a href="https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-multimedia-networking#programme"> Master's course "Deep Learning for Multimedia"</a>
       institution: organized by Télécom Paris
       year: 01-03/2019
 
-    - title: Mini-course "Statistical Learning - Bagging, Boosting, SVM, Introduction to Neural Networks"
+    - title: <a href="https://viasm.edu.vn/en/scientific-activities/news-and-events/detail/statistical-learning-bagging-boosting-svm-introduction-to-neural-networks"> Mini-course "Statistical Learning - Bagging, Boosting, SVM, Introduction to Neural Networks"</a>
       institution: organized by Vietnam Institute for Advanced Study in Mathematics (VIASM), Hanoi, Vietnam
       year: 04/2019
 
-    - title: International Summer School on Deep Learning
+    - title: <a href="https://irdta.eu/deeplearn-events/">International Summer School on Deep Learning</a>
       institution: organized by University of Genova and IRDTA, Genova, Italy
       year: 07/2018
 
