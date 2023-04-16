@@ -2,9 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Quang-Trung Luu
-    - name: Date of Birth
-      value: 12th April 1990
+      value: Quang-Trung Luu (Lưu Quang Trung in Vietnamese)
     - name: Languages
       value: Vietnamese (native), English, French
 
