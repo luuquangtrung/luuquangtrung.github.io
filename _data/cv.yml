@@ -12,47 +12,47 @@
   type: time_table
   contents:
     - title: Postdoctoral Fellow
-      institution: [University of Avignon](https://lia.univ-avignon.fr/) and [LAAS-CNRS](https://www.laas.fr/public/), Avignon & Toulouse, France
+      institution: <a href="https://lia.univ-avignon.fr/">University of Avignon</a> and <a href="https://www.laas.fr/public/">LAAS-CNRS</a>, Avignon & Toulouse, France
       year: Mar. 2021 - Mar. 2022
 
     - title: Research Engineer
-      institution: [Nokia Bell Labs](https://www.bell-labs.com/), Nozay, France
+      institution: <a href="https://www.bell-labs.com/">Nokia Bell Labs</a>, Nozay, France
       year: Nov. 2017 - Nov. 2020
 
     - title: Research Intern
-      institution: [Inria](https://www.inria.fr/en) & [Ecole Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France
+      institution: <a href="https://www.inria.fr/en">Inria</a> & <a href="http://www.ens-lyon.fr/">Ecole Normale Supérieure de Lyon</a>, France
       year: Apr. 2017 - Sept. 2017
 
     - title: Engineer
-      institution: [Samsung Mobile R&D Center](https://www.samsung.com/us/), Hanoi, Vietnam
+      institution: <a href="https://www.samsung.com/us/">Samsung Mobile R&D Center</a>, Hanoi, Vietnam
       year: Jan. 2015 - June 2015
       description:
 
     - title: Engineer
-      institution: [Viettel Network](https://viettel.com.vn/), Hanoi, Vietnam
+      institution: <a href="https://viettel.com.vn/">Viettel Network</a>, Hanoi, Vietnam
       year: Aug. 2013 - Aug. 2014
 	  
 - title: Education
   type: time_table
   contents:
     - title: Ph.D in Networking, Information, and Communications
-      institution: [CentraleSupélec](https://www.centralesupelec.fr/) & University of Paris-Sud (Paris XI, now [University of Paris-Saclay](https://www.universite-paris-saclay.fr/)), Paris, France
+      institution: <a href="https://www.centralesupelec.fr/">CentraleSupélec</a> - <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>, Paris, France
       year: 2017 - 2020
 
     - title: M.Sc. in Multimedia Networking
-      institution: [Télécom Paris](https://www.telecom-paris.fr/), Paris, France
+      institution: <a href="https://www.telecom-paris.fr/">Télécom Paris</a>, Paris, France
       year: 2016 - 2017
 
-    - title: M.Sc. in Multimedia Networking
-      institution: [Télécom Paris](https://www.telecom-paris.fr/), Paris, France
+    - title: M.Sc. in Antennas and Telecom Devices
+      institution: University of Paris-Sud (Paris XI, now <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>), Orsay, France
       year: 2016 - 2017
 	  
     - title: B.Eng. in Electronics and Telecommunications
-      institution: [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/), Hanoi, Vietnam
+      institution: <a href="https://hust.edu.vn/">Hanoi University of Science and Technology (HUST)</a>, Hanoi, Vietnam
       year: 2008 - 2013
 	
 	- title: High school diploma
-      institution: [HUS High School for Gifted Students (HSGS)](https://hsgs.edu.vn/), Vietnam National University, Hanoi, Vietnam
+      institution: <a href="https://hsgs.edu.vn/">HUS High School for Gifted Students (HSGS)</a>, Vietnam National University, Hanoi, Vietnam
       year: 2005 - 2008
 	  
 - title: Honors and Awards
@@ -60,25 +60,25 @@
   contents:
     - year: 2023
       items: 
-        - Best PhD Dissertation on Distributed Systems and Networks, awarded by the [French Research Community on Networks and Distributed Systems](https://gdr-rsd.fr/) and [ACM SigOps France](http://www.sigops-france.fr/). 
+        - Best PhD Dissertation on Distributed Systems and Networks, awarded by the <a href="https://gdr-rsd.fr/">French Research Community on Networks and Distributed Systems</a> and <a href="http://www.sigops-france.fr/">ACM SigOps France</a>
     - year: Oct. 2020
       items: 
-        - ENSA Publication Award, by [Nokia Bell Labs](https://www.bell-labs.com/)
+        - ENSA Publication Award, by <a href="https://www.bell-labs.com/">Nokia Bell Labs</a>
     - year: Dec. 2019
       items: 
-        - Travel Grant, by the [Global Young Vietnamese Scholars Network](http://trithuctrevietnam.vn/)
+        - Travel Grant, by the <a href="http://trithuctrevietnam.vn/">Global Young Vietnamese Scholars Network</a>
 	- year: Dec. 2018
       items: 
-        - [Student Travel Grant](https://globecom2018.ieee-globecom.org/content/student-travel-grants), by [IEEE Communications Society](https://www.comsoc.org/)
+        - <a href="https://globecom2018.ieee-globecom.org/content/student-travel-grants">Student Travel Grant</a>, by <a href="https://www.comsoc.org/">IEEE Communications Society</a>
 	- year: 2017 - 2020
       items: 
-        - CIFRE Ph.D Fellowship, by the [French National Association for Technical Research](http://www.anrt.asso.fr/fr)
+        - CIFRE Ph.D Fellowship, by the <a href="http://www.anrt.asso.fr/fr">French National Association for Technical Research</a>
 	- year: 2015 - 2016
       items: 
-        - [International Master’s Scholarship](https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program-idex), by the [University of Paris-Saclay](https://www.universite-paris-saclay.fr/)
+        - <a href="https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program-idex">International Master’s Scholarship</a>, by <a href="https://www.universite-paris-saclay.fr/">Paris-Saclay University</a>
 	- year: May 2013
       items: 
-        - Student Research Prize (first runner-up), by the [Hanoi University of Science and Technology](https://hust.edu.vn/)
+        - Student Research Prize (first runner-up), by the <a href="https://hust.edu.vn/">Hanoi University of Science and Technology</a>
 		
 		
 - title: Attended Summer Schools and Training Programs
