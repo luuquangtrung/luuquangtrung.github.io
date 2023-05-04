@@ -1,13 +1,9 @@
 ---
-<!-- layout: archive -->
-layout: single
-toc: true
-toc_label: "Publications"
-toc_icon: "book"
-title: "Publications"
-permalink: /publications/ 
-author_profile: true
+layout: page
+permalink: /publications-by-categories/
+title: publication by categories
 ---
+
 
 <!-- classes: wide -->
 <!--******************************************** -->
