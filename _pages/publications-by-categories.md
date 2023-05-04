@@ -8,13 +8,13 @@ title: publication by categories
 <!-- classes: wide -->
 <!--******************************************** -->
 
-{% capture notice-text %}
+<!-- {% capture notice-text %}
 For more updated list of publications, please visit my [ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu), [Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr), or [HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu).
 {% endcapture %}
 
 <div class="notice--warning">
   {{ notice-text | markdownify }}
-</div>
+</div> -->
 
 
 <!-- ### Preprints -->
