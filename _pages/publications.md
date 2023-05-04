@@ -13,7 +13,7 @@ nav_order: 1
 
 For more updated list of publications, please visit my <a href="https://www.researchgate.net/profile/Quang_Trung_Luu">ResearchGate</a>, <a href="https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr">Google Scholar</a>, or <a href="https://cv.archives-ouvertes.fr/quang-trung-luu">HAL Archives Ouvertes</a>.
   
-A list of publications by categories is also maintained [here](https://luuquangtrung.github.io/publications-by-categories/).
+A list of publications by categories is also maintained <a href="https://luuquangtrung.github.io/publications-by-categories/">here</a>.
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
