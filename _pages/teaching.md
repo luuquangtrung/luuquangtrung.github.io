@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Summary of the courses I've taught so far.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <!-- <small>Note: TD = *travaux dirigés* (exercise sessions/tutorials), TP = *travaux pratiques* (lab sessions), CM = *cours magistraux* (lectures)</small> -->
