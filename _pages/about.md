@@ -4,7 +4,7 @@ title: home
 permalink: /
 subtitle: Lecturer, <a href='https://seee.hust.edu.vn/'>School of Electrical and Electronic Engineering</a><br>
           <a href='https://en.hust.edu.vn/'>Hanoi University of Science and Technology</a><br>
-          E-mail: firstname.lastname@domain, where firstname = `trung`, lastname = `luuquang`, and domain = `hust.edu.vn` <br><br>
+          E-mail: trung [dot] luuquang [at] hust.edu.vn <br><br>
 
 profile:
   align: right
