@@ -33,7 +33,7 @@ He sequentially conducted postdoctoral research at the [Computer Science Lab of 
  -->
 
 ## announcement
-I am actively looking for highly motivated undergraduate and graduate (MSc/PhD) student in the area of resource allocation in O-RAN, task-oriented/semantic communication, IoT, 5G/6G and applied AI/ML. The candidates shall be supported to apply for financial support from funding organizations such as VinIF. Should you be interested in these topics, please send your CV to my email.
+I am actively looking for highly motivated undergraduate and graduate (MSc/PhD) students in the area of resource allocation in next-generation wireless systems (O-RAN, 5G/6G+) and applied AI/ML. The candidates shall be supported to apply for financial support from various funding organizations. Should you be interested in these topics, please send your CV to my email.
 
 ## research interests
 * **Networking**: 5G & beyond, network optimization, resource allocation and orchestration, flow scheduling
