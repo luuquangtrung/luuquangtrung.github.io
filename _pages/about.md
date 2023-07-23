@@ -4,7 +4,7 @@ title: home
 permalink: /
 subtitle: Lecturer, <a href='https://seee.hust.edu.vn/'>School of Electrical and Electronic Engineering</a><br>
           <a href='https://en.hust.edu.vn/'>Hanoi University of Science and Technology</a><br>
-          luuquangtrung.vn [at] gmail [dot] com (personal)<br><br>
+          E-mail: firstname.lastname@domain, where firstname = `trung`, lastname = `luuquang`, and domain = `hust.edu.vn` <br><br>
 
 profile:
   align: right
@@ -19,17 +19,20 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam). He obtained a Ph.D in networking from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/), France, in 2021. His thesis was also realized at [Nokia Bell Labs France](https://www.bell-labs.com/) within the CIFRE Ph.D Fellowship program supported by the [French National Association for Research in Technology (ANRT)](https://www.anrt.asso.fr/fr). His thesis was awarded the [2022 Best PhD Dissertation Award on Distributed Systems and Networks](https://gdr-rsd.fr/laureats-prix-de-these-2022/) by the French Research Community on Networks and Distributed Systems ([GDR-RSD](https://gdr-rsd.fr/), operated by CNRS), and ACM SigOps France ([ASF](http://www.sigops-france.fr/)).
+<!-- Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam).--> 
 
-<!-- ; two masters' degrees, one in antenna and telecom devices from Université Paris-Sud (now [Paris-Saclay University](http://www.universite-paris-saclay.fr/)) in 2016, and one another in multimedia networking from [Télécom Paris](https://www.telecom-paris.fr/) in 2017.  -->
+Quang-Trung Luu is a lecturer at the [School of Electrical and Electronic Engineering](https://seee.hust.edu.vn/), [Hanoi University of Science and Technology](https://en.hust.edu.vn/). He obtained a Ph.D from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/), France, in 2021. His thesis was also realized at [Nokia Bell Labs France](https://www.bell-labs.com/) within the CIFRE Ph.D Fellowship program supported by the [French government (ANRT)](https://www.anrt.asso.fr/fr). His thesis was awarded the [2022 Best PhD Dissertation Award on Distributed Systems and Networks](https://gdr-rsd.fr/laureats-prix-de-these-2022/) by the ([French Research Community on Networks and Distributed Systems](https://gdr-rsd.fr/)), and [ACM SigOps France](http://www.sigops-france.fr/).
 
-He sequentially conducted postdoctoral research at the [Computer Science Lab of University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and the [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) of the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France. He is now with [School of Electrical and Electronic Engineering](https://seee.hust.edu.vn/), [Hanoi University of Science and Technology](https://en.hust.edu.vn/).
+<!-- ; two masters' degrees, one in antenna and telecom devices from Université Paris-Sud (now [Paris-Saclay University](http://www.universite-paris-saclay.fr/)) in 2016, and one another in multimedia networking from [Télécom Paris](https://www.telecom-paris.fr/) in 2017. 
+
+He sequentially conducted postdoctoral research at the [Computer Science Lab of University of Avignon](https://lia.univ-avignon.fr/) (CERI-LIA) and the [Laboratory for Analysis and Architecture of Systems](https://www.laas.fr/public/) of the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France. He is now with [School of Electrical and Electronic Engineering](https://seee.hust.edu.vn/), [Hanoi University of Science and Technology](https://en.hust.edu.vn/).  -->
 
 
 
-<!-- His research interests cover network modelling, network optimization, resource allocation and orchestration in communication networks.
+<!-- My research interests span over networking topics, especially in network modelling, network optimization, resource allocation and orchestration in communication networks.
  -->
 ## research interests
+I am actively looking for highly motivated undergraduate and graduate (MSc/PhD) student in the area of resource allocation in O-RAN, tasked-oriented/semantic communication, IoT, 5G/6G and applied AI/ML. The candidates shall be supported to apply for financial support from funding organizations such as VinIF. Should you be interested in these topics, please send your CV to trung [dot] luuquang [at] hust.edu.vn.
 * **Networking**: 5G & beyond, network optimization, resource allocation and orchestration, flow scheduling
 * **Intelligence**: Learning algorithms for networked systems (e.g., deep reinforcement learning, federated learning)
 * **Computing**: Cloud computing, edge computing, datacenter networking
