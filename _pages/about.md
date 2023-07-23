@@ -31,8 +31,11 @@ He sequentially conducted postdoctoral research at the [Computer Science Lab of 
 
 <!-- My research interests span over networking topics, especially in network modelling, network optimization, resource allocation and orchestration in communication networks.
  -->
+
+## announcement
+I am actively looking for highly motivated undergraduate and graduate (MSc/PhD) student in the area of resource allocation in O-RAN, task-oriented/semantic communication, IoT, 5G/6G and applied AI/ML. The candidates shall be supported to apply for financial support from funding organizations such as VinIF. Should you be interested in these topics, please send your CV to my email.
+
 ## research interests
-I am actively looking for highly motivated undergraduate and graduate (MSc/PhD) student in the area of resource allocation in O-RAN, tasked-oriented/semantic communication, IoT, 5G/6G and applied AI/ML. The candidates shall be supported to apply for financial support from funding organizations such as VinIF. Should you be interested in these topics, please send your CV to my email.
 * **Networking**: 5G & beyond, network optimization, resource allocation and orchestration, flow scheduling
 * **Intelligence**: Learning algorithms for networked systems (e.g., deep reinforcement learning, federated learning)
 * **Computing**: Cloud computing, edge computing, datacenter networking
