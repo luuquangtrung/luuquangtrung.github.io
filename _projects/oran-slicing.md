@@ -1,9 +1,9 @@
 ---
 layout: page
 title: EPORES
-description: Enhancing the Performance of 6G Open RAN Integrating Edge Computing and Network Slicing
+description: Enhancing the Performance of 6G Open RAN Integrating Edge Computing and Network Slicing (EPORES)
 img: assets/projects/oran_slicing.png
-importance: 1
+importance: 10
 category: work
 ---
 
