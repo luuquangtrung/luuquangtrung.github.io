@@ -2,7 +2,7 @@
 layout: page
 title: maestro-5G
 description: MAnagEment of Slices in The Radio access Of 5G networks (MAESTRO-5G)
-img: assets/projects/oran_slicing.png
+img: assets/projects/maestro-5g.png
 importance: 1
 category: work
 ---
@@ -19,7 +19,7 @@ However, the complete implementation of slicing in the RAN faces several challen
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/projects/oran_slicing.png" title="o-ran slicing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/projects/maestro-5g.png" title="o-ran slicing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
