@@ -9,7 +9,7 @@ category: work
 
 # General information
 - Funded by [ANR](https://anr.fr/) (Agence nationale de la recherche)
-- Website: https://anr.fr/Project-ANR-18-CE25-0012
+- Website: [anr.fr/Project-ANR-18-CE25-0012](https://anr.fr/Project-ANR-18-CE25-0012)
 - Role: Junior member (PhD student)
 
 # Summary
