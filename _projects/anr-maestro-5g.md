@@ -23,7 +23,9 @@ However, the complete implementation of slicing in the RAN faces several challen
     </div>
 </div>
 <div class="caption">
-    The tentative architecture of EC-enabled O-RAN slicing systems.
+    Example scenario of a geographical area (the Stade de France and its vicinity) covered by three different slices. The considered metropolitan area including the Stade de France. Blue markers show the location of RRH nodes of Orange. See more <a href="https://ieeexplore.ieee.org/document/9187556/">here</a>
+
+
 </div>
 
 MAESTRO-5G project develops enablers for implementing and managing slices in the 5G radio access network, not only for the purpose of serving heterogeneous services, but also for dynamic sharing of infrastructure between operators. For this aim the project puts together exerts on performance evaluation, queuing theory, network economy, game theory and operations research. MAESTRO-5G is expected to provide:
