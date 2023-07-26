@@ -3,7 +3,7 @@ layout: page
 title: maestro-5G
 description: MAnagEment of Slices in The Radio access Of 5G networks (MAESTRO-5G)
 img: assets/projects/maestro-5g.png
-importance: 11
+importance: 100
 category: work
 ---
 
