@@ -1,6 +1,6 @@
 ---
 layout: page
-title: coflow
+title: coflow-scheduling
 description: Modeling and performance analysis of coflows in datacenter networks
 img: assets/projects/coflow.png
 importance: 99
@@ -8,7 +8,7 @@ category: work
 ---
 
 # General information
-- Funded by University of Avignon and LAAS-CNRS
+- Funded by [University of Avignon](https://lia.univ-avignon.fr/) and [LAAS-CNRS](https://laas.fr/)
 - Role: Member (postdoctoral researcher)
 
 # Summary
