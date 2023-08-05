@@ -60,14 +60,25 @@ master’s program. Weekly meetings are organized between academic mentors and g
 
 {% capture notice-text %}
 * Z. Han, [Selective Topics on Optimization](http://wireless.egr.uh.edu/Optimization/index.htm), Univ. of Houston.
-* A. Smola and M. Li, [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html), UC Berkeley.
-* S. Lall and S. Boyd, [Introduction to Machine Learning](http://ee104.stanford.edu/), Stanford University.
-* E. Brunskill, [Reinforcement Learning](https://web.stanford.edu/class/cs234/), Stanford University.
 * S. Boyd and L. Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/), Stanford University.
 * S. Boyd and L. Vandenberghe, [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/), Stanford University.
 {% endcapture %}
 
 <div class="notice--info">
   <h6 class="no_toc">Optimization & Maths</h6>
+  {{ notice-text | markdownify }}
+</div>
+
+<!-- ###### ML/AI -->
+
+{% capture notice-text %}
+* A. Smola and M. Li, [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html), UC Berkeley.
+* S. Lall and S. Boyd, [Introduction to Machine Learning](http://ee104.stanford.edu/), Stanford University.
+* E. Brunskill, [Reinforcement Learning](https://web.stanford.edu/class/cs234/), Stanford University.
+* Yuki Asano et al., [Deep Learning Course](https://uvadlc.github.io/), M.Sc in Artificial Intelligence, Univ. of Amsterdam.
+{% endcapture %}
+
+<div class="notice--info">
+  <h6 class="no_toc">ML/AI</h6>
   {{ notice-text | markdownify }}
 </div>
