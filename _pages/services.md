@@ -8,8 +8,8 @@ nav_order: 4
 
 #### Professional Activities
 {% capture notice-text %}
-* I served as TPC member of the following conferences: [SoICT](https://soict.org/), [AlgoTel](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr)/[CoRes](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10988&lang=fr) (shadow PC), [ICN](https://www.iaria.org/conferences2020/ICN20.html)
-* I am also a regular reviewer for many journals (IEEE JSAC, IEEE TON, IEEE TNSM, IEEE Comm. Lett., Elsevier ComCom, etc.) and conferences (IEEE VTC, IEEE ATC, ICN, etc.)
+* TPC for conferences: [SoICT](https://soict.org/), [AlgoTel](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr)/[CoRes](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10988&lang=fr) (shadow PC), [ICN](https://www.iaria.org/conferences2020/ICN20.html)
+* Regular reviewer for many journals (IEEE JSAC, TON, TNSM, IEEE System Journal, IEEE Communications Letters, Elsevier Computer Communications, etc.) and conferences (IEEE VTC, IEEE ATC, ICN, etc.)
 {% endcapture %}
 
 <div class="notice--info">
