@@ -38,7 +38,7 @@ I am actively looking for highly motivated undergraduate/graduate students in th
 ## research interests
 * Applied AI/ML for 5G & beyond: resource allocation, task scheduling, 
 * Open radio access networks: functional splitting, network slicing, traffic steering
-* Cloud computing, fog/edge computing, datacenter networking
+* Cloud computing, fog/edge computing, serverless computing (a.k.a. FaaS)
 
 
 <!-- ## contact
