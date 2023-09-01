@@ -17,7 +17,7 @@ nav_order: 2
   
 * **CIFRE Fellowship** (€30,000). Nov. 2017 - Nov. 2020\
   Title: Management of slices in the radio access of 5G networks (MAESTRO-5G)\
-  Role: Junior member (PhD student)
+  Role: Principal investigator
   
 ### Awards
 * 2023 Best PhD Dissertation on Distributed Systems and Networks, awarded by the French Research Community on Networks and Distributed Systems (GDR-RSD) and ACM SigOps France
