@@ -16,7 +16,7 @@ nav_order: 2
   Role: Junior member (PhD student)
   
 * **CIFRE Fellowship** (€30,000). Nov. 2017 - Nov. 2020\
-  Title: Management of slices in the radio access of 5G networks (MAESTRO-5G)\
+  Title: Dynamic Control and Optimization of Wireless Virtual Networks\
   Role: Principal investigator
   
 ### Awards
