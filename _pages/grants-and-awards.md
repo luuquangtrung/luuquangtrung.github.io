@@ -20,10 +20,10 @@ nav_order: 2
   Role: Principal investigator
   
 ### Awards
-* 2023 Best PhD Dissertation on Distributed Systems and Networks, awarded by the French Research Community on Networks and Distributed Systems (GDR-RSD) and ACM SigOps France
-* 2020 ENSA Publication Award, awarded by Nokia Bell Labs
-* 2019 Travel Grant, awarded by the Global Young Vietnamese Scholars Network
-* 2018 Student Travel Grant, awarded by IEEE Communications Society
-* 2017 CIFRE Ph.D Fellowship, awarded by the French National Association for Technical Research
-* 2015 International Master’s Scholarship, awarded by Paris-Saclay University
-* 2013 Student Research Prize (first runner-up), awarded by the Hanoi University of Science and Technology
+* 2023 Best PhD Dissertation on Distributed Systems and Networks, French Research Community on Networks and Distributed Systems (GDR-RSD) and ACM SigOps France
+* 2020 ENSA Publication Award, Nokia Bell Labs France
+* 2019 Travel Grant, Global Young Vietnamese Scholars Network
+* 2018 Student Travel Grant Award, IEEE Global Communications Conference (GLOBECOM) 
+* 2017 CIFRE Ph.D Fellowship, French National Association for Technical Research
+* 2015 IDEX International Master’s Scholarship, Paris-Saclay University
+* 2013 Student Research Prize (first runner-up), Hanoi University of Science and Technology
