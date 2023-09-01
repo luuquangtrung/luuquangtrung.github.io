@@ -8,7 +8,7 @@ nav_order: 2
 
 ### Grants
 * **VinIF Grant** ($166,000)\
-  Title: Machine Learning for Typhoon Formation Prediction\
+  Title: Machine learning for typhoon formation prediction\
   Role: Senior member
    
 * **ANR Grant** (€818,398)\
