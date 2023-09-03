@@ -87,13 +87,13 @@ hal: [hal-02097749](https://hal.archives-ouvertes.fr/hal-02097749)).
 
 1. **Q.-T. Luu**, S. Koulouridis, A. Diet, Y. Le Bihan, and L. Pichon, 
 “[Investigation of Inductive and Radiating Energy Harvesting for an Implanted Biotelemetry Antenna](https://ieeexplore.ieee.org/document/7928620/),” 
-in *Proc. The 11th European Conference on Antennas and Propagation (EuCAP)*, Paris, Mar. 2017 (ISBN: 978-8-8907-0187-0)
-(hal: [hal-01633025](https://hal.archives-ouvertes.fr/hal-01633025)).
+in *Proc. The 11th European Conference on Antennas and Propagation (EuCAP)*, Paris, Mar. 2017 (DOI: 10.23919/EuCAP.2017.7928620; ISBN: 978-8-8907-0187-0;
+hal: [hal-01633025](https://hal.archives-ouvertes.fr/hal-01633025)).
 
 1. A. Diet, S. Koulouridis, Y. Le Bihan, **Q.-T. Luu**, O. Meyer, L. Pichon, and M. Biancheri-Astier, 
 “[Sub-GHz Inductive Power Transmission from Helical Coils for Implanted Medical Devices](https://ieeexplore.ieee.org/document/7915348/),” 
-in *Proc. IEEE International Workshop on Antenna Technology (iWAT)*, Athens, Greece, Mar. 2017 (ISBN: 978-1-5090-5177-9)
-(hal: [hal-01633015](https://hal.archives-ouvertes.fr/hal-01633015)).
+in *Proc. IEEE International Workshop on Antenna Technology (iWAT)*, Athens, Greece, Mar. 2017 (DOI: 10.1109/IWAT.2017.7915348; ISBN: 978-1-5090-5177-9;
+hal: [hal-01633015](https://hal.archives-ouvertes.fr/hal-01633015)).
 
 1. **Q.-T. Luu**, D.-H. Tran, B.-H. Nguyen, Y. Vu-Van, and C.-M. Ta, 
 “[Design of the Resonators for Coupled Magnetic Resonance based Wireless Power Transmission Systems](https://sites.google.com/site/vcca2013/home),” 
