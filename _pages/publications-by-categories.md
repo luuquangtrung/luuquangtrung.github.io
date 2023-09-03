@@ -40,19 +40,19 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, 
 "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," 
-*IEEE Transactions on Network and Service Management*, vol. 19, no. 3, pp. 3136-3153, Sept. 2022 (**Scopus Q1**) (DOI: 10.1109/TNSM.2022.3160352; Electronic ISSN: 1932-4537; 
+*IEEE Transactions on Network and Service Management*, vol. 19, no. 3, pp. 3136-3153, Sept. 2022 (**Scopus Q1**; DOI: 10.1109/TNSM.2022.3160352; Electronic ISSN: 1932-4537; 
 hal: [hal-03614028](https://hal.archives-ouvertes.fr/hal-03614028/); 
 arXiv: [2203.09367](https://arxiv.org/abs/2203.09367)).
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, 
 "[Uncertainty-Aware Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9351563)," 
-in *IEEE Transactions on Network and Service Management*, vol. 18, no. 1, pp. 79-93, March 2021 (**Scopus Q1**) (DOI: 10.1109/TNSM.2021.3058139; Electronic ISSN: 1932-4537; 
+in *IEEE Transactions on Network and Service Management*, vol. 18, no. 1, pp. 79-93, March 2021 (**Scopus Q1**; DOI: 10.1109/TNSM.2021.3058139; Electronic ISSN: 1932-4537; 
 hal: [hal-03418308](https://hal.archives-ouvertes.fr/hal-03418308); 
 arXiv: [2006.01104](https://arxiv.org/abs/2006.01104)).
 
 1. **Q.-T. Luu**, S. Kerboeuf, A. Mouradian, and M. Kieffer, 
 "[Coverage-Aware Resource Provisioning Method for Network Slicing](https://ieeexplore.ieee.org/document/9187556/)," 
-in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 2020. (**Scopus Q1**) (DOI: 10.1109/TNET.2020.3019098; Electronic ISSN: 1558-2566; 
+in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 2020. (**Scopus Q1**; DOI: 10.1109/TNET.2020.3019098; Electronic ISSN: 1558-2566; 
 hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001);
 arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3)).
 {% endcapture %}
@@ -66,13 +66,13 @@ arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3)).
 {% capture notice-text %}
 1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini,B.-J. Prabhu, and C. Richier, 
 “[DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks](https://ieeexplore.ieee.org/document/9829789)," 
-in *Proc. IFIP Networking*, Catania, Italy, June, 2022 (**CORE Rank B**) (DOI: 10.23919/IFIPNetworking55013.2022.9829789;  
+in *Proc. IFIP Networking*, Catania, Italy, June, 2022 (**CORE Rank B**; DOI: 10.23919/IFIPNetworking55013.2022.9829789;  
 hal: [hal-03657370](https://hal.archives-ouvertes.fr/hal-03657370); 
 arXiv: [2205.01229v1](https://arxiv.org/abs/2205.01229)).
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, 
 "[Foresighted Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9481832)," 
-in *Proc. IEEE International Conference on High Performance Switching and Routing (HPSR)*, Paris, pp. 1-8, June 2021 (**invited paper**, **CORE Rank C**) (DOI: 10.1109/HPSR52026.2021.9481832; ISBN: 978-1-6654-4005-9;
+in *Proc. IEEE International Conference on High Performance Switching and Routing (HPSR)*, Paris, pp. 1-8, June 2021 (**invited paper**, **CORE Rank C**; DOI: 10.1109/HPSR52026.2021.9481832; ISBN: 978-1-6654-4005-9;
 hal: [hal-03420010](https://hal.archives-ouvertes.fr/hal-03420010)).
 
 1. **Q.-T. Luu**, S. Kerboeuf, A. Mouradian, and M. Kieffer, 
@@ -82,7 +82,7 @@ hal: [hal-03097210](https://hal-centralesupelec.archives-ouvertes.fr/hal-0309721
 
 1. **Q.-T. Luu**, M. Kieffer, A. Mouradian, and S. Kerboeuf, 
 "[Aggregated Resource Provisioning for Network Slices](https://ieeexplore.ieee.org/abstract/document/8648039)," 
-in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, UAE, pp. 1-6, Dec. 2018 (DOI: 10.1109/GLOCOM.2018.8648039; ISBN: 978-1-5386-4727-1;
+in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, UAE, pp. 1-6, Dec. 2018 (**CORE Rank B**; DOI: 10.1109/GLOCOM.2018.8648039; ISBN: 978-1-5386-4727-1;
 hal: [hal-02097749](https://hal.archives-ouvertes.fr/hal-02097749)).
 
 1. **Q.-T. Luu**, S. Koulouridis, A. Diet, Y. Le Bihan, and L. Pichon, 
