@@ -10,10 +10,6 @@ nav_order: 2
 * **VinIF Grant** ($166,000)\
   Title: Machine learning for typhoon formation prediction\
   Role: Senior member
-   
-* **ANR Grant** (€818,398)\
-  Title: Management of slices in the radio access of 5G networks (MAESTRO-5G)\
-  Role: Junior member (PhD student)
   
 * **CIFRE Fellowship** (€30,000). Nov. 2017 - Nov. 2020\
   Title: Dynamic Control and Optimization of Wireless Virtual Networks\
