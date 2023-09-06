@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 ### Grants
-<-- * **VinIF Grant** ($166,000)\
+<!-- * **VinIF Grant** ($166,000)\
   Title: Machine learning for typhoon formation prediction\
   Role: Senior member
 -->  
