@@ -160,9 +160,11 @@ If all coefficients in $$A$$ are nonnegative, we can instead write
 $$
 Ax \geq b(1−y),
 $$
+
 which is tighter than the previous constraint.
 
 If we have an equality constraint, i.e., $$Ax = b$$, the following constraints are used
+
 $$
 \begin{align*}
   Ax & \leq b + M(1 − y), \\
