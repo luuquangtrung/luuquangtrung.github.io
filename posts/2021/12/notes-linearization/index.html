@@ -224,24 +224,24 @@ y &amp; \text{if }x=1.
 
 <h4 id="activate-or-deactivate-a-specific-constraint">Activate or deactivate a specific constraint</h4>
 
-<p>The Big-$M$ method can also be used to activate or deactivate a specific constraint as follows.</p>
+<p>The Big-\(M\) method can also be used to activate or deactivate a specific constraint as follows.</p>
 
-<p>If we have an LEQ (less-than-or-equal-to) constraint, i.e., $Ax \leq b$, then it could be activate/deactivate by an additional variable $y$ as</p>
+<p>If we have an LEQ (less-than-or-equal-to) constraint, i.e., \(Ax \leq b\), then it could be activate/deactivate by an additional variable \(y  \in \{0,1\}\) as</p>
 
 \[Ax \leq b + M(1 − y).\]
 
-<p>Here if $y = 0$ the constraint $Ax \leq b$ is deactivated, and otherwise if $y = 1$.</p>
+<p>Here if \(y = 0\) the constraint \(Ax \leq b\) is deactivated, and otherwise if \(y = 1\).</p>
 
-<p>If we have a GEQ (greater-than-or-equal-to) constraint, i.e., $Ax \geq b$, then we need the following</p>
+<p>If we have a GEQ (greater-than-or-equal-to) constraint, i.e., \(Ax \geq b\), then we need the following</p>
 
 \[Ax \geq b − M(1−y).\]
 
-<p>If all coefficients in $A$ are nonnegative, we can instead write</p>
+<p>If all coefficients in \(A\) are nonnegative, we can instead write</p>
 
 <p>\(Ax \geq b(1−y),\)
 which is tighter than the previous constraint.</p>
 
-<p>If we have an equality constraint, i.e., $Ax = b$, the following constraints are used
+<p>If we have an equality constraint, i.e., \(Ax = b\), the following constraints are used
 \(\begin{align*}
   Ax &amp; \leq b + M(1 − y), \\
   Ax &amp; \geq b − M(1 − y)
