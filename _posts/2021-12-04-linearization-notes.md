@@ -139,7 +139,7 @@ where $$z \in \mathbb{R_+}$$, $$M$$ is a sufficiently large value so that it wou
 
 #### Activate or deactivate a specific constraint
 
-The Big-$$M$$ method can also be used to activate or deactivate a specific constraint as follows.
+The Big-$$M$$ method can also be used to activate or deactivate a specific constraint as follows[^SE_activate]
 
 If we have an LEQ (less-than-or-equal-to) constraint, i.e., $$Ax \leq b$$, then it could be activate/deactivate by an additional variable $$y  \in \{0,1\}$$ as
 
