@@ -139,30 +139,30 @@ where $$z \in \mathbb{R_+}$$, $$M$$ is a sufficiently large value so that it wou
 
 #### Activate or deactivate a specific constraint
 
-The Big-$M$ method can also be used to activate or deactivate a specific constraint as follows.
+The Big-$$M$$ method can also be used to activate or deactivate a specific constraint as follows.
 
-If we have an LEQ (less-than-or-equal-to) constraint, i.e., $Ax \leq b$, then it could be activate/deactivate by an additional variable $y$ as
+If we have an LEQ (less-than-or-equal-to) constraint, i.e., $$Ax \leq b$$, then it could be activate/deactivate by an additional variable $$y  \in \{0,1\}$$ as
 
 $$
 Ax \leq b + M(1 − y).
 $$
 
-Here if $y = 0$ the constraint $Ax \leq b$ is deactivated, and otherwise if $y = 1$.
+Here if $$y = 0$$ the constraint $$Ax \leq b$$ is deactivated, and otherwise if $$y = 1$$.
 
-If we have a GEQ (greater-than-or-equal-to) constraint, i.e., $Ax \geq b$, then we need the following
+If we have a GEQ (greater-than-or-equal-to) constraint, i.e., $$Ax \geq b$$, then we need the following
 
 $$
 Ax \geq b − M(1−y).
 $$
 
-If all coefficients in $A$ are nonnegative, we can instead write
+If all coefficients in $$A$$ are nonnegative, we can instead write
 
 $$
 Ax \geq b(1−y),
 $$
 which is tighter than the previous constraint.
 
-If we have an equality constraint, i.e., $Ax = b$, the following constraints are used
+If we have an equality constraint, i.e., $$Ax = b$$, the following constraints are used
 $$
 \begin{align*}
   Ax & \leq b + M(1 − y), \\
