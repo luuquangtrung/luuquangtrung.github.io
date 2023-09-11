@@ -227,33 +227,20 @@ y &amp; \text{if }x=1.
 <p>The Big-\(M\) method can also be used to activate or deactivate a specific constraint as follows<sup id="fnref:SE_activate" role="doc-noteref"><a href="#fn:SE_activate" class="footnote" rel="footnote">8</a></sup></p>
 
 <ol>
-  <li>If we have an LEQ (less-than-or-equal-to) constraint, i.e., \(Ax \leq b\), then it could be activate/deactivate by an additional variable \(y  \in \{0,1\}\) as</li>
+  <li>If we have an LEQ (less-than-or-equal-to) constraint, i.e., \(Ax \leq b\), then it could be activate/deactivate by an additional variable \(y  \in \{0,1\}\) as<br>
+\(Ax \leq b + M(1 − y).\)<br>
+Here if \(y = 0\) the constraint \(Ax \leq b\) is deactivated, and otherwise if \(y = 1\).</li>
+  <li>If we have a GEQ (greater-than-or-equal-to) constraint, i.e., \(Ax \geq b\), then we need the following<br>
+\(Ax \geq b − M(1−y).\)<br>
+If all coefficients in \(A\) are nonnegative, we can instead write<br>
+\(Ax \geq b(1−y),\)<br>
+which is tighter than the previous constraint.</li>
+  <li>If we have an equality constraint, i.e., \(Ax = b\), the following constraints are used<br>
+\(\begin{align*}
+ Ax &amp; \leq b + M(1 − y), \\
+ Ax &amp; \geq b − M(1 − y)
+\end{align*}\)</li>
 </ol>
-
-\[Ax \leq b + M(1 − y).\]
-
-<p>Here if \(y = 0\) the constraint \(Ax \leq b\) is deactivated, and otherwise if \(y = 1\).</p>
-
-<ol>
-  <li>If we have a GEQ (greater-than-or-equal-to) constraint, i.e., \(Ax \geq b\), then we need the following</li>
-</ol>
-
-\[Ax \geq b − M(1−y).\]
-
-<p>If all coefficients in \(A\) are nonnegative, we can instead write</p>
-
-\[Ax \geq b(1−y),\]
-
-<p>which is tighter than the previous constraint.</p>
-
-<ol>
-  <li>If we have an equality constraint, i.e., \(Ax = b\), the following constraints are used</li>
-</ol>
-
-\[\begin{align*}
-    Ax &amp; \leq b + M(1 − y), \\
-    Ax &amp; \geq b − M(1 − y)
-  \end{align*}\]
 
 <h3 id="references">References</h3>
 

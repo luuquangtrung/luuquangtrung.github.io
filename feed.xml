@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-11T15:00:03+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">Tutorial - How to write a research proposal for Nafosted funds</title><link href="luuquangtrung.github.io/posts/2023/04/project-proposal/" rel="alternate" type="text/html" title="Tutorial - How to write a research proposal for Nafosted funds" /><published>2023-04-12T00:00:00+00:00</published><updated>2023-04-12T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/04/project-proposal</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/04/project-proposal/"><![CDATA[<p>Nội dung của bài viết này chủ yếu lấy từ tài liệu [Tran2016]<sup id="fnref:Tran2016" role="doc-noteref"><a href="#fn:Tran2016" class="footnote" rel="footnote">1</a></sup> và các văn bản quy chế của Quỹ Nafosted<sup id="fnref:BKHCN37" role="doc-noteref"><a href="#fn:BKHCN37" class="footnote" rel="footnote">2</a></sup><sup id="fnref:QD31" role="doc-noteref"><a href="#fn:QD31" class="footnote" rel="footnote">3</a></sup><sup id="fnref:QD73" role="doc-noteref"><a href="#fn:QD73" class="footnote" rel="footnote">4</a></sup><sup id="fnref:BKHCN55" role="doc-noteref"><a href="#fn:BKHCN55" class="footnote" rel="footnote">5</a></sup><sup id="fnref:BKHCN27" role="doc-noteref"><a href="#fn:BKHCN27" class="footnote" rel="footnote">6</a></sup>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-11T15:09:16+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">Tutorial - How to write a research proposal for Nafosted funds</title><link href="luuquangtrung.github.io/posts/2023/04/project-proposal/" rel="alternate" type="text/html" title="Tutorial - How to write a research proposal for Nafosted funds" /><published>2023-04-12T00:00:00+00:00</published><updated>2023-04-12T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/04/project-proposal</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/04/project-proposal/"><![CDATA[<p>Nội dung của bài viết này chủ yếu lấy từ tài liệu [Tran2016]<sup id="fnref:Tran2016" role="doc-noteref"><a href="#fn:Tran2016" class="footnote" rel="footnote">1</a></sup> và các văn bản quy chế của Quỹ Nafosted<sup id="fnref:BKHCN37" role="doc-noteref"><a href="#fn:BKHCN37" class="footnote" rel="footnote">2</a></sup><sup id="fnref:QD31" role="doc-noteref"><a href="#fn:QD31" class="footnote" rel="footnote">3</a></sup><sup id="fnref:QD73" role="doc-noteref"><a href="#fn:QD73" class="footnote" rel="footnote">4</a></sup><sup id="fnref:BKHCN55" role="doc-noteref"><a href="#fn:BKHCN55" class="footnote" rel="footnote">5</a></sup><sup id="fnref:BKHCN27" role="doc-noteref"><a href="#fn:BKHCN27" class="footnote" rel="footnote">6</a></sup>.</p>
 
 <h3 id="quy-trình-xét-duyệt-đề-tài-nafosted">Quy trình xét duyệt đề tài Nafosted</h3>
 
@@ -428,33 +428,20 @@ y &amp; \text{if }x=1.
 <p>The Big-\(M\) method can also be used to activate or deactivate a specific constraint as follows<sup id="fnref:SE_activate" role="doc-noteref"><a href="#fn:SE_activate" class="footnote" rel="footnote">8</a></sup></p>
 
 <ol>
-  <li>If we have an LEQ (less-than-or-equal-to) constraint, i.e., \(Ax \leq b\), then it could be activate/deactivate by an additional variable \(y  \in \{0,1\}\) as</li>
+  <li>If we have an LEQ (less-than-or-equal-to) constraint, i.e., \(Ax \leq b\), then it could be activate/deactivate by an additional variable \(y  \in \{0,1\}\) as<br />
+\(Ax \leq b + M(1 − y).\)<br />
+Here if \(y = 0\) the constraint \(Ax \leq b\) is deactivated, and otherwise if \(y = 1\).</li>
+  <li>If we have a GEQ (greater-than-or-equal-to) constraint, i.e., \(Ax \geq b\), then we need the following<br />
+\(Ax \geq b − M(1−y).\)<br />
+If all coefficients in \(A\) are nonnegative, we can instead write<br />
+\(Ax \geq b(1−y),\)<br />
+which is tighter than the previous constraint.</li>
+  <li>If we have an equality constraint, i.e., \(Ax = b\), the following constraints are used<br />
+\(\begin{align*}
+ Ax &amp; \leq b + M(1 − y), \\
+ Ax &amp; \geq b − M(1 − y)
+\end{align*}\)</li>
 </ol>
-
-\[Ax \leq b + M(1 − y).\]
-
-<p>Here if \(y = 0\) the constraint \(Ax \leq b\) is deactivated, and otherwise if \(y = 1\).</p>
-
-<ol>
-  <li>If we have a GEQ (greater-than-or-equal-to) constraint, i.e., \(Ax \geq b\), then we need the following</li>
-</ol>
-
-\[Ax \geq b − M(1−y).\]
-
-<p>If all coefficients in \(A\) are nonnegative, we can instead write</p>
-
-\[Ax \geq b(1−y),\]
-
-<p>which is tighter than the previous constraint.</p>
-
-<ol>
-  <li>If we have an equality constraint, i.e., \(Ax = b\), the following constraints are used</li>
-</ol>
-
-\[\begin{align*}
-    Ax &amp; \leq b + M(1 − y), \\
-    Ax &amp; \geq b − M(1 − y)
-  \end{align*}\]
 
 <h3 id="references">References</h3>
 
