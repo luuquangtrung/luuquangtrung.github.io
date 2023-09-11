@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-10T12:16:57+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">Tutorial - How to write a research proposal for Nafosted funds</title><link href="luuquangtrung.github.io/posts/2023/04/project-proposal/" rel="alternate" type="text/html" title="Tutorial - How to write a research proposal for Nafosted funds" /><published>2023-04-12T00:00:00+00:00</published><updated>2023-04-12T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/04/project-proposal</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/04/project-proposal/"><![CDATA[<p>Nội dung của bài viết này chủ yếu lấy từ tài liệu [Tran2016]<sup id="fnref:Tran2016" role="doc-noteref"><a href="#fn:Tran2016" class="footnote" rel="footnote">1</a></sup> và các văn bản quy chế của Quỹ Nafosted<sup id="fnref:BKHCN37" role="doc-noteref"><a href="#fn:BKHCN37" class="footnote" rel="footnote">2</a></sup><sup id="fnref:QD31" role="doc-noteref"><a href="#fn:QD31" class="footnote" rel="footnote">3</a></sup><sup id="fnref:QD73" role="doc-noteref"><a href="#fn:QD73" class="footnote" rel="footnote">4</a></sup><sup id="fnref:BKHCN55" role="doc-noteref"><a href="#fn:BKHCN55" class="footnote" rel="footnote">5</a></sup><sup id="fnref:BKHCN27" role="doc-noteref"><a href="#fn:BKHCN27" class="footnote" rel="footnote">6</a></sup>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-09-11T15:00:03+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">Tutorial - How to write a research proposal for Nafosted funds</title><link href="luuquangtrung.github.io/posts/2023/04/project-proposal/" rel="alternate" type="text/html" title="Tutorial - How to write a research proposal for Nafosted funds" /><published>2023-04-12T00:00:00+00:00</published><updated>2023-04-12T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/04/project-proposal</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/04/project-proposal/"><![CDATA[<p>Nội dung của bài viết này chủ yếu lấy từ tài liệu [Tran2016]<sup id="fnref:Tran2016" role="doc-noteref"><a href="#fn:Tran2016" class="footnote" rel="footnote">1</a></sup> và các văn bản quy chế của Quỹ Nafosted<sup id="fnref:BKHCN37" role="doc-noteref"><a href="#fn:BKHCN37" class="footnote" rel="footnote">2</a></sup><sup id="fnref:QD31" role="doc-noteref"><a href="#fn:QD31" class="footnote" rel="footnote">3</a></sup><sup id="fnref:QD73" role="doc-noteref"><a href="#fn:QD73" class="footnote" rel="footnote">4</a></sup><sup id="fnref:BKHCN55" role="doc-noteref"><a href="#fn:BKHCN55" class="footnote" rel="footnote">5</a></sup><sup id="fnref:BKHCN27" role="doc-noteref"><a href="#fn:BKHCN27" class="footnote" rel="footnote">6</a></sup>.</p>
 
 <h3 id="quy-trình-xét-duyệt-đề-tài-nafosted">Quy trình xét duyệt đề tài Nafosted</h3>
 
@@ -352,7 +352,7 @@ quả đã nêu.
 <h2 id="some-linearization-techniques">Some linearization techniques</h2>
 <p>Following are some linearization techniques which transform nonlinear terms to linear forms, which may involve additional (usually integer or binary) variables.</p>
 
-<h5 id="max-min-functions">Max-min functions</h5>
+<h5 id="1-max-min-functions">1. Max-min functions</h5>
 <p>The term \(X = \max\{x_{1}, x_{2}\}\) can be linearized by introducing an additional binary decision variable \(y\) and using the so-called big-\(M\) method.</p>
 
 <p>The following constraints<sup id="fnref:SE_max" role="doc-noteref"><a href="#fn:SE_max" class="footnote" rel="footnote">3</a></sup> enforce the definition of \(X\) and \(y\):</p>
@@ -375,7 +375,7 @@ X &amp; \geq x_{2} - My.
 
 <p>The value of \(M\) has to be carefully chosen. See more <a href="https://or.stackexchange.com/questions/236/why-is-it-important-to-choose-big-m-carefully-and-what-are-the-consequences-of-d">here</a>.</p>
 
-<h5 id="rounding-functions-ceil-and-floor">Rounding functions: Ceil and Floor</h5>
+<h5 id="2-rounding-functions-ceil-and-floor">2. Rounding functions: Ceil and Floor</h5>
 
 <p>A floor function \(y = \lfloor x \rfloor\) can be linearized as<sup id="fnref:SE_round" role="doc-noteref"><a href="#fn:SE_round" class="footnote" rel="footnote">5</a></sup></p>
 
@@ -391,7 +391,7 @@ X &amp; \geq x_{2} - My.
 &amp; y \in \mathbb{Z_+}. 
 \end{align*}\]
 
-<h5 id="product-of-two-binary-variables">Product of two binary variables</h5>
+<h5 id="3-product-of-two-binary-variables">3. Product of two binary variables</h5>
 <p>A product term \(x_{1}x_{2}\), where \(x_{1}, x_{2} \in \{0,1\}\) occuring in a linear program can be replaced by an auxiliary continuous variable \(y \in [0,1]\) and the following so-called Fortet’ constraints<sup id="fnref:Fortet1960" role="doc-noteref"><a href="#fn:Fortet1960" class="footnote" rel="footnote">6</a></sup>:</p>
 
 \[\begin{align*}
@@ -400,7 +400,7 @@ y &amp; \leq x_{2}, \\
 y &amp; \geq x_{1} + x_{2} - 1.
 \end{align*}\]
 
-<h5 id="product-of-multiple-binary-variables">Product of multiple binary variables</h5>
+<h5 id="4-product-of-multiple-binary-variables">4. Product of multiple binary variables</h5>
 <p>The above technique could also be extended to the product of multiple variables: \(y_\mathcal{I} = \prod_{i \in \mathcal{I}} x_i\), where \(x_i \in \{0,1\}\), \(\forall i \in \mathcal{I}\). The linearization constraints are<sup id="fnref:Liberti2018:2" role="doc-noteref"><a href="#fn:Liberti2018" class="footnote" rel="footnote">2</a></sup></p>
 
 \[\begin{align*}
@@ -408,7 +408,7 @@ y_{\mathcal{I}} &amp; \leq x_{i}, \quad \forall i \in \mathcal{I}, \\
 y_{\mathcal{I}} &amp; \geq \sum_{i \in \mathcal{I}} x_{i} - |\mathcal{I}| + 1.
 \end{align*}\]
 
-<h5 id="product-of-a-binary-and-a-non-negative-continuous-variable">Product of a binary and a non-negative continuous variable</h5>
+<h5 id="5-product-of-a-binary-and-a-non-negative-continuous-variable">5. Product of a binary and a non-negative continuous variable</h5>
 
 <p>Suppose we have a binary variable \(x \in \{0,1\}\) and a non-negative continuous variable \(y \in \mathbb{R_+}\). The product \(z = xy\) is thus</p>
 
@@ -423,17 +423,21 @@ y &amp; \text{if }x=1.
 
 <p>where \(z \in \mathbb{R_+}\), \(M\) is a sufficiently large value so that it would not be part of any feasible solution.</p>
 
-<h4 id="activate-or-deactivate-a-specific-constraint">Activate or deactivate a specific constraint</h4>
+<h5 id="6-activate-or-deactivate-a-specific-constraint">6. Activate or deactivate a specific constraint</h5>
 
 <p>The Big-\(M\) method can also be used to activate or deactivate a specific constraint as follows<sup id="fnref:SE_activate" role="doc-noteref"><a href="#fn:SE_activate" class="footnote" rel="footnote">8</a></sup></p>
 
-<p>If we have an LEQ (less-than-or-equal-to) constraint, i.e., \(Ax \leq b\), then it could be activate/deactivate by an additional variable \(y  \in \{0,1\}\) as</p>
+<ol>
+  <li>If we have an LEQ (less-than-or-equal-to) constraint, i.e., \(Ax \leq b\), then it could be activate/deactivate by an additional variable \(y  \in \{0,1\}\) as</li>
+</ol>
 
 \[Ax \leq b + M(1 − y).\]
 
 <p>Here if \(y = 0\) the constraint \(Ax \leq b\) is deactivated, and otherwise if \(y = 1\).</p>
 
-<p>If we have a GEQ (greater-than-or-equal-to) constraint, i.e., \(Ax \geq b\), then we need the following</p>
+<ol>
+  <li>If we have a GEQ (greater-than-or-equal-to) constraint, i.e., \(Ax \geq b\), then we need the following</li>
+</ol>
 
 \[Ax \geq b − M(1−y).\]
 
@@ -443,12 +447,14 @@ y &amp; \text{if }x=1.
 
 <p>which is tighter than the previous constraint.</p>
 
-<p>If we have an equality constraint, i.e., \(Ax = b\), the following constraints are used</p>
+<ol>
+  <li>If we have an equality constraint, i.e., \(Ax = b\), the following constraints are used</li>
+</ol>
 
 \[\begin{align*}
-  Ax &amp; \leq b + M(1 − y), \\
-  Ax &amp; \geq b − M(1 − y)
-\end{align*}\]
+    Ax &amp; \leq b + M(1 − y), \\
+    Ax &amp; \geq b − M(1 − y)
+  \end{align*}\]
 
 <h3 id="references">References</h3>
 
