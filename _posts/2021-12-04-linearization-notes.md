@@ -146,6 +146,7 @@ The Big-$$M$$ method can also be used to activate or deactivate a specific const
    Ax \leq b + M(1 − y).
    $$\
    Here if $$y = 0$$ the constraint $$Ax \leq b$$ is deactivated, and otherwise if $$y = 1$$.
+   
 2. If we have a GEQ (greater-than-or-equal-to) constraint, i.e., $$Ax \geq b$$, then we need the following\
    $$
    Ax \geq b − M(1−y).
@@ -155,6 +156,7 @@ The Big-$$M$$ method can also be used to activate or deactivate a specific const
    Ax \geq b(1−y),
    $$\
    which is tighter than the previous constraint.
+   
 3. If we have an equality constraint, i.e., $$Ax = b$$, the following constraints are used\
    $$
    \begin{align*}
