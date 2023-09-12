@@ -226,27 +226,36 @@ y &amp; \text{if }x=1.
 
 <p>The Big-\(M\) method can also be used to activate or deactivate a specific constraint as follows<sup id="fnref:SE_activate" role="doc-noteref"><a href="#fn:SE_activate" class="footnote" rel="footnote">8</a></sup></p>
 
-<ol>
+<ul>
   <li>
-    <p>If we have an LEQ (less-than-or-equal-to) constraint, i.e., \(Ax \leq b\), then it could be activate/deactivate by an additional variable \(y  \in \{0,1\}\) as<br>
+    <p><strong>LEQ (less-than-or-equal-to) constraint</strong> (i.e., \(Ax \leq b\)): It could be activated/deactivated by using an additional variable \(y  \in \{0,1\}\) as<br>
 \(Ax \leq b + M(1 − y).\)<br>
 Here if \(y = 0\) the constraint \(Ax \leq b\) is deactivated, and otherwise if \(y = 1\).</p>
   </li>
   <li>
-    <p>If we have a GEQ (greater-than-or-equal-to) constraint, i.e., \(Ax \geq b\), then we need the following<br>
-\(Ax \geq b − M(1−y).\)<br>
-If all coefficients in \(A\) are nonnegative, we can instead write<br>
+    <p><strong>GEQ (greater-than-or-equal-to) constraint</strong> (i.e., \(Ax \geq b\)): Then we need the following<br>
+\(Ax \geq b − M(1−y).\)\</p>
+
+    <p>If all coefficients in \(A\) are nonnegative, we can instead write<br>
 \(Ax \geq b(1−y),\)<br>
 which is tighter than the previous constraint.</p>
   </li>
   <li>
-    <p>If we have an equality constraint, i.e., \(Ax = b\), the following constraints are used<br>
+    <p><strong>Equality constraint</strong> (i.e., \(Ax = b\)): Then the following constraints are used<br>
 \(\begin{align*}
  Ax &amp; \leq b + M(1 − y), \\
  Ax &amp; \geq b − M(1 − y)
 \end{align*}\)</p>
   </li>
-</ol>
+</ul>
+
+<p>See more:</p>
+<ul>
+  <li>How to specify an IF-THEN constraint with an Integer Linear Programming (ILP) solver: <a href="https://yzuda.org/Useful_Links/optimization/if-then-else-01.html" rel="external nofollow noopener" target="_blank">1</a>, <a href="https://yzuda.org/Useful_Links/optimization/if-then-else-01.html" rel="external nofollow noopener" target="_blank">2</a>
+</li>
+  <li><a href="https://yzuda.org/Useful_Links/optimization/unequal.html" rel="external nofollow noopener" target="_blank">How to specify an unequal constraint with an Integer Linear Programming (ILP) solver</a></li>
+  <li><a href="https://or.stackexchange.com/questions/33/in-an-integer-program-how-i-can-force-a-binary-variable-to-equal-1-if-some-cond" rel="external nofollow noopener" target="_blank">In an integer program, how I can force a binary variable to equal 1 if some condition holds?</a></li>
+</ul>
 
 <h3 id="references">References</h3>
 
