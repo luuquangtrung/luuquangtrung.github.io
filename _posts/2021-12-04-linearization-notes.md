@@ -141,32 +141,38 @@ where $$z \in \mathbb{R_+}$$, $$M$$ is a sufficiently large value so that it wou
 
 The Big-$$M$$ method can also be used to activate or deactivate a specific constraint as follows[^SE_activate]
 
-1. If we have an LEQ (less-than-or-equal-to) constraint, i.e., $$Ax \leq b$$, then it could be activate/deactivate by an additional variable $$y  \in \{0,1\}$$ as\
-   $$
-   Ax \leq b + M(1 − y).
-   $$\
-   Here if $$y = 0$$ the constraint $$Ax \leq b$$ is deactivated, and otherwise if $$y = 1$$.
+* **LEQ (less-than-or-equal-to) constraint** (i.e., $$Ax \leq b$$): It could be activated/deactivated by using an additional variable $$y  \in \{0,1\}$$ as\
+  $$
+  Ax \leq b + M(1 − y).
+  $$\
+  Here if $$y = 0$$ the constraint $$Ax \leq b$$ is deactivated, and otherwise if $$y = 1$$.
    
-2. If we have a GEQ (greater-than-or-equal-to) constraint, i.e., $$Ax \geq b$$, then we need the following\
-   $$
-   Ax \geq b − M(1−y).
-   $$\
-   If all coefficients in $$A$$ are nonnegative, we can instead write\
-   $$
-   Ax \geq b(1−y),
-   $$\
-   which is tighter than the previous constraint.
+* **GEQ (greater-than-or-equal-to) constraint** (i.e., $$Ax \geq b$$): Then we need the following\
+  $$
+  Ax \geq b − M(1−y).
+  $$\
+
+  If all coefficients in $$A$$ are nonnegative, we can instead write\
+  $$
+  Ax \geq b(1−y),
+  $$\
+  which is tighter than the previous constraint.
    
-3. If we have an equality constraint, i.e., $$Ax = b$$, the following constraints are used\
-   $$
-   \begin{align*}
-    Ax & \leq b + M(1 − y), \\
-    Ax & \geq b − M(1 − y)
-   \end{align*}
-   $$
+* **Equality constraint** (i.e., $$Ax = b$$): Then the following constraints are used\
+  $$
+  \begin{align*}
+   Ax & \leq b + M(1 − y), \\
+   Ax & \geq b − M(1 − y)
+  \end{align*}
+  $$
 
 [^SE_activate]: StackExchange, [*In an integer program, how can I “activate” a constraint only if a decision variable has a certain value?*](https://or.stackexchange.com/questions/76/in-an-integer-program-how-can-i-activate-a-constraint-only-if-a-decision-vari). Accessed Sept. 2023.
 
+See more:
+* How to specify an IF-THEN constraint with an Integer Linear Programming (ILP) solver: [1](https://yzuda.org/Useful_Links/optimization/if-then-else-01.html), [2](https://yzuda.org/Useful_Links/optimization/if-then-else-01.html)
+* [How to specify an unequal constraint with an Integer Linear Programming (ILP) solver](https://yzuda.org/Useful_Links/optimization/unequal.html)
+* [In an integer program, how I can force a binary variable to equal 1 if some condition holds?](https://or.stackexchange.com/questions/33/in-an-integer-program-how-i-can-force-a-binary-variable-to-equal-1-if-some-cond)
 
+  
 ### References
 
