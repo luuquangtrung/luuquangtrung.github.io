@@ -159,7 +159,7 @@ The Big-$$M$$ method can also be used to activate or deactivate a specific const
   
   $$
   Ax \geq b(1−y),
-  $$\
+  $$
   
   which is tighter than the previous constraint.
    
