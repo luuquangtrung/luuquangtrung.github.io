@@ -7,11 +7,11 @@ nav_order: 2
 ---
 
 ### Grants
-* **VinIF Grant** ($166,000)\
+* **VinIF Grant** ($166,000, Oct. 2022 - Oct. 2025)\
   Title: Machine learning for typhoon formation prediction\
   Role: Senior member
 
-* **CIFRE Fellowship** (€30,000). Nov. 2017 - Nov. 2020\
+* **CIFRE Fellowship** (€30,000, Nov. 2017 - Nov. 2020)\
   Title: Dynamic Control and Optimization of Wireless Virtual Networks\
   Role: Principal investigator
   
