@@ -8,6 +8,10 @@ nav_order: 7
 ---
 
 
+### Articles on media
+1. Phan Dương Hiệu và Lưu Quang Trung, [R&D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp](https://thanhnien.vn/rd-ban-dap-tu-dao-tao-tien-si-lien-ket-han-lam-cong-nghiep-185230927084731245.htm), *Thanh Niên*, Sept. 2023. 
+
+
 ### Top-tier telecom and networking journals
 {% capture notice-text %}
 * **Journals**:
