@@ -13,7 +13,7 @@ nav_order: 2
 
 * **CIFRE Fellowship** (€30,000, Nov. 2017 - Nov. 2020)\
   Title: Dynamic Control and Optimization of Wireless Virtual Networks\
-  Role: Principal investigator
+  Role: Fellow (principal investigator)
   
 ### Awards
 * 2023 [Qualification for the University Professor/Lecturer Position](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2023/Qualifies_MCF2023.pdf), French National Council of Universities (Conseil National des Universités, CNU)
