@@ -7,7 +7,11 @@ nav_order: 2
 ---
 
 ### Grants
-* **VinIF Grant** ($166,000, Oct. 2022 - Oct. 2025)\
+* **HUST Grant** ($11,500, Oct. 2023 - Oct. 2025)\
+  Title: Optimizing resouce allocation for O-RAN slices in next-generation communication systems\
+  Role: Principal investigator
+  
+* **VinIF Grant** ($166,000, Oct. 2023 - Oct. 2026)\
   Title: Machine learning for typhoon formation prediction\
   Role: Senior member
 
