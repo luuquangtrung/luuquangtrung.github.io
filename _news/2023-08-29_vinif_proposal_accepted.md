@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We won the VinIF Grant ($166,000) for our research on ML for typhoon formation prediction
+title: Hot! We won the VinIF Grant ($166,000) for our three-year project on ML for typhoon formation prediction
 date: 2023-08-29 09:00:00-0400
 inline: false
 related_posts: false
