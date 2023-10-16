@@ -32,6 +32,8 @@ master’s program. Weekly meetings are organized between academic mentors and g
 
 
 #### Resources
+
+###### Networking
 * L. Peterson, O. Sunay, and B. Davie, [Private 5G: A Systems Approach](https://5g.systemsapproach.org/), 2022.
 * L. Daniel and K. Narayanan, [Mathematical Modelling for Computer Networks](https://www.cs.helsinki.fi/u/ldaniel/mm_cn/), Univ. of Helsinki.
 * O. Brun, [Modèles et algorithmes pour l'ingéniérie de trafic](https://homepages.laas.fr/brun/drupal/node/28), INSA Toulouse.
@@ -39,12 +41,12 @@ master’s program. Weekly meetings are organized between academic mentors and g
 * Z. Han, [Game Theory in Wireless and Communication Networks: Theory, Models, and Applications](http://www2.egr.uh.edu/~zhan2/game_theory_course/), Univ. of Houston.
 * E. Altman, [Selected Topics in Telecoms and Queueing Networks](https://www-sop.inria.fr/members/Eitan.Altman/Research.html), Inria Sophia Antipolis.
 
-<!-- ###### Optimization & Maths -->
+###### Optimization & Maths
 * Z. Han, [Selective Topics on Optimization](http://wireless.egr.uh.edu/Optimization/index.htm), Univ. of Houston.
 * S. Boyd and L. Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/), Stanford University.
 * S. Boyd and L. Vandenberghe, [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/), Stanford University.
 
-<!-- ###### ML/AI -->
+###### ML/AI
 * A. Smola and M. Li, [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html), UC Berkeley.
 * S. Lall and S. Boyd, [Introduction to Machine Learning](http://ee104.stanford.edu/), Stanford University.
 * E. Brunskill, [Reinforcement Learning](https://web.stanford.edu/class/cs234/), Stanford University.
