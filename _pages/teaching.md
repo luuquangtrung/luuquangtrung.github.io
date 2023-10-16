@@ -11,8 +11,7 @@ nav_order: 5
 
 <!-- <br/><br/> -->
 
-
-**Teaching Assistant**, **[Hanoi University of Science and Technology](https://hust.edu.vn/)**, AY2022-2023
+<!-- **Teaching Assistant**, **[Hanoi University of Science and Technology](https://hust.edu.vn/)**, AY2022-2023
 1. **Fundamentals of data communications** ([B.Sc in Telecommunication Engineering](https://seee.hust.edu.vn/chuong-trinh-dao-tao), Fall 2022) : The course aims to introduce the basic knowledge of communication networks and the main problems in communication networks such as : routing; flow and congestion control; basic methods for modeling and evaluating network performance.
 1. **Computer networks** ([B.Sc in Telecommunication Engineering](https://seee.hust.edu.vn/chuong-trinh-dao-tao), Fall 2022) : This course provides elemental knowledge of computer network and Internet, the characteristics and mechanism of computer networks in range from the link to the transport layer.
 
@@ -22,6 +21,7 @@ baseband communication to multiple access techniques, including modulated commun
 1. **Joint research project** ([M.Sc in Multimedia Networking](https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-multimedia-networking), Fall 2020, Fall 2021) : The objective of the joint project is to allow students to carry out original
 research work in a laboratory with an academic mentor, relating to the content of at least two courses presented during the
 master’s program. Weekly meetings are organized between academic mentors and groups typically formed by 2-3 students.
+-->
 
 <!-- * *Digital Communications*, [M.Sc in Networking and Telecoms](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-reseaux-et-telecoms), Paris-Saclay University, AY 2020-2021.
 * *Scientific Project*, [M.Sc in Multimedia Networking](https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-multimedia-networking), Paris-Saclay University and Insitut Polytechnique de Paris, AY 2020-2021 and 2021-2022. -->
@@ -29,6 +29,13 @@ master’s program. Weekly meetings are organized between academic mentors and g
 <!-- * *Digital Communication System Design*, [B.Sc in Electrical Engineering](https://vinuni.edu.vn/college-of-engineering-computer-science/ee/program-overview/), VinUni, AY 2022-2023
 * *Electromagnetic Fields and Waves*, [B.Sc in Electrical Engineering](https://vinuni.edu.vn/college-of-engineering-computer-science/ee/program-overview/), VinUni, AY 2022-2023 -->
 
+#### Modules
+1. **Multimedia** (ET4260Q, undergraduate), *Hanoi University of Science and Technology*: Fall 2023.
+1. **Augmented Reality** (AC4020, undergraduate), *Hanoi University of Science and Technology*: Fall 2023.
+1. **Virtual Reality** (AC4020, undergraduate), *Hanoi University of Science and Technology*: Fall 2023.
+1. **Foundations of Computer Science** (CS310, undergraduate), *Hanoi University of Science and Technology*: Fall 2023.
+1. **Communication Numérique** (G10, master), *Paris-Saclay University*: Fall 2020.
+1. **Joint Research Project** (MN915/MN916, master), *Institut Polytechnique de Paris* and *Paris-Saclay University*: Fall 2020, Fall 2021.
 
 
 #### Resources
