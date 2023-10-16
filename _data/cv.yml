@@ -10,8 +10,8 @@
   type: time_table
   contents:
     - title: Lecturer
-        institution: <a href="https://seee.hust.edu.vn/">School of Electrical and Electronic Engineering</a>, <a href="https://en.hust.edu.vn/">Hanoi University of Science and Technology</a>, Hanoi, Vietnam
-        year: 2023-present
+      institution: <a href="https://seee.hust.edu.vn/">School of Electrical and Electronic Engineering</a>, <a href="https://en.hust.edu.vn/">Hanoi University of Science and Technology</a>, Hanoi, Vietnam
+      year: 2023-present
       
     - title: Postdoctoral Fellow
       institution: <a href="https://lia.univ-avignon.fr/">University of Avignon</a> and <a href="https://www.laas.fr/public/">LAAS-CNRS</a>, Avignon & Toulouse, France
