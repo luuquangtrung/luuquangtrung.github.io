@@ -31,22 +31,22 @@ master’s program. Weekly meetings are organized between academic mentors and g
 
 #### Modules
 1. **Multimedia** (ET4260Q, undergraduate): Fall 2023\
-   Hanoi University of Science and Technology\
+   Hanoi University of Science and Technology
 
 1. **Augmented Reality** (AC4020, undergraduate): Fall 2023\
-   Hanoi University of Science and Technology\
+   Hanoi University of Science and Technology
    
 1. **Virtual Reality** (AC4020, undergraduate): Fall 2023\
-   Hanoi University of Science and Technology\
+   Hanoi University of Science and Technology
    
 1. **Foundations of Computer Science** (CS310, undergraduate): Fall 2023\
-   Hanoi University of Science and Technology\
+   Hanoi University of Science and Technology
    
 1. **Communication Numérique** (G10, graduate): Fall 2020\
-   Paris-Saclay University\
+   Paris-Saclay University
    
 1. **Joint Research Project** (MN915/MN916, graduate): Fall 2020, Fall 2021\
-   Institut Polytechnique de Paris and Paris-Saclay University*\
+   Institut Polytechnique de Paris and Paris-Saclay University
 
 
 #### Resources
