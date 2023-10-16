@@ -30,29 +30,23 @@ master’s program. Weekly meetings are organized between academic mentors and g
 * *Electromagnetic Fields and Waves*, [B.Sc in Electrical Engineering](https://vinuni.edu.vn/college-of-engineering-computer-science/ee/program-overview/), VinUni, AY 2022-2023 -->
 
 #### Modules
-1. **Multimedia** (ET4260Q, undergraduate)\
+1. **Multimedia** (ET4260Q, undergraduate): Fall 2023\
    Hanoi University of Science and Technology\
-   Fall 2023
 
-1. **Augmented Reality** (AC4020, undergraduate)\
+1. **Augmented Reality** (AC4020, undergraduate): Fall 2023\
    Hanoi University of Science and Technology\
-   Fall 2023
    
-1. **Virtual Reality** (AC4020, undergraduate)\
+1. **Virtual Reality** (AC4020, undergraduate): Fall 2023\
    Hanoi University of Science and Technology\
-   Fall 2023
    
-1. **Foundations of Computer Science** (CS310, undergraduate)\
+1. **Foundations of Computer Science** (CS310, undergraduate): Fall 2023\
    Hanoi University of Science and Technology\
-   Fall 2023
    
-1. **Communication Numérique** (G10, graduate)\
+1. **Communication Numérique** (G10, graduate): Fall 2020\
    Paris-Saclay University\
-   Fall 2020
    
-1. **Joint Research Project** (MN915/MN916, graduate)\
-   Institut Polytechnique de Paris* and *Paris-Saclay University*\
-   Fall 2020, Fall 2021.
+1. **Joint Research Project** (MN915/MN916, graduate): Fall 2020, Fall 2021\
+   Institut Polytechnique de Paris and Paris-Saclay University*\
 
 
 #### Resources
