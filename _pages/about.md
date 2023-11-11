@@ -4,7 +4,7 @@ title: home
 permalink: /
 subtitle: Lecturer, <a href='https://seee.hust.edu.vn/'>School of Electrical and Electronic Engineering</a><br>
           <a href='https://en.hust.edu.vn/'>Hanoi University of Science and Technology</a><br>
-          Office: C7-705E and C7-709E, HUST, 1 Dai Co Viet, Hanoi 100000<br>
+          Office\: C7-705E and C7-709E, HUST, 1 Dai Co Viet, Hanoi 100000<br>
           trung [dot] luuquang [at] hust.edu.vn <br><br>
 
 profile:
