@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 ### Grants
-* **HUST Grant** ($11,500, Oct. 2023 - Oct. 2025)\
+* **HUST Grant** ($11,500, Nov. 2023 - Oct. 2025)\
   Title: Optimizing resouce allocation for O-RAN slices in next-generation communication systems\
   Role: Principal investigator
   
