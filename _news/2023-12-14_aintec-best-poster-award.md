@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-Kudos to my students, Kim-Hoan Do, Minh-Thanh Nguyen, and Tuan-Anh Do, for receiving the Best Poster Award at the 18th Asian Internet Engineering Conference in Hanoi, Vietnam (hashtag#AINTEC 2023).
+Kudos to my students, Kim-Hoan Do, Minh-Thanh Nguyen, and Tuan-Anh Do, for receiving the Best Poster Award for the work entitled "Accelerating Network Slice Embedding with Reninforcement and Deep Reinforcement Learning" at the [18th Asian Internet Engineering Conference in Hanoi, Vietnam (AINTEC 2023)](https://interlab.ait.ac.th/aintec2023/).
