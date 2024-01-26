@@ -7,18 +7,23 @@ nav_order: 4
 ---
 
 #### Professional Activities
-{% capture notice-text %}
-* TPC for conferences: [SoICT](https://soict.org/), [AlgoTel](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10987&lang=fr)/[CoRes](https://apps.univ-lr.fr/cgi-bin/WebObjects/Colloque.woa/wa/menu?code=2721&idMenu=10988&lang=fr) (shadow PC), [ICN](https://www.iaria.org/conferences2020/ICN20.html)
-* Regular reviewer for many journals (IEEE JSAC, TON, TNSM, IEEE System Journal, IEEE Communications Letters, Elsevier Computer Communications, etc.) and conferences (IEEE VTC, IEEE ATC, ICN, etc.)
-{% endcapture %}
-
-<div class="notice--info">
-  {{ notice-text | markdownify }}
-</div>
-
+* Technical Program Committee member for conferences:
+  * [Symposium On Information and Communication Technology (SoICT)](https://soict.org/)
+  * [International Conference on Networks (ICN)](https://www.iaria.org/conferences2020/ICN20.html)
+  * [IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
+* Regular reviewer for journals:
+  * IEEE Journal on Selected Areas in Communications (JSAC)
+  * IEEE/ACM Transactions on Networking (TON)
+  * IEEE Transactions on Network and Service Management (TNSM)
+  * IEEE System Journal
+  * IEEE Communications Letters
+  * Elsevier Computer Communications
+* Regular reviewer for conferences:
+  * IEEE International Conference on Communications (ICC)
+  * IEEE Vehicular Technology Conference (VTC)
+  * IEEE International Conference on Advanced Technologies for Communications (ATC)
 
 #### Social Activities
-{% capture notice-text %}
 * [telecom-vn](https://www.facebook.com/groups/telecomvn) (a Facebook group for Vietnamese researchers in telecommunications): Administrator; Organize regular seminars (record videos achieved [here](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ))
 * [Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/): Participant & Presenter (2019)
 * [Vietnam Summer School of Science (VSSS)](https://www.truonghekhoahoc.com/): Organizer (2022); Invited Lecturer (2015); Participant (2014)
@@ -26,12 +31,6 @@ nav_order: 4
 <img src="/assets/img/event_gyvsf2019.jpg" width="800" />
 
 <img src="/assets/img/event_vsss2015.jpg" width="800" />
-
-{% endcapture %}
-
-<div class="notice--success">
-  {{ notice-text | markdownify }}
-</div>
 
 
 
