@@ -63,6 +63,7 @@ master’s program. Weekly meetings are organized between academic mentors and g
 * Z. Han, [Selective Topics on Optimization](http://wireless.egr.uh.edu/Optimization/index.htm), Univ. of Houston.
 * S. Boyd and L. Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/), Stanford University.
 * S. Boyd and L. Vandenberghe, [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/), Stanford University.
+* L. El Ghaoui, [Hyper-Textbook: Optimization Models and Applications](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/index.html), UC Berkeley, 2021.
 
 ###### ML/AI
 * A. Smola and M. Li, [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html), UC Berkeley.
