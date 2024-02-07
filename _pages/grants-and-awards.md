@@ -7,15 +7,19 @@ nav_order: 2
 ---
 
 ### Grants
-* **HUST Grant** ($11,500, Nov. 2023 - Oct. 2025)\
+* National Foundation for Science & Technology Development (NAFOSTED) Grant (2024 - 2026)\
+  Title: Enhancing the performance of 6G Open RAN integrating edge computing and network slicing\
+  Role: Senior member
+
+* **HUST Grant** (Nov. 2023 - Oct. 2025)\
   Title: Optimizing resouce allocation for O-RAN slices in next-generation communication systems\
   Role: Principal investigator
   
-* **VinIF Grant** ($166,000, Oct. 2023 - Oct. 2026)\
+* **VinIF Grant** (Oct. 2023 - Oct. 2026)\
   Title: Machine learning for typhoon formation prediction\
   Role: Senior member
 
-* **CIFRE Fellowship** (€30,000, Nov. 2017 - Nov. 2020)\
+* **CIFRE Fellowship** (Nov. 2017 - Nov. 2020)\
   Title: Dynamic Control and Optimization of Wireless Virtual Networks\
   Role: Fellow (principal investigator)
   
