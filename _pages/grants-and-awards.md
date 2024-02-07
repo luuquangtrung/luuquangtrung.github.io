@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 ### Grants
-* National Foundation for Science & Technology Development (NAFOSTED) Grant (2024 - 2026)\
+* **National Foundation for Science & Technology Development (NAFOSTED) Grant** (2024 - 2026)\
   Title: Enhancing the performance of 6G Open RAN integrating edge computing and network slicing\
   Role: Senior member
 
