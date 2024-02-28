@@ -255,6 +255,13 @@ y &amp; \text{if }x=1.
   </li>
 </ul>
 
+<h5 id="7-preventing-loops-in-linear-directed-graph">7. Preventing loops in linear directed graph</h5>
+<p>Let \(x_{ij}\) be a binary variable indicating that the arc \((i,j)\) is present, the constraint</p>
+
+\[\sum_{i,j\in\mathcal{V}^{'}}x_{ij}\leq\left|\mathcal{V}^{'}\right|-1,\quad\forall\mathcal{V}^{'}\subseteq\mathcal{V}\]
+
+<p>will prevent creating loops in a linear directed graph<sup id="fnref:Cycle_Elimination" role="doc-noteref"><a href="#fn:Cycle_Elimination" class="footnote" rel="footnote">9</a></sup>.</p>
+
 <p>See more:</p>
 <ul>
   <li>How to specify an IF-THEN constraint with an Integer Linear Programming (ILP) solver: <a href="https://yzuda.org/Useful_Links/optimization/if-then-else-01.html" rel="external nofollow noopener" target="_blank">1</a>, <a href="https://yzuda.org/Useful_Links/optimization/if-then-else-01.html" rel="external nofollow noopener" target="_blank">2</a>
@@ -290,6 +297,9 @@ y &amp; \text{if }x=1.
     </li>
     <li id="fn:SE_activate" role="doc-endnote">
       <p>StackExchange, <a href="https://or.stackexchange.com/questions/76/in-an-integer-program-how-can-i-activate-a-constraint-only-if-a-decision-vari" rel="external nofollow noopener" target="_blank"><em>In an integer program, how can I “activate” a constraint only if a decision variable has a certain value?</em></a>. Accessed Sept. 2023. <a href="#fnref:SE_activate" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:Cycle_Elimination" role="doc-endnote">
+      <p>StackExchange, <a href="https://math.stackexchange.com/questions/2479079/cycle-elimination-constraint-in-a-directed-graph" rel="external nofollow noopener" target="_blank"><em>Cycle elimination constraint in a directed graph</em></a>. Accessed Feb. 2024. <a href="#fnref:Cycle_Elimination" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
   </ol>
 </div>
