@@ -174,6 +174,18 @@ The Big-$$M$$ method can also be used to activate or deactivate a specific const
 
 [^SE_activate]: StackExchange, [*In an integer program, how can I “activate” a constraint only if a decision variable has a certain value?*](https://or.stackexchange.com/questions/76/in-an-integer-program-how-can-i-activate-a-constraint-only-if-a-decision-vari). Accessed Sept. 2023.
 
+##### 7. Preventing loops in linear directed graph
+Let $$x_{ij}$$ be a binary variable indicating that the arc $$(i,j)$$ is present, the constraint
+
+$$
+\sum_{i,j\in\mathcal{V}^{'}}x_{ij}\leq\left|\mathcal{V}^{'}\right|-1,\quad\forall\mathcal{V}^{'}\subseteq\mathcal{V}
+$$
+
+will prevent creating loops in a linear directed graph[^Cycle_Elimination].
+
+[^Cycle_Elimination]: StackExchange, [*Cycle elimination constraint in a directed graph*](https://math.stackexchange.com/questions/2479079/cycle-elimination-constraint-in-a-directed-graph). Accessed Feb. 2024.
+
+
 See more:
 * How to specify an IF-THEN constraint with an Integer Linear Programming (ILP) solver: [1](https://yzuda.org/Useful_Links/optimization/if-then-else-01.html), [2](https://yzuda.org/Useful_Links/optimization/if-then-else-01.html)
 * [How to specify an unequal constraint with an Integer Linear Programming (ILP) solver](https://yzuda.org/Useful_Links/optimization/unequal.html)
