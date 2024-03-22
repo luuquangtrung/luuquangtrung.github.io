@@ -14,7 +14,7 @@ Management*, 2024
 
 1. Minh-Thanh Nguyen, **Quang-Trung Luu**, Tai-Hung Nguyen, Do-Minh Tran, Tuan-Anh Do, Kim-Hoan Do, and Van-Hieu Nguyen,
 Accelerating Network Slice Embedding with Reinforcement Learning, 
-*submitted to ACM AINTEC*, 2023
+*submitted to IEEE ICCE*, 2024
 
 
 ### Patents
