@@ -2,6 +2,8 @@
 layout: page
 permalink: /publications/
 title: publication
+nav: true
+nav_order: 3
 ---
 
 For more updated list of publications, please visit my [ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu), [Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr), or [HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu).
