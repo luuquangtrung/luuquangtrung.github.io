@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications-by-categories/
+permalink: /publications/
 title: publication by categories
 ---
 
