@@ -8,12 +8,12 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 
 
 ### Preprints
-1. O. Brun, R. El-Azouzi, **Q.-T. Luu**, F. De Pellergrini, B.-J. Prabhu, and C. Richier, 
-“Weighted Scheduling of Time-Sensitive Coflows,” 
-*submitted to IEEE Transactions on Cloud Computing*, 2023
+1. R. El-Azouzi, F. De Pellegrini, A. Arfaoui, C. Richier, J. Leguay, **Q.-T. Luu**, Y. Magnouche, and S. Martin,
+"Semi-distributed Coflow Scheduling in Datacenters," *submitted to IEEE Transactions on Network and Service
+Management*, 2024
 
-1. Kim-Hoan Do, Quang-Trung Luu, Tai-Hung Nguyen, Minh-Thanh Nguyen, and Tuan-Anh Do,
-Accelerating Network Slice Embedding with Reinforcement and Deep Reinforcement Learning, 
+1. Minh-Thanh Nguyen, **Quang-Trung Luu**, Tai-Hung Nguyen, Do-Minh Tran, Tuan-Anh Do, Kim-Hoan Do, and Van-Hieu Nguyen,
+Accelerating Network Slice Embedding with Reinforcement Learning, 
 *submitted to ACM AINTEC*, 2023
 
 
@@ -23,13 +23,20 @@ Accelerating Network Slice Embedding with Reinforcement and Deep Reinforcement L
 *US Patent 11,431,562 B2*, filed 07 December 2018, issued 16 December 2021, granted 30 August 2022.
 
 ### Journal papers
+1. O. Brun, R. El-Azouzi, **Q.-T. Luu**, F. De Pellergrini, B.-J. Prabhu, and C. Richier, 
+“Weighted Scheduling of Time-Sensitive Coflows,” 
+*IEEE Transactions on Cloud Computing*, 2024 (to appear),
+(E-ISSN: TBD,
+arXiv: [2303.17175](https://arxiv.org/abs/2303.17175),
+**Scopus Q1, IF 5.938**).
+
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, 
 "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," 
 *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, pp. 3136-3153, Sept. 2022, DOI: 10.1109/TNSM.2022.3160352.
 (E-ISSN: 1932-4537,
 hal: [hal-03614028](https://hal.archives-ouvertes.fr/hal-03614028/),
 arXiv: [2203.09367](https://arxiv.org/abs/2203.09367),
-**Scopus Q1**).
+**Scopus Q1, IF 5.3**).
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, 
 "[Uncertainty-Aware Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9351563)," 
@@ -37,7 +44,7 @@ in *IEEE Transactions on Network and Service Management*, vol. 18, no. 1, pp. 79
 (E-ISSN: 1932-4537, 
 hal: [hal-03418308](https://hal.archives-ouvertes.fr/hal-03418308), 
 arXiv: [2006.01104](https://arxiv.org/abs/2006.01104),
-**Scopus Q1**).
+**Scopus Q1, IF 5.3**).
 
 1. **Q.-T. Luu**, S. Kerboeuf, A. Mouradian, and M. Kieffer, 
 "[Coverage-Aware Resource Provisioning Method for Network Slicing](https://ieeexplore.ieee.org/document/9187556/)," 
@@ -45,7 +52,7 @@ in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 20
 (E-ISSN: 1558-2566, 
 hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001), 
 arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3), 
-**Scopus Q1**).
+**Scopus Q1, IF 3.796**).
 
 
 ### Conference and workshop papers
