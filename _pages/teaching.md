@@ -30,6 +30,9 @@ master’s program. Weekly meetings are organized between academic mentors and g
 * *Electromagnetic Fields and Waves*, [B.Sc in Electrical Engineering](https://vinuni.edu.vn/college-of-engineering-computer-science/ee/program-overview/), VinUni, AY 2022-2023 -->
 
 #### Modules
+1. **Multimedia Data Compression and Coding** (ET4262E, undergraduate): Spring 2024\
+   Hanoi University of Science and Technology
+   
 1. **Multimedia** (ET4260Q, undergraduate): Fall 2023\
    Hanoi University of Science and Technology
 
