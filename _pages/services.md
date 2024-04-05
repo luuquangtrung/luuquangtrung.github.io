@@ -7,6 +7,9 @@ nav_order: 4
 ---
 
 #### Professional Activities
+* Technical Conference/Workshop Chair:
+  * Co-chair, Main Track on Communication Networks and Systems, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
+  * Co-chair, Special Session on Recent Advances in B5G/6G Networks, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
 *  Technical Conference/Workshop Chair:
   * Co-chair, Main Track on Communication Networks and Systems, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
   * Co-chair, Special Session on Recent Advances in B5G/6G Networks, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
