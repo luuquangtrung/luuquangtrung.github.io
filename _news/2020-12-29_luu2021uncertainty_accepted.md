@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper [Luu2021Uncertainty] has been accepted to TNSM
+title: Paper "Uncertainty-Aware Resource Provisioning for Network Slicing" has been accepted to TNSM
 date: 2020-12-29 09:00:00-0400
 inline: false
 related_posts: false
