@@ -10,12 +10,12 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 
 
 ### Preprints
-1. R. El-Azouzi, F. De Pellegrini, A. Arfaoui, C. Richier, J. Leguay, **Q.-T. Luu**, Y. Magnouche, and S. Martin,
-"Semi-distributed Coflow Scheduling in Datacenters," *submitted to IEEE Transactions on Network and Service
-Management*, 2024
+1. Tuan-Vu Truong, **Quang-Trung Luu**, and Van-Dinh Nguyen,
+"Efficient Resource Allocation Framework for Network Slicing-enabled Open RAN," 
+*submitted to IEEE ICCE*, 2024
 
 1. Minh-Thanh Nguyen, **Quang-Trung Luu**, Tai-Hung Nguyen, Do-Minh Tran, Tuan-Anh Do, Kim-Hoan Do, and Van-Hieu Nguyen,
-Accelerating Network Slice Embedding with Reinforcement Learning, 
+"Accelerating Network Slice Embedding with Reinforcement Learning," 
 *submitted to IEEE ICCE*, 2024
 
 
@@ -25,9 +25,15 @@ Accelerating Network Slice Embedding with Reinforcement Learning,
 *US Patent 11,431,562 B2*, filed 07 December 2018, issued 16 December 2021, granted 30 August 2022.
 
 ### Journal papers
+1. R. El-Azouzi, F. De Pellegrini, A. Arfaoui, C. Richier, J. Leguay, **Q.-T. Luu**, Y. Magnouche, and S. Martin,
+"Semi-distributed Coflow Scheduling in Datacenters," *IEEE Transactions on Network and Service
+Management*, 2024 (in press), (E-ISSN: TBD,
+arXiv: [TBA](TBA),
+**Scopus Q1, IF 5.3**).
+
 1. O. Brun, R. El-Azouzi, **Q.-T. Luu**, F. De Pellergrini, B.-J. Prabhu, and C. Richier, 
 “Weighted Scheduling of Time-Sensitive Coflows,” 
-*IEEE Transactions on Cloud Computing*, 2024 (to appear),
+*IEEE Transactions on Cloud Computing*, 2024 (in press),
 (E-ISSN: TBD,
 arXiv: [2303.17175](https://arxiv.org/abs/2303.17175),
 **Scopus Q1, IF 5.938**).
