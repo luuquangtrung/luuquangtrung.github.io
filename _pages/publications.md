@@ -36,7 +36,7 @@ arXiv: [TBA](TBA),
 *IEEE Transactions on Cloud Computing*, 2024 (in press),
 (E-ISSN: TBD,
 arXiv: [2303.17175](https://arxiv.org/abs/2303.17175),
-**Scopus Q1, IF 5.938**).
+**Scopus Q1, IF 6.5**).
 
 1. **Q.-T. Luu**, S. Kerboeuf, and M. Kieffer, 
 "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," 
