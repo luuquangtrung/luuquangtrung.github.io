@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /teaching-supervision/
 title: teaching and supervision
 nav: true
 nav_order: 5
