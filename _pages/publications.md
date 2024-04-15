@@ -1,15 +1,34 @@
 ---
 layout: page
-permalink: /publications/
-title: publication
+permalink: /research/
+title: research
 nav: true
 nav_order: 3
 ---
 
+### Grants
+* **National Foundation for Science & Technology Development (NAFOSTED) Grant** (2024 - 2026)\
+  Title: Enhancing the performance of 6G Open RAN integrating edge computing and network slicing\
+  Role: Senior member
+
+* **HUST Grant** (Nov. 2023 - Oct. 2025)\
+  Title: Optimizing resouce allocation for O-RAN slices in next-generation communication systems\
+  Role: Principal investigator
+  
+* **VinIF Grant** (Oct. 2023 - Oct. 2026)\
+  Title: [Machine learning for typhoon formation prediction](https://vinif.org/annual/vinif-2023-da019-du-bao-su-hinh-thanh-bao-bang-phuong-phap-hoc-may/)\
+  Role: Senior member
+
+* **CIFRE Fellowship** (Nov. 2017 - Nov. 2020)\
+  Title: Dynamic Control and Optimization of Wireless Virtual Networks\
+  Role: Fellow (principal investigator)
+
+### Publications
+
 For more updated list of publications, please visit my [ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu), [Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr), or [HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu). Brief information (abstract, bibtex, link) of publication can be found <a href="https://luuquangtrung.github.io/publications-detailed/">here</a>.
 
 
-### Preprints
+##### Preprints
 1. Tuan-Vu Truong, **Quang-Trung Luu**, and Van-Dinh Nguyen,
 "Efficient Resource Allocation Framework for Network Slicing-enabled Open RAN," 
 *submitted to IEEE ICCE*, 2024
@@ -19,12 +38,12 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 *submitted to IEEE ICCE*, 2024
 
 
-### Patents
+##### Patents
 1.  S. Kerboeuf, **Q.-T. Luu**, M. Kieffer, and A. Mouradian, 
 "[Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee](https://patents.google.com/patent/US11431562B2/en)," 
 *US Patent 11,431,562 B2*, filed 07 December 2018, issued 16 December 2021, granted 30 August 2022.
 
-### Journal papers
+##### Journal papers
 1. R. El-Azouzi, F. De Pellegrini, A. Arfaoui, C. Richier, J. Leguay, **Q.-T. Luu**, Y. Magnouche, and S. Martin,
 "Semi-distributed Coflow Scheduling in Datacenters," *IEEE Transactions on Network and Service
 Management*, 2024 (in press), (E-ISSN: TBD,
@@ -63,7 +82,7 @@ arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3),
 **Scopus Q1, IF 3.796**).
 
 
-### Conference and workshop papers
+##### Conference and workshop papers
 1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini,B.-J. Prabhu, and C. Richier, 
 “[DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks](https://ieeexplore.ieee.org/document/9829789)," 
 in *Proc. IFIP Networking*, Catania, Italy, June, 2022, DOI: 10.23919/IFIPNetworking55013.2022.9829789. 
@@ -115,7 +134,7 @@ in [*Proc. IEEE International Workshop on Antenna Technology (iWAT)*](http://www
 -->
 
 
-### Workshops/Posters
+##### Workshops/Posters
 1. **Q.-T. Luu**, M. Kieffer, A. Mouradian, and S. Kerboeuf, 
 "[Resource Provisioning for Network Slices with Coverage Constraints](https://orch5g.roc.cnam.fr/)," 
 *ANR MAESTRO-5G Workshop on Orchestration of 5G Networks and Beyond*, CentraleSupélec, Gif-sur-Yvette, June, 2020.
@@ -130,18 +149,18 @@ in *Journées d’Etude sur la Télésanté (JetSan)*, 6ème édition, Bourges, 
 in *Global Young Vietnamese Scholars Forum (GYVSF)*, Hanoi, Vietnam, Dec. 2019. -->
 
 
-### Demonstrations
+##### Demonstrations
 1. B. Orlandi, S. Kerboeuf, F. Faucheux, J.-L. Lafragette, and **Q.-T. Luu**, 
 "[Network Slicing Made Easy! From Graph-based Design to Automated Deployment of Network Slices in 5G](https://www.youtube.com/watch?v=pLkylDVwdcA&t=29s)," 
 *Nokia 5G Smart Campus Event*, Nozay, 2018.
 
-### Project Deliverable
+##### Project Deliverable
 1. N. Perrot, M. Antonia, S. Kerboeuf, **Q.-T. Luu**, *et al*., 
 "[Virtual Network Orchestration Framework and Algorithms](https://anr.fr/Project-ANR-18-CE25-0012)," 
 *ANR MAESTRO-5G Project Deliverable D3.1*, 2020.
 
 
-### Softwares
+##### Softwares
 1. **Q.-T. Luu**, O. Brun, R. El-Azouzi, F. De Pellergrini,B.-J. Prabhu, and C. Richier, 
 CoflowLib: A library of test instances for coflows in datacenter networks, 2022 
 [[Source code](https://github.com/luuquangtrung/CoflowLib)].
@@ -155,7 +174,7 @@ SfcEmbedder: An ILP-based algorithm to solve the problem of SFC embedding, 2020
 [[Source code](https://github.com/luuquangtrung/SfcEmbedder)].
 
 
-### Theses
+##### Theses
 * **Q.-T. Luu**, Contrôle et Optimisation des Réseaux Virtuels Sans Fil (Dynamic Control and Optimization of Wireless Virtual Network), 
 *Ph.D Thesis*, [Paris-Saclay University](https://www.universite-paris-saclay.fr/), 2021 
 ([2022 Best PhD Dissertation Award on Distributed Systems and Networks by GDR-RSD and ACM SigOps France](https://gdr-rsd.fr/laureats-prix-de-these-2022/))
