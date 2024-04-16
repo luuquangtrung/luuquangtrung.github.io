@@ -8,7 +8,7 @@ nav_order: 5
 
 #### Teaching
 1. **Hanoi University of Science and Technology**\
-   Fundamentals of data communication (ET4070, undergraduate): Summer 2024\
+   Fundamentals of Data Communication (ET4070, undergraduate): Summer 2024\
    Multimedia Data Compression and Coding (ET4262E, undergraduate): Spring 2024\
    Multimedia (ET4260Q, undergraduate): Fall 2023\
    Augmented Reality (AC4020, undergraduate): Fall 2023\
