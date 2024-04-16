@@ -7,16 +7,16 @@ nav_order: 5
 ---
 
 #### Teaching
-1. **Hanoi University of Science and Technology**
+1. **Hanoi University of Science and Technology** (2023-present)
    * Fundamentals of Data Communication (ET4070, undergraduate): Summer 2024
    * Multimedia Data Compression and Coding (ET4262E, undergraduate): Spring 2024
    * Multimedia (ET4260Q, undergraduate): Fall 2023
    * Augmented Reality (AC4020, undergraduate): Fall 2023
    * Virtual Reality (AC4020, undergraduate): Fall 2023
-1. **Troy University**
+1. **Troy University** (2023-present)
    * [Computer Security](https://www.troy.edu/academics/catalogs/undergraduate-catalog/course-descriptions/computer-science-courses.html) (CS4451, undergraduate): Spring 2024
    * [Foundations of Computer Science](https://www.troy.edu/academics/catalogs/undergraduate-catalog/course-descriptions/computer-science-courses.html) (CS3310, undergraduate): Fall 2023
-1. **Paris-Saclay University**
+1. **Paris-Saclay University**(2020-2022)
    * [Communication Numérique](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-reseaux-et-telecoms#programme) (G10, graduate): Fall 2020
    * [Joint Research Project](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-multimedia-networking#programme) (MN915/MN916, graduate, joint program with Institut Polytechnique de Paris): Fall 2020, Fall 2021
 
