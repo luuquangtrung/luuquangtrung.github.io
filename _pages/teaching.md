@@ -32,7 +32,7 @@ master’s program. Weekly meetings are organized between academic mentors and g
 #### Teaching
 1. **Hanoi University of Science and Technology**\
    Multimedia Data Compression and Coding (ET4262E, undergraduate): Spring 2024\
-   Multimedia** (ET4260Q, undergraduate): Fall 2023\
+   Multimedia (ET4260Q, undergraduate): Fall 2023\
    Augmented Reality (AC4020, undergraduate): Fall 2023\
    Virtual Reality (AC4020, undergraduate): Fall 2023
    
