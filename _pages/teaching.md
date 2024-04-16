@@ -29,27 +29,20 @@ master’s program. Weekly meetings are organized between academic mentors and g
 * *Electromagnetic Fields and Waves*, [B.Sc in Electrical Engineering](https://vinuni.edu.vn/college-of-engineering-computer-science/ee/program-overview/), VinUni, AY 2022-2023 -->
 
 
-#### Modules
-1. **Multimedia Data Compression and Coding** (ET4262E, undergraduate): Spring 2024\
-   Hanoi University of Science and Technology
+#### Teaching
+1. **Hanoi University of Science and Technology**\
+   Multimedia Data Compression and Coding (ET4262E, undergraduate): Spring 2024\
+   Multimedia** (ET4260Q, undergraduate): Fall 2023\
+   Augmented Reality (AC4020, undergraduate): Fall 2023\
+   Virtual Reality (AC4020, undergraduate): Fall 2023
    
-1. **Multimedia** (ET4260Q, undergraduate): Fall 2023\
-   Hanoi University of Science and Technology
-
-1. **Augmented Reality** (AC4020, undergraduate): Fall 2023\
-   Hanoi University of Science and Technology
+1. **Troy University**\
+   [Computer Security](https://www.troy.edu/academics/catalogs/undergraduate-catalog/course-descriptions/computer-science-courses.html) (CS4451, undergraduate): Spring 2024\
+   [Foundations of Computer Science](https://www.troy.edu/academics/catalogs/undergraduate-catalog/course-descriptions/computer-science-courses.html) (CS3310, undergraduate): Fall 2023
    
-1. **Virtual Reality** (AC4020, undergraduate): Fall 2023\
-   Hanoi University of Science and Technology
-   
-1. **Foundations of Computer Science** (CS310, undergraduate): Fall 2023\
-   Hanoi University of Science and Technology
-   
-1. **Communication Numérique** (G10, graduate): Fall 2020\
-   Paris-Saclay University
-   
-1. **Joint Research Project** (MN915/MN916, graduate): Fall 2020, Fall 2021\
-   Institut Polytechnique de Paris and Paris-Saclay University
+1. **Paris-Saclay University**\
+   Communication Numérique (G10, graduate): Fall 2020\
+   Joint Research Project (MN915/MN916, graduate, joint program with Institut Polytechnique de Paris): Fall 2020, Fall 2021\
 
 #### Supervisions
 ###### Ph.D students
