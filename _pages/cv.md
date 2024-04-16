@@ -9,7 +9,7 @@ nav_order: 1
 **Download**: [CV in english]({{ site.url }}/assets/pdf/luu_cv_en.pdf), [CV en français]({{ site.url }}/assets/pdf/luu_cv_fr.pdf) (last updated: Feb. 1, 2024)
 
 ### Experiences
-* **Lecturer (Assistant Professor)**, School of Electrical and Electronic Engineering, Hanoi University of Science and, [Hanoi University of Science and Technology](https://seee.hust.edu.vn/), Hanoi, Vietnam (May 2023 - present)
+* **Lecturer (Assistant Professor)**, [Hanoi University of Science and Technology](https://seee.hust.edu.vn/), Hanoi, Vietnam (May 2023 - present)
 * **Postdoctoral Fellow**, [University of Avignon](https://lia.univ-avignon.fr/) and [LAAS-CNRS](https://www.laas.fr/public/), Avignon & Toulouse, France (Mar. 2021 - Mar. 2022)
 * **Research Engineer**, [Nokia Bell Labs](https://www.bell-labs.com/), Nozay, France (Nov. 2017 - Nov. 2020)
 * **Research Intern**, [Inria](https://www.inria.fr/en) & [Ecole Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France (Apr. 2017 - Sept. 2017)
