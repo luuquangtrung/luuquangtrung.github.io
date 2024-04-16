@@ -42,7 +42,7 @@ master’s program. Weekly meetings are organized between academic mentors and g
    
 1. **Paris-Saclay University**\
    Communication Numérique (G10, graduate): Fall 2020\
-   Joint Research Project (MN915/MN916, graduate, joint program with Institut Polytechnique de Paris): Fall 2020, Fall 2021\
+   Joint Research Project (MN915/MN916, graduate, joint program with Institut Polytechnique de Paris): Fall 2020, Fall 2021
 
 #### Supervisions
 ###### Ph.D students
