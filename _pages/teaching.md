@@ -6,43 +6,19 @@ nav: true
 nav_order: 5
 ---
 
-<!-- <small>Note: TD = *travaux dirigés* (exercise sessions/tutorials), TP = *travaux pratiques* (lab sessions), CM = *cours magistraux* (lectures)</small> -->
-
-<!-- <br/><br/> -->
-
-<!-- **Teaching Assistant**, **[Hanoi University of Science and Technology](https://hust.edu.vn/)**, AY2022-2023
-1. **Fundamentals of data communications** ([B.Sc in Telecommunication Engineering](https://seee.hust.edu.vn/chuong-trinh-dao-tao), Fall 2022) : The course aims to introduce the basic knowledge of communication networks and the main problems in communication networks such as : routing; flow and congestion control; basic methods for modeling and evaluating network performance.
-1. **Computer networks** ([B.Sc in Telecommunication Engineering](https://seee.hust.edu.vn/chuong-trinh-dao-tao), Fall 2022) : This course provides elemental knowledge of computer network and Internet, the characteristics and mechanism of computer networks in range from the link to the transport layer.
-
-**Teaching Assistant**, **[Paris-Saclay University](https://www.universite-paris-saclay.fr)**, AY2020-2021
-1. **Digital communications** ([M.Sc in Networking and Telecoms](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-reseaux-et-telecoms), Fall 2020) : The course aims to provide basic notions of digital communication, ranging from
-baseband communication to multiple access techniques, including modulated communications.
-1. **Joint research project** ([M.Sc in Multimedia Networking](https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-multimedia-networking), Fall 2020, Fall 2021) : The objective of the joint project is to allow students to carry out original
-research work in a laboratory with an academic mentor, relating to the content of at least two courses presented during the
-master’s program. Weekly meetings are organized between academic mentors and groups typically formed by 2-3 students.
--->
-
-<!-- * *Digital Communications*, [M.Sc in Networking and Telecoms](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-reseaux-et-telecoms), Paris-Saclay University, AY 2020-2021.
-* *Scientific Project*, [M.Sc in Multimedia Networking](https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-multimedia-networking), Paris-Saclay University and Insitut Polytechnique de Paris, AY 2020-2021 and 2021-2022. -->
-
-<!-- * *Digital Communication System Design*, [B.Sc in Electrical Engineering](https://vinuni.edu.vn/college-of-engineering-computer-science/ee/program-overview/), VinUni, AY 2022-2023
-* *Electromagnetic Fields and Waves*, [B.Sc in Electrical Engineering](https://vinuni.edu.vn/college-of-engineering-computer-science/ee/program-overview/), VinUni, AY 2022-2023 -->
-
-
 #### Teaching
 1. **Hanoi University of Science and Technology**\
+   Fundamentals of data communication (ET4070, undergraduate): Summer 2024\
    Multimedia Data Compression and Coding (ET4262E, undergraduate): Spring 2024\
    Multimedia (ET4260Q, undergraduate): Fall 2023\
    Augmented Reality (AC4020, undergraduate): Fall 2023\
    Virtual Reality (AC4020, undergraduate): Fall 2023
-   
 1. **Troy University**\
    [Computer Security](https://www.troy.edu/academics/catalogs/undergraduate-catalog/course-descriptions/computer-science-courses.html) (CS4451, undergraduate): Spring 2024\
    [Foundations of Computer Science](https://www.troy.edu/academics/catalogs/undergraduate-catalog/course-descriptions/computer-science-courses.html) (CS3310, undergraduate): Fall 2023
-   
 1. **Paris-Saclay University**\
-   Communication Numérique (G10, graduate): Fall 2020\
-   Joint Research Project (MN915/MN916, graduate, joint program with Institut Polytechnique de Paris): Fall 2020, Fall 2021
+   [Communication Numérique](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-reseaux-et-telecoms#programme) (G10, graduate): Fall 2020\
+   [Joint Research Project](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-multimedia-networking#programme) (MN915/MN916, graduate, joint program with Institut Polytechnique de Paris): Fall 2020, Fall 2021
 
 #### Supervisions
 ###### Ph.D students
@@ -84,3 +60,31 @@ master’s program. Weekly meetings are organized between academic mentors and g
 * Yuki Asano et al., [Deep Learning Course](https://uvadlc.github.io/), M.Sc in Artificial Intelligence, Univ. of Amsterdam.
 
 
+
+
+
+
+
+
+
+<!-- <small>Note: TD = *travaux dirigés* (exercise sessions/tutorials), TP = *travaux pratiques* (lab sessions), CM = *cours magistraux* (lectures)</small> -->
+
+<!-- <br/><br/> -->
+
+<!-- **Teaching Assistant**, **[Hanoi University of Science and Technology](https://hust.edu.vn/)**, AY2022-2023
+1. **Fundamentals of data communications** ([B.Sc in Telecommunication Engineering](https://seee.hust.edu.vn/chuong-trinh-dao-tao), Fall 2022) : The course aims to introduce the basic knowledge of communication networks and the main problems in communication networks such as : routing; flow and congestion control; basic methods for modeling and evaluating network performance.
+1. **Computer networks** ([B.Sc in Telecommunication Engineering](https://seee.hust.edu.vn/chuong-trinh-dao-tao), Fall 2022) : This course provides elemental knowledge of computer network and Internet, the characteristics and mechanism of computer networks in range from the link to the transport layer.
+
+**Teaching Assistant**, **[Paris-Saclay University](https://www.universite-paris-saclay.fr)**, AY2020-2021
+1. **Digital communications** ([M.Sc in Networking and Telecoms](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-reseaux-et-telecoms), Fall 2020) : The course aims to provide basic notions of digital communication, ranging from
+baseband communication to multiple access techniques, including modulated communications.
+1. **Joint research project** ([M.Sc in Multimedia Networking](https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-multimedia-networking), Fall 2020, Fall 2021) : The objective of the joint project is to allow students to carry out original
+research work in a laboratory with an academic mentor, relating to the content of at least two courses presented during the
+master’s program. Weekly meetings are organized between academic mentors and groups typically formed by 2-3 students.
+-->
+
+<!-- * *Digital Communications*, [M.Sc in Networking and Telecoms](https://www.universite-paris-saclay.fr/formation/master/electronique-energie-electrique-automatique/m2-reseaux-et-telecoms), Paris-Saclay University, AY 2020-2021.
+* *Scientific Project*, [M.Sc in Multimedia Networking](https://www.universite-paris-saclay.fr/en/education/master/electrical-engineering/m2-multimedia-networking), Paris-Saclay University and Insitut Polytechnique de Paris, AY 2020-2021 and 2021-2022. -->
+
+<!-- * *Digital Communication System Design*, [B.Sc in Electrical Engineering](https://vinuni.edu.vn/college-of-engineering-computer-science/ee/program-overview/), VinUni, AY 2022-2023
+* *Electromagnetic Fields and Waves*, [B.Sc in Electrical Engineering](https://vinuni.edu.vn/college-of-engineering-computer-science/ee/program-overview/), VinUni, AY 2022-2023 -->
