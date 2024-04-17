@@ -9,10 +9,10 @@ nav_order: 1
 **Download**: [CV in english](https://luuquangtrung.github.io/assets/pdf/luu_cv_en.pdf), [CV en français]([luuquangtrung.github.io/assets/pdf/luu_cv_fr.pdf](https://luuquangtrung.github.io/assets/pdf/luu_cv_fr.pdf)) (last updated: Feb. 1, 2024)
 
 ### Experiences
-* May 2023 - present: Lecturer (Assistant Professor), [Hanoi University of Science and Technology](https://seee.hust.edu.vn/), Hanoi, Vietnam
-* Mar. 2021 - Mar. 2022: Postdoctoral Fellow, [University of Avignon](https://lia.univ-avignon.fr/) and [LAAS-CNRS](https://www.laas.fr/public/), Avignon & Toulouse, France
-* Nov. 2017 - Nov. 2020: Research Engineer, [Nokia Bell Labs](https://www.bell-labs.com/), Nozay, France 
-* Apr. 2017 - Sept. 2017: Research Intern, [Inria](https://www.inria.fr/en) & [Ecole Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France
+* 05/2023-present: Lecturer (Assistant Professor), [Hanoi University of Science and Technology](https://seee.hust.edu.vn/), Hanoi, Vietnam
+* 03/2021-03/2022: Postdoctoral Fellow, [University of Avignon](https://lia.univ-avignon.fr/) and [LAAS-CNRS](https://www.laas.fr/public/), Avignon & Toulouse, France
+* 11/2017-11/2020: Research Engineer, [Nokia Bell Labs](https://www.bell-labs.com/), Nozay, France 
+* 04/2017-09/2017: Research Intern, [Inria](https://www.inria.fr/en) & [Ecole Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France
 
 ### Education
 * 2017-2020: Ph.D in Networking, Information, and Communications, [CentraleSupélec](https://www.centralesupelec.fr/) - [Paris-Saclay University](https://www.universite-paris-saclay.fr/), Paris, France
