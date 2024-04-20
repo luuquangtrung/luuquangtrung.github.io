@@ -35,11 +35,11 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 ##### Preprints
 1. Tuan-Vu Truong, **Quang-Trung Luu**, and Van-Dinh Nguyen,
 "Efficient Resource Allocation Framework for Network Slicing-enabled Open RAN," 
-*submitted to IEEE ICCE*, 2024
+*submitted to IEEE International Conference on Communications and Electronics (ICCE)*, 2024
 
 1. Minh-Thanh Nguyen, **Quang-Trung Luu**, Tai-Hung Nguyen, Do-Minh Tran, Tuan-Anh Do, Kim-Hoan Do, and Van-Hieu Nguyen,
 "Accelerating Network Slice Embedding with Reinforcement Learning," 
-*submitted to IEEE ICCE*, 2024
+*submitted to IEEE International Conference on Communications and Electronics (ICCE)*, 2024
 
 
 ##### Patents
