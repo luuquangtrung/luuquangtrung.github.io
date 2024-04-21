@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-**Download**: [CV in english](https://luuquangtrung.github.io/assets/pdf/luu_cv_en.pdf), [CV en français]([luuquangtrung.github.io/assets/pdf/luu_cv_fr.pdf](https://luuquangtrung.github.io/assets/pdf/luu_cv_fr.pdf)) (last updated: Feb. 1, 2024)
+**Download**: [CV in english](https://luuquangtrung.github.io/assets/pdf/luu_cv_en.pdf), [CV en français](https://luuquangtrung.github.io/assets/pdf/luu_cv_fr.pdf)) (last updated: Feb. 1, 2024)
 
 ### Experiences
 * 05/2023-present: Lecturer (Assistant Professor), [Hanoi University of Science and Technology](https://seee.hust.edu.vn/), Hanoi, Vietnam
