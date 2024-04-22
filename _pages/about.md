@@ -39,7 +39,7 @@ I am actively looking for highly motivated undergraduate/graduate students in th
 ## research interests
 * Applied AI/ML for 5G & beyond: resource allocation, task scheduling
 * Open radio access networks (Open RAN): functional splitting, network slicing, traffic steering
-* ML for combinatorial optimization
+* ML for combinatorial network optimization problems (e.g., virtual network embedding, coflow scheduling)
 
 <!-- ## contact
 Office:
