@@ -127,7 +127,7 @@ in *Proc. IEEE International Workshop on Antenna Technology (iWAT)*, Athens, Gre
 (ISBN: 978-1-5090-5177-9, 
 hal: [hal-01633015](https://hal.archives-ouvertes.fr/hal-01633015)).
 
-1. **Quang-Trung Luu**, D.-H. Tran, B.-H. Nguyen, Y. Vu-Van, and C.-M. Ta, 
+1. **Quang-Trung Luu**, Duc-Hung Tran, Bao-Huy Nguyen, Yem Vu-Van, and Cao-Minh Ta, 
 “[Design of the Resonators for Coupled Magnetic Resonance based Wireless Power Transmission Systems](https://sites.google.com/site/vcca2013/home),” 
 in *Proc. The 2nd Vietnam Conference on Control and Automation (VCCA)*, Da Nang, pp. 724-729, Nov. 2013.
 
