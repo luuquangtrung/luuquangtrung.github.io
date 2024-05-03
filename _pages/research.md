@@ -55,9 +55,9 @@ arXiv: [TBA](TBA),
 **Scopus Q1, IF 5.3**).
 
 1. O. Brun, R. El-Azouzi, **Q.-T. Luu**, F. De Pellergrini, B.-J. Prabhu, and C. Richier, 
-“Weighted Scheduling of Time-Sensitive Coflows,” 
+"[Weighted Scheduling of Time-Sensitive Coflows](https://ieeexplore.ieee.org/document/10490130/)," 
 *IEEE Transactions on Cloud Computing*, 2024 (in press),
-(E-ISSN: TBD,
+(E-ISSN: 2168-7161,
 arXiv: [2303.17175](https://arxiv.org/abs/2303.17175),
 **Scopus Q1, IF 6.5**).
 
