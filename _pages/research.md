@@ -48,7 +48,7 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 *US Patent 11,431,562 B2*, filed 07 December 2018, issued 16 December 2021, granted 30 August 2022.
 
 ##### Journal papers
-1. Rachid El-Azouzi, F. De Pellegrini, A. Arfaoui, Cédric Richier, J. Leguay, **Quang-Trung Luu**, Y. Magnouche, and S. Martin,
+1. Rachid El-Azouzi, Francesco De Pellegrini, Afaf Arfaoui, Cédric Richier, Jeremie Leguay, **Quang-Trung Luu**, Youcef Magnouche, and Sebastien Martin,
 "Semi-distributed Coflow Scheduling in Datacenters," *IEEE Transactions on Network and Service
 Management*, 2024 (in press), (E-ISSN: TBD,
 arXiv: [TBA](TBA),
