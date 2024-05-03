@@ -43,7 +43,7 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 
 
 ##### Patents
-1.  Sylvaine Kerboeuf, **Quang-Trung Luu**, Michel Kieffer, and A. Mouradian, 
+1.  Sylvaine Kerboeuf, **Quang-Trung Luu**, Michel Kieffer, and Alexandre Mouradian, 
 "[Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee](https://patents.google.com/patent/US11431562B2/en)," 
 *US Patent 11,431,562 B2*, filed 07 December 2018, issued 16 December 2021, granted 30 August 2022.
 
@@ -77,7 +77,7 @@ hal: [hal-03418308](https://hal.archives-ouvertes.fr/hal-03418308),
 arXiv: [2006.01104](https://arxiv.org/abs/2006.01104),
 **Scopus Q1, IF 5.3**).
 
-1. **Quang-Trung Luu**, Sylvaine Kerboeuf, A. Mouradian, and Michel Kieffer, 
+1. **Quang-Trung Luu**, Sylvaine Kerboeuf, Alexandre Mouradian, and Michel Kieffer, 
 "[Coverage-Aware Resource Provisioning Method for Network Slicing](https://ieeexplore.ieee.org/document/9187556/)," 
 in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 2020, DOI: 10.1109/TNET.2020.3019098.
 (E-ISSN: 1558-2566, 
@@ -102,13 +102,13 @@ in *Proc. IEEE International Conference on High Performance Switching and Routin
 hal: [hal-03420010](https://hal.archives-ouvertes.fr/hal-03420010)
 **invited paper**, **CORE Rank C**).
 
-1. **Quang-Trung Luu**, Sylvaine Kerboeuf, A. Mouradian, and Michel Kieffer, 
+1. **Quang-Trung Luu**, Sylvaine Kerboeuf, Alexandre Mouradian, and Michel Kieffer, 
 "[Radio Resource Provisioning for Network Slicing with Coverage Constraints](https://ieeexplore.ieee.org/document/9148897)," 
 in *Proc. IEEE International Conference on Communications (ICC)*, Dublin, Ireland, pp. 1-6, June, 2020, DOI: 10.1109/ICC40277.2020.9148897. 
 (E-ISSN: 1938-1883, 
 hal: [hal-03097210](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097210)).
 
-1. **Quang-Trung Luu**, Michel Kieffer, A. Mouradian, and Sylvaine Kerboeuf, 
+1. **Quang-Trung Luu**, Michel Kieffer, Alexandre Mouradian, and Sylvaine Kerboeuf, 
 "[Aggregated Resource Provisioning for Network Slices](https://ieeexplore.ieee.org/abstract/document/8648039)," 
 in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, UAE, pp. 1-6, Dec. 2018, DOI: 10.1109/GLOCOM.2018.8648039.
 (ISSN: 2576-6813
@@ -139,7 +139,7 @@ in [*Proc. IEEE International Workshop on Antenna Technology (iWAT)*](http://www
 
 
 ##### Workshops/Posters
-1. **Quang-Trung Luu**, Michel Kieffer, A. Mouradian, and Sylvaine Kerboeuf, 
+1. **Quang-Trung Luu**, Michel Kieffer, Alexandre Mouradian, and Sylvaine Kerboeuf, 
 "[Resource Provisioning for Network Slices with Coverage Constraints](https://orch5g.roc.cnam.fr/)," 
 *ANR MAESTRO-5G Workshop on Orchestration of 5G Networks and Beyond*, CentraleSupélec, Gif-sur-Yvette, June, 2020.
 
@@ -148,7 +148,7 @@ in [*Proc. IEEE International Workshop on Antenna Technology (iWAT)*](http://www
 in *Journées d’Etude sur la Télésanté (JetSan)*, 6ème édition, Bourges, France, May 2017. 
 (hal: [hal-01692423](https://hal.archives-ouvertes.fr/hal-01692423/))
 
-<!-- 2. **Quang-Trung Luu**, Sylvaine Kerboeuf, A. Mouradian, and Michel Kieffer, 
+<!-- 2. **Quang-Trung Luu**, Sylvaine Kerboeuf, Alexandre Mouradian, and Michel Kieffer, 
 "Towards Green Computing for Next Generation Mobile Net-works: A Resource Provisioning Method for 5G," 
 in *Global Young Vietnamese Scholars Forum (GYVSF)*, Hanoi, Vietnam, Dec. 2019. -->
 
