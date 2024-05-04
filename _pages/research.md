@@ -50,12 +50,13 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 ##### Journal papers
 1. Rachid El-Azouzi, Francesco De Pellegrini, Afaf Arfaoui, Cédric Richier, Jeremie Leguay, **Quang-Trung Luu**, Youcef Magnouche, and Sebastien Martin,
 "[Semi-distributed Coflow Scheduling in Datacenters](https://ieeexplore.ieee.org/document/10517902)," *IEEE Transactions on Network and Service
-Management*, 2024, (DOI: 10.1109/TNSM.2024.3395992, E-ISSN: 1932-4537,
+Management*, 2024, DOI: 10.1109/TNSM.2024.3395992.
+(E-ISSN: 1932-4537,
 **Scopus Q1, IF 5.3**).
 
 1. Olivier Brun, Rachid El-Azouzi, **Quang-Trung Luu**, Francesco De Pellegrini, Balakrishna J. Prabhu, and Cédric Richier, 
 "[Weighted Scheduling of Time-Sensitive Coflows](https://ieeexplore.ieee.org/document/10490130/)," 
-*IEEE Transactions on Cloud Computing*, 2024 (in press),
+*IEEE Transactions on Cloud Computing*, 2024, DOI: 10.1109/TCC.2024.3384514.
 (E-ISSN: 2168-7161,
 arXiv: [2303.17175](https://arxiv.org/abs/2303.17175),
 **Scopus Q1, IF 6.5**).
@@ -82,7 +83,7 @@ in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 20
 (E-ISSN: 1558-2566, 
 hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001), 
 arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3), 
-**Scopus Q1, IF 3.796**).
+**Scopus Q1, IF 3.7**).
 
 
 ##### Conference and workshop papers
