@@ -132,7 +132,7 @@ in *Global Young Vietnamese Scholars Forum (GYVSF)*, Hanoi, Vietnam, Dec. 2019. 
 *Nokia 5G Smart Campus Event*, Nozay, 2018.
 
 ### Project Deliverable
-1. N. Perrot, M. Antonia, Sylvaine Kerboeuf, **Quang-Trung Luu**, *et al*., 
+1. Nancy Perrot, Sylvaine Kerboeuf, **Quang-Trung Luu**, *et al*., 
 "[Virtual Network Orchestration Framework and Algorithms](https://anr.fr/Project-ANR-18-CE25-0012)," 
 *ANR MAESTRO-5G Project Deliverable D3.1*, 2020.
 
