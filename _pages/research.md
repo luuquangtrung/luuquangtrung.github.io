@@ -49,7 +49,7 @@ For more updated list of publications, please visit my [ResearchGate](https://ww
 
 ##### Journal papers
 1. Rachid El-Azouzi, Francesco De Pellegrini, Afaf Arfaoui, Cédric Richier, Jeremie Leguay, **Quang-Trung Luu**, Youcef Magnouche, and Sebastien Martin,
-"Semi-distributed Coflow Scheduling in Datacenters," *IEEE Transactions on Network and Service
+"[Semi-distributed Coflow Scheduling in Datacenters](https://ieeexplore.ieee.org/document/10517902)," *IEEE Transactions on Network and Service
 Management*, 2024 (in press), (E-ISSN: TBD,
 arXiv: [TBA](TBA),
 **Scopus Q1, IF 5.3**).
