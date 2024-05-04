@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications-by-year/
-title: publications
+title: publications by year
 description: publications in reversed chronological order.
 years: [2024, 2023, 2022, 2021, 2020, 2018, 2017, 2016]
 ---
