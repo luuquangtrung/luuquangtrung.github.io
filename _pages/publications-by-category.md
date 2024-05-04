@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /publications-by-category/
-title: publications
-description: publications by category
+title: publications by category
+description: 
 ---
  
-### Publications by category
-
-##### Preprints
+### Preprints
 1. Tuan-Vu Truong, **Quang-Trung Luu**, and Van-Dinh Nguyen,
 "Efficient Resource Allocation Framework for Network Slicing-enabled Open RAN," 
 *submitted to IEEE International Conference on Communications and Electronics (ICCE)*, 2024
@@ -17,12 +15,12 @@ description: publications by category
 *submitted to IEEE International Conference on Communications and Electronics (ICCE)*, 2024
 
 
-##### Patents
+### Patents
 1.  Sylvaine Kerboeuf, **Quang-Trung Luu**, Michel Kieffer, and Alexandre Mouradian, 
 "[Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee](https://patents.google.com/patent/US11431562B2/en)," 
 *US Patent 11,431,562 B2*, filed 07 December 2018, issued 16 December 2021, granted 30 August 2022.
 
-##### Journal papers
+### Journal papers
 1. Rachid El-Azouzi, Francesco De Pellegrini, Afaf Arfaoui, Cédric Richier, Jeremie Leguay, **Quang-Trung Luu**, Youcef Magnouche, and Sebastien Martin,
 "[Semi-distributed Coflow Scheduling in Datacenters](https://ieeexplore.ieee.org/document/10517902)," *IEEE Transactions on Network and Service
 Management*, 2024, DOI: 10.1109/TNSM.2024.3395992.
@@ -61,7 +59,7 @@ arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3),
 **Scopus Q1, IF 3.7**).
 
 
-##### Conference and workshop papers
+### Conference and workshop papers
 1. **Quang-Trung Luu**, Olivier Brun, Rachid El-Azouzi, Francesco De Pellegrini, Balakrishna J. Prabhu, and Cédric Richier, 
 “[DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks](https://ieeexplore.ieee.org/document/9829789)," 
 in *Proc. IFIP Networking*, Catania, Italy, June, 2022, DOI: 10.23919/IFIPNetworking55013.2022.9829789. 
@@ -113,7 +111,7 @@ in [*Proc. IEEE International Workshop on Antenna Technology (iWAT)*](http://www
 -->
 
 
-##### Workshops/Posters
+### Workshops/Posters
 1. **Quang-Trung Luu**, Michel Kieffer, Alexandre Mouradian, and Sylvaine Kerboeuf, 
 "[Resource Provisioning for Network Slices with Coverage Constraints](https://orch5g.roc.cnam.fr/)," 
 *ANR MAESTRO-5G Workshop on Orchestration of 5G Networks and Beyond*, CentraleSupélec, Gif-sur-Yvette, June, 2020.
@@ -128,18 +126,18 @@ in *Journées d’Etude sur la Télésanté (JetSan)*, 6ème édition, Bourges, 
 in *Global Young Vietnamese Scholars Forum (GYVSF)*, Hanoi, Vietnam, Dec. 2019. -->
 
 
-##### Demonstrations
+### Demonstrations
 1. Barbara Orlandi, Sylvaine Kerboeuf, Frédéric Faucheux, J.-L. Lafragette, and **Quang-Trung Luu**, 
 "[Network Slicing Made Easy! From Graph-based Design to Automated Deployment of Network Slices in 5G](https://www.youtube.com/watch?v=pLkylDVwdcA&t=29s)," 
 *Nokia 5G Smart Campus Event*, Nozay, 2018.
 
-##### Project Deliverable
+### Project Deliverable
 1. N. Perrot, M. Antonia, Sylvaine Kerboeuf, **Quang-Trung Luu**, *et al*., 
 "[Virtual Network Orchestration Framework and Algorithms](https://anr.fr/Project-ANR-18-CE25-0012)," 
 *ANR MAESTRO-5G Project Deliverable D3.1*, 2020.
 
 
-##### Softwares
+### Softwares
 1. **Quang-Trung Luu**, Olivier Brun, Rachid El-Azouzi, Francesco De Pellegrini,Balakrishna J. Prabhu, and Cédric Richier, 
 CoflowLib: A library of test instances for coflows in datacenter networks, 2022 
 [[Source code](https://github.com/luuquangtrung/CoflowLib)].
@@ -153,7 +151,7 @@ SfcEmbedder: An ILP-based algorithm to solve the problem of SFC embedding, 2020
 [[Source code](https://github.com/luuquangtrung/SfcEmbedder)].
 
 
-##### Theses
+### Theses
 * **Quang-Trung Luu**, Contrôle et Optimisation des Réseaux Virtuels Sans Fil (Dynamic Control and Optimization of Wireless Virtual Network), 
 *Ph.D Thesis*, [Paris-Saclay University](https://www.universite-paris-saclay.fr/), 2021 
 ([2022 Best PhD Dissertation Award on Distributed Systems and Networks by GDR-RSD and ACM SigOps France](https://gdr-rsd.fr/laureats-prix-de-these-2022/))
