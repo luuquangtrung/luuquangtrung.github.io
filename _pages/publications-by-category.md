@@ -127,7 +127,7 @@ in *Global Young Vietnamese Scholars Forum (GYVSF)*, Hanoi, Vietnam, Dec. 2019. 
 
 
 ### Demonstrations
-1. Barbara Orlandi, Sylvaine Kerboeuf, Frédéric Faucheux, J.-L. Lafragette, and **Quang-Trung Luu**, 
+1. Barbara Orlandi, Sylvaine Kerboeuf, Frédéric Faucheux, Jean-Luc Lafragette, and **Quang-Trung Luu**, 
 "[Network Slicing Made Easy! From Graph-based Design to Automated Deployment of Network Slices in 5G](https://www.youtube.com/watch?v=pLkylDVwdcA&t=29s)," 
 *Nokia 5G Smart Campus Event*, Nozay, 2018.
 
