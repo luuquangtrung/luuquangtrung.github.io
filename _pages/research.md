@@ -38,7 +38,7 @@ nav_order: 2
 ### Collaborators
 
 ##### Academia
-* **Hanoi University of Science and Techology** (Hanoi, Vietnam): [Huu Thanh Nguyen](https://scholar.google.com/citations?hl=en&user=Lcnk_lYAAAAJ), [Tai-Hung Nguyen](https://set.hust.edu.vn/nguyen-tai-hung), [Yem Van-Vu](https://www.researchgate.net/profile/Yem-Vu), [Bao Huy Nguyen](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en), 
+* **Hanoi University of Science and Techology** (Hanoi, Vietnam): [Huu-Thanh Nguyen](https://scholar.google.com/citations?hl=en&user=Lcnk_lYAAAAJ), [Tai-Hung Nguyen](https://set.hust.edu.vn/nguyen-tai-hung), [Yem Van-Vu](https://www.researchgate.net/profile/Yem-Vu), [Bao-Huy Nguyen](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en), 
 * **VinUniversity** (Hanoi, Vietnam): [Van-Dinh Nguyen](https://vinuni.edu.vn/people/nguyen-van-dinh-phd/)
 * **LAAS-CNRS** (Toulouse, France): [Olivier Brun](https://homepages.laas.fr/brun/), [Balakrishna J. Prabhu](https://homepages.laas.fr/bala/)
 * **University of Avignon** (Avignon, France): [‪Rachid El-Azouzi‬](http://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en), [Francesco De Pellegrini](https://scholar.google.com/citations?user=EYyOnEkAAAAJ&hl=en)
