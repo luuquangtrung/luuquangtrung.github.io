@@ -6,13 +6,9 @@ description:
 ---
  
 ### Preprints
-1. Tuan-Vu Truong, **Quang-Trung Luu**, and Van-Dinh Nguyen,
-"Efficient Resource Allocation Framework for Network Slicing-enabled Open RAN," 
-*submitted to IEEE International Conference on Communications and Electronics (ICCE)*, 2024
-
-1. Minh-Thanh Nguyen, **Quang-Trung Luu**, Tai-Hung Nguyen, Do-Minh Tran, Tuan-Anh Do, Kim-Hoan Do, and Van-Hieu Nguyen,
-"Accelerating Network Slice Embedding with Reinforcement Learning," 
-*submitted to IEEE International Conference on Communications and Electronics (ICCE)*, 2024
+1. Duc-Manh Nguyen, Duc-Hai Do, Thanh-Hai Tran, and **Quang-Trung Luu**,
+"Real-Time Pig Counting Embedded System via Video Object Detection and Tracking," 
+*submitted to the International Conference on Multimedia Analysis and Pattern Recognition (MAPR)*, 2024
 
 
 ### Patents
@@ -60,6 +56,15 @@ arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3),
 
 
 ### Conference and workshop papers
+
+1. Tuan-Vu Truong, **Quang-Trung Luu**, and Van-Dinh Nguyen,
+"Efficient Resource Allocation Framework for Network Slicing-enabled Open RAN," 
+*IEEE International Conference on Communications and Electronics (ICCE)*, 2024 (accepted, to appear)
+
+1. Minh-Thanh Nguyen, **Quang-Trung Luu**, Tai-Hung Nguyen, Do-Minh Tran, Tuan-Anh Do, Kim-Hoan Do, and Van-Hieu Nguyen,
+"Accelerating Network Slice Embedding with Reinforcement Learning," 
+*IEEE International Conference on Communications and Electronics (ICCE)*, 2024 (accepted, to appear)
+
 1. **Quang-Trung Luu**, Olivier Brun, Rachid El-Azouzi, Francesco De Pellegrini, Balakrishna J. Prabhu, and Cédric Richier, 
 “[DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks](https://ieeexplore.ieee.org/document/9829789)," 
 in *Proc. IFIP Networking*, Catania, Italy, June, 2022, DOI: 10.23919/IFIPNetworking55013.2022.9829789. 
