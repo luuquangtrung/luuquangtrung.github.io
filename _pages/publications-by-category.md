@@ -6,11 +6,6 @@ description:
 ---
  
 ### Preprints
-1. Duc-Hai Nguyen, Anh-Duc Hoang Gia, Truong Chu, Minh-Hoa Tien, Quang-Lap Luu,
-**Quang-Trung Luu**, Chanh Kieu, Duc-Trong Le, Thanh Thi Nhat Nguyen, Binh Dang,
-"When does a Typhoon Form? A Deep Learning Approach using Environmental Satellite Images,"
-*submitted to The 16th IEEE International Conference on Knowledge and Systems Engineering (KSE 2024)*, 2024
-
 1. Duc-Manh Nguyen, Duc-Hai Do, Thanh-Hai Tran, and **Quang-Trung Luu**,
 "Real-Time Pig Counting Embedded System via Video Object Detection and Tracking," 
 *submitted to the International Conference on Multimedia Analysis and Pattern Recognition (MAPR)*, 2024
