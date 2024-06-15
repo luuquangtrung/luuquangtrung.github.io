@@ -7,7 +7,7 @@ description:
  
 ### Preprints
 1. Duc-Hai Nguyen, Anh-Duc Hoang Gia, Truong Chu, Minh-Hoa Tien, Quang-Lap Luu,
-Quang-Trung Luu, Chanh Kieu, Duc-Trong Le, Thanh Thi Nhat Nguyen, Binh Dang,
+**Quang-Trung Luu**, Chanh Kieu, Duc-Trong Le, Thanh Thi Nhat Nguyen, Binh Dang,
 "When does a Typhoon Form? A Deep Learning Approach using Environmental Satellite Images,"
 *submitted to The 16th IEEE International Conference on Knowledge and Systems Engineering (KSE 2024)*, 2024
 
