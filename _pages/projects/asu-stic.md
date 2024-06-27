@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /projects/asu-stic
 title: Reducing the Energy Footprint of Communication Systems using Energy-Efficient Softwarized Networks
 description: ASU-STIC Grant Proposal.
