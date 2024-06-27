@@ -12,10 +12,10 @@ The project will focus on developing intelligent algorithms that can dynamically
  
 Figure 1. Illustration of slices tailored to diverse services running on the common network infrastructure [^Li2017network].
 
-[NGMN2021green]: NGMN Alliance, “Green Future Networks Sustainability Challenges and Initiatives in Mobile Networks by NGMN Alliance,” White Paper, p. 36, 2021.
-[Setiawan2023energy]:	I. Setiawan, B. Kar, and S.-H. Shen, “Energy-Efficient Softwarized Networks: A Survey,” arXiv preprint arXiv:2307.11301, pp. 1–21, 2023, [Online]. Available: http://arxiv.org/abs/2307.11301
-[Khan2020network]:	L. U. Khan, I. Yaqoob, N. H. Tran, Z. Han, and C. S. Hong, “Network Slicing: Recent Advances, Taxonomy, Requirements, and Open Research Challenges,” IEEE Access, vol. 8, pp. 36009–36028, 2020, doi: 10.1109/ACCESS.2020.2975072.
-[Li2017network]:	X. Li et al., “Network Slicing for 5G: Challenges and Opportunities,” IEEE Internet Comput., vol. 21, no. 5, pp. 20–27, 2017, doi: 10.1109/LANMAN.2016.7548842.
+[^NGMN2021green]: NGMN Alliance, “Green Future Networks Sustainability Challenges and Initiatives in Mobile Networks by NGMN Alliance,” White Paper, p. 36, 2021.
+[^Setiawan2023energy]:	I. Setiawan, B. Kar, and S.-H. Shen, “Energy-Efficient Softwarized Networks: A Survey,” arXiv preprint arXiv:2307.11301, pp. 1–21, 2023, [Online]. Available: http://arxiv.org/abs/2307.11301
+[^Khan2020network]:	L. U. Khan, I. Yaqoob, N. H. Tran, Z. Han, and C. S. Hong, “Network Slicing: Recent Advances, Taxonomy, Requirements, and Open Research Challenges,” IEEE Access, vol. 8, pp. 36009–36028, 2020, doi: 10.1109/ACCESS.2020.2975072.
+[^Li2017network]:	X. Li et al., “Network Slicing for 5G: Challenges and Opportunities,” IEEE Internet Comput., vol. 21, no. 5, pp. 20–27, 2017, doi: 10.1109/LANMAN.2016.7548842.
 
 ### References
 
