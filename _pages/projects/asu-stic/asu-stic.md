@@ -5,15 +5,14 @@ title: Reducing the Energy Footprint of Communication Systems using Energy-Effic
 description: ASU-STIC Grant Proposal.
 ---
 
-### Background & Purpose
+### Background
 
 The ever-increasing demand for data traffic and the rollout of new technologies like 5G and beyond (6G) pose a significant challenge: the growing energy consumption of communication networks [^NGMN2021green]. This escalating energy footprint not only increases operational costs for network operators but also raises environmental concerns. As reported in  [^Setiawan2023energy], the information and communications technology (ICT) sector contributed to more than $$2\%$$ of the total global production of the greenhouse gases in 2020, in which the primary part is CO2. This urges the need to use connectivity and technology as fundamental components for realizing the United Nations’ sustainable development goals (SDGs). To address this challenging problem, this research project delves into software-driven strategies to reduce the energy consumption of communication networks by leveraging the potential of network slicing—a key feature of next-generation mobile networks (5G and beyond) [^Setiawan2023energy]. Network slicing allows for the creation of virtual networks within a physical network infrastructure (see Figure 1) [^Li2017network]. These slices can be tailored to specific applications with unique performance and resource requirements. 
-The project will focus on developing intelligent algorithms that can dynamically adjust resource allocation within network slices. These algorithms will consider factors like traffic patterns, user requirements, and energy consumption to ensure optimal performance while minimizing energy usage. By reducing energy consumption within network slices, operators can lower their environmental impact and operating expenses. Additionally, these software-driven solutions can be readily integrated into existing network management systems, ensuring a smooth transition to a more energy-efficient network operation.
-
-
 
 ### Purpose
-This project aims to propose **algorithmic** and **software-driven** solutions to
+The project will focus on developing intelligent algorithms that can dynamically adjust resource allocation within network slices. These algorithms will consider factors like traffic patterns, user requirements, and energy consumption to ensure optimal performance while minimizing energy usage. By reducing energy consumption within network slices, operators can lower their environmental impact and operating expenses. Additionally, these software-driven solutions can be readily integrated into existing network management systems, ensuring a smooth transition to a more energy-efficient network operation.
+
+Briefly, this project aims to propose **algorithmic** and **software-driven** solutions to
 1. ensure **reliable** operation of network services
 1. reduce **energy consumption** of networks by leveraging **network slicing**
 
