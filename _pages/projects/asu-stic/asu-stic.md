@@ -11,8 +11,21 @@ The ever-increasing demand for data traffic and the rollout of new technologies 
 The project will focus on developing intelligent algorithms that can dynamically adjust resource allocation within network slices. These algorithms will consider factors like traffic patterns, user requirements, and energy consumption to ensure optimal performance while minimizing energy usage. By reducing energy consumption within network slices, operators can lower their environmental impact and operating expenses. Additionally, these software-driven solutions can be readily integrated into existing network management systems, ensuring a smooth transition to a more energy-efficient network operation.
 
 
-![slicing](/_pages/projects/asu-stic/fig_slicing.png)
+
+### Purpose
+This project aims to propose **algorithmic** and **software-driven** solutions to
+1. ensure **reliable** operation of network services
+1. reduce **energy consumption** of networks by leveraging **network slicing**
+
+
+![slicing](/assets/projects/stic_slicing.png)
 Figure 1. Illustration of slices tailored to diverse services running on the common network infrastructure [^Li2017network].
+
+
+
+![slicing](/assets/projects/stic_energy-management.png)
+Figure 2. Illustration of energy-efficient network management using network slicing.
+
 
 [^NGMN2021green]: NGMN Alliance, “Green Future Networks Sustainability Challenges and Initiatives in Mobile Networks by NGMN Alliance,” White Paper, p. 36, 2021.
 [^Setiawan2023energy]:	I. Setiawan, B. Kar, and S.-H. Shen, “Energy-Efficient Softwarized Networks: A Survey,” arXiv preprint arXiv:2307.11301, pp. 1–21, 2023, [Online]. Available: http://arxiv.org/abs/2307.11301
