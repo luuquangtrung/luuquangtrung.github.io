@@ -18,11 +18,11 @@ This project aims to propose **algorithmic** and **software-driven** solutions t
 1. reduce **energy consumption** of networks by leveraging **network slicing**
 
 
-<img src="/assets/projects/stic_slicing.png" width="800" />
+<img src="/assets/projects/stic_slicing.png" width="700" />
 Figure 1. Illustration of slices tailored to diverse services running on the common network infrastructure [^Li2017network].
 
 
-<img src="/assets/projects/stic_energy-management.png" width="800" />
+<img src="/assets/projects/stic_energy-management.png" width="400" />
 Figure 2. Illustration of energy-efficient network management using network slicing.
 
 
