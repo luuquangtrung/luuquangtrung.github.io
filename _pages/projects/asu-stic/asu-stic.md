@@ -5,6 +5,9 @@ title: Reducing the Energy Footprint of Communication Systems using Energy-Effic
 description: ASU-STIC Grant Proposal.
 ---
 
+<img src="/assets/projects/stic_qr-project-on-web.png" width="600" />
+
+
 ### Background
 
 The ever-increasing demand for data traffic and the rollout of new technologies like 5G and beyond (6G) pose a significant challenge: the growing energy consumption of communication networks [NGMN2021][^NGMN2021green]. This escalating energy footprint not only increases operational costs for network operators but also raises environmental concerns. As reported in  [Setiawan2023][^Setiawan2023energy], the information and communications technology (ICT) sector contributed to more than $$2\%$$ of the total global production of the greenhouse gases in 2020, in which the primary part is CO2. This urges the need to use connectivity and technology as fundamental components for realizing the United Nations’ sustainable development goals (SDGs). To address this challenging problem, this research project delves into software-driven strategies to reduce the energy consumption of communication networks by leveraging the potential of network slicing—a key feature of next-generation mobile networks (5G and beyond) [Setiawan2023][^Setiawan2023energy]. Network slicing allows for the creation of virtual networks within a physical network infrastructure (see Figure 1) [Li2017][^Li2017network]. These slices can be tailored to specific applications with unique performance and resource requirements. 
