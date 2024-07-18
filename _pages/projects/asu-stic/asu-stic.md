@@ -29,6 +29,14 @@ Figure 2 shows an example of using network slicing to control the energy consump
 
 Figure 2. Illustration of energy-efficient network management using network slicing.
 
+### Financial support from other projects
+
+* Project: Optimizing resouce allocation for O-RAN slices in next-generation communication systems\
+  Funded by Hanoi University of Science and Technology (HUST)\
+  Duration: Nov. 2023 - Oct. 2025\
+  Role: Principal investigator\
+  Budget: $11,500
+  
 
 ### Our previous work on network slicing
 
