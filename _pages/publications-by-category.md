@@ -6,9 +6,14 @@ description:
 ---
  
 ### Preprints
+1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tai-Hung Nguyen, Michel Kieffer,
+Van-Dinh Nguyen, Quang-Lap Luu, and Trung-Toan Nguyen,
+"Admission Control and Embedding of Network Slices with Flexible VNF Order,"
+*submitted to the 20th International Conference on Network and Service Management (CNSM)*, 2024
+
 1. Duc-Manh Nguyen, Duc-Hai Do, Thanh-Hai Tran, and **Quang-Trung Luu**,
 "Real-Time Pig Counting Embedded System via Video Object Detection and Tracking," 
-*submitted to the International Conference on Multimedia Analysis and Pattern Recognition (MAPR)*, 2024
+*submitted to the International Conference on Advanced Technologies for Communications (ATC)*, 2024
 
 
 ### Patents
