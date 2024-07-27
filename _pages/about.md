@@ -9,7 +9,7 @@ subtitle: Lecturer, <a href='https://seee.hust.edu.vn/'>School of Electrical and
 
 profile:
   align: right
-  image: trung_cv1.jpg
+  image: cv.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
