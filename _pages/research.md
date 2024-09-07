@@ -15,12 +15,17 @@ nav_order: 2
 
   
 ### Funded Projects
+* **Investigation of optimal resource allocation algorithms for next-generation mobile networks using network slicing**\
+  Funded by Vietnamese Ministry of Education and Training (MOET)\
+  Duration: 2025 - 2027 (TBD)\
+  Role: Principal investigator
+  
 * **Enhancing the performance of 6G Open RAN integrating edge computing and network slicing**\
   Funded by National Foundation for Science & Technology Development (NAFOSTED)\
   Duration: 2024 - 2026\
   Role: Senior member
 
-* **Optimizing resouce allocation for O-RAN slices in next-generation communication systems**\
+* **Optimizing resource allocation for O-RAN slices in next-generation communication systems**\
   Funded by Hanoi University of Science and Technology (HUST)\
   Duration: Nov. 2023 - Oct. 2025\
   Role: Principal investigator
