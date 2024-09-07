@@ -35,10 +35,12 @@ nav_order: 2
   Duration: Oct. 2023 - Oct. 2026\
   Role: Senior member
 
+/** 
 * **Dynamic Control and Optimization of Wireless Virtual Networks**\
   Funded by Association nationale de la recherche et de la technologie (ANRT)\
   Duration: Nov. 2017 - Nov. 2020\
   Role: Principal investigator (CIFRE Fellow)
+**/
 
 ### Collaborators
 
