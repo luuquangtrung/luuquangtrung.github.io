@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper ""Weighted Scheduling of Time-Sensitive Coflows" has been accepted to IEEE Transactions on Cloud Computing (TCC)
+title: Paper "Weighted Scheduling of Time-Sensitive Coflows" has been accepted to IEEE Transactions on Cloud Computing (TCC)
 date: 2024-03-20 09:00:00-0400
 inline: false
 related_posts: false
