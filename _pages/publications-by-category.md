@@ -70,24 +70,33 @@ arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3),
 Van-Dinh Nguyen, Quang-Lap Luu, and Trung-Toan Nguyen,
 "Admission Control and Embedding of Network Slices with Flexible VNF Order,"
 in *Proc. 20th International Conference on Network and Service Management (CNSM)*, 2024.
+(E-ISSN: xxxx, 
+hal: [hal-xxx](https://hal.archives-ouvertes.fr/hal-xxx); 
+**CORE Rank B**)
 
 1. Duc-Manh Nguyen, Duc-Hai Do, Thanh-Hai Tran, and **Quang-Trung Luu**,
 "Real-Time Pig Counting Embedded System via Video Object Detection and Tracking," 
 in *Proc. International Conference on Advanced Technologies for Communications (ATC)*, 2024.
+(E-ISSN: xxxx, 
+hal: [hal-xxx](https://hal.archives-ouvertes.fr/hal-xxx))
 
 1. Tuan-Vu Truong, **Quang-Trung Luu**, and Van-Dinh Nguyen,
 "[Efficient Resource Allocation Framework for Network Slicing-enabled Open RAN](https://ieeexplore.ieee.org/document/10634735/)," 
 in *Proc. IEEE International Conference on Communications and Electronics (ICCE)*, Danang, Vietnam, 2024, pp. 747-752, doi: 10.1109/ICCE62051.2024.10634735.
+(E-ISSN: 2836-4392,
+hal: [hal-xxx](https://hal.archives-ouvertes.fr/hal-xxx))
 
 1. Minh-Thanh Nguyen, **Quang-Trung Luu**, Tai-Hung Nguyen, Do-Minh Tran, Tuan-Anh Do, Kim-Hoan Do, and Van-Hieu Nguyen,
 "[Accelerating Network Slice Embedding with Reinforcement Learning](https://ieeexplore.ieee.org/document/10634634/)," 
 in *Proc. IEEE International Conference on Communications and Electronics (ICCE)*, Danang, Vietnam, 2024, pp. 78-83, DOI: 10.1109/ICCE62051.2024.10634634.
+(E-ISSN: 2836-4392,
+hal: [hal-xxx](https://hal.archives-ouvertes.fr/hal-xxx))
 
 1. **Quang-Trung Luu**, Olivier Brun, Rachid El-Azouzi, Francesco De Pellegrini, Balakrishna J. Prabhu, and Cédric Richier, 
 “[DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks](https://ieeexplore.ieee.org/document/9829789)," 
 in *Proc. IFIP Networking*, Catania, Italy, June, 2022, DOI: 10.23919/IFIPNetworking55013.2022.9829789. 
 (E-ISSN: 1861-2288, 
-hal: [hal-03657370](https://hal.archives-ouvertes.fr/hal-03657370); 
+hal: [hal-03657370](https://hal.archives-ouvertes.fr/hal-03657370),
 arXiv: [2205.01229v1](https://arxiv.org/abs/2205.01229),
 **CORE Rank B**).
 
