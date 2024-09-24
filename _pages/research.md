@@ -21,17 +21,17 @@ nav_order: 2
   Role: Principal investigator
   
 * **Enhancing the performance of 6G Open RAN integrating edge computing and network slicing**\
-  Funded by National Foundation for Science & Technology Development (NAFOSTED)\
+  Funded by National Foundation for Science & Technology Development (NAFOSTED No. 102.04-2023.17)\
   Duration: 2024 - 2026\
   Role: Senior member
 
 * **Optimizing resource allocation for O-RAN slices in next-generation communication systems**\
-  Funded by Hanoi University of Science and Technology (HUST)\
+  Funded by Hanoi University of Science and Technology (HUST, No. T2023-TĐ-011)\
   Duration: Nov. 2023 - Oct. 2025\
   Role: Principal investigator
   
 * **Machine learning for typhoon formation prediction** ([URL](https://vinif.org/annual/vinif-2023-da019-du-bao-su-hinh-thanh-bao-bang-phuong-phap-hoc-may/))\
-  Funded by VinGroup Innovation Foundation (VinIF)\
+  Funded by VinGroup Innovation Foundation (VinIF, No. VINIF.2023.DA019)\
   Duration: Oct. 2023 - Oct. 2026\
   Role: Senior member
 
