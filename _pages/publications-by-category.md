@@ -6,15 +6,19 @@ description:
 ---
  
 ### Preprints
-1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tai-Hung Nguyen, Michel Kieffer,
-Van-Dinh Nguyen, Quang-Lap Luu, and Trung-Toan Nguyen,
-"Admission Control and Embedding of Network Slices with Flexible VNF Order,"
-*submitted to the 20th International Conference on Network and Service Management (CNSM)*, 2024
+1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
+"[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
+*submitted to IEEE Transactions on Wireless Communications*, 2024
 
-1. Duc-Manh Nguyen, Duc-Hai Do, Thanh-Hai Tran, and **Quang-Trung Luu**,
-"Real-Time Pig Counting Embedded System via Video Object Detection and Tracking," 
-*submitted to the International Conference on Advanced Technologies for Communications (ATC)*, 2024
+1. **Quang-Trung Luu**, Duc-Tien Nguyen, Trong-Tin Nguyen, Minh-Thanh Nguyen, Van-Duc Nguyen,
+Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+"[Network Slice Embedding With Flexible Configurations in 5G Networks and Beyond](https://ieeexplore.ieee.org/)," 
+*to be submitted to IEEE Networking Letters*, 2024
 
+1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
+Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+"[Network Slice Embedding with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 
+*to be submitted to IEEE Transations on Network and Service Management*, 2024
 
 ### Patents
 1.  Sylvaine Kerboeuf, **Quang-Trung Luu**, Michel Kieffer, and Alexandre Mouradian, 
@@ -62,13 +66,22 @@ arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3),
 
 ### Conference and workshop papers
 
+1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tai-Hung Nguyen, Michel Kieffer,
+Van-Dinh Nguyen, Quang-Lap Luu, and Trung-Toan Nguyen,
+"Admission Control and Embedding of Network Slices with Flexible VNF Order,"
+in *Proc. 20th International Conference on Network and Service Management (CNSM)*, 2024.
+
+1. Duc-Manh Nguyen, Duc-Hai Do, Thanh-Hai Tran, and **Quang-Trung Luu**,
+"Real-Time Pig Counting Embedded System via Video Object Detection and Tracking," 
+in *Proc. International Conference on Advanced Technologies for Communications (ATC)*, 2024.
+
 1. Tuan-Vu Truong, **Quang-Trung Luu**, and Van-Dinh Nguyen,
-"Efficient Resource Allocation Framework for Network Slicing-enabled Open RAN," 
-*IEEE International Conference on Communications and Electronics (ICCE)*, 2024 (accepted, to appear)
+"[Efficient Resource Allocation Framework for Network Slicing-enabled Open RAN](https://ieeexplore.ieee.org/document/10634735/)," 
+in *Proc. IEEE International Conference on Communications and Electronics (ICCE)*, Danang, Vietnam, 2024, pp. 747-752, doi: 10.1109/ICCE62051.2024.10634735.
 
 1. Minh-Thanh Nguyen, **Quang-Trung Luu**, Tai-Hung Nguyen, Do-Minh Tran, Tuan-Anh Do, Kim-Hoan Do, and Van-Hieu Nguyen,
-"Accelerating Network Slice Embedding with Reinforcement Learning," 
-*IEEE International Conference on Communications and Electronics (ICCE)*, 2024 (accepted, to appear)
+"[Accelerating Network Slice Embedding with Reinforcement Learning](https://ieeexplore.ieee.org/document/10634634/)," 
+in *Proc. IEEE International Conference on Communications and Electronics (ICCE)*, Danang, Vietnam, 2024, pp. 78-83, DOI: 10.1109/ICCE62051.2024.10634634.
 
 1. **Quang-Trung Luu**, Olivier Brun, Rachid El-Azouzi, Francesco De Pellegrini, Balakrishna J. Prabhu, and Cédric Richier, 
 “[DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks](https://ieeexplore.ieee.org/document/9829789)," 
