@@ -20,6 +20,7 @@ nav_order: 4
   * IEEE Transactions on Network and Service Management (TNSM)
   * IEEE System Journal
   * IEEE Communications Letters
+  * IEEE Open Journal of the Communications Society (OJ-COMS)
   * Elsevier Computer Communications
 * Regular reviewer for conferences:
   * IEEE International Conference on Communications (ICC)
