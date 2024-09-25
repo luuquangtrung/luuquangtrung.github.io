@@ -25,7 +25,9 @@ nav_order: 4
 * Regular reviewer for conferences:
   * IEEE International Conference on Communications (ICC)
   * IEEE Vehicular Technology Conference (VTC)
+  * IEEE International Conference on Communications and Electronics (ICCE)
   * IEEE International Conference on Advanced Technologies for Communications (ATC)
+  * International Symposium on Information and Communication Technology (SoICT)
 
 #### Social Activities
 * [telecom-vn](https://www.facebook.com/groups/telecomvn) (a Facebook group for Vietnamese researchers in telecommunications): Administrator; Organize regular seminars (record videos achieved [here](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ))
