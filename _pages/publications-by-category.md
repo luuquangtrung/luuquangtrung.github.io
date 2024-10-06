@@ -21,7 +21,7 @@ Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
 
 1. **Quang-Trung Luu**, Cong-Viet Hoang, Ha-Son Nguyen, and Dang-Vu Nguyen,
    "[Timirax: Joint Acceptance Rate and Completion Time Optimization for Coflows in Datacenters](https://ieeexplore.ieee.org/),"
-   *to be submitted to TBD*, 2025.
+   *to be submitted to IEEE Networking Letters*, 2025.
 
 1. Phong Nguyen, **Quang-Trung Luu**,
    "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
