@@ -19,9 +19,13 @@ Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
 "[Network Slice Embedding with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 
 *to be submitted to IEEE Transations on Network and Service Management*, 2024.
 
+1. **Quang-Trung Luu**, Cong-Viet Hoang, Ha-Son Nguyen, and Dang-Vu Nguyen,
+   "[Timirax: Joint Acceptance Rate and Completion Time Optimization for Coflows in Datacenters](https://ieeexplore.ieee.org/),"
+   *to be submitted to TBD*, 2025.
+
 1. Phong Nguyen, **Quang-Trung Luu**,
    "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
-   *to be submitted to TBD*, 2024.
+   *to be submitted to TBD*, 2025.
 
 ### Patents
 1.  Sylvaine Kerboeuf, **Quang-Trung Luu**, Michel Kieffer, and Alexandre Mouradian, 
