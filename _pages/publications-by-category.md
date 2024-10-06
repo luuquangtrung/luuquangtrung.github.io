@@ -17,7 +17,7 @@ description:
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
 Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
 "[Network Slice Embedding with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 
-*to be submitted to IEEE Transations on Network and Service Management*, 2024.
+*to be submitted to IEEE Transactions on Network and Service Management*, 2024.
 
 1. **Quang-Trung Luu**, Cong-Viet Hoang, Ha-Son Nguyen, and Dang-Vu Nguyen,
    "[Timirax: Joint Acceptance Rate and Completion Time Optimization for Coflows in Datacenters](https://ieeexplore.ieee.org/),"
