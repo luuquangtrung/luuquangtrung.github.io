@@ -8,12 +8,11 @@ description:
 ### Preprints
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
 "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
-*submitted to IEEE Transactions on Wireless Communications*, 2024
+*submitted to IEEE Internet of Things Journal*, 2024
 
-1. **Quang-Trung Luu**, Duc-Tien Nguyen, Trong-Tin Nguyen, Minh-Thanh Nguyen, Van-Duc Nguyen,
-Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
 "[Network Slice Embedding With Flexible Configurations in 5G Networks and Beyond](https://ieeexplore.ieee.org/)," 
-*to be submitted to IEEE Networking Letters*, 2024
+*to be submitted to IEEE/ACM Transactions on Networking*, 2024
 
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
 Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
