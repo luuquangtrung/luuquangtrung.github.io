@@ -8,16 +8,20 @@ description:
 ### Preprints
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
 "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
-*submitted to IEEE Internet of Things Journal*, 2024
+*submitted to IEEE Internet of Things Journal*, 2024.
 
 1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
 "[Network Slice Embedding With Flexible Configurations in 5G Networks and Beyond](https://ieeexplore.ieee.org/)," 
-*to be submitted to IEEE/ACM Transactions on Networking*, 2024
+*to be submitted to IEEE/ACM Transactions on Networking*, 2024.
 
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
 Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
 "[Network Slice Embedding with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 
-*to be submitted to IEEE Transations on Network and Service Management*, 2024
+*to be submitted to IEEE Transations on Network and Service Management*, 2024.
+
+1. Phong Nguyen, **Quang-Trung Luu**,
+   "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
+   *to be submitted to TBD*, 2024.
 
 ### Patents
 1.  Sylvaine Kerboeuf, **Quang-Trung Luu**, Michel Kieffer, and Alexandre Mouradian, 
