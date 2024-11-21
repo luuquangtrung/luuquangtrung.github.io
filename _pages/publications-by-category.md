@@ -5,27 +5,29 @@ title: publications by category
 description: 
 ---
  
-### Preprints/in-progress
+### In preparation
+
+1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer, "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/)," 
+2024.
+
+1. **Quang-Trung Luu**, Cong-Viet Hoang, Ha-Son Nguyen, and Dang-Vu Nguyen,
+   "[Timirax: Joint Acceptance Rate and Completion Time Optimization for Coflows in Datacenters](https://ieeexplore.ieee.org/),"
+   2024.
+
+1. Phong Nguyen, **Quang-Trung Luu**,
+   "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
+   2024.
+
+### Submitted, in review
+1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
+Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+"[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 
+*submitted to IEEE Transactions on Network and Service Management*, 2024.
+   
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
 "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
 *submitted to IEEE Internet of Things Journal*, 2024.
 
-1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
-"[Network Slice Embedding With Flexible Configurations in 5G Networks and Beyond](https://ieeexplore.ieee.org/)," 
-*to be submitted to IEEE/ACM Transactions on Networking*, 2024.
-
-1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
-Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
-"[Network Slice Embedding with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 
-*to be submitted to IEEE Transactions on Network and Service Management*, 2024.
-
-1. **Quang-Trung Luu**, Cong-Viet Hoang, Ha-Son Nguyen, and Dang-Vu Nguyen,
-   "[Timirax: Joint Acceptance Rate and Completion Time Optimization for Coflows in Datacenters](https://ieeexplore.ieee.org/),"
-   *to be submitted to IEEE Networking Letters*, 2025.
-
-1. Phong Nguyen, **Quang-Trung Luu**,
-   "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
-   *to be submitted to TBD*, 2025.
 
 ### Patents
 1.  Sylvaine Kerboeuf, **Quang-Trung Luu**, Michel Kieffer, and Alexandre Mouradian, 
