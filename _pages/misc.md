@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /misc/
-title: misc
-description: Miscellaneous collection of unrelated things.
+title: Miscellaneous
+description: Collection of unrelated things.
 nav: true
 nav_order: 7
 ---
