@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching-supervision/
-title: teaching & supervision
+title: Teaching & Supervision
 nav: true
 nav_order: 3
 ---
