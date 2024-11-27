@@ -32,7 +32,7 @@ description:
    "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/),"
    2024
 
-3. Kim-Hoan Do, Dang-Vu Nguyen, Ha-Son Nguyen, Van-Dinh Nguyen, and **Quang-Trung Luu**,
+1. Kim-Hoan Do, Dang-Vu Nguyen, Ha-Son Nguyen, Van-Dinh Nguyen, and **Quang-Trung Luu**,
    "[Optimizing End-to-End eMBB Network Slicing in Open RAN-Compliant Networks](https://ieeexplore.ieee.org/),"
    2024
 
@@ -42,13 +42,12 @@ description:
 
 
 
-
 ### Journal papers
 1. Rachid El-Azouzi, Francesco De Pellegrini, Afaf Arfaoui, Cédric Richier, Jeremie Leguay, **Quang-Trung Luu**, Youcef Magnouche, and Sebastien Martin,
    "[Semi-distributed Coflow Scheduling in Datacenters](https://ieeexplore.ieee.org/document/10517902)," *IEEE Transactions on Network and Service
    Management*, 2024, DOI: 10.1109/TNSM.2024.3395992.
    (E-ISSN: 1932-4537,
-   hal: [al-04632942](https://hal.science/hal-04632942), 
+   hal: [hal-04632942](https://hal.science/hal-04632942), 
    **Scopus Q1, IF 5.3**).
 
 1. Olivier Brun, Rachid El-Azouzi, **Quang-Trung Luu**, Francesco De Pellegrini, Balakrishna J. Prabhu, and Cédric Richier, 
