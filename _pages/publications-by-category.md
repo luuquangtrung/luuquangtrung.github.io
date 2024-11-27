@@ -4,34 +4,40 @@ permalink: /publications-by-category/
 title: publications by category
 description: 
 ---
+
+
+### Submitted, in review
+
+1. Phong C. H. Nguyen, Joseph B. Choi, and **Quang-Trung Luu**,
+   "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
+   *submitted to Scientific Reports*, 2024 (preprint: [arXiv:2411.13815](https://arxiv.org/abs/2411.13815)).
+
+1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
+   Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/),"
+   *submitted to IEEE Transactions on Network and Service Management*, 2024.
+
+1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
+   "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
+   *submitted to IEEE Internet of Things Journal*, 2024.
+
  
 ### In preparation
 
-1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer, "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/)," 2024.
+1. Tuan-Vu Truong, **Quang-Trung Luu**, Van-Dinh Nguyen,
+   "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
+   2024
+
+1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+   "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/),"
+   2024.
 
 1. **Quang-Trung Luu**, Cong-Viet Hoang, Ha-Son Nguyen, and Dang-Vu Nguyen,
    "[Timirax: Joint Acceptance Rate and Completion Time Optimization for Coflows in Datacenters](https://ieeexplore.ieee.org/),"
    2024.
 
-1. Phong Nguyen, **Quang-Trung Luu**,
-   "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
-   2024.
-
-### Submitted, in review
-1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
-Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
-"[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 
-*submitted to IEEE Transactions on Network and Service Management*, 2024.
-   
-1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
-"[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
-*submitted to IEEE Internet of Things Journal*, 2024.
 
 
-### Patents
-1.  Sylvaine Kerboeuf, **Quang-Trung Luu**, Michel Kieffer, and Alexandre Mouradian, 
-"[Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee](https://patents.google.com/patent/US11431562B2/en)," 
-*US Patent 11,431,562 B2*, filed 07 December 2018, issued 16 December 2021, granted 30 August 2022.
 
 ### Journal papers
 1. Rachid El-Azouzi, Francesco De Pellegrini, Afaf Arfaoui, Cédric Richier, Jeremie Leguay, **Quang-Trung Luu**, Youcef Magnouche, and Sebastien Martin,
@@ -64,7 +70,7 @@ arXiv: [2006.01104](https://arxiv.org/abs/2006.01104),
 **Scopus Q1, IF 5.3**).
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, Alexandre Mouradian, and Michel Kieffer, 
-"[Coverage-Aware Resource Provisioning Method for Network Slicing](https://ieeexplore.ieee.org/document/9187556/)," 
+"[A Coverage-Aware Resource Provisioning Method for Network Slicing](https://ieeexplore.ieee.org/document/9187556/)," 
 in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 2020, DOI: 10.1109/TNET.2020.3019098.
 (E-ISSN: 1558-2566, 
 hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001), 
@@ -189,6 +195,12 @@ CoflowSimulator: Simulator for coflow scheduling and resource allocation, 2022
 1. **Quang-Trung Luu**, 
 SfcEmbedder: An ILP-based algorithm to solve the problem of SFC embedding, 2020 
 [[Source code](https://github.com/luuquangtrung/SfcEmbedder)].
+
+
+### Patents
+1.  Sylvaine Kerboeuf, **Quang-Trung Luu**, Michel Kieffer, and Alexandre Mouradian, 
+"[Method and Apparatus for Mapping Network Slices Onto Network Infrastructures With SLA Guarantee](https://patents.google.com/patent/US11431562B2/en)," 
+*US Patent 11,431,562 B2*, filed 07 December 2018, issued 16 December 2021, granted 30 August 2022.
 
 
 ### Theses
