@@ -40,7 +40,7 @@ nav_order: 3
   Topic: Machine learning for typhoon formation prediction
 
 ###### Alumni
-1. **Tuan-Anh Do** (HUST, 12/2023–04/2024), now at Viettel High Technology (VHT)
+1. **Tuan-Anh Do** (HUST, 12/2023-04/2024), now at Viettel High Technology (VHT)
 
 
 #### Resources
