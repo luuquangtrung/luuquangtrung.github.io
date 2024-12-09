@@ -60,6 +60,7 @@ nav_order: 3
 * L. El Ghaoui, [Hyper-Textbook: Optimization Models and Applications](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/index.html), UC Berkeley, 2021.
 
 ###### ML/AI
+* S. Amidi, [Deep Learning (CS230)](https://stanford.edu/~shervine/l/vi/teaching/cs-230/), Stanford 
 * A. Smola and M. Li, [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html), UC Berkeley.
 * S. Lall and S. Boyd, [Introduction to Machine Learning](http://ee104.stanford.edu/), Stanford University.
 * E. Brunskill, [Reinforcement Learning](https://web.stanford.edu/class/cs234/), Stanford University.
