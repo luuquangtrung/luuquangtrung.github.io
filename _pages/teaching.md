@@ -63,7 +63,7 @@ nav_order: 3
 * S. Amidi, [Artificial Intelligence (CS221)](https://stanford.edu/~shervine/teaching/cs-221/),
             [Machine Learning (CS229)](https://stanford.edu/~shervine/teaching/cs-229/),
             [Deep Learning (CS230)](https://stanford.edu/~shervine/l/vi/teaching/cs-230/),
-            Stanford 
+            Stanford University.
 * A. Smola and M. Li, [Introduction to Deep Learning (STAT157)](https://courses.d2l.ai/berkeley-stat-157/index.html), UC Berkeley.
 * S. Lall and S. Boyd, [Introduction to Machine Learning (EE104)](http://ee104.stanford.edu/), Stanford University.
 * E. Brunskill, [Reinforcement Learning (CS234)](https://web.stanford.edu/class/cs234/), Stanford University.
