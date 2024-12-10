@@ -15,7 +15,7 @@ description:
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
    Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
    "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Transactions on Network and Service Management*, 2024 (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)
+   *submitted to IEEE Transactions on Network and Service Management*, 2024 (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)).
 
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
    "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
