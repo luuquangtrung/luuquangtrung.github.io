@@ -32,6 +32,35 @@ nav_order: 7
 [IEEE Spectrum](https://spectrum.ieee.org/) 
 * **Surveys**: [IEEE Communications Surveys & Tutorials](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) 
 
+### Top-tier telecom and networking conferences ([CORE rankings](https://portal.core.edu.au/conf-ranks/?search=network&by=all&source=CORE2023&sort=arank&page=1))
+* **Ranked A***:
+  [ACM SIGCOMM](),
+  [ACM Mobicom](),
+  [IEEE INFOCOM](),
+  [IEEE PERCOM](),
+  
+* **Ranked A**:
+  [ACM Mobihoc](),
+  [ACM CoNEXT](),
+  [IEEE/IFIP DSN](),
+
+* **Ranked B**:
+  [IEEE GLOBECOM](),
+  [IEEE ICC]() (not listed),
+  [IEEE WiOpt](),
+  [IEEE SECON](),
+  [IEEE LCN](),
+  [IEEE CNSM](),
+  [IEEE WiMob](),
+  [IEEE ICCCN](),
+  [IEEE WCNC](),
+  [IEEE CCNC](),
+  [IEEE NetSoft](),
+  [IEEE WoWMoM](), 
+  [IEEE NCA](),
+  [IEEE/IFIP NOMS](), 
+  [IFIP Networking](),
+  
 
 ### Useful links
 * [Academic Gates](https://www.academicgates.com/)
