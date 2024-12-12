@@ -42,7 +42,7 @@ nav_order: 7
 * **Ranked A**:
   [ACM Mobihoc](https://www.sigmobile.org/mobihoc/),
   [ACM CoNEXT](https://conferences.sigcomm.org/co-next/),
-  [IEEE/IFIP DSN](https://dsn2025.github.io/),
+  [IEEE/IFIP DSN](https://dsn2025.github.io/)
 
 * **Ranked B**:
   [IEEE GLOBECOM](https://ieee-globecom.org/),
@@ -59,7 +59,7 @@ nav_order: 7
   [IEEE WoWMoM](https://wowmomconference2025.uta.edu/), 
   [IEEE NCA](https://www.nca-ieee.org/),
   [IEEE/IFIP NOMS](https://ieee-noms.org/), 
-  [IFIP Networking](https://networking.ifip.org/),
+  [IFIP Networking](https://networking.ifip.org/)
   
 ### Useful links
 * [Academic Gates](https://www.academicgates.com/)
