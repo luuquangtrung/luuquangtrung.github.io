@@ -34,34 +34,33 @@ nav_order: 7
 
 ### Top-tier telecom and networking conferences ([CORE rankings](https://portal.core.edu.au/conf-ranks/?search=network&by=all&source=CORE2023&sort=arank&page=1))
 * **Ranked A***:
-  [ACM SIGCOMM](),
-  [ACM Mobicom](),
-  [IEEE INFOCOM](),
-  [IEEE PERCOM](),
+  [ACM SIGCOMM](https://www.sigcomm.org/),
+  [ACM Mobicom](https://www.sigmobile.org/mobicom/),
+  [IEEE INFOCOM](https://ieee-infocom.org/),
+  [IEEE PERCOM](https://www.percom.org/)
   
 * **Ranked A**:
-  [ACM Mobihoc](),
-  [ACM CoNEXT](),
-  [IEEE/IFIP DSN](),
+  [ACM Mobihoc](https://www.sigmobile.org/mobihoc/),
+  [ACM CoNEXT](https://conferences.sigcomm.org/co-next/),
+  [IEEE/IFIP DSN](https://dsn2025.github.io/),
 
 * **Ranked B**:
-  [IEEE GLOBECOM](),
-  [IEEE ICC]() (not listed),
-  [IEEE WiOpt](),
-  [IEEE SECON](),
-  [IEEE LCN](),
-  [IEEE CNSM](),
-  [IEEE WiMob](),
-  [IEEE ICCCN](),
-  [IEEE WCNC](),
-  [IEEE CCNC](),
-  [IEEE NetSoft](),
-  [IEEE WoWMoM](), 
-  [IEEE NCA](),
-  [IEEE/IFIP NOMS](), 
-  [IFIP Networking](),
+  [IEEE GLOBECOM](https://ieee-globecom.org/),
+  [IEEE ICC](https://ieee-icc.org/) (not listed),
+  [IEEE WiOpt](https://wiopt24.github.io/),
+  [IEEE SECON](https://ieee-secon.org/),
+  [IEEE LCN](https://www.ieeelcn.org/),
+  [IEEE CNSM](https://cnsm-conf.org/2024/),
+  [IEEE WiMob](http://www.wimob.org/),
+  [IEEE ICCCN](http://www.icccn.org/index.html),
+  [IEEE WCNC](https://ieee-wcnc.org/),
+  [IEEE CCNC](https://ieee-ccnc.org/),
+  [IEEE NetSoft](https://ieee-netsoft.org/),
+  [IEEE WoWMoM](https://wowmomconference2025.uta.edu/), 
+  [IEEE NCA](https://www.nca-ieee.org/),
+  [IEEE/IFIP NOMS](https://ieee-noms.org/), 
+  [IFIP Networking](https://networking.ifip.org/),
   
-
 ### Useful links
 * [Academic Gates](https://www.academicgates.com/)
 * Former affiliated labs: [Bell Labs](https://www.bell-labs.com/), [L2S (Supélec)](http://www.l2s.centralesupelec.fr/), [CERI-LIA (Avignon)](https://lia.univ-avignon.fr/), [LAAS-CNRS (Toulouse)](https://www.laas.fr/public/), [LIP-Inria-ENS (Lyon)](http://www.ens-lyon.fr/LIP/), [GeePs (Supélec)](http://www.lgep.supelec.fr/)
