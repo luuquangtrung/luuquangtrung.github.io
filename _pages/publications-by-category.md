@@ -24,7 +24,7 @@ description:
  
 ### In preparation
 
-1. Tuan-Vu Truong, **Quang-Trung Luu**, Van-Dinh Nguyen,
+1. Tuan-Vu Truong, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, Van-Dinh Nguyen, and Symeon Chatzinotas,
    "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
    2024
 
