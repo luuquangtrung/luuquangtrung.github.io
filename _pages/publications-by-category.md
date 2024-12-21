@@ -19,7 +19,7 @@ description:
 
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
    "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Internet of Things Journal*, 2024.
+   *submitted to IEEE Internet of Things Journal*, 2024 (minor revision).
 
  
 ### In preparation
