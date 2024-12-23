@@ -8,11 +8,11 @@ nav_order: 7
 ---
 
 
-### Articles on media
+#### Articles on media
 1. Phan Dương Hiệu và Lưu Quang Trung, [R&D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp](https://thanhnien.vn/rd-ban-dap-tu-dao-tao-tien-si-lien-ket-han-lam-cong-nghiep-185230927084731245.htm), *Thanh Niên*, 27 tháng 09 năm 2023. 
 
 
-### Top-tier telecom and networking journals
+#### Top-tier telecom and networking journals
 * **Journals**:
   * **IEEE Transactions**: [Wireless Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4656680), 
  [Communications](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5497975), 
@@ -30,20 +30,19 @@ nav_order: 7
 * **Magazines**: [IEEE Communications Magazine](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593423),
 [IEEE Network](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7593428), 
 [IEEE Spectrum](https://spectrum.ieee.org/) 
-* **Surveys**: [IEEE Communications Surveys & Tutorials](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) 
+* **Surveys**: [IEEE Communications Surveys & Tutorials](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739)
+* [Scimago journal list](https://www.scimagojr.com/journalrank.php?category=1705)
 
-### Top-tier telecom and networking conferences ([CORE rankings](https://portal.core.edu.au/conf-ranks/?search=network&by=all&source=CORE2023&sort=arank&page=1))
+#### Top-tier telecom and networking conferences ([CORE rankings](https://portal.core.edu.au/conf-ranks/?search=network&by=all&source=CORE2023&sort=arank&page=1))
 * **Ranked A***:
   [ACM SIGCOMM](https://www.sigcomm.org/),
   [ACM Mobicom](https://www.sigmobile.org/mobicom/),
   [IEEE INFOCOM](https://ieee-infocom.org/),
   [IEEE PERCOM](https://www.percom.org/)
-  
 * **Ranked A**:
   [ACM Mobihoc](https://www.sigmobile.org/mobihoc/),
   [ACM CoNEXT](https://conferences.sigcomm.org/co-next/),
   [IEEE/IFIP DSN](https://dsn2025.github.io/)
-
 * **Ranked B**:
   [IEEE GLOBECOM](https://ieee-globecom.org/),
   [IEEE ICC](https://ieee-icc.org/) (not listed),
@@ -61,7 +60,7 @@ nav_order: 7
   [IEEE/IFIP NOMS](https://ieee-noms.org/), 
   [IFIP Networking](https://networking.ifip.org/)
   
-### Useful links
+#### Useful links
 * [Academic Gates](https://www.academicgates.com/)
 * Former affiliated labs: [Bell Labs](https://www.bell-labs.com/), [L2S (Supélec)](http://www.l2s.centralesupelec.fr/), [CERI-LIA (Avignon)](https://lia.univ-avignon.fr/), [LAAS-CNRS (Toulouse)](https://www.laas.fr/public/), [LIP-Inria-ENS (Lyon)](http://www.ens-lyon.fr/LIP/), [GeePs (Supélec)](http://www.lgep.supelec.fr/)
 * Orientation professionnelle du GDR-RSD sur la recherche des emplois d'enseignant-chercheur en France:
@@ -70,14 +69,14 @@ nav_order: 7
   * [Devenir Chercheur.se.s au CNRS](https://zoom.us/rec/share/R8vpdcLnOZTfB3gFkB_5s-oynec6GYvH_arE3ocnubaK0JQg1P7GI7xLxoQd15i-.wbem2LU2zqJJWZi5) ([+ de détails](https://gdr-rsd.fr/?p=217))
 
 
-### Useful tools
+#### Useful tools
 * [Academic Phrasebank (Univ. of Manchester)](http://www.phrasebank.manchester.ac.uk/) <!-- * [Prof. Nguyen Van Tuan's some guides on writing academic papers](http://tuanvannguyen.blogspot.fr/)  -->
 * [LaTeX Poster Template](http://www.brian-amberg.de/uni/poster/) 
 * My [answer](https://www.quora.com/What-are-some-tools-every-PhD-student-should-use/answer/Trung-15) to the question "What are some tools every PhD student should use?" on Quora 
 * If you are a fan of Inkscape & LaTeX, try using Textext, a very nice extension to directly write LaTeX formulas in Inkscape. [Here](http://www.mediafire.com/file/d00x529v00iwkas/Textext_full.zip) is all the needed packages and installation instruction provided by [James. M. Davis](http://people.orie.cornell.edu/jmd388/)
 
 
-### Network data sets
+#### Network data sets
 * [IEEE DataPort](https://ieee-dataport.org/)
 * [Katya Ognyanova's blog](http://kateto.net/2016/05/network-datasets/)
 * [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html)
