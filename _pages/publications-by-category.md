@@ -17,9 +17,7 @@ description:
    "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/),"
    *submitted to IEEE Transactions on Network and Service Management*, 2024 (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)).
 
-1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
-   "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Internet of Things Journal*, 2024 (minor revision).
+
 
  
 ### In preparation
@@ -43,23 +41,29 @@ description:
 
 
 ### Journal papers
+1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
+   "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
+   in *IEEE Internet of Things Journal*, 2025.
+   (**Scopus Q1, IF 8.2**).
+   
+   
 1. Rachid El-Azouzi, Francesco De Pellegrini, Afaf Arfaoui, Cédric Richier, Jeremie Leguay, **Quang-Trung Luu**, Youcef Magnouche, and Sebastien Martin,
-   "[Semi-distributed Coflow Scheduling in Datacenters](https://ieeexplore.ieee.org/document/10517902)," *IEEE Transactions on Network and Service
-   Management*, 2024, DOI: 10.1109/TNSM.2024.3395992.
+   "[Semi-distributed Coflow Scheduling in Datacenters](https://ieeexplore.ieee.org/document/10517902),"
+   in *IEEE Transactions on Network and Service Management*, vol. 21, no. 4, pp. 4268-4281, Aug. 2024, doi: 10.1109/TNSM.2024.3395992.
    (E-ISSN: 1932-4537,
    hal: [hal-04632942](https://hal.science/hal-04632942), 
    **Scopus Q1, IF 5.3**).
 
 1. Olivier Brun, Rachid El-Azouzi, **Quang-Trung Luu**, Francesco De Pellegrini, Balakrishna J. Prabhu, and Cédric Richier, 
    "[Weighted Scheduling of Time-Sensitive Coflows](https://ieeexplore.ieee.org/document/10490130/)," 
-   *IEEE Transactions on Cloud Computing*, 2024, DOI: 10.1109/TCC.2024.3384514.
+   in *IEEE Transactions on Cloud Computing*, vol. 12, no. 2, pp. 644-658, April-June 2024, doi: 10.1109/TCC.2024.3384514.
    (E-ISSN: 2168-7161,
    arXiv: [2303.17175](https://arxiv.org/abs/2303.17175),
    **Scopus Q1, IF 6.5**).
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, and Michel Kieffer, 
    "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," 
-   *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, pp. 3136-3153, Sept. 2022, DOI: 10.1109/TNSM.2022.3160352.
+   in *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, pp. 3136-3153, Sept. 2022, doi: 10.1109/TNSM.2022.3160352.
    (E-ISSN: 1932-4537,
    hal: [hal-03614028](https://hal.archives-ouvertes.fr/hal-03614028/),
    arXiv: [2203.09367](https://arxiv.org/abs/2203.09367),
@@ -67,7 +71,7 @@ description:
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, and Michel Kieffer, 
    "[Uncertainty-Aware Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9351563)," 
-   in *IEEE Transactions on Network and Service Management*, vol. 18, no. 1, pp. 79-93, March 2021, DOI: 10.1109/TNSM.2021.3058139. 
+   in *IEEE Transactions on Network and Service Management*, vol. 18, no. 1, pp. 79-93, March 2021, doi: 10.1109/TNSM.2021.3058139. 
    (E-ISSN: 1932-4537, 
    hal: [hal-03418308](https://hal.archives-ouvertes.fr/hal-03418308), 
    arXiv: [2006.01104](https://arxiv.org/abs/2006.01104),
@@ -75,7 +79,7 @@ description:
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, Alexandre Mouradian, and Michel Kieffer, 
    "[A Coverage-Aware Resource Provisioning Method for Network Slicing](https://ieeexplore.ieee.org/document/9187556/)," 
-   in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 2020, DOI: 10.1109/TNET.2020.3019098.
+   in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 2020, doi: 10.1109/TNET.2020.3019098.
    (E-ISSN: 1558-2566, 
    hal: [hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001), 
    arXiv: [1907.09211v3](https://arxiv.org/abs/1907.09211v3), 
