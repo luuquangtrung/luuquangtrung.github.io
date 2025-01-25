@@ -11,21 +11,18 @@ description:
 1. Phong C. H. Nguyen, Joseph B. Choi, and **Quang-Trung Luu**,
    "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
    *submitted to Scientific Reports*, 2024 (preprint: [arXiv:2411.13815](https://arxiv.org/abs/2411.13815)).
-
-1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
-   Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
-   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Transactions on Network and Service Management*, 2024 (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)).
-
-
-
- 
-### In preparation
-
+   
 1. Tuan-Vu Truong, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, Van-Dinh Nguyen, and Symeon Chatzinotas,
    "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   2024
+   *submitted to IEEE Transactions on Wireless Communications*, 2025.
 
+
+### In preparation
+1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
+   Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 2024
+   (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)).
+   
 1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
    "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/),"
    2024
