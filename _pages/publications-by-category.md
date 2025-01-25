@@ -18,22 +18,28 @@ description:
 
 
 ### In preparation
+
+1. Ngoc Hung Nguyen, Nguyen Van Thieu, Senura H. Wanasekara, Van-Dinh Nguyen,
+   **Quang-Trung Luu**, Nguyen Cong Luong, and Anh Tuan Nguyen,
+   "[Oranits: Mission Assignment and Task Offloading in ITS Integrating MEC and Open RAN using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/)," 2025
+
+
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
    Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
-   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 2024
+   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 2025.
    (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)).
    
 1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
    "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/),"
-   2024
+   2025.
 
 1. Kim-Hoan Do, Dang-Vu Nguyen, Ha-Son Nguyen, Van-Dinh Nguyen, and **Quang-Trung Luu**,
    "[Optimizing End-to-End eMBB Network Slicing in Open RAN-Compliant Networks](https://ieeexplore.ieee.org/),"
-   2024
+   2025.
 
 1. **Quang-Trung Luu**, Cong-Viet Hoang, Ha-Son Nguyen, and Dang-Vu Nguyen,
    "[Timirax: Joint Acceptance Rate and Completion Time Optimization for Coflows in Datacenters](https://ieeexplore.ieee.org/),"
-   2024.
+   2025.
 
 
 
