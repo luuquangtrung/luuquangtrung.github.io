@@ -5,9 +5,7 @@ permalink: /
 subtitle: Assistant Professor, <a href='https://l2s.centralesupelec.fr/'>Laboratory of Signals and Systems</a><br>
           <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, 
           <a href='https://www.universite-paris-saclay.fr/en'>Paris-Saclay University</a><br>
-          Contact: x [at] y, where x is luuquangtrung.vn and y is gmail.com <br><br>
-
-
+          Bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br>
 profile:
   align: right
   image: cv.jpg
