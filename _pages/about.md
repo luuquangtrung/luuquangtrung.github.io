@@ -5,7 +5,7 @@ permalink: /
 subtitle: Assistant Professor, <a href='[https://seee.hust.edu.vn/](https://l2s.centralesupelec.fr/)'>Laboratory of Signals and Systems</a><br>
           <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, <a href='https://www.universite-paris-saclay.fr/en'>Paris-Saclay University</a><br>
           Bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br>
-          Contact: x [at] y, where x = luuquangtrung.vn and y = gmail.com <br><br>
+          Contact: x@y, where `x = luuquangtrung.vn` and `y = gmail.com` <br><br>
 
 profile:
   align: right
