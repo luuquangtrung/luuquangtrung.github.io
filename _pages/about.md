@@ -3,7 +3,7 @@ layout: about
 title: home
 permalink: /
 subtitle: Assistant Professor, <a href='[https://seee.hust.edu.vn/](https://l2s.centralesupelec.fr/)'>Laboratory of Signals and Systems</a><br>
-          <a href='https://centralesupelec.fr/'>CentraleSupélec</a><br>, <a href='https://www.universite-paris-saclay.fr/en'>Paris-Saclay University</a><br>
+          <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, <a href='https://www.universite-paris-saclay.fr/en'>Paris-Saclay University</a><br>
           CentraleSupélec, bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br>
           trung [dot] luuquang [at] hust.edu.vn <br><br>
 
