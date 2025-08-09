@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 <!-- Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam).--> 
 
-I am a tenured Assistant Professor (*maître de conférences* in French) at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France, affiliated with the [Laboratory of Signals and Systems of CentraleSupélec](https://l2s.centralesupelec.fr/) for research and the engineering school [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/) for teaching activities.
+I am a tenured Assistant Professor (*maître de conférences* in French) at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France, affiliated with the [Laboratory of Signals and Systems of CentraleSupélec](https://l2s.centralesupelec.fr/) for research and the graduate engineering school [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/) for teaching activities.
 
 <!-- Quang-Trung Luu is a lecturer (a.k.a. assistant professor) at the [School of Electrical and Electronic Engineering](https://seee.hust.edu.vn/), [Hanoi University of Science and Technology](https://en.hust.edu.vn/). -->
 
