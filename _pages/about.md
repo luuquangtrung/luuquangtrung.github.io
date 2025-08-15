@@ -43,11 +43,12 @@ He sequentially conducted postdoctoral research at the [Computer Science Lab of 
 ## announcement
 I am actively looking for highly motivated undergraduate/graduate students in the area of resource optimization for next-generation wireless networks (Open RAN, 5G/6G+) and applied AI/ML. Should you be interested in these topics, please send your CV to my email.
 
-## research interests
+<!-- ## research interests
 * Applied AI/ML for 5G & beyond: resource allocation, task scheduling
 * Open radio access networks (Open RAN): functional splitting, network slicing, traffic steering
 * ML for combinatorial network optimization problems (e.g., virtual network embedding, coflow scheduling)
-
+ -->
+ 
 <!-- ## contact
 Office:
 &nbsp;&nbsp;&nbsp; Équipe SARA, LAAS-CNRS, 7 avenue du Colonel Roche, 31400 Toulouse, France\
