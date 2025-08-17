@@ -5,33 +5,7 @@ title: publications by category
 description: 
 ---
 
-
-### Submitted, in review
-
-1. Phong C. H. Nguyen, Joseph B. Choi, and **Quang-Trung Luu**,
-   "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
-   *submitted to Scientific Reports*, 2024 (preprint: [arXiv:2411.13815](https://arxiv.org/abs/2411.13815)).
-   
-1. Tuan-Vu Truong, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, Van-Dinh Nguyen, and Symeon Chatzinotas,
-   "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Transactions on Wireless Communications*, 2025.
-
-
 ### In preparation
-
-1. Ngoc Hung Nguyen, Nguyen Van Thieu, Senura H. Wanasekara, Van-Dinh Nguyen,
-   **Quang-Trung Luu**, Nguyen Cong Luong, and Anh Tuan Nguyen,
-   "[Oranits: Mission Assignment and Task Offloading in ITS Integrating MEC and Open RAN using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/)," 2025
-
-
-1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
-   Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
-   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," 2025.
-   (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)).
-   
-1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
-   "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/),"
-   2025.
 
 1. Kim-Hoan Do, Dang-Vu Nguyen, Ha-Son Nguyen, Van-Dinh Nguyen, and **Quang-Trung Luu**,
    "[Optimizing End-to-End eMBB Network Slicing in Open RAN-Compliant Networks](https://ieeexplore.ieee.org/),"
@@ -41,11 +15,34 @@ description:
    "[Timirax: Joint Acceptance Rate and Completion Time Optimization for Coflows in Datacenters](https://ieeexplore.ieee.org/),"
    2025.
 
+### Submitted, in review
+
+1. Phong C. H. Nguyen, Joseph B. Choi, and **Quang-Trung Luu**,
+   "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
+   *submitted to Scientific Reports*, 2025 (preprint: [arXiv:2411.13815](https://arxiv.org/abs/2411.13815)).
+   
+1. Tuan-Vu Truong, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, Van-Dinh Nguyen, and Symeon Chatzinotas,
+   "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
+   *submitted to IEEE Transactions on Network and Service Management*, 2025.
+   
+1. Ngoc Hung Nguyen, Nguyen Van Thieu, Senura H. Wanasekara, Van-Dinh Nguyen,
+   **Quang-Trung Luu**, Nguyen Cong Luong, and Anh Tuan Nguyen,
+   "[Oranits: Mission Assignment and Task Offloading in ITS Integrating MEC and Open RAN using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/)," *submitted to IEEE Transactions on Mobile Computing*, 2025.
+
+
+1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
+   Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," *submitted to IEEE Transactions on Network and Service Management*, 2025.
+   (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)).
+   
+1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+   "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/),"
+   *submitted to IEEE Networking Letters*, 2025.
 
 
 ### Journal papers
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
-   "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
+   "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/document/10855560/),"
    in *IEEE Internet of Things Journal*, vol. 12, no. 11, pp. 17066-17079, June 2025, doi: 10.1109/JIOT.2025.3535156.
    (**Scopus Q1, IF 8.2**).
    
@@ -89,6 +86,10 @@ description:
 
 
 ### Conference and workshop papers
+
+1. Ngoc Hung Nguyen, Van Thieu Nguyen, **Quang-Trung Luu**, Vo Phi Son, and Van-Dinh Nguyen,
+   "A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems,"
+   in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
 
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tai-Hung Nguyen, Michel Kieffer,
    Van-Dinh Nguyen, Quang-Lap Luu, and Trung-Toan Nguyen,
