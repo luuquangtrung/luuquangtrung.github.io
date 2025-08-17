@@ -46,7 +46,7 @@ description:
 ### Journal papers
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
    "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/),"
-   in *IEEE Internet of Things Journal*, 2025, doi: 10.1109/JIOT.2025.3535156.
+   in *IEEE Internet of Things Journal*, vol. 12, no. 11, pp. 17066-17079, June 2025, doi: 10.1109/JIOT.2025.3535156.
    (**Scopus Q1, IF 8.2**).
    
 1. Rachid El-Azouzi, Francesco De Pellegrini, Afaf Arfaoui, Cédric Richier, Jeremie Leguay, **Quang-Trung Luu**, Youcef Magnouche, and Sebastien Martin,
