@@ -199,7 +199,7 @@ description:
 
 
 ### Softwares
-1. **Quang-Trung Luu**, Chanh Kieu, Thanh Nguyen, Minh-Thanh Nguyen, Quang-Lap Luu, et al., Data Processing for TCG-Net: Reconstructing Tropical Cyclogenesis Climatology, 2025, doi: 10.5281/zenodo.15640334.
+1. **Quang-Trung Luu**, Chanh Kieu, Thanh Nguyen, Minh-Thanh Nguyen, Quang-Lap Luu, et al., [Data Processing for TCG-Net: Reconstructing Tropical Cyclogenesis Climatology](https://zenodo.org/records/16741501), 2025, doi: 10.5281/zenodo.15640334.
 
 1. **Quang-Trung Luu**, Olivier Brun, Rachid El-Azouzi, Francesco De Pellegrini,Balakrishna J. Prabhu, and Cédric Richier, 
    CoflowLib: A library of test instances for coflows in datacenter networks, 2022 
