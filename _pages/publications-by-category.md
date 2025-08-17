@@ -202,16 +202,13 @@ description:
 1. **Quang-Trung Luu**, Chanh Kieu, Thanh Nguyen, Minh-Thanh Nguyen, Quang-Lap Luu, et al., [Data Processing for TCG-Net: Reconstructing Tropical Cyclogenesis Climatology](https://zenodo.org/records/16741501), 2025, doi: 10.5281/zenodo.15640334.
 
 1. **Quang-Trung Luu**, Olivier Brun, Rachid El-Azouzi, Francesco De Pellegrini,Balakrishna J. Prabhu, and Cédric Richier, 
-   CoflowLib: A library of test instances for coflows in datacenter networks, 2022 
-   [[Source code](https://github.com/luuquangtrung/CoflowLib)].
+   [CoflowLib: A library of test instances for coflows in datacenter networks](https://github.com/luuquangtrung/CoflowLib), 2022.
 
 1. **Quang-Trung Luu**, Olivier Brun, Rachid El-Azouzi, Francesco De Pellegrini,Balakrishna J. Prabhu, and Cédric Richier, 
-   CoflowSimulator: Simulator for coflow scheduling and resource allocation, 2022 
-   [[Source code](https://github.com/luuquangtrung/CoflowSimulator)].
+   [CoflowSimulator: Simulator for coflow scheduling and resource allocation](https://github.com/luuquangtrung/CoflowSimulator), 2022.
 
 1. **Quang-Trung Luu**, 
-   SfcEmbedder: An ILP-based algorithm to solve the problem of SFC embedding, 2020 
-   [[Source code](https://github.com/luuquangtrung/SfcEmbedder)].
+   [SfcEmbedder: An ILP-based algorithm to solve the problem of SFC embedding](https://github.com/luuquangtrung/SfcEmbedder), 2020.
 
 
 ### Patents
