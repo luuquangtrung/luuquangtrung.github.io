@@ -117,13 +117,13 @@ description:
 
 1. Minh-Thanh Nguyen, **Quang-Trung Luu**, Tai-Hung Nguyen, Do-Minh Tran, Tuan-Anh Do, Kim-Hoan Do, and Van-Hieu Nguyen,
    "[Accelerating Network Slice Embedding with Reinforcement Learning](https://ieeexplore.ieee.org/document/10634634/)," 
-   in *Proc. IEEE International Conference on Communications and Electronics (ICCE)*, Danang, Vietnam, 2024, pp. 78-83, DOI: 10.1109/ICCE62051.2024.10634634.
+   in *Proc. IEEE International Conference on Communications and Electronics (ICCE)*, Danang, Vietnam, 2024, pp. 78-83, doi: 10.1109/ICCE62051.2024.10634634.
    (E-ISSN: 2836-4392,
    hal: [hal-xxx](https://hal.archives-ouvertes.fr/hal-xxx))
 
 1. **Quang-Trung Luu**, Olivier Brun, Rachid El-Azouzi, Francesco De Pellegrini, Balakrishna J. Prabhu, and Cédric Richier, 
    “[DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks](https://ieeexplore.ieee.org/document/9829789)," 
-   in *Proc. IFIP Networking*, Catania, Italy, June, 2022, DOI: 10.23919/IFIPNetworking55013.2022.9829789. 
+   in *Proc. IFIP Networking*, Catania, Italy, June, 2022, doi: 10.23919/IFIPNetworking55013.2022.9829789. 
    (E-ISSN: 1861-2288, 
    hal: [hal-03657370](https://hal.archives-ouvertes.fr/hal-03657370),
    arXiv: [2205.01229v1](https://arxiv.org/abs/2205.01229),
@@ -131,33 +131,33 @@ description:
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, and Michel Kieffer, 
    "[Foresighted Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9481832)," 
-   in *Proc. IEEE International Conference on High Performance Switching and Routing (HPSR)*, Paris, pp. 1-8, June 2021, DOI: 10.1109/HPSR52026.2021.9481832. 
+   in *Proc. IEEE International Conference on High Performance Switching and Routing (HPSR)*, Paris, pp. 1-8, June 2021, doi: 10.1109/HPSR52026.2021.9481832. 
    (E-ISSN: 2325-5609,
    hal: [hal-03420010](https://hal.archives-ouvertes.fr/hal-03420010)
    **invited paper**, **CORE Rank C**).
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, Alexandre Mouradian, and Michel Kieffer, 
    "[Radio Resource Provisioning for Network Slicing with Coverage Constraints](https://ieeexplore.ieee.org/document/9148897)," 
-   in *Proc. IEEE International Conference on Communications (ICC)*, Dublin, Ireland, pp. 1-6, June, 2020, DOI: 10.1109/ICC40277.2020.9148897. 
+   in *Proc. IEEE International Conference on Communications (ICC)*, Dublin, Ireland, pp. 1-6, June, 2020, doi: 10.1109/ICC40277.2020.9148897. 
    (E-ISSN: 1938-1883, 
    hal: [hal-03097210](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097210)).
 
 1. **Quang-Trung Luu**, Michel Kieffer, Alexandre Mouradian, and Sylvaine Kerboeuf, 
    "[Aggregated Resource Provisioning for Network Slices](https://ieeexplore.ieee.org/abstract/document/8648039)," 
-   in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, UAE, pp. 1-6, Dec. 2018, DOI: 10.1109/GLOCOM.2018.8648039.
+   in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, UAE, pp. 1-6, Dec. 2018, doi: 10.1109/GLOCOM.2018.8648039.
    (ISSN: 2576-6813
    hal: [hal-02097749](https://hal.archives-ouvertes.fr/hal-02097749),
    **CORE Rank B**).
 
 1. **Quang-Trung Luu**, Stavros Koulouridis, Antoine Diet, Yann Le Bihan, and Lionel Pichon, 
    “[Investigation of Inductive and Radiating Energy Harvesting for an Implanted Biotelemetry Antenna](https://ieeexplore.ieee.org/document/7928620/),” 
-   in *Proc. The 11th European Conference on Antennas and Propagation (EuCAP)*, Paris, Mar. 2017, DOI: 10.23919/EuCAP.2017.7928620.
+   in *Proc. The 11th European Conference on Antennas and Propagation (EuCAP)*, Paris, Mar. 2017, doi: 10.23919/EuCAP.2017.7928620.
    (ISBN: 978-8-8907-0187-0, 
    hal: [hal-01633025](https://hal.archives-ouvertes.fr/hal-01633025)).
 
 1. Antoine Diet, Stavros Koulouridis, Yann Le Bihan, **Quang-Trung Luu**, Olivier Meyer, Lionel Pichon, and Marc Biancheri-Astier, 
    “[Sub-GHz Inductive Power Transmission from Helical Coils for Implanted Medical Devices](https://ieeexplore.ieee.org/document/7915348/),” 
-   in *Proc. IEEE International Workshop on Antenna Technology (iWAT)*, Athens, Greece, Mar. 2017, DOI: 10.1109/IWAT.2017.7915348
+   in *Proc. IEEE International Workshop on Antenna Technology (iWAT)*, Athens, Greece, Mar. 2017, doi: 10.1109/IWAT.2017.7915348
    (ISBN: 978-1-5090-5177-9, 
    hal: [hal-01633015](https://hal.archives-ouvertes.fr/hal-01633015)).
 
@@ -199,6 +199,8 @@ description:
 
 
 ### Softwares
+1. **Quang-Trung Luu**, Chanh Kieu, Thanh Nguyen, Minh-Thanh Nguyen, Quang-Lap Luu, et al., Data Processing for TCG-Net: Reconstructing Tropical Cyclogenesis Climatology, 2025, doi: 10.5281/zenodo.15640334.
+
 1. **Quang-Trung Luu**, Olivier Brun, Rachid El-Azouzi, Francesco De Pellegrini,Balakrishna J. Prabhu, and Cédric Richier, 
    CoflowLib: A library of test instances for coflows in datacenter networks, 2022 
    [[Source code](https://github.com/luuquangtrung/CoflowLib)].
