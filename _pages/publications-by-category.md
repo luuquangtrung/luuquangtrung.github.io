@@ -17,6 +17,10 @@ description:
 
 ### Submitted, in review
 
+1. Nguyen Van Duc, Bui Duc Manh, **Quang-Trung Luu**, Dinh Thai Hoang, Van-Linh Nguyen, and Diep N. Nguyen
+   "[Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing](https://ieeexplore.ieee.org/),"
+   *submitted to Computer Networks*, 2025 (preprint: [arXiv:2507.09860](https://arxiv.org/abs/2507.09860)).
+
 1. Phong C. H. Nguyen, Joseph B. Choi, and **Quang-Trung Luu**,
    "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
    *submitted to Scientific Reports*, 2025 (preprint: [arXiv:2411.13815](https://arxiv.org/abs/2411.13815)).
