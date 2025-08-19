@@ -2,10 +2,9 @@
 layout: about
 title: home
 permalink: /
-subtitle: Maître de conférences, <a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a><br>
-          <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, 
-          <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
-          Bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br><br>
+subtitle: Lecturer (assistant professor), <a href='https://seee.hust.edu.vn/'>School of Electrical and Electronic Engineering</a><br>
+          <a href='https://hust.edu.vn/'>Hanoi University of Science and Technology (HUST)</a><br>
+          ANSA Lab, Rm. 705, 1 Dai Co Viet, Hanoi 100000<br><br>
 profile:
   align: right
   image: cv.jpg
@@ -19,6 +18,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
+<!-- Maître de conférences, <a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a><br>
+          <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, 
+          <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
+          Bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br><br>--> 
+
+          
 <!-- Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam).--> 
 
 <!-- I am a *maître de conférences* (equivalently tenured assistant/associate professor) at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France, affiliated with the [Multimedia and Networking (MULTINET)](https://l2s.centralesupelec.fr/en/research-fields/networks-telecommunications/multimedia-and-networking-multinet/) team of the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/) of [CentraleSupélec](https://centralesupelec.fr/) for research and the graduate engineering school [Polytech Paris-Saclay](https://www.polytech.universite-paris-saclay.fr/) for teaching activities. --> 
