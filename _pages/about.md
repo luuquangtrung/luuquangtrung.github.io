@@ -2,9 +2,10 @@
 layout: about
 title: home
 permalink: /
-subtitle: Lecturer (assistant professor), <a href='https://seee.hust.edu.vn/'>School of Electrical and Electronic Engineering</a><br>
+subtitle: Lecturer (assistant professor), 
           <a href='https://hust.edu.vn/'>Hanoi University of Science and Technology (HUST)</a><br>
-          ANSA Lab, Rm. 705, 1 Dai Co Viet, Hanoi 100000<br><br>
+          Professional fellow,
+          <a href='https://www.apnic.net/community/fellowship/fs-2025/fellows/'>Asia Pacific Network Information Centre (APNIC)</a><br><br>
 profile:
   align: right
   image: cv.jpg
@@ -21,7 +22,11 @@ social: true  # includes social icons at the bottom of the page
 <!-- Maître de conférences, <a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a><br>
           <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, 
           <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
-          Bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br><br>--> 
+          Bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br><br>
+Lecturer (assistant professor), <a href='https://seee.hust.edu.vn/'>School of Electrical and Electronic Engineering</a><br>
+          <a href='https://hust.edu.vn/'>Hanoi University of Science and Technology (HUST)</a><br>
+          ANSA Lab, Rm. 705, 1 Dai Co Viet, Hanoi 100000<br><br>          
+--> 
 
           
 <!-- Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam).--> 
