@@ -95,6 +95,14 @@ description:
    "A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems,"
    in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2025.
 
+1. Le-Hung Hoang, Minh Hoang Pham, **Quang-Trung Luu**, Vo Phi Son, and Van-Dinh Nguyen,
+   "Secure Multiuser Communications with Stacked Intelligent Metasurfaces Using Quantum Reinforcement Learning,"
+   in *Proc. 2025 International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2025.
+
+1. Duc-Tien Nguyen, Trong-Tin Nguyen, Nguyen Tai Hung, Nguyen Huu Thanh, and **Quang-Trung Luu**, 
+   "Resource Allocation for Open Radio Access Networks Using Reinforcement Learning,"
+   in *Proc. 2025 International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2025.
+   
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tai-Hung Nguyen, Michel Kieffer,
    Van-Dinh Nguyen, Quang-Lap Luu, and Trung-Toan Nguyen,
    "Admission Control and Embedding of Network Slices with Flexible VNF Order,"
