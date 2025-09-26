@@ -2,10 +2,11 @@
 layout: about
 title: home
 permalink: /
-subtitle: Maître de conférences, <a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a><br>
+subtitle: Maître de conférences (associate professor), <a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a><br>
           <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, 
           <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
           Bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br><br>
+          quangtrung [dot] luu [at] centralesupelec.fr<br><br>
 profile:
   align: right
   image: cv.jpg
