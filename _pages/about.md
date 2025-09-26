@@ -6,7 +6,7 @@ subtitle: Maître de conférences (associate professor), <a href='https://l2s.ce
           <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, 
           <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
           Bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br>
-          Email: quangtrung [dot] luu [at] centralesupelec.fr<br><br>
+          quangtrung [dot] luu [at] centralesupelec.fr<br><br>
 profile:
   align: right
   image: cv.jpg
