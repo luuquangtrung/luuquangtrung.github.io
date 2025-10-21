@@ -8,9 +8,9 @@ nav_order: 3
 
 #### Teaching
 1. **Polytech Paris-Saclay, Paris-Saclay University** (lecturer, 2020-2022)
-   * [Programmation orientée objet (POO)](https://luuquangtrung.github.io/teaching/poo) (engineer): Fall 2025
-   * [Objets connectés](https://luuquangtrung.github.io/teaching/oc) (engineer): Fall 2025
-   * [Robotique](https://luuquangtrung.github.io/teaching/robotique) (engineer): Fall 2025
+   * [Programmation orientée objet (POO)](https://luuquangtrung.github.io/teaching/poo) (cycle d'ingénieur): Fall 2025
+   * [Objets connectés](https://luuquangtrung.github.io/teaching/oc) (cycle d'ingénieur): Fall 2025
+   * [Robotique](https://luuquangtrung.github.io/teaching/robotique) (cycle d'ingénieur): Fall 2025
      
 1. **Hanoi University of Science and Technology** (lecturer, 2023-2025)
    * [Virtual Reality](https://luuquangtrung.github.io/teaching/ac4010) (AC4010, undergraduate): Fall 2023, Fall 2024
