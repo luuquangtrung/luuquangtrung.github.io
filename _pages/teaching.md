@@ -7,17 +7,22 @@ nav_order: 3
 ---
 
 #### Teaching
-1. **Hanoi University of Science and Technology** (2023-present)
+1. **Polytech Paris-Saclay, Paris-Saclay University** (lecturer, 2020-2022)
+   * [Programmation orientée objet (POO)](https://luuquangtrung.github.io/teaching/poo) (engineer): Fall 2025
+   * [Objets connectés)](https://luuquangtrung.github.io/teaching/oc) (engineer): Fall 2025
+   * [Robotique)](https://luuquangtrung.github.io/teaching/robotique) (engineer): Fall 2025
+     
+1. **Hanoi University of Science and Technology** (lecturer, 2023-2025)
    * [Virtual Reality](https://luuquangtrung.github.io/teaching/ac4010) (AC4010, undergraduate): Fall 2023, Fall 2024
    * [Augmented Reality](https://luuquangtrung.github.io/teaching/ac4020) (AC4020, undergraduate): Fall 2023, Fall 2024
    * [Fundamentals of Data Communication](https://luuquangtrung.github.io/teaching/et4070) (ET4070, undergraduate): Summer 2024
    * [Multimedia Data Compression and Coding](https://luuquangtrung.github.io/teaching/et4262e) (ET4262E, undergraduate): Spring 2024
   
-1. **Troy University** (2023-present)
+1. **Troy University** (invited lecturer, 2023-present)
    * [Computer Security](https://luuquangtrung.github.io/teaching/cs4451) (CS4451, undergraduate): Spring 2024
    * [Foundations of Computer Science](https://luuquangtrung.github.io/teaching/cs3310) (CS3310, undergraduate): Fall 2023
      
-1. **Paris-Saclay University** (2020-2022)
+1. **Paris-Saclay University** (teaching assistant, 2020-2022)
    * [Communication Numérique](https://luuquangtrung.github.io/teaching/g10) (G10, graduate): Fall 2020
    * [Joint Research Project](https://luuquangtrung.github.io/teaching/mn915) (MN915/MN916, graduate, joint program with Institut Polytechnique de Paris): Fall 2020, Fall 2021
 
