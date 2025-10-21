@@ -39,8 +39,6 @@ nav_order: 3
 
 1. **Kim-Hoan Do**, (HUST, 2024-2026) \
    Topic: Resource allocation for Open RAN slicing
-1. **Trung-Toan Nguyen** (HUST, 2023-2025)\
-  Topic: Embedding of network slices with flexible VNF order
 1. **Quang-Lap Luu** (HUST, 2023-2025)\
   Topic: Machine learning for typhoon formation prediction
 
