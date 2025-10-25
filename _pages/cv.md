@@ -9,7 +9,8 @@ nav_order: 1
 **Download**: [CV in english](https://luuquangtrung.github.io/assets/pdf/luu_cv_en.pdf), [CV en français](https://luuquangtrung.github.io/assets/pdf/luu_cv_fr.pdf) (last updated: Feb. 1, 2024)
 
 ### Experiences
-* 05/2023-present: Lecturer (Assistant Professor), [Hanoi University of Science and Technology](https://seee.hust.edu.vn/), Hanoi, Vietnam
+* 09/2025-present: Associate Professor (Maître de conférences), [CentraleSupélec](https://www.centralesupelec.fr/) - [Paris-Saclay University](https://www.universite-paris-saclay.fr/), Paris, France
+* 05/2023-08/2025: Lecturer (Assistant Professor), [Hanoi University of Science and Technology](https://seee.hust.edu.vn/), Hanoi, Vietnam
 * 09/2021-03/2022: Postdoctoral Fellow, [French National Centre for Scientific Research (CNRS)](https://www.laas.fr/public/), Toulouse, France
 * 03/2021-09/2021: Postdoctoral Fellow, [University of Avignon](https://lia.univ-avignon.fr/), Avignon, France
 * 11/2017-11/2020: Research Engineer, [Nokia Bell Labs](https://www.bell-labs.com/), Nozay, France 
