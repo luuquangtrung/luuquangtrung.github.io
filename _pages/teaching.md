@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 #### Teaching
-1. **Polytech Paris-Saclay, Paris-Saclay University** (lecturer, 2020-2022)
+1. **Polytech Paris-Saclay, Paris-Saclay University** (associate professor, 2023-now)
    * [Programmation orientée objet (POO)](https://luuquangtrung.github.io/teaching/poo) (cycle d'ingénieur): Fall 2025
    * [Objets connectés](https://luuquangtrung.github.io/teaching/oc) (cycle d'ingénieur): Fall 2025
    * [Robotique](https://luuquangtrung.github.io/teaching/robotique) (cycle d'ingénieur): Fall 2025
