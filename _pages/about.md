@@ -29,6 +29,10 @@ Lecturer (assistant professor), <a href='https://seee.hust.edu.vn/'>School of El
           ANSA Lab, Rm. 705, 1 Dai Co Viet, Hanoi 100000<br><br>          
 --> 
 
+<!-- Dr. Trung Luu is currently an Associate Professor (Maître de Conférences) in Networks and Telecommunications at the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/) of [CentraleSupélec](https://centralesupelec.fr/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
+Prior to this position, he was a Lecturer (Assistant Professor) at the [School of Electrical and Electronic Engineering](https://seee.hust.edu.vn/), [Hanoi University of Science and Technology](https://en.hust.edu.vn/) (2023 - 2025); a Postdoctoral Fellow at the [University of Avignon](https://lia.univ-avignon.fr/) and the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France, France (2021 - 2023); and a CIFRE Ph.D. Fellow at Nokia Bell Labs France. 
+He has served as reviewer for many top-tiers journals, and has also been a TPC member for several flagship conferences in network and service management.--> 
+
 I am an associate professor (maître de conférences) at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France, affiliated with the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/) of [CentraleSupélec](https://centralesupelec.fr/).
 
 I obtained a Ph.D from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/), France, in 2022. My thesis was also realized at [Nokia Bell Labs France](https://www.bell-labs.com/), within the CIFRE Ph.D Fellowship program supported by the [French government (ANRT)](https://www.anrt.asso.fr/fr). My thesis was awarded the [2022 Best PhD Dissertation Award on Distributed Systems and Networks](https://gdr-rsd.fr/laureats-prix-de-these-2022/) by the [French Research Community on Networks and Distributed Systems](https://gdr-rsd.fr/), and [ACM SigOps France](http://www.sigops-france.fr/). 
