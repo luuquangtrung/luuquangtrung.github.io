@@ -34,19 +34,3 @@ nav_order: 2
   Funded by VinGroup Innovation Foundation (VinIF, No. VINIF.2023.DA019)\
   Duration: Oct. 2023 - Oct. 2026\
   Role: Senior member
-
-[//]: # * **Dynamic Control and Optimization of Wireless Virtual Networks**\
-[//]: #  Funded by Association nationale de la recherche et de la technologie (ANRT)\
-[//]: #  Duration: Nov. 2017 - Nov. 2020\
-[//]: #  Role: Principal investigator (CIFRE Fellow)
-
-
-
-##### Industry
-* **Nokia Bell Labs** (Paris, France):
-  [Sylvaine Kerboeuf](https://www.researchgate.net/profile/Sylvaine-Kerboeuf)
-* **Huawei Technologies, France Research Center** (Paris, France):
-  [Jeremie Leguay](http://jeremie.leguay.free.fr/),
-  [Youcef Magnouche](https://scholar.google.fr/citations?user=lqp3aBEAAAAJ&hl=fr),
-  [Sebastien Martin](https://scholar.google.fr/citations?user=NwGcOH4AAAAJ&hl=fr)
-
