@@ -40,34 +40,6 @@ nav_order: 2
 [//]: #  Duration: Nov. 2017 - Nov. 2020\
 [//]: #  Role: Principal investigator (CIFRE Fellow)
 
-### Collaborators
-
-##### Academia
-* **Hanoi University of Science and Techology** (Hanoi, Vietnam):
-  [Huu-Thanh Nguyen](https://scholar.google.com/citations?hl=en&user=Lcnk_lYAAAAJ),
-  [Tai-Hung Nguyen](https://set.hust.edu.vn/nguyen-tai-hung),
-  [Yem Van-Vu](https://www.researchgate.net/profile/Yem-Vu),
-  [Bao-Huy Nguyen](https://scholar.google.com/citations?user=BKJabJsAAAAJ&hl=en)
-* **VinUniversity** (Hanoi, Vietnam):
-  [Van-Dinh Nguyen](https://vinuni.edu.vn/people/nguyen-van-dinh-phd/)
-* **LAAS-CNRS** (Toulouse, France):
-  [Olivier Brun](https://homepages.laas.fr/brun/),
-  [Balakrishna J. Prabhu](https://homepages.laas.fr/bala/)
-* **University of Avignon** (Avignon, France):
-  [‪Rachid El-Azouzi‬](http://scholar.google.com/citations?user=Tvto5qkAAAAJ&hl=en),
-  [Francesco De Pellegrini](https://scholar.google.com/citations?user=EYyOnEkAAAAJ&hl=en)
-* **Paris-Saclay University** (Paris, France):
-  [Michel Kieffer](https://l2s.centralesupelec.fr/u/kieffer-michel),
-  [Alexandre Mouradian](https://scholar.google.com/citations?hl=fr&user=ADWSU9YAAAAJ&view_op=list_works&sortby=pubdate), [Antoine Diet](https://cv.archives-ouvertes.fr/antoine-diet),
-  [Yann Le Bihan](http://lgep.geeps.centralesupelec.fr/index.php?page=yann-le-bihan),
-  [Lionel Pichon](http://lgep.geeps.centralesupelec.fr/index.php?page=lionel-pichon)
-* **Inria - ENS Lyon** (Lyon, France):
-  [Anthony Busson](http://www.anthonybusson.fr/),
-  [Isabelle Guérin-Lassous](http://perso.ens-lyon.fr/isabelle.guerin-lassous/)
-* **University of Patras** (Patras, Greece):
-  [Stavros Koulouridis](http://www.ece.upatras.gr/index.php/en/ece-faculty/koulouridis-stavros.html)
-* **University of Sherbrooke** (Québec, Canada):
-  [Cao-Minh Ta](https://scholar.google.com.vn/citations?user=GUcQQiEAAAAJ&hl=en)
 
 
 ##### Industry
