@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 <a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a><br>
           <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, 
           <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
-          Bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br>
+          Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br>
           
 <!-- Maître de conférences, <a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a><br>
           <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, 
