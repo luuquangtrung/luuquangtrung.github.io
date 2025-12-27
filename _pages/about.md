@@ -7,19 +7,25 @@ profile:
   align: right
   image: cv.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p><a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a></p>
-    <p><a href='https://centralesupelec.fr/'>CentraleSupélec</a>, <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a></p>
-    <p>quangtrung.luu [at] centralesupelec [dot] fr</p>
-    <p>3 rue Joliot Curie, 91190 Gif-sur-Yvette, France</p>
-
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<!-- address: >
+    <p><a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a></p>
+    <p><a href='https://centralesupelec.fr/'>CentraleSupélec</a>, <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a></p>
+    <p>quangtrung.luu [at] centralesupelec [dot] fr</p>
+    <p>3 rue Joliot Curie, 91190 Gif-sur-Yvette, France</p>
+--> 
 
+
+<a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a><br>
+          <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, 
+          <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
+          Bâtiment Bréguet, 3, rue Joliot Curie, 91190 Gif-sur-Yvette, France<br><br>
+          
 <!-- Maître de conférences, <a href='https://l2s.centralesupelec.fr/'>Laboratoire des Signaux et Systèmes (L2S)</a><br>
           <a href='https://centralesupelec.fr/'>CentraleSupélec</a>, 
           <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
