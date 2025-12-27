@@ -39,7 +39,7 @@ I obtained a Ph.D from [CentraleSupélec - Paris-Saclay University](https://l2s.
 
 Prior to joining Paris-Saclay, I was a lecturer at the [School of Electrical and Electronic Engineering](https://seee.hust.edu.vn/), [Hanoi University of Science and Technology](https://en.hust.edu.vn/) (2023 - 2025), and postdoctoral fellow at the [University of Avignon](https://lia.univ-avignon.fr/) and the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France, France (2021 - 2023). 
 
-My research focuses on improving resource management in next-generation communication networks (5G and beyond), leveraging mathematical optimization and artificial intelligence.
+<!--My research focuses on improving resource management in next-generation communication networks (5G and beyond), leveraging mathematical optimization and artificial intelligence. --> 
 
 
 <!-- Quang-Trung Luu received a B.Eng. in electronics and telecommunications in 2013 from the [Hanoi University of Science and Technology](https://hust.edu.vn/) (Hanoi, Vietnam).--> 
@@ -54,14 +54,14 @@ He sequentially conducted postdoctoral research at the [Computer Science Lab of 
 <!-- My research interests span over networking topics, especially in network modelling, network optimization, resource allocation and orchestration in communication networks.
  -->
 
-## announcement
+<!-- ## announcement
 I am actively looking for highly motivated undergraduate/graduate students in the area of resource optimization for next-generation wireless networks (Open RAN, 5G/6G+) and applied AI/ML. Should you be interested in these topics, please send your CV to my email.
-
-<!-- ## research interests
-* Applied AI/ML for 5G & beyond: resource allocation, task scheduling
-* Open radio access networks (Open RAN): functional splitting, network slicing, traffic steering
-* ML for combinatorial network optimization problems (e.g., virtual network embedding, coflow scheduling)
  -->
+
+## research interests
+* Applied AI/ML for 5G & beyond: resource allocation, task scheduling
+* Open radio access networks (Open RAN): flexible functional split, network slicing
+* ML for combinatorial network optimization problems (e.g., virtual network embedding, coflow scheduling)
  
 <!-- ## contact
 Office:
