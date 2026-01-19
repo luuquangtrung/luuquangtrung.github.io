@@ -5,46 +5,47 @@ title: publications by category
 description: 
 ---
 
-### In preparation
 
-1. Kim-Hoan Do, Dang-Vu Nguyen, Ha-Son Nguyen, Van-Dinh Nguyen, and **Quang-Trung Luu**,
-   "[Optimizing End-to-End eMBB Network Slicing in Open RAN-Compliant Networks](https://ieeexplore.ieee.org/),"
-   2025.
-
-1. **Quang-Trung Luu**, Cong-Viet Hoang, Ha-Son Nguyen, and Dang-Vu Nguyen,
-   "[Timirax: Joint Acceptance Rate and Completion Time Optimization for Coflows in Datacenters](https://ieeexplore.ieee.org/),"
-   2025.
 
 ### Submitted, in review
-
-1. Nguyen Van Duc, Bui Duc Manh, **Quang-Trung Luu**, Dinh Thai Hoang, Van-Linh Nguyen, and Diep N. Nguyen
-   "[Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing](https://ieeexplore.ieee.org/),"
-   *submitted to Computer Networks*, 2025 (preprint: [arXiv:2507.09860](https://arxiv.org/abs/2507.09860)).
-
-1. Phong C. H. Nguyen, Joseph B. Choi, and **Quang-Trung Luu**,
-   "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
-   *submitted to Scientific Reports*, 2025 (preprint: [arXiv:2411.13815](https://arxiv.org/abs/2411.13815)).
+1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
+   Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/),"
+   *submitted to IEEE Transactions on Network and Service Management*, 2026
+   (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)).
    
 1. Tuan-Vu Truong, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, Van-Dinh Nguyen, and Symeon Chatzinotas,
    "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Transactions on Network and Service Management*, 2025.
+   *submitted to IEEE Transactions on Network and Service Management*, 2026.
    
+1. Minh-Tuong Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, and Le-Nam Tran,
+   "[Deadline-Aware Task Offloading with Concurrency in Serverless Edge Computing](https://ieeexplore.ieee.org/),"
+   *submitted to *IEEE Internet of Things Journal*, 2026.
+        
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, Senura H. Wanasekara, Van-Dinh Nguyen,
    **Quang-Trung Luu**, Nguyen Cong Luong, and Anh Tuan Nguyen,
-   "[Oranits: Mission Assignment and Task Offloading in ITS Integrating MEC and Open RAN using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/)," *submitted to IEEE Transactions on Mobile Computing*, 2025.
-
-
-1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
-   Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
-   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/)," *submitted to IEEE Transactions on Network and Service Management*, 2025.
-   (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)).
+   "[Oranits: Mission Assignment and Task Offloading in ITS Integrating MEC and Open RAN using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
+   *submitted to IEEE Transactions on Mobile Computing*, 2026.
    
-1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
-   "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Networking Letters*, 2025.
+1. Le-Hung Hoang, **Quang-Trung Luu**, Dinh Thai Hoang, Diep N. Nguyen, and Van-Dinh Nguyen,
+   "[Securing SIM-Assisted Wireless Networks via Quantum Reinforcement Learning](https://ieeexplore.ieee.org/),"
+   *submitted to IEEE Transations on Communications*, 2026.
+
+1. Nguyen Van Duc, Bui Duc Manh, **Quang-Trung Luu**, Dinh Thai Hoang, Van-Linh Nguyen, and Diep N. Nguyen
+   "[Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing](https://www.sciencedirect.com/journal/ad-hoc-networks),"
+   *submitted to Adhoc Networks*, 2026
+   (preprint: [arXiv:2507.09860](https://arxiv.org/abs/2507.09860)).
 
 
 ### Journal papers
+1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+   "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/11347585),"
+   *IEEE Networking Letters*, 2026.
+   
+1. Phong C. H. Nguyen, Joseph B. Choi, and **Quang-Trung Luu**,
+   "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
+   *Scientific Reports*, 2026 (preprint: [arXiv:2411.13815](https://arxiv.org/abs/2411.13815)).
+   
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
    "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/document/10855560/),"
    in *IEEE Internet of Things Journal*, vol. 12, no. 11, pp. 17066-17079, June 2025, doi: 10.1109/JIOT.2025.3535156.
@@ -90,6 +91,10 @@ description:
 
 
 ### Conference and workshop papers
+
+1. Kim-Hoan Do, Tai-Hung Nguyen, **Quang-Trung Luu**, Minh-Thanh Nguyen, Do-Minh Tran, and Van-Dinh Nguyen,
+   "Graph Neural PPO for Joint User Association and Resource Allocation in Open RAN,"
+   in *Proc. 2026 40th International Conference on Information Networking (ICOIN)*, 2026. 
 
 1. Ngoc Hung Nguyen, Van Thieu Nguyen, **Quang-Trung Luu**, Vo Phi Son, and Van-Dinh Nguyen,
    "A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems,"
