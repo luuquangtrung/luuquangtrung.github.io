@@ -6,7 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-# Open Research Data
 
 ### Datasets 
 * [Processing of MERRA-2/FNL/IBTrACS data for typhoon formation prediction](https://doi.org/10.5281/zenodo.15640334)
