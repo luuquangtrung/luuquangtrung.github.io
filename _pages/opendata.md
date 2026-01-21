@@ -13,7 +13,7 @@ nav_order: 5
 
 ### Reproducible Code
 
-* [Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning](https://github.com/luuquangtrung/oranits)
+* [Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and DRL](https://github.com/luuquangtrung/oranits)
 * [Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://github.com/luuquangtrung/flexibleconfiguration)
 * [Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://github.com/luuquangtrung/flexibleorder)
 * [Accelerating Network Slice Embedding with Reinforcement Learning](https://github.com/luuquangtrung/slice-enbedding-rl) 
