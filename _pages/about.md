@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 
 Maître de conférences, <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
 Co-coordinator, IEEE ComSoc NGNI-TC Industry Communities<br>
-Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br>
+Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br><br>
 
 I am an associate professor (maître de conférences) at [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France, affiliated with the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/) of [CentraleSupélec](https://centralesupelec.fr/).
 
