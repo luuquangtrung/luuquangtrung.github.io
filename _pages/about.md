@@ -23,7 +23,7 @@ I obtained a Ph.D from [CentraleSupélec - Paris-Saclay University](https://l2s.
 
 Prior to joining Paris-Saclay, I was a lecturer at the [School of Electrical and Electronic Engineering](https://seee.hust.edu.vn/), [Hanoi University of Science and Technology](https://en.hust.edu.vn/) (2023 - 2025), and postdoctoral fellow at the [University of Avignon](https://lia.univ-avignon.fr/) and the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France, France (2021 - 2023). 
 
-I serve as the co-coordinator for the Industry Communities of the IEEE ComSoc Next-Generation Networking And Internet Technical Committee (NGNI-TC).
+I serve as the co-coordinator for the Industry Communities of the IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC).
 
 ## research interests
 * Applied AI/ML for 5G & beyond: resource allocation, task scheduling
