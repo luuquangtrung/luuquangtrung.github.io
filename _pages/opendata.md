@@ -7,11 +7,11 @@ nav_order: 5
 ---
 
 
-### Datasets 
+### Open datasets 
 * [Processing of MERRA-2/FNL/IBTrACS data for typhoon formation prediction](https://doi.org/10.5281/zenodo.15640334)
 * [CoflowLib: Library of test instances for coflows in datacenter networks](https://github.com/luuquangtrung/CoflowLib)
 
-### Reproducible Code
+### Reproducible codes
 
 * [Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and DRL](https://github.com/luuquangtrung/oranits)
 * [Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://github.com/luuquangtrung/flexibleconfiguration)
