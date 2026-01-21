@@ -12,7 +12,10 @@ nav_order: 5
 * [CoflowLib: Library of test instances for coflows in datacenter networks](https://github.com/luuquangtrung/CoflowLib)
 
 ### Reproducible Code
-* [From Reanalysis to Climatology: Deep Learning Reconstruction of Tropical Cyclogenesis in the Western North Pacific](https://github.com/luuquangtrung/ml4typhoon)
+
+* [Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning](https://github.com/luuquangtrung/oranits)
+* [Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://github.com/luuquangtrung/flexibleconfiguration)
+* [Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://github.com/luuquangtrung/flexibleorder)
+* [Accelerating Network Slice Embedding with Reinforcement Learning](https://github.com/luuquangtrung/slice-enbedding-rl) 
 * [DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks](https://github.com/luuquangtrung/CoflowSimulator)
-* [Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://github.com/jerapiblaze/graphmapping-PFP-realworld/)
-* [Accelerating Network Slice Embedding with Reinforcement Learning](https://github.com/jerapiblaze/graphmapping)
+* [Deep Learning Reconstruction of Tropical Cyclogenesis in the Western North Pacific](https://github.com/luuquangtrung/ml4typhoon)
