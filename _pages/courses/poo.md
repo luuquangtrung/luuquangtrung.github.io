@@ -41,8 +41,7 @@ référence *L-value* et moving ctors, extension des *for*, contrôle fin de l'e
 
 
 #### Références/aide et documentation
-* Les exercices projet
-* Les exercices projetéés au tableau
+* Les exercices projet et les exercices projetés au tableau
 * Les transparents du cours (à la fin de chaque cours)
 * Help MSDN -- Visual C++ **9**, 10, 12, **15**, 17
 * Websites : www.cplusplus.com, www.cppreference.com, stackoverflow.com, etc.
