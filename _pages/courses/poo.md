@@ -15,7 +15,7 @@ conception orientée objet, classes et objets, constructeurs et destructeurs, en
 polymorphisme statique et dynamique, classes abstraites et interfaces, surcharge d’opérateurs, templates de fonctions et de classes, 
 bibliothèque standard STL (vector, string, algorithmes), gestion des exceptions, ainsi qu’une introduction aux évolutions modernes du langage (C++11 à C++20). -->
 
-### Compéétences acquises
+### Compétences acquises
 * Savoir utiliser l'environnement de développement comme Visual Studio
 * Maîtriser l'ensemble de la syntaxe du langage C++
 * Concevoir, modifier et améliorer n'importe quelle classe C++
