@@ -25,7 +25,7 @@ bibliothèque standard STL (vector, string, algorithmes), gestion des exceptions
 es dans un environnement souple, efficace, sécurisé et en temps réel
 
 ### Sommaire du cours 
-**Première partie**
+**Première partie : C++ basique**
 * Introduction, extensions C++ : références, etc.
 * Données en C++ : types, duréée de vie, allocation
 * Approche objet, construction et destruction
@@ -38,7 +38,7 @@ es dans un environnement souple, efficace, sécurisé et en temps réel
 * Polymorphisme statique et dynamique
 * Bases abstraites, interfaces, gestion polymorphique
 
-**Deuxième partie : C++ Avancée**
+**Deuxième partie : C++ avancée**
 * Bases abstraites, interfaces, gestion polymorphique
 * *Templates* (patrons) de classes et fonctions, spécialisation
 * Utilisation des principaux *templates* de la STL (vector, string, algos)
