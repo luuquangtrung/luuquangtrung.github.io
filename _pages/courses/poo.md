@@ -15,6 +15,31 @@ conception orientée objet, classes et objets, constructeurs et destructeurs, en
 polymorphisme statique et dynamique, classes abstraites et interfaces, surcharge d’opérateurs, templates de fonctions et de classes, 
 bibliothèque standard STL (vector, string, algorithmes), gestion des exceptions, ainsi qu’une introduction aux évolutions modernes du langage (C++11 à C++20).
 
+### Sommaire du cours 
+**Première partie**
+* Introduction, extensions C++ : références, etc.
+* Données en C++ : types, duréée de vie, allocation
+* Approche objet, construction et destruction
+* Attributs, méthodes, pointeur *this*
+* Encapsulation, droits d'accès, accèsseurs
+* Surcharge d'opérateurs, flux d'entrée / sortie C++
+* Instances et membres statiques
+* Héritage simple, multiple, virtuel
+* Héritage et polymorphisme
+* Polymorphisme statique et dynamique
+* Bases abstraites, interfaces, gestion polymorphique
+
+**Deuxième partie : C++ Avancée**
+* Bases abstraites, interfaces, gestion polymorphique
+* *Templates* (patrons) de classes et fonctions, spécialisation
+* Utilisation des principaux *templates* de la STL (vector, string, algos)
+* Exceptions C et C++: gestion, classes prééddééfinies et custom 
+* Introduction des autres bibliothèèques C++: boost, OpenCV, IPP, Cuda, PhysX, SystemC, CGAL, DLib, QT, MFC etc.
+* Evolutions du langage : C++ 11/14/17/20/23 
+(expressions constantes, déclaration automatique, listes d'initialisation, ctors par dééfaut pour les attributs, 
+référence *L-value* et moving ctors, extension des *for*, contrôle fin de l'existence ou non des méthodes, ctors ou dtor)
+
+
 #### Références/aide et documentation
 * Les exercices projet
 * Les exercices projetéés au tableau
