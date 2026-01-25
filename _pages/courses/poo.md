@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/poo
 title: Programmation orientée objet (POO)
-description: Cycle d'ingénieur (4ème année), Polytech Paris-Saclay, Université Paris-Saclay
+description: Cycle d'ingénieur, Électronique et Informatique pour l'Embarqué (EIE, 4ème année), Polytech Paris-Saclay, Université Paris-Saclay
 nav: false
 ---
 
