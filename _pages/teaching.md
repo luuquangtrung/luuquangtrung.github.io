@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching-supervision/
-title: teaching & supervision
+permalink: /teaching/
+title: teaching
 nav: true
 nav_order: 3
 ---
@@ -26,51 +26,31 @@ nav_order: 3
    * [Communication Numérique](https://luuquangtrung.github.io/teaching/g10) (G10, graduate): Fall 2020
    * [Joint Research Project](https://luuquangtrung.github.io/teaching/mn915) (MN915/MN916, graduate, joint program with Institut Polytechnique de Paris): Fall 2020, Fall 2021
 
-#### Supervisions
-###### Ph.D students
-1. **Thanh Pham** (HUST, 2024–2028, co-advised with Prof. Trung-Kien Dao)\
-  Topic: Fault-tolerant algorithm for distributed mutual exclusion (mutex)
-2. **Tuan-Vu Truong** (VinUniversity, 2023–2027, co-advised with Prof. Van-Dinh Nguyen)\
-  Topic: Resouce allocation for network slicing in open radio access network (Open RAN)
-3. **Minh-Tuong Nguyen** (VinUniversity, 2023–2027, co-advised with Prof. Van-Dinh Nguyen)\
-  Topic: Resource allocation for serverless functions in mobile edge cloud environments
-
-###### Master's Students
-
-1. **Kim-Hoan Do**, (HUST, 2024-2026) \
-   Topic: Resource allocation for Open RAN slicing
-1. **Quang-Lap Luu** (HUST, 2023-2025)\
-  Topic: Machine learning for typhoon formation prediction
-
-###### Alumni
-1. **Tuan-Anh Do** (HUST, 12/2023-04/2024), now at Viettel High Technology (VHT)
-
-
 #### Resources
 
 ###### Networking
-* L. Peterson, O. Sunay, and B. Davie, [Private 5G: A Systems Approach](https://5g.systemsapproach.org/), 2022.
-* L. Daniel and K. Narayanan, [Mathematical Modelling for Computer Networks](https://www.cs.helsinki.fi/u/ldaniel/mm_cn/), Univ. of Helsinki.
-* O. Brun, [Modèles et algorithmes pour l'ingéniérie de trafic](https://homepages.laas.fr/brun/drupal/node/28), INSA Toulouse.
-* O. Brun, [Modèles & Algorithmes pour la Planification des Réseaux](https://homepages.laas.fr/brun/drupal/node/28), INSA Toulouse.
-* Z. Han, [Game Theory in Wireless and Communication Networks: Theory, Models, and Applications](http://www2.egr.uh.edu/~zhan2/game_theory_course/), Univ. of Houston.
-* E. Altman, [Selected Topics in Telecoms and Queueing Networks](https://www-sop.inria.fr/members/Eitan.Altman/Research.html), Inria Sophia Antipolis.
+* [Private 5G: A Systems Approach](https://5g.systemsapproach.org/) (Peterson et al., 2022).
+* [Univ. of Helsinki's Mathematical Modelling for Computer Networks](https://www.cs.helsinki.fi/u/ldaniel/mm_cn/) (Daniel and Narayanan).
+* [INSA Toulouse's Modèles et algorithmes pour l'ingéniérie de trafic](https://homepages.laas.fr/brun/drupal/node/28) (Brun).
+* [INSA Toulouse's Modèles & Algorithmes pour la Planification des Réseaux](https://homepages.laas.fr/brun/drupal/node/28) (Brun).
+* [Univ. of Houston's Game Theory in Wireless and Communication Networks: Theory, Models, and Applications](http://www2.egr.uh.edu/~zhan2/game_theory_course/) (Han).
+* [Selected Topics in Telecoms and Queueing Networks](https://www-sop.inria.fr/members/Eitan.Altman/Research.html) (Altman).
 
 ###### Optimization & Maths
-* Z. Han, [Selective Topics on Optimization](http://wireless.egr.uh.edu/Optimization/index.htm), Univ. of Houston.
-* S. Boyd and L. Vandenberghe, [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/), Stanford University.
-* S. Boyd and L. Vandenberghe, [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/), Stanford University.
-* L. El Ghaoui, [Hyper-Textbook: Optimization Models and Applications](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/index.html), UC Berkeley, 2021.
+* [Univ. of Houston's Selective Topics on Optimization](http://wireless.egr.uh.edu/Optimization/index.htm) (Han).
+* [Stanford's Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe).
+* [Stanford's Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/) (Boyd and Vandenberghe).
+* [UC Berkeley's Hyper-Textbook: Optimization Models and Applications](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/index.html), (El Ghaoui, 2021).
 
 ###### ML/AI
-* S. Amidi, [Artificial Intelligence (CS221)](https://stanford.edu/~shervine/teaching/cs-221/),
+* [Stanford's Artificial Intelligence (CS221)](https://stanford.edu/~shervine/teaching/cs-221/),
             [Machine Learning (CS229)](https://stanford.edu/~shervine/teaching/cs-229/),
             [Deep Learning (CS230)](https://stanford.edu/~shervine/l/vi/teaching/cs-230/),
-            Stanford University.
-* A. Smola and M. Li, [Introduction to Deep Learning (STAT157)](https://courses.d2l.ai/berkeley-stat-157/index.html), UC Berkeley.
-* S. Lall and S. Boyd, [Introduction to Machine Learning (EE104)](http://ee104.stanford.edu/), Stanford University.
-* E. Brunskill, [Reinforcement Learning (CS234)](https://web.stanford.edu/class/cs234/), Stanford University.
-* Yuki Asano et al., [Deep Learning Course](https://uvadlc.github.io/), M.Sc in Artificial Intelligence, Univ. of Amsterdam.
+            (Amidi).
+* [UC Berkeley's Introduction to Deep Learning (STAT157)](https://courses.d2l.ai/berkeley-stat-157/index.html) (Smola and Li).
+* [Stanford's Introduction to Machine Learning (EE104)](http://ee104.stanford.edu/) (Lall and Boyd).
+* [Stanford's Reinforcement Learning (CS234)](https://web.stanford.edu/class/cs234/) (Brunskill).
+* [Univ. of Amsterdam's Deep Learning Course](https://uvadlc.github.io/) (Yuki Asano et al.).
 
 
 
