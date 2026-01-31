@@ -7,13 +7,18 @@ nav_order: 5
 ---
 
 #### Professional Activities
+
+* Co-coordinator, Industry Communities, IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)
+* 
 * Technical Conference/Workshop Chair:
   * Co-chair, Main Track on Communication Networks and Systems, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
   * Co-chair, Special Session on Recent Advances in B5G/6G Networks, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
+    
 * Technical Program Committee (TPC):
   * [Symposium On Information and Communication Technology (SoICT)](https://soict.org/)
   * [International Conference on Networks (ICN)](https://www.iaria.org/conferences2020/ICN20.html)
   * [IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
+    
 * Regular reviewer for journals:
   * IEEE Journal on Selected Areas in Communications (JSAC)
   * IEEE/ACM Transactions on Networking (TON)
@@ -22,6 +27,7 @@ nav_order: 5
   * IEEE Communications Letters
   * IEEE Open Journal of the Communications Society (OJ-COMS)
   * Elsevier Computer Communications
+    
 * Regular reviewer for conferences:
   * IEEE International Conference on Communications (ICC)
   * IEEE Vehicular Technology Conference (VTC)
