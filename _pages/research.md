@@ -6,12 +6,6 @@ nav: true
 nav_order: 2
 ---
 
-### Publications
-* [List of publications by year](https://luuquangtrung.github.io/publications-by-year/)
-* [List of publications by category](https://luuquangtrung.github.io/publications-by-category/)
-* [ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu)
-* [Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr)
-* [HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu)
 
   
 ### Funded Projects
