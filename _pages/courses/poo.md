@@ -16,13 +16,12 @@ polymorphisme statique et dynamique, classes abstraites et interfaces, surcharge
 bibliothèque standard STL (vector, string, algorithmes), gestion des exceptions, ainsi qu’une introduction aux évolutions modernes du langage (C++11 à C++20). -->
 
 ### Compétences acquises
-* Savoir utiliser l'environnement de développement comme Visual Studio
+* Utiliser l'environnement de développement comme Visual Studio
 * Maîtriser l'ensemble de la syntaxe du langage C++
 * Concevoir, modifier et améliorer n'importe quelle classe C++
 * Traduire un algorithme dans une architecture objet C++ en utilisant l'encapsulation, le polymorphisme et les *templates*
-* Capable de comprendre, utiliser et intégrer n'importe quelle classe et grer n'importe quelle classe et bibliothèque de classes dans une application nouvelle ou existante.
-* Choisir la meilleure solution/architecture pour accéder, traiter et échanger des des données dans un environnement souple, efficace,
-es dans un environnement souple, efficace, sécurisé et en temps réel
+* Capable d'utiliser et intégrer n'importe quelle classe et grer n'importe quelle classe et bibliothèque de classes dans une application nouvelle ou existante.
+* Accéder, traiter et échanger des des données dans un environnement souple, efficace, sécurisé et en temps réel.
 
 ### Sommaire du cours 
 **Première partie : C++ basique**
