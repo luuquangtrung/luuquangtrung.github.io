@@ -34,9 +34,8 @@ nav_order: 5
 * [Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/): Participant & Presenter (2019)
 * [Vietnam Summer School of Science (VSSS)](https://www.truonghekhoahoc.com/): Organizer (2022); Invited Lecturer (2015); Participant (2014)
 
-<img src="/assets/img/event_gyvsf2019.jpg" width="800" />
 
-<img src="/assets/img/event_vsss2015.jpg" width="800" />
+<img src="/assets/img/Event_VSSS10.jpg" width="800" />
 
 
 
