@@ -36,7 +36,7 @@ nav_order: 2
   Role: Senior member
 
 
-#### Supervisions
+### Supervisions
 ###### Ph.D students
 1. **Minh-Thanh Nguyen** (Trinity College Dublin, 2026–2030, co-advised with Prof. Van-Dinh Nguyen)\
   Topic: Optimizing communication networks using multi-agent deep reinforcement learning
