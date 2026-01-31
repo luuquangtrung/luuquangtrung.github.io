@@ -1,9 +1,17 @@
 ---
 layout: page
-permalink: /publications-by-category/
+permalink: /publications/
 title: publications by category
-description: 
+nav: true
+nav_order: 3
 ---
+
+[List of publications by year](https://luuquangtrung.github.io/publications-by-year/)
+
+Profiles: 
+[Google Scholar](https://scholar.google.fr/citations?user=GqQcLAIAAAAJ&hl=fr), 
+[ResearchGate](https://www.researchgate.net/profile/Quang_Trung_Luu),
+[HAL Archives Ouvertes](https://cv.archives-ouvertes.fr/quang-trung-luu)
 
 
 
