@@ -34,3 +34,29 @@ nav_order: 2
   Funded by VinGroup Innovation Foundation (VinIF, No. VINIF.2023.DA019)\
   Duration: Oct. 2023 - Oct. 2026\
   Role: Senior member
+
+
+#### Supervisions
+###### Ph.D students
+1. **Minh-Thanh Nguyen** (Trinity College Dublin, 2026–2030, co-advised with Prof. Van-Dinh Nguyen)\
+  Topic: Optimizing communication networks using multi-agent deep reinforcement learning
+
+1. **Thanh Pham** (HUST, 2024–2028, co-advised with Prof. Trung-Kien Dao)\
+  Topic: Fault-tolerant algorithm for distributed mutual exclusion (mutex)
+
+3. **Tuan-Vu Truong** (VinUniversity & University of Technology Sydney, 2023–2027, co-advised with Prof. Van-Dinh Nguyen)\
+  Topic: Resouce allocation for network slicing in open radio access network (Open RAN)
+
+5. **Minh-Tuong Nguyen** (VinUniversity & University of Technology Sydney, 2023–2027, co-advised with Prof. Van-Dinh Nguyen)\
+  Topic: Resource allocation for serverless functions in mobile edge cloud environments
+
+###### Master's Students
+
+1. **Kim-Hoan Do**, (HUST, 2024-2026) \
+   Topic: Resource allocation for Open RAN slicing
+1. **Quang-Lap Luu** (HUST, 2023-2026)\
+  Topic: Machine learning for typhoon formation prediction
+
+###### Alumni
+1. **Tuan-Anh Do** (HUST, 12/2023-04/2024), now with Viettel High Technology (VHT)
+
