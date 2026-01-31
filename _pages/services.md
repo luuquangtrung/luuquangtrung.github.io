@@ -17,7 +17,7 @@ nav_order: 5
 * **Co-chair**, Special Session on Recent Advances in B5G/6G Networks, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
   
 ###### Technical Program Committee (TPC):
-* [Symposium On Information and Communication Technology (SoICT)](https://soict.org/)
+* [Symposium on Information and Communication Technology (SoICT)](https://soict.org/)
 * [International Conference on Networks (ICN)](https://www.iaria.org/conferences2020/ICN20.html)
 * [IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
 
