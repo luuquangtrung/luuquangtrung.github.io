@@ -11,6 +11,7 @@ nav_order: 5
 ###### Memberships/Fellowships
 * **Co-coordinator**, Industry Communities, IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)
 * **Professional Fellow**, [Asia Pacific Network Information Centre (APNIC)](https://www.apnic.net/community/fellowship/fs-2025/fellows/)
+* **Member**, [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/) and [IEEE Communications Society (ComSoc)](https://www.comsoc.org/)
 
 ###### Technical Conference/Workshop Chair:
 * **Co-chair**, Main Track on Communication Networks and Systems, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
