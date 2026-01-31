@@ -8,21 +8,21 @@ nav_order: 5
 
 #### Professional Activities
 
-###### Memberships/Fellowships
-* **Co-coordinator**, Industry Communities, IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)
-* **Professional Fellow**, [Asia Pacific Network Information Centre (APNIC)](https://www.apnic.net/community/fellowship/fs-2025/fellows/)
-* **Member**, [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/) and [IEEE Communications Society (ComSoc)](https://www.comsoc.org/)
+**Memberships/Fellowships**
+* Co-coordinator**, Industry Communities, IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)
+* Professional Fellow, [Asia Pacific Network Information Centre (APNIC)](https://www.apnic.net/community/fellowship/fs-2025/fellows/)
+* Member, [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/) and [IEEE Communications Society (ComSoc)](https://www.comsoc.org/)
 
-###### Technical Conference/Workshop Chair:
-* **Co-chair**, Main Track on Communication Networks and Systems, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
-* **Co-chair**, Special Session on Recent Advances in B5G/6G Networks, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
+**Technical Conference/Workshop Chair**
+* Co-chair, Main Track on Communication Networks and Systems, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
+* Co-chair, Special Session on Recent Advances in B5G/6G Networks, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
   
-###### Technical Program Committee (TPC):
+**Technical Program Committee (TPC)**
 * [Symposium on Information and Communication Technology (SoICT)](https://soict.org/)
 * [International Conference on Networks (ICN)](https://www.iaria.org/conferences2020/ICN20.html)
 * [IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
 
-###### Regular reviewer for journals:
+**Regular reviewer for journals**
 * IEEE Journal on Selected Areas in Communications (JSAC)
 * IEEE/ACM Transactions on Networking (TON)
 * IEEE Transactions on Network and Service Management (TNSM)
@@ -31,7 +31,7 @@ nav_order: 5
 * IEEE Open Journal of the Communications Society (OJ-COMS)
 * Elsevier Computer Communications
     
-###### Regular reviewer for conferences:
+**Regular reviewer for conferences**
 * IEEE International Conference on Communications (ICC)
 * IEEE Vehicular Technology Conference (VTC)
 * IEEE International Conference on Communications and Electronics (ICCE)
