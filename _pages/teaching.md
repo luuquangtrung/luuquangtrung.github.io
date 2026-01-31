@@ -30,27 +30,27 @@ nav_order: 3
 
 ###### Networking
 * [Private 5G: A Systems Approach](https://5g.systemsapproach.org/) (Peterson et al., 2022).
-* [Univ. of Helsinki's Mathematical Modelling for Computer Networks](https://www.cs.helsinki.fi/u/ldaniel/mm_cn/) (Daniel and Narayanan).
-* [INSA Toulouse's Modèles et algorithmes pour l'ingéniérie de trafic](https://homepages.laas.fr/brun/drupal/node/28) (Brun).
-* [INSA Toulouse's Modèles & Algorithmes pour la Planification des Réseaux](https://homepages.laas.fr/brun/drupal/node/28) (Brun).
-* [Univ. of Houston's Game Theory in Wireless and Communication Networks: Theory, Models, and Applications](http://www2.egr.uh.edu/~zhan2/game_theory_course/) (Han).
+* [Mathematical Modelling for Computer Networks](https://www.cs.helsinki.fi/u/ldaniel/mm_cn/) (Daniel and Narayanan).
+* [Modèles et algorithmes pour l'ingéniérie de trafic](https://homepages.laas.fr/brun/drupal/node/28) (Brun).
+* [Modèles & Algorithmes pour la Planification des Réseaux](https://homepages.laas.fr/brun/drupal/node/28) (Brun).
+* [Game Theory in Wireless and Communication Networks: Theory, Models, and Applications](http://www2.egr.uh.edu/~zhan2/game_theory_course/) (Han).
 * [Selected Topics in Telecoms and Queueing Networks](https://www-sop.inria.fr/members/Eitan.Altman/Research.html) (Altman).
 
 ###### Optimization & Maths
-* [Univ. of Houston's Selective Topics on Optimization](http://wireless.egr.uh.edu/Optimization/index.htm) (Han).
-* [Stanford's Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe).
-* [Stanford's Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/) (Boyd and Vandenberghe).
-* [UC Berkeley's Hyper-Textbook: Optimization Models and Applications](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/index.html), (El Ghaoui, 2021).
+* [Selective Topics on Optimization](http://wireless.egr.uh.edu/Optimization/index.htm) (Han).
+* [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe).
+* [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/) (Boyd and Vandenberghe).
+* [Hyper-Textbook: Optimization Models and Applications](https://inst.eecs.berkeley.edu/~ee127/sp21/livebook/index.html), (El Ghaoui, 2021).
 
 ###### ML/AI
-* [Stanford's Artificial Intelligence (CS221)](https://stanford.edu/~shervine/teaching/cs-221/),
+* [Artificial Intelligence (CS221)](https://stanford.edu/~shervine/teaching/cs-221/),
             [Machine Learning (CS229)](https://stanford.edu/~shervine/teaching/cs-229/),
             [Deep Learning (CS230)](https://stanford.edu/~shervine/l/vi/teaching/cs-230/),
             (Amidi).
-* [UC Berkeley's Introduction to Deep Learning (STAT157)](https://courses.d2l.ai/berkeley-stat-157/index.html) (Smola and Li).
-* [Stanford's Introduction to Machine Learning (EE104)](http://ee104.stanford.edu/) (Lall and Boyd).
-* [Stanford's Reinforcement Learning (CS234)](https://web.stanford.edu/class/cs234/) (Brunskill).
-* [Univ. of Amsterdam's Deep Learning Course](https://uvadlc.github.io/) (Yuki Asano et al.).
+* [Introduction to Deep Learning (STAT157)](https://courses.d2l.ai/berkeley-stat-157/index.html) (Smola and Li).
+* [Introduction to Machine Learning (EE104)](http://ee104.stanford.edu/) (Lall and Boyd).
+* [Reinforcement Learning (CS234)](https://web.stanford.edu/class/cs234/) (Brunskill).
+* [Deep Learning Course](https://uvadlc.github.io/) (Yuki Asano et al.).
 
 
 
