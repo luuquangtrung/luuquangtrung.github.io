@@ -6,7 +6,10 @@ nav: true
 nav_order: 1
 ---
 
-**Download**: [CV in english](https://luuquangtrung.github.io/assets/pdf/luu_cv_en.pdf), [CV en français](https://luuquangtrung.github.io/assets/pdf/luu_cv_fr.pdf) (last updated: Feb. 1, 2024)
+**Download**: 
+[CV in english](https://luuquangtrung.github.io/assets/pdf/luu_cv_en.pdf), 
+[CV en français](https://luuquangtrung.github.io/assets/pdf/luu_cv_fr.pdf) 
+(last updated: Feb. 1, 2026)
 
 ### Experiences
 * 09/2025-present: Associate Professor (Maître de conférences), [CentraleSupélec](https://www.centralesupelec.fr/) - [Paris-Saclay University](https://www.universite-paris-saclay.fr/), Paris, France
