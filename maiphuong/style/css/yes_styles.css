@@ -75,89 +75,50 @@ body {
 }
 
 /* ===== Diamond Gallery ===== */
-.diamond-gallery{
-  /* chỉnh kích thước viên kim cương ở đây */
-  --tile: 140px;
-  --gap: 16px;
-
-  margin: 22px auto 10px;
-  padding: 10px;
-
+body {
+  margin: 0;
+  min-height: 100vh;
   display: grid;
-  grid-template-columns: repeat(4, var(--tile));
-  gap: var(--gap);
-
-  justify-content: center;
-  align-items: center;
-
-  /* để hover phóng không bị cắt */
-  overflow: visible;
+  place-items: center;
 }
 
-/* Responsive: màn nhỏ thì ít cột hơn */
-@media (max-width: 900px){
-  .diamond-gallery{ grid-template-columns: repeat(3, var(--tile)); }
-}
-@media (max-width: 620px){
-  .diamond-gallery{
-    --tile: 110px;
-    grid-template-columns: repeat(2, var(--tile));
+.gallery {
+  --size: 100px;
+  display: grid;
+  grid-template-columns: repeat(6, var(--size));
+  grid-auto-rows: var(--size);
+  margin-bottom: var(--size);
+  place-items: start center;
+  gap: 5px;
+  
+  &:has(:hover) img:not(:hover),
+  &:has(:focus) img:not(:focus){
+    filter: brightness(0.5) contrast(0.5);
   }
-}
 
-/* mỗi tile là 1 hình vuông xoay 45 độ */
-.diamond{
-  width: var(--tile);
-  height: var(--tile);
-  display: block;
+  & img {
+    object-fit: cover;
+    width: calc(var(--size) * 2);
+    height: calc(var(--size) * 2);
+    clip-path: path("M90,10 C100,0 100,0 110,10 190,90 190,90 190,90 200,100 200,100 190,110 190,110 110,190 110,190 100,200 100,200 90,190 90,190 10,110 10,110 0,100 0,100 10,90Z");
+    transition: clip-path 0.25s, filter 0.75s;
+    grid-column: auto / span 2;
+    border-radius: 5px;
 
-  transform: rotate(45deg);
-  border-radius: 18px;
-  overflow: hidden;
+    &:nth-child(5n - 1) { 
+      grid-column: 2 / span 2 
+    }
 
-  background: rgba(255,255,255,.06);
-  border: 2px solid rgba(255, 120, 170, .25);
-  box-shadow: 0 10px 26px rgba(0,0,0,.18);
-
-  /* hiệu ứng */
-  transition: transform .18s ease, filter .18s ease, box-shadow .18s ease;
-  position: relative;
-  z-index: 0;
-}
-
-/* ảnh bên trong xoay ngược lại để ảnh đứng thẳng */
-.diamond img{
-  width: 140%;
-  height: 140%;
-  object-fit: cover;
-
-  /* xoay ngược + căn giữa */
-  transform: rotate(-45deg) translate(-12%, -12%);
-  transform-origin: center;
-
-  display: block;
-  transition: transform .25s ease;
-  will-change: transform;
-}
-
-/* so le hàng: đẩy các tile ở vị trí chẵn sang phải để ra pattern "đan" */
-.diamond-gallery .diamond:nth-child(2n){
-  margin-left: calc(var(--tile) / 2);
-}
-
-/* hover: bring to front + zoom nhẹ */
-.diamond:hover{
-  z-index: 10;
-  transform: rotate(45deg) scale(1.10);
-  box-shadow: 0 16px 40px rgba(0,0,0,.28);
-  filter: brightness(1.06);
-}
-.diamond:hover img{
-  transform: rotate(-45deg) translate(-12%, -12%) scale(1.06);
-}
-
-/* focus cho bàn phím */
-.diamond:focus{
-  outline: 3px solid rgba(125, 211, 252, .65);
-  outline-offset: 4px;
+    &:hover,
+    &:focus {
+      clip-path: path("M0,0 C0,0 200,0 200,0 200,0 200,100 200,100 200,100 200,200 200,200 200,200 100,200 100,200 100,200 100,200 0,200 0,200 0,100 0,100 0,100 0,100 0,100Z");
+      z-index: 1;
+      transition: clip-path 0.25s, filter 0.25s;
+    }
+    
+    &:focus {
+      outline: 1px dashed black;
+      outline-offset: -5px;
+    }
+  }
 }
