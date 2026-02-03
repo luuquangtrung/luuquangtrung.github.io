@@ -13,11 +13,11 @@ nav_order: 5
 * Professional Fellow, [Asia Pacific Network Information Centre (APNIC)](https://www.apnic.net/community/fellowship/fs-2025/fellows/)
 * Member, [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/) and [IEEE Communications Society (ComSoc)](https://www.comsoc.org/)
 
-**Technical Conference/Workshop Chair**
+**Organizing Committee**
 * Track Chair, Networks Track, [2025 International Conference on Advanced Technologies For Communications (ATC’25)](https://2025.atc-conf.org/)
 * Track Chair, Communication Networks and Systems Track, [2024 IEEE International Conference on Communications and Electronics (ICCE’24)](https://2024.ieee-icce.org/)
 * Session Chair, Special Session on Recent Advances in B5G/6G Networks, [2024 IEEE International Conference on Communications and Electronics (ICCE’24)](https://2024.ieee-icce.org/)
-
+* Jury member, 2020 Annual Ph.D Student Workshop of CentraleSupélec (session “AI and networking”)
   
 **Technical Program Committee (TPC)**
 * [Symposium on Information and Communication Technology (SoICT)](https://soict.org/)
@@ -48,6 +48,8 @@ nav_order: 5
 * [telecom-vn](https://www.facebook.com/groups/telecomvn) (a Facebook group for Vietnamese researchers in telecommunications): Administrator; Organize regular seminars (record videos achieved [here](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ))
 * [Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/): Participant & Presenter (2019)
 * [Vietnam Summer School of Science (VSSS)](https://www.truonghekhoahoc.com/): Organizer (2022); Invited Lecturer (2015); Participant (2014)
+* Public talks/interviews:
+	* [Short interview with VOV World (The Voice of Vietnam) on recent development of 5G networks](https://vovworld.vn/vi-VN/nguoi-viet-muon-phuong/mang-di-dong-5g-co-hoi-phat-trien-cong-nghiep-vien-thong-tai-viet-nam-938761.vov)
 
 
 <img src="/assets/img/Event_VSSS10.jpg" width="800" />
