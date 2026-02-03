@@ -1,47 +1,93 @@
-body {
-  margin: 0;
-  min-height: 100vh;
-  display: grid;
-  place-items: center;
+/* ===== Page base ===== */
+:root{
+  /* nền hồng pastel */
+  --bg1: #fff0f6;     /* hồng rất nhạt */
+  --bg2: #fde2e8;     /* hồng đào */
+  --bg3: #f9c5d1;     /* hồng phấn */
+
+  --tile: 140px;      /* kích thước 1 viên */
+  --gap: 18px;        /* khoảng cách giữa các viên */
+  --radius: 16px;
+
+  --shadow: 0 12px 26px rgba(200, 80, 120, .25);
+  --shadowHover: 0 18px 40px rgba(200, 80, 120, .35);
 }
 
-.gallery {
-  --size: 100px;
+*{
+  box-sizing: border-box;
+}
+
+html, body{
+  height: 100%;
+}
+
+body{
+  margin: 0;
+  min-height: 100vh;
+
+  /* gradient hồng nhẹ */
+  background:
+    radial-gradient(900px 500px at 15% 10%, var(--bg1), transparent 60%),
+    radial-gradient(700px 400px at 85% 20%, var(--bg2), transparent 60%),
+    linear-gradient(180deg, #fff 0%, var(--bg3) 100%);
+
   display: grid;
-  grid-template-columns: repeat(6, var(--size));
-  grid-auto-rows: var(--size);
-  margin-bottom: var(--size);
-  place-items: start center;
-  gap: 5px;
-  
-  &:has(:hover) img:not(:hover),
-  &:has(:focus) img:not(:focus){
-    filter: brightness(0.5) contrast(0.5);
+  place-items: center;
+  padding: 28px 16px;
+}
+
+/* ===== Diamond Gallery ===== */
+.gallery{
+  display: grid;
+  grid-template-columns: repeat(4, var(--tile));
+  gap: var(--gap);
+  place-content: center;
+  align-items: center;
+  overflow: visible;
+}
+
+.gallery img{
+  width: var(--tile);
+  height: var(--tile);
+  object-fit: cover;
+
+  transform: rotate(45deg);
+  border-radius: var(--radius);
+
+  background: #fff;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+
+  transition: transform .25s ease, box-shadow .25s ease, filter .25s ease;
+  will-change: transform;
+}
+
+/* tạo pattern so le */
+.gallery img:nth-child(2n){
+  margin-left: calc(var(--tile) / 2);
+}
+
+/* hover nổi bật */
+.gallery img:hover{
+  transform: rotate(45deg) scale(1.12);
+  box-shadow: var(--shadowHover);
+  filter: brightness(1.05) saturate(1.05);
+  z-index: 10;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 900px){
+  .gallery{
+    grid-template-columns: repeat(3, var(--tile));
   }
+}
 
-  & img {
-    object-fit: cover;
-    width: calc(var(--size) * 2);
-    height: calc(var(--size) * 2);
-    clip-path: path("M90,10 C100,0 100,0 110,10 190,90 190,90 190,90 200,100 200,100 190,110 190,110 110,190 110,190 100,200 100,200 90,190 90,190 10,110 10,110 0,100 0,100 10,90Z");
-    transition: clip-path 0.25s, filter 0.75s;
-    grid-column: auto / span 2;
-    border-radius: 5px;
-
-    &:nth-child(5n - 1) { 
-      grid-column: 2 / span 2 
-    }
-
-    &:hover,
-    &:focus {
-      clip-path: path("M0,0 C0,0 200,0 200,0 200,0 200,100 200,100 200,100 200,200 200,200 200,200 100,200 100,200 100,200 100,200 0,200 0,200 0,100 0,100 0,100 0,100 0,100Z");
-      z-index: 1;
-      transition: clip-path 0.25s, filter 0.25s;
-    }
-    
-    &:focus {
-      outline: 1px dashed black;
-      outline-offset: -5px;
-    }
+@media (max-width: 600px){
+  :root{
+    --tile: 110px;
+    --gap: 14px;
+  }
+  .gallery{
+    grid-template-columns: repeat(2, var(--tile));
   }
 }
