@@ -17,7 +17,7 @@ nav_order: 5
 * Track Chair, Networks Track, [2025 International Conference on Advanced Technologies For Communications (ATC’25)](https://2025.atc-conf.org/)
 * Track Chair, Communication Networks and Systems Track, [2024 IEEE International Conference on Communications and Electronics (ICCE’24)](https://2024.ieee-icce.org/)
 * Session Chair, Special Session on Recent Advances in B5G/6G Networks, [2024 IEEE International Conference on Communications and Electronics (ICCE’24)](https://2024.ieee-icce.org/)
-* Jury member, 2020 Annual Ph.D Student Workshop of CentraleSupélec (session “AI and networking”)
+* Jury member, [2020 Annual Ph.D Student Workshop of CentraleSupélec (session “AI and networking”)](https://association.centralesupelec-alumni.com/fr/article/journee-annuelle-des-doctorants/04/02/2020/2538)
   
 **Technical Program Committee (TPC)**
 * [Symposium on Information and Communication Technology (SoICT)](https://soict.org/)
