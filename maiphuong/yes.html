@@ -5,67 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Memories</title>
 
-    <!-- CSS cho gallery (lấy theo style dev.to) -->
-    <style>
-      body {
-        margin: 0;
-        min-height: 100vh;
-        display: grid;
-        place-items: center;
-        background: #0b0c10;
-      }
-
-      .gallery {
-        --size: 140px;
-        --gap: 18px;
-
-        display: grid;
-        grid-template-columns: repeat(4, var(--size));
-        gap: var(--gap);
-        place-content: center;
-      }
-
-      @media (max-width: 900px) {
-        .gallery {
-          grid-template-columns: repeat(3, var(--size));
-        }
-      }
-
-      @media (max-width: 600px) {
-        .gallery {
-          --size: 110px;
-          grid-template-columns: repeat(2, var(--size));
-        }
-      }
-
-      .gallery img {
-        width: var(--size);
-        height: var(--size);
-        object-fit: cover;
-
-        transform: rotate(45deg);
-        border-radius: 16px;
-
-        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35);
-        cursor: pointer;
-
-        transition: transform 0.25s ease, box-shadow 0.25s ease;
-      }
-
-      .gallery img:nth-child(2n) {
-        margin-left: calc(var(--size) / 2);
-      }
-
-      .gallery img:hover {
-        transform: rotate(45deg) scale(1.12);
-        box-shadow: 0 18px 45px rgba(0, 0, 0, 0.55);
-        z-index: 10;
-      }
-    </style>
-  </head>
 
   <body>
-    <article class="gallery">
+    <article class="container">
 
 	  <a class="tile" href="./style/images/album/memories (1).jpeg" target="_blank" rel="noopener">
 		<img src="./style/images/album/memories (1).jpeg" alt="Memory 1" loading="lazy">
