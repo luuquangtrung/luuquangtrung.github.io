@@ -29,6 +29,7 @@ nav_order: 5
 * IEEE System Journal
 * IEEE Communications Letters
 * IEEE Open Journal of the Communications Society (OJ-COMS)
+* Elsevier Computer Networks
 * Elsevier Computer Communications
     
 **Regular reviewer for conferences**
