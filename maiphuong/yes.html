@@ -1,23 +1,91 @@
-<!-- <article class="gallery">
-  <img src="./style/images/album/memories (1).jpeg" alt="Memory 1" loading="lazy" />
-  <img src="./style/images/album/memories (2).jpeg" alt="Memory 2" loading="lazy" />
-  <img src="./style/images/album/memories (3).jpeg" alt="Memory 3" loading="lazy" />
-  <img src="./style/images/album/memories (4).jpeg" alt="Memory 4" loading="lazy" />
-  <img src="./style/images/album/memories (5).jpeg" alt="Memory 5" loading="lazy" />
-  <img src="./style/images/album/memories (6).jpeg" alt="Memory 6" loading="lazy" />
-  <img src="./style/images/album/memories (7).jpeg" alt="Memory 7" loading="lazy" />
-  <img src="./style/images/album/memories (8).jpeg" alt="Memory 8" loading="lazy" />
-</article>
- -->
- 
- 
- <article class="gallery">
-  <img src="https://assets.codepen.io/1506195/unsplash-music-0.avif" alt="guitar player at concert" />
-  <img src="https://assets.codepen.io/1506195/unsplash-music-1.avif" alt="duo singing" />
-  <img src="https://assets.codepen.io/1506195/unsplash-music-2.avif" alt="crowd cheering" />
-  <img src="https://assets.codepen.io/1506195/unsplash-music-3.avif" alt="singer performing" />
-  <img src="https://assets.codepen.io/1506195/unsplash-music-4.avif" alt="singer fistbumping crowd" />
-  <img src="https://assets.codepen.io/1506195/unsplash-music-5.avif" alt="man with a guitar singing" />
-  <img src="https://assets.codepen.io/1506195/unsplash-music-6.avif" alt="crowd looking at a lighted stage" />
-  <img src="https://assets.codepen.io/1506195/unsplash-music-7.avif" alt="woman singing on stage" />
-</article>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Memories</title>
+
+    <!-- CSS cho gallery (lấy theo style dev.to) -->
+    <style>
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background: #0b0c10;
+      }
+
+      .gallery {
+        --size: 140px;
+        --gap: 18px;
+
+        display: grid;
+        grid-template-columns: repeat(4, var(--size));
+        gap: var(--gap);
+        place-content: center;
+      }
+
+      @media (max-width: 900px) {
+        .gallery {
+          grid-template-columns: repeat(3, var(--size));
+        }
+      }
+
+      @media (max-width: 600px) {
+        .gallery {
+          --size: 110px;
+          grid-template-columns: repeat(2, var(--size));
+        }
+      }
+
+      .gallery img {
+        width: var(--size);
+        height: var(--size);
+        object-fit: cover;
+
+        transform: rotate(45deg);
+        border-radius: 16px;
+
+        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35);
+        cursor: pointer;
+
+        transition: transform 0.25s ease, box-shadow 0.25s ease;
+      }
+
+      .gallery img:nth-child(2n) {
+        margin-left: calc(var(--size) / 2);
+      }
+
+      .gallery img:hover {
+        transform: rotate(45deg) scale(1.12);
+        box-shadow: 0 18px 45px rgba(0, 0, 0, 0.55);
+        z-index: 10;
+      }
+    </style>
+  </head>
+
+  <body>
+    <article class="gallery">
+      <img src="./style/images/album/memories (1).jpeg" alt="Memory 1" loading="lazy" />
+      <img src="./style/images/album/memories (2).jpeg" alt="Memory 2" loading="lazy" />
+      <img src="./style/images/album/memories (3).jpeg" alt="Memory 3" loading="lazy" />
+      <img src="./style/images/album/memories (4).jpeg" alt="Memory 4" loading="lazy" />
+      <img src="./style/images/album/memories (5).jpeg" alt="Memory 5" loading="lazy" />
+      <img src="./style/images/album/memories (6).jpeg" alt="Memory 6" loading="lazy" />
+      <img src="./style/images/album/memories (7).jpeg" alt="Memory 7" loading="lazy" />
+      <img src="./style/images/album/memories (8).jpeg" alt="Memory 8" loading="lazy" />
+      <img src="./style/images/album/memories (9).jpeg" alt="Memory 9" loading="lazy" />
+      <img src="./style/images/album/memories (10).jpeg" alt="Memory 10" loading="lazy" />
+      <img src="./style/images/album/memories (11).jpeg" alt="Memory 11" loading="lazy" />
+      <img src="./style/images/album/memories (12).jpeg" alt="Memory 12" loading="lazy" />
+      <img src="./style/images/album/memories (13).jpeg" alt="Memory 13" loading="lazy" />
+      <img src="./style/images/album/memories (14).jpeg" alt="Memory 14" loading="lazy" />
+      <img src="./style/images/album/memories (15).jpeg" alt="Memory 15" loading="lazy" />
+      <img src="./style/images/album/memories (16).jpeg" alt="Memory 16" loading="lazy" />
+      <img src="./style/images/album/memories (17).jpeg" alt="Memory 17" loading="lazy" />
+      <img src="./style/images/album/memories (18).jpeg" alt="Memory 18" loading="lazy" />
+      <img src="./style/images/album/memories (19).jpeg" alt="Memory 19" loading="lazy" />
+      <img src="./style/images/album/memories (20).jpeg" alt="Memory 20" loading="lazy" />
+    </article>
+  </body>
+</html>
