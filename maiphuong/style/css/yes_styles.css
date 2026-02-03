@@ -1,92 +1,72 @@
-:root{
-  --tile: 140px;
-  --gap: 22px;           /* tăng chút để thoáng */
-  --radius: 18px;
-  --shift: calc(var(--tile) / 2);  /* so le nửa viên */
+.container {
+  display: grid;
+  grid-template-columns: repeat(3,auto);
+  place-content: center;
+  gap: 8px;
+}
+img {
+  --s: 12px;  /* control the size of the wave */
+  
+  width: calc(3*4*var(--s)); 
+  aspect-ratio: 1;
+  object-fit: cover;
+  padding: var(--s);
+  border: var(--s) solid #0000;
+  background: #CD8C52;
+  border-radius: calc(3.5*var(--s)); 
+  mask: 
+    radial-gradient(calc(sqrt(2)*var(--s)),#000 calc(100% - 1px),#0000),
+    conic-gradient(#000 0 0) content-box,
+    radial-gradient(calc(sqrt(2)*var(--s)),#0000 100%,#000 calc(100% + 1px)) 
+     var(--s) var(--s) padding-box;
+  mask-size: calc(var(--s)*4) calc(var(--s)*4);
 }
 
-/* nền (giữ dark giống screenshot của mày) */
-body{
+.container img:nth-child(1) {
+  translate: calc(2*var(--s)) calc(4*var(--s));
+  place-self: end;
+}
+.container img:nth-child(2) {
+  translate: 0 calc(2*var(--s))
+}
+.container img:nth-child(3) {
+  translate: calc(-2*var(--s)) calc(4*var(--s));
+  place-self: start;
+}
+.container img:nth-child(4) {
+  translate: calc(4*var(--s)) 0;
+  width: calc(4*4*var(--s));
+  height: calc(3*4*var(--s));
+  place-self: center;
+}
+.container img:nth-child(5) {
+  width: calc(2*4*var(--s));
+  height: calc(4*4*var(--s));
+  place-self: center;
+}
+.container img:nth-child(6) {
+  translate: calc(-4*var(--s)) 0;
+  width: calc(4*4*var(--s));
+  height: calc(3*4*var(--s));
+  place-self: center;
+}
+.container img:nth-child(7) {
+  translate: calc(2*var(--s)) calc(-4*var(--s));
+  place-self: end;
+}
+.container img:nth-child(8) {
+  translate: 0 calc(-2*var(--s))
+}
+.container img:nth-child(9) {
+  translate: calc(-2*var(--s)) calc(-4*var(--s));
+  place-self: start;
+}
+
+
+body {
   margin: 0;
   min-height: 100vh;
   display: grid;
-  place-items: center;
-  background: radial-gradient(900px 600px at 30% 10%, #14161b 0%, #0b0c10 55%, #07080b 100%);
-  padding: 28px 16px;
-}
-
-/* grid */
-.gallery{
-  display: grid;
-  grid-template-columns: repeat(4, var(--tile));
-  gap: var(--gap);
   place-content: center;
-  align-items: center;
-  overflow: visible;
-}
-
-/* responsive */
-@media (max-width: 900px){
-  .gallery{ grid-template-columns: repeat(3, var(--tile)); }
-}
-@media (max-width: 600px){
-  :root{ --tile: 110px; --gap: 16px; }
-  .gallery{ grid-template-columns: repeat(2, var(--tile)); }
-}
-
-/* tile = khung xoay 45deg */
-.tile{
-  width: var(--tile);
-  height: var(--tile);
-  display: block;
-
-  transform: rotate(45deg);
-  border-radius: var(--radius);
-  overflow: hidden;
-
-  background: rgba(255,255,255,.06);
-  box-shadow: 0 12px 28px rgba(0,0,0,.35);
-
-  position: relative;
-  z-index: 0;
-
-  transition: transform .22s ease, box-shadow .22s ease, filter .22s ease;
-}
-
-/* so le: dùng translateX để KHÔNG làm sát cột */
-.tile:nth-child(2n){
-  transform: rotate(45deg) translateX(var(--shift));
-}
-
-/* ảnh bên trong xoay ngược -45 để đứng thẳng */
-.tile img{
-  width: 140%;
-  height: 140%;
-  object-fit: cover;
-  display: block;
-
-  /* fix ảnh bị xoay theo EXIF nếu có */
-  image-orientation: from-image;
-
-  transform: rotate(-45deg) translate(-12%, -12%);
-  transform-origin: center;
-  transition: transform .25s ease;
-  will-change: transform;
-}
-
-/* hover: nổi lên + zoom */
-.tile:hover{
-  z-index: 10;
-  transform: rotate(45deg) scale(1.10);
-  box-shadow: 0 18px 45px rgba(0,0,0,.55);
-  filter: brightness(1.06);
-}
-
-/* hover với tile so le: giữ translateX */
-.tile:nth-child(2n):hover{
-  transform: rotate(45deg) translateX(var(--shift)) scale(1.10);
-}
-
-.tile:hover img{
-  transform: rotate(-45deg) translate(-12%, -12%) scale(1.06);
+  background: #F6F7BD;
 }
