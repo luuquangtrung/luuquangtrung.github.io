@@ -1,12 +1,9 @@
 ---
 layout: page
 title: "Mai Phuong 💖"
-permalink: /maiphuong/
-redirect_to: https://luuquangtrung.github.io/maiphuong/
+permalink: /maiphuong-info/
 ---
 
+Một món quà nhỏ 💖  
 
-<meta http-equiv="refresh" content="0; url=https://luuquangtrung.github.io/maiphuong/">
-<script>
-  window.location.href = "https://luuquangtrung.github.io/maiphuong/";
-</script>
+👉 [Open the surprise 🎁](/maiphuong/)
