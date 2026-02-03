@@ -14,8 +14,10 @@ nav_order: 5
 * Member, [Institute of Electrical and Electronics Engineers (IEEE)](https://www.ieee.org/) and [IEEE Communications Society (ComSoc)](https://www.comsoc.org/)
 
 **Technical Conference/Workshop Chair**
-* Co-chair, Main Track on Communication Networks and Systems, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
-* Co-chair, Special Session on Recent Advances in B5G/6G Networks, [10th IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
+* Track Chair, Networks Track, [2025 International Conference on Advanced Technologies For Communications (ATC’25)](https://2025.atc-conf.org/)
+* Track Chair, Communication Networks and Systems Track, [2024 IEEE International Conference on Communications and Electronics (ICCE’24)](https://2024.ieee-icce.org/)
+* Session Chair, Special Session on Recent Advances in B5G/6G Networks, [2024 IEEE International Conference on Communications and Electronics (ICCE’24)](https://2024.ieee-icce.org/)
+
   
 **Technical Program Committee (TPC)**
 * [Symposium on Information and Communication Technology (SoICT)](https://soict.org/)
@@ -25,12 +27,15 @@ nav_order: 5
 **Regular reviewer for journals**
 * IEEE Journal on Selected Areas in Communications (JSAC)
 * IEEE/ACM Transactions on Networking (TON)
+* IEEE Transactions on Mobile Computing (TMC)
 * IEEE Transactions on Network and Service Management (TNSM)
-* IEEE System Journal
-* IEEE Communications Letters
-* IEEE Open Journal of the Communications Society (OJ-COMS)
-* Elsevier Computer Networks
-* Elsevier Computer Communications
+* IEEE Transactions on Parallel and Distributed Systems (TPDS
+* IEEE Open Journal of the Communications Society (OJCOMS)
+* IEEE System Journal (ISJ)
+* IEEE Communications Letters (COMML)
+* Elsevier Computer Networks (COMNET)
+* Elsevier Computer Communications (COMCOM)
+* Springer Nature Journal of Network and Systems Management (JNSM)
     
 **Regular reviewer for conferences**
 * IEEE International Conference on Communications (ICC)
