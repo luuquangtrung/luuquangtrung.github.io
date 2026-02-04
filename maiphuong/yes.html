@@ -12,12 +12,11 @@
 
       /* Wave control */
       --s: 12px;          /* size of the wave */
-      --gap: 8px;         /* gap between tiles */
+      --gap: 10px;        /* gap between tiles */
 
       /* Layout control */
       --colMin: 200px;    /* min tile size for responsive grid */
-      --hoverScale: 1.03; /* hover zoom */
-      --rowShift: 18px;   /* vertical wiggle between rows (optional) */
+      --hoverScale: 1.06; /* hover zoom */
     }
 
     *{ box-sizing:border-box; }
@@ -45,7 +44,7 @@
       text-shadow:0 2px 0 rgba(255,255,255,.7);
     }
 
-    /* ===== Wave Grid ===== */
+    /* ===== Straight Grid (no shift) ===== */
     .wave-grid{
       width:min(1100px, 100%);
       display:grid;
@@ -61,37 +60,34 @@
       max-width: 320px;
       text-decoration:none;
       color:inherit;
-      transition: transform .2s ease;
+      transition: transform .2s ease, filter .2s ease;
       will-change: transform;
     }
 
+    /* Hover cho TẤT CẢ ảnh */
     .wave-tile:hover{
       transform: scale(var(--hoverScale));
+      filter: brightness(1.03);
     }
 
     .wave-tile img{
       width: 100%;
       aspect-ratio: 1;
       object-fit: cover;
+      display:block;
 
       padding: var(--s);
       border: var(--s) solid transparent;
       background: var(--frame);
       border-radius: calc(3.5 * var(--s));
 
+      /* Wave mask (giống CodePen) */
       mask:
         radial-gradient(calc(sqrt(2) * var(--s)), #000 calc(100% - 1px), #0000),
         conic-gradient(#000 0 0) content-box,
         radial-gradient(calc(sqrt(2) * var(--s)), #0000 100%, #000 calc(100% + 1px))
           var(--s) var(--s) padding-box;
       mask-size: calc(var(--s) * 4) calc(var(--s) * 4);
-
-      display:block;
-    }
-
-    /* Zigzag per row */
-    .wave-tile.shift{
-      transform: translateX(calc(2 * var(--s)));
     }
 
     /* Mobile */
@@ -99,6 +95,7 @@
       :root{
         --s: 10px;
         --colMin: 160px;
+        --gap: 8px;
       }
       .wave-tile{ max-width: 260px; }
     }
@@ -134,40 +131,8 @@
     <a class="wave-tile" href="./style/images/album/memories (20).jpeg" target="_blank"><img src="./style/images/album/memories (20).jpeg" loading="lazy" alt=""></a>
   </article>
 
-  <script>
-    function applyWaveShift(){
-      const tiles = Array.from(document.querySelectorAll(".wave-grid .wave-tile"));
-      tiles.forEach(t => t.classList.remove("shift"));
-
-      const rows = new Map();
-      tiles.forEach(t => {
-        const top = Math.round(t.getBoundingClientRect().top);
-        if (!rows.has(top)) rows.set(top, []);
-        rows.get(top).push(t);
-      });
-
-      const sortedRowTops = Array.from(rows.keys()).sort((a,b) => a-b);
-
-      sortedRowTops.forEach((top, rowIndex) => {
-        const row = rows.get(top) || [];
-        if (rowIndex % 2 === 1) row.forEach(t => t.classList.add("shift"));
-      });
-    }
-
-    const rerun = () => {
-      clearTimeout(window.__waveT);
-      window.__waveT = setTimeout(applyWaveShift, 80);
-    };
-
-    window.addEventListener("load", applyWaveShift);
-    window.addEventListener("resize", rerun);
-    window.addEventListener("load", () => setTimeout(applyWaveShift, 250));
-  </script>
-
 </body>
 </html>
-
-
 
 
 
