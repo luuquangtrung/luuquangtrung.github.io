@@ -48,10 +48,11 @@
       text-shadow:0 2px 0 rgba(255,255,255,.7);
     }
 
-    /* 
+	/* =======================================================
+	 *
 	 * SECTION 1: GRID WAVE
 	 *
-	 */
+	 * ======================================================= */
 	
 	.wave-grid{
       display: grid;
@@ -88,22 +89,103 @@
       filter: brightness(1.03);
     }
 	
+	/* =======================================================
+	 *
+	 * STYLE 2: EDITORIAL SQUARE
+	 *
+	 * ======================================================= */
+	.editorial-square {
+	  width: 70%;
+	  margin: 50px auto;
+	  text-align: center;
+	}
+
+	/* Title */
+	.editorial-title {
+	  font-size: 2rem;
+	  margin-bottom: 10px;
+	  font-weight: 600;
+	  color: #444;
+	}
+
+	/* ===== GRID ===== */
+	.square-grid {
+	  display: grid;
+	  grid-template-columns: repeat(3, 1fr);
+	  gap: 10px;
+	}
+
+	/* ===== CARD ===== */
+	.square-card {
+	  background: #fff;
+	  padding: 8px;
+	  box-shadow: 0 20px 26px rgba(0,0,0,0.12);
+	  transition: transform 0.3s ease, box-shadow 0.3s ease;
+	}
+
+	/* Square image */
+	.square-card img {
+	  width: 100%;
+	  aspect-ratio: 1 / 1;
+	  object-fit: cover;
+	  display: block;
+	}
+
+	/* Caption */
+	.square-card figcaption {
+	  font-size: 1rem;
+	  color: #666;
+	  margin-top: 10px;
+	  text-align: left;
+	  letter-spacing: 0.3px;
+	}
+
+	/* Hover */
+	.square-card:hover {
+	  transform: translateY(-10px);
+	  box-shadow: 0 18px 40px rgba(0,0,0,0.18);
+	}
+
+	/* ===== RESPONSIVE ===== */
+	@media (max-width: 1200px) {
+	  .editorial-square {
+		width: 70%;
+	  }
+	}
+
+	@media (max-width: 900px) {
+	  .square-grid {
+		grid-template-columns: repeat(2, 1fr);
+	  }
+	}
+
+	@media (max-width: 600px) {
+	  .editorial-square {
+		width: 92%;
+	  }
+
+	  .square-grid {
+		grid-template-columns: 1fr;
+	  }
+	}
 	
-    /* 
-	 * SECTION 2: ĐI ĐỚP
+	
+    /* =======================================================
+	 *
+	 * SECTION 3: DIAMOND WAVE
 	 * Source: CodePen (https://codepen.io/t_afif/pen/BabwVLx) 
 	 *
-	 */
+	 * ======================================================= */
 	 
-	.eat-container{
+	.diamond{
       display: grid;
       grid-template-columns: repeat(3,auto);
       place-content: center;
       gap: 8px;
     }
 
-    .eat-container img{
-      --s2: 16px; /* riêng cho section này (nếu muốn khác) */
+    .diamond img{
+      --s2: 20px; /* riêng cho section này (nếu muốn khác) */
 
       width: calc(3 * 4 * var(--s2));
       aspect-ratio: 1;
@@ -125,31 +207,31 @@
       will-change: transform;
     }
 
-    .eat-container img:hover{
+    .diamond img:hover{
       transform: scale(1.08);
       filter: brightness(1.03);
     }
 
     /* POSITION giống CodePen */
-    .eat-container img:nth-child(1) { translate: calc(2 * var(--s2)) calc(4 * var(--s2)); place-self:end; }
-    .eat-container img:nth-child(2) { translate: 0 calc(2 * var(--s2)); }
-    .eat-container img:nth-child(3) { translate: calc(-2 * var(--s2)) calc(4 * var(--s2)); place-self:start; }
-    .eat-container img:nth-child(4) {
+    .diamond img:nth-child(1) { translate: calc(2 * var(--s2)) calc(4 * var(--s2)); place-self:end; }
+    .diamond img:nth-child(2) { translate: 0 calc(2 * var(--s2)); }
+    .diamond img:nth-child(3) { translate: calc(-2 * var(--s2)) calc(4 * var(--s2)); place-self:start; }
+    .diamond img:nth-child(4) {
       translate: calc(4 * var(--s2)) 0;
       width: calc(4 * 4 * var(--s2));
       height: calc(3 * 4 * var(--s2));
       place-self:center;
     }
-    .eat-container img:nth-child(5) { width: calc(2 * 4 * var(--s2)); height: calc(4 * 4 * var(--s2)); place-self:center; }
-    .eat-container img:nth-child(6) {
+    .diamond img:nth-child(5) { width: calc(2 * 4 * var(--s2)); height: calc(4 * 4 * var(--s2)); place-self:center; }
+    .diamond img:nth-child(6) {
       translate: calc(-4 * var(--s2)) 0;
       width: calc(4 * 4 * var(--s2));
       height: calc(3 * 4 * var(--s2));
       place-self:center;
     }
-    .eat-container img:nth-child(7) { translate: calc(2 * var(--s2)) calc(-4 * var(--s2)); place-self:end; }
-    .eat-container img:nth-child(8) { translate: 0 calc(-2 * var(--s2)); }
-    .eat-container img:nth-child(9) { translate: calc(-2 * var(--s2)) calc(-4 * var(--s2)); place-self:start; }
+    .diamond img:nth-child(7) { translate: calc(2 * var(--s2)) calc(-4 * var(--s2)); place-self:end; }
+    .diamond img:nth-child(8) { translate: 0 calc(-2 * var(--s2)); }
+    .diamond img:nth-child(9) { translate: calc(-2 * var(--s2)) calc(-4 * var(--s2)); place-self:start; }
 
     /* Mobile */
     @media (max-width: 560px){
@@ -159,14 +241,20 @@
         --gap: 8px;
       }
       .wave-tile{ max-width: 260px; }
-      .eat-container img{ --s2: 10px; }
+      .diamond img{ --s2: 10px; }
     }
-
 	
-    /* 
-	 * Section wrapper (cho đẹp + canh giữa) 
+	
+	
+	
+
+
+	/* =======================================================
 	 *
-	 */
+	 * SECTION WRAPPER (cho đẹp + canh giữa) 
+	 *
+	 * ======================================================= */
+
     section{
       width: min(1100px, 100%);
       display:flex;
@@ -184,55 +272,100 @@
 
 <body>
 
-
 	<!-- SECTION 1 -->
 	<section>
 	<h1 class="journey-title">A journey of tí and tèo 🧳🐾🚗✈️🌍📍📸💖</h1>
 	
-	<article class="wave-grid" id="gallery">
-
-		<a class="wave-tile"><img src="./style/images/album/memories (1).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (2).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (3).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (4).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (5).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (6).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (7).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (8).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (9).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (10).jpeg" loading="lazy" alt=""></a>
-
-		<a class="wave-tile"><img src="./style/images/album/memories (11).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (12).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (13).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (14).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (15).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (16).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (17).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (18).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (19).jpeg" loading="lazy" alt=""></a>
-		<a class="wave-tile"><img src="./style/images/album/memories (20).jpeg" loading="lazy" alt=""></a>
-
-		
+		<article class="wave-grid" id="gallery">
+			<a class="wave-tile"><img src="./style/images/album/memories (1).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (2).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (3).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (4).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (5).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (6).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (7).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (8).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (9).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (10).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (11).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (12).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (13).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (14).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (15).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (16).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (17).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (18).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (19).jpeg" loading="lazy" alt=""></a>
+			<a class="wave-tile"><img src="./style/images/album/memories (20).jpeg" loading="lazy" alt=""></a>
 		</article>
 	</section>
-
+	
 	<!-- SECTION 2 -->
-	<section>
+	<section class="editorial-square">
 	<h1 class="journey-title">Đi đớp 😋🍜🍕🍗🍔</h1>
 
-	<div class="eat-container">
-		<img src="./style/images/album/memories (1).jpeg"  alt="">
-		<img src="./style/images/album/memories (2).jpeg"  alt="">
-		<img src="./style/images/album/memories (3).jpeg"  alt="">
-		<img src="./style/images/album/memories (4).jpeg"  alt="">
-		<img src="./style/images/album/memories (5).jpeg"  alt="">
-		<img src="./style/images/album/memories (6).jpeg"  alt="">
-		<img src="./style/images/album/memories (7).jpeg"  alt="">
-		<img src="./style/images/album/memories (8).jpeg"  alt="">
-		<img src="./style/images/album/memories (9).jpeg"  alt="">
-	</div>
+		<div class="square-grid">
+			<figure class="square-card">
+				<img src="./style/images/album/memories (1).jpeg" alt="">
+				<figcaption>Đớp ở Hà Nội</figcaption>
+			</figure>
+
+			<figure class="square-card">
+				<img src="./style/images/album/memories (2).jpeg" alt="">
+				<figcaption>Đớp ở Hà Nội</figcaption>
+			</figure>
+
+			<figure class="square-card">
+				<img src="./style/images/album/memories (3).jpeg" alt="">
+				<figcaption>Đớp ở Hà Nội</figcaption>
+			</figure>
+
+			<figure class="square-card">
+				<img src="./style/images/album/memories (4).jpeg" alt="">
+				<figcaption>Đớp ở Hà Nội</figcaption>
+			</figure>
+
+			<figure class="square-card">
+				<img src="./style/images/album/memories (5).jpeg" alt="">
+				<figcaption>Đớp ở Hà Nội</figcaption>
+			</figure>
+
+			<figure class="square-card">
+				<img src="./style/images/album/memories (6).jpeg" alt="">
+				<figcaption>Đớp ở Hà Nội</figcaption>
+			</figure>
+		</div>
 	</section>
+	
+	
+
+	<!-- SECTION 3 -->
+	<section>
+	<h1 class="journey-title">Tí xinh iu ✨ 💖 🌸</h1>
+
+		<div class="diamond">
+			<img src="./style/images/album/memories (1).jpeg"  alt="">
+			<img src="./style/images/album/memories (2).jpeg"  alt="">
+			<img src="./style/images/album/memories (3).jpeg"  alt="">
+			<img src="./style/images/album/memories (4).jpeg"  alt="">
+			<img src="./style/images/album/memories (5).jpeg"  alt="">
+			<img src="./style/images/album/memories (6).jpeg"  alt="">
+			<img src="./style/images/album/memories (7).jpeg"  alt="">
+			<img src="./style/images/album/memories (8).jpeg"  alt="">
+			<img src="./style/images/album/memories (9).jpeg"  alt="">
+		</div>
+	</section>
+	
+	<!-- SECTION 4 -->
+	<section>
+	<h1 class="journey-title">... more chapters to come ✨🚶‍♂️🚶‍♀️✈️🌍</h1>
+	</section>
+	
+	
+	
+
+
+	
 
 </body>
 </html>
