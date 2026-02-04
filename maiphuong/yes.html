@@ -1,18 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Our journey 💖</title>
+  <title>A journey of tí and tèo 💖</title>
 
   <style>
     :root{
-      --bg1:#fff7c2;
-      --bg2:#f6d28b;
-      --tile:140px;
-      --gap:20px;
-      --radius:18px;
-      --shift:calc(var(--tile)/2);
+      --bg: #F6F7BD;
+      --frame: #CD8C52;
+
+      /* Wave control */
+      --s: 12px;          /* size of the wave */
+      --gap: 8px;         /* gap between tiles */
+
+      /* Layout control */
+      --colMin: 200px;    /* min tile size for responsive grid */
+      --hoverScale: 1.03; /* hover zoom */
+      --rowShift: 18px;   /* vertical wiggle between rows (optional) */
     }
 
     *{ box-sizing:border-box; }
@@ -20,150 +25,143 @@
     body{
       margin:0;
       min-height:100vh;
-      background:
-        radial-gradient(900px 500px at 20% 10%, var(--bg1), transparent 60%),
-        radial-gradient(700px 400px at 80% 20%, #ffd6e8, transparent 60%),
-        linear-gradient(180deg, #fffbe6 0%, var(--bg2) 100%);
-      font-family: system-ui, -apple-system, Segoe UI, sans-serif;
       display:flex;
       flex-direction:column;
       align-items:center;
+      justify-content:flex-start;
       padding:28px 16px 40px;
+      background: var(--bg);
+      font-family: system-ui, -apple-system, Segoe UI, sans-serif;
     }
 
     /* ===== Title ===== */
     .journey-title{
-      margin:0 0 26px 0;
+      margin:0 0 22px 0;
       font-size:clamp(28px,4vw,44px);
-      font-weight:700;
-      letter-spacing:.6px;
+      font-weight:750;
+      letter-spacing:.4px;
       color:#8b3a62;
       text-align:center;
       text-shadow:0 2px 0 rgba(255,255,255,.7);
-      animation:fadeDown .8s ease-out both;
     }
 
-    @keyframes fadeDown{
-      from{ opacity:0; transform:translateY(-12px); }
-      to{ opacity:1; transform:translateY(0); }
-    }
-
-    /* ===== Diamond Gallery ===== */
-    .diamond{
+    /* ===== Wave Grid ===== */
+    .wave-grid{
+      width:min(1100px, 100%);
       display:grid;
-      grid-template-columns:repeat(auto-fit, minmax(var(--tile), 1fr));
-      gap:var(--gap);
-      justify-items:center;
-      align-items:center;
-      max-width:1000px;
-      width:100%;
+      grid-template-columns: repeat(auto-fit, minmax(var(--colMin), 1fr));
+      gap: var(--gap);
+      place-items:center;
+      padding: 6px 0;
     }
 
-    .tile{
-      width:var(--tile);
-      height:var(--tile);
+    .wave-tile{
       display:block;
-      transform:rotate(45deg);
-      border-radius:var(--radius);
-      overflow:hidden;
-      background:rgba(255,255,255,.65);
-      box-shadow:0 12px 26px rgba(0,0,0,.22);
-      transition:transform .22s ease, box-shadow .22s ease, filter .22s ease;
-      position:relative;
-      z-index:0;
+      width: 100%;
+      max-width: 320px;
+      text-decoration:none;
+      color:inherit;
+      transition: transform .2s ease;
+      will-change: transform;
     }
 
-    /* so le bằng transform (không phá layout) */
-    .tile.shift{
-      transform:rotate(45deg) translateX(var(--shift));
+    .wave-tile:hover{
+      transform: scale(var(--hoverScale));
     }
 
-    .tile img{
-      width:140%;
-      height:140%;
-      object-fit:cover;
+    .wave-tile img{
+      width: 100%;
+      aspect-ratio: 1;
+      object-fit: cover;
+
+      padding: var(--s);
+      border: var(--s) solid transparent;
+      background: var(--frame);
+      border-radius: calc(3.5 * var(--s));
+
+      mask:
+        radial-gradient(calc(sqrt(2) * var(--s)), #000 calc(100% - 1px), #0000),
+        conic-gradient(#000 0 0) content-box,
+        radial-gradient(calc(sqrt(2) * var(--s)), #0000 100%, #000 calc(100% + 1px))
+          var(--s) var(--s) padding-box;
+      mask-size: calc(var(--s) * 4) calc(var(--s) * 4);
+
       display:block;
-      transform:rotate(-45deg) translate(-12%, -12%);
-      transform-origin:center;
-      transition:transform .25s ease;
-      image-orientation:from-image;
     }
 
-    .tile:hover{
-      z-index:10;
-      transform:rotate(45deg) scale(1.1);
-      box-shadow:0 18px 45px rgba(0,0,0,.35);
-      filter:brightness(1.05);
+    /* Zigzag per row */
+    .wave-tile.shift{
+      transform: translateX(calc(2 * var(--s)));
     }
 
-    .tile.shift:hover{
-      transform:rotate(45deg) translateX(var(--shift)) scale(1.1);
-    }
-
-    .tile:hover img{
-      transform:rotate(-45deg) translate(-12%, -12%) scale(1.06);
-    }
-
-    /* ===== Responsive ===== */
-    @media (max-width:600px){
-      :root{ --tile:110px; --gap:16px; }
+    /* Mobile */
+    @media (max-width: 560px){
+      :root{
+        --s: 10px;
+        --colMin: 160px;
+      }
+      .wave-tile{ max-width: 260px; }
     }
   </style>
 </head>
 
 <body>
 
-  <h1 class="journey-title">Our journey 💖</h1>
+  <h1 class="journey-title">A journey of tí and tèo 💖</h1>
 
-  <article class="diamond">
-    <!-- 20 memories -->
-    <!-- tao viết đủ 20 tile cho mày -->
+  <article class="wave-grid" id="gallery">
+    <!-- 20 memories (mày thêm/bớt ảnh tuỳ ý) -->
+    <a class="wave-tile" href="./style/images/album/memories (1).jpeg"  target="_blank"><img src="./style/images/album/memories (1).jpeg"  loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (2).jpeg"  target="_blank"><img src="./style/images/album/memories (2).jpeg"  loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (3).jpeg"  target="_blank"><img src="./style/images/album/memories (3).jpeg"  loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (4).jpeg"  target="_blank"><img src="./style/images/album/memories (4).jpeg"  loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (5).jpeg"  target="_blank"><img src="./style/images/album/memories (5).jpeg"  loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (6).jpeg"  target="_blank"><img src="./style/images/album/memories (6).jpeg"  loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (7).jpeg"  target="_blank"><img src="./style/images/album/memories (7).jpeg"  loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (8).jpeg"  target="_blank"><img src="./style/images/album/memories (8).jpeg"  loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (9).jpeg"  target="_blank"><img src="./style/images/album/memories (9).jpeg"  loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (10).jpeg" target="_blank"><img src="./style/images/album/memories (10).jpeg" loading="lazy" alt=""></a>
 
-    <a class="tile" href="./style/images/album/memories (1).jpeg" target="_blank"><img src="./style/images/album/memories (1).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (2).jpeg" target="_blank"><img src="./style/images/album/memories (2).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (3).jpeg" target="_blank"><img src="./style/images/album/memories (3).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (4).jpeg" target="_blank"><img src="./style/images/album/memories (4).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (5).jpeg" target="_blank"><img src="./style/images/album/memories (5).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (6).jpeg" target="_blank"><img src="./style/images/album/memories (6).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (7).jpeg" target="_blank"><img src="./style/images/album/memories (7).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (8).jpeg" target="_blank"><img src="./style/images/album/memories (8).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (9).jpeg" target="_blank"><img src="./style/images/album/memories (9).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (10).jpeg" target="_blank"><img src="./style/images/album/memories (10).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (11).jpeg" target="_blank"><img src="./style/images/album/memories (11).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (12).jpeg" target="_blank"><img src="./style/images/album/memories (12).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (13).jpeg" target="_blank"><img src="./style/images/album/memories (13).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (14).jpeg" target="_blank"><img src="./style/images/album/memories (14).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (15).jpeg" target="_blank"><img src="./style/images/album/memories (15).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (16).jpeg" target="_blank"><img src="./style/images/album/memories (16).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (17).jpeg" target="_blank"><img src="./style/images/album/memories (17).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (18).jpeg" target="_blank"><img src="./style/images/album/memories (18).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (19).jpeg" target="_blank"><img src="./style/images/album/memories (19).jpeg" loading="lazy"></a>
-    <a class="tile" href="./style/images/album/memories (20).jpeg" target="_blank"><img src="./style/images/album/memories (20).jpeg" loading="lazy"></a>
+    <a class="wave-tile" href="./style/images/album/memories (11).jpeg" target="_blank"><img src="./style/images/album/memories (11).jpeg" loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (12).jpeg" target="_blank"><img src="./style/images/album/memories (12).jpeg" loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (13).jpeg" target="_blank"><img src="./style/images/album/memories (13).jpeg" loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (14).jpeg" target="_blank"><img src="./style/images/album/memories (14).jpeg" loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (15).jpeg" target="_blank"><img src="./style/images/album/memories (15).jpeg" loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (16).jpeg" target="_blank"><img src="./style/images/album/memories (16).jpeg" loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (17).jpeg" target="_blank"><img src="./style/images/album/memories (17).jpeg" loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (18).jpeg" target="_blank"><img src="./style/images/album/memories (18).jpeg" loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (19).jpeg" target="_blank"><img src="./style/images/album/memories (19).jpeg" loading="lazy" alt=""></a>
+    <a class="wave-tile" href="./style/images/album/memories (20).jpeg" target="_blank"><img src="./style/images/album/memories (20).jpeg" loading="lazy" alt=""></a>
   </article>
 
-  <!-- JS rất nhẹ để so le đúng THEO HÀNG (không theo thứ tự ảnh) -->
   <script>
-    function applyDiamondShift(){
-      const tiles = Array.from(document.querySelectorAll(".diamond .tile"));
+    function applyWaveShift(){
+      const tiles = Array.from(document.querySelectorAll(".wave-grid .wave-tile"));
       tiles.forEach(t => t.classList.remove("shift"));
 
       const rows = new Map();
       tiles.forEach(t => {
         const top = Math.round(t.getBoundingClientRect().top);
-        rows.set(top, (rows.get(top) || []).concat(t));
+        if (!rows.has(top)) rows.set(top, []);
+        rows.get(top).push(t);
       });
 
-      const sortedRows = Array.from(rows.values());
-      sortedRows.forEach((row, i) => {
-        if (i % 2 === 1) row.forEach(t => t.classList.add("shift"));
+      const sortedRowTops = Array.from(rows.keys()).sort((a,b) => a-b);
+
+      sortedRowTops.forEach((top, rowIndex) => {
+        const row = rows.get(top) || [];
+        if (rowIndex % 2 === 1) row.forEach(t => t.classList.add("shift"));
       });
     }
 
-    window.addEventListener("load", applyDiamondShift);
-    window.addEventListener("resize", () => {
-      clearTimeout(window.__ds);
-      window.__ds = setTimeout(applyDiamondShift, 120);
-    });
+    const rerun = () => {
+      clearTimeout(window.__waveT);
+      window.__waveT = setTimeout(applyWaveShift, 80);
+    };
+
+    window.addEventListener("load", applyWaveShift);
+    window.addEventListener("resize", rerun);
+    window.addEventListener("load", () => setTimeout(applyWaveShift, 250));
   </script>
 
 </body>
