@@ -46,64 +46,49 @@
 
     /* ========== SECTION 1: GRID WAVE (thẳng hàng, hover all) ========== */
     
+	
 	.wave-grid{
-	  width:min(1100px, 100%);
-	  display:grid;
-	  grid-template-columns: repeat(auto-fit, minmax(var(--colMin), 1fr));
-	  gap: var(--gap);
-	  place-items:center;
-	  padding: 6px 0;
-	}
+      width:min(1100px, 100%);
+      display:grid;
+      grid-template-columns: repeat(auto-fit, minmax(var(--colMin), 1fr));
+      gap: var(--gap);
+      place-items:center;
+      padding: 6px 0;
+    }
 
-	/* Link wrapper */
-	.wave-tile{
-	  display:block;
-	  width: 100%;
-	  max-width: 320px;
-	  text-decoration:none;
-	  color:inherit;
-	}
+    .wave-tile{
+      display:block;
+      width: 100%;
+      max-width: 320px;
+      text-decoration:none;
+      color:inherit;
+      transition: transform .2s ease, filter .2s ease;
+      will-change: transform;
+    }
 
-	/* Hover cho TẤT CẢ ảnh: nhấc lên nhẹ + sáng nhẹ */
-	.wave-tile:hover img{
-	  transform: scale(var(--hoverScale));
-	  filter: brightness(1.05);
-	  box-shadow:
-		0 16px 34px rgba(0,0,0,.28),
-		inset 0 0 0 1px rgba(255,255,255,.35);
-	}
+    .wave-tile:hover{
+      transform: scale(var(--hoverScale));
+      filter: brightness(1.03);
+    }
 
-	/* Frame lượn sóng “đẹp như style 2” */
-	.wave-tile img{
-	  width: 100%;
-	  aspect-ratio: 1;
-	  object-fit: cover;
-	  display:block;
+    .wave-tile img{
+      width: 100%;
+      aspect-ratio: 1;
+      object-fit: cover;
+      display:block;
 
-	  /* viền dày + bo mềm hơn */
-	  --s: 14px;                 /* tăng độ dày viền (style 2 nhìn đã hơn) */
-	  padding: var(--s);
-	  border: var(--s) solid transparent;
-	  background: var(--frame);
-	  border-radius: calc(3.8 * var(--s));
+      padding: var(--s);
+      border: var(--s) solid transparent;
+      background: var(--frame);
+      border-radius: calc(3.5 * var(--s));
 
-	  /* wave mask (giống CodePen) */
-	  mask:
-		radial-gradient(calc(sqrt(2) * var(--s)), #000 calc(100% - 1px), #0000),
-		conic-gradient(#000 0 0) content-box,
-		radial-gradient(calc(sqrt(2) * var(--s)), #0000 100%, #000 calc(100% + 1px))
-		  var(--s) var(--s) padding-box;
-	  mask-size: calc(var(--s) * 4) calc(var(--s) * 4);
-
-	  /* nhìn “kẹo/bánh” hơn */
-	  box-shadow:
-		0 10px 22px rgba(0,0,0,.18),
-		inset 0 0 0 1px rgba(255,255,255,.25);
-
-	  transition: transform .22s ease, filter .22s ease, box-shadow .22s ease;
-	  will-change: transform;
-	}
-
+      mask:
+        radial-gradient(calc(sqrt(2) * var(--s)), #000 calc(100% - 1px), #0000),
+        conic-gradient(#000 0 0) content-box,
+        radial-gradient(calc(sqrt(2) * var(--s)), #0000 100%, #000 calc(100% + 1px))
+          var(--s) var(--s) padding-box;
+      mask-size: calc(var(--s) * 4) calc(var(--s) * 4);
+    }
 	
 	
 	
