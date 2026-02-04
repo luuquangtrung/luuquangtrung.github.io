@@ -1,51 +1,125 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Memories</title>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>Yes 💛</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-content: center;
+      background: #F6F7BD;
+      font-family: system-ui, sans-serif;
+    }
 
-  <body>
-    <article class="container">
+    .container {
+      display: grid;
+      grid-template-columns: repeat(3, auto);
+      place-content: center;
+      gap: 8px;
+    }
 
-	  <a class="tile" href="./style/images/album/memories (1).jpeg" target="_blank" rel="noopener">
-		<img src="./style/images/album/memories (1).jpeg" alt="Memory 1" loading="lazy">
-	  </a>
+    .container img {
+      --s: 12px; /* độ lượn sóng */
 
-	  <a class="tile" href="./style/images/album/memories (2).jpeg" target="_blank" rel="noopener">
-		<img src="./style/images/album/memories (2).jpeg" alt="Memory 2" loading="lazy">
-	  </a>
+      width: calc(3 * 4 * var(--s));
+      aspect-ratio: 1;
+      object-fit: cover;
 
-	  <a class="tile" href="./style/images/album/memories (3).jpeg" target="_blank" rel="noopener">
-		<img src="./style/images/album/memories (3).jpeg" alt="Memory 3" loading="lazy">
-	  </a>
+      padding: var(--s);
+      border: var(--s) solid transparent;
+      background: #CD8C52;
+      border-radius: calc(3.5 * var(--s));
 
-	  <a class="tile" href="./style/images/album/memories (4).jpeg" target="_blank" rel="noopener">
-		<img src="./style/images/album/memories (4).jpeg" alt="Memory 4" loading="lazy">
-	  </a>
+      mask:
+        radial-gradient(calc(sqrt(2) * var(--s)),
+          #000 calc(100% - 1px), #0000),
+        conic-gradient(#000 0 0) content-box,
+        radial-gradient(calc(sqrt(2) * var(--s)),
+          #0000 100%, #000 calc(100% + 1px))
+          var(--s) var(--s) padding-box;
 
-	  <a class="tile" href="./style/images/album/memories (5).jpeg" target="_blank" rel="noopener">
-		<img src="./style/images/album/memories (5).jpeg" alt="Memory 5" loading="lazy">
-	  </a>
+      mask-size: calc(var(--s) * 4) calc(var(--s) * 4);
+    }
 
-	  <a class="tile" href="./style/images/album/memories (6).jpeg" target="_blank" rel="noopener">
-		<img src="./style/images/album/memories (6).jpeg" alt="Memory 6" loading="lazy">
-	  </a>
+    /* POSITION giống CodePen */
+    .container img:nth-child(1) {
+      translate: calc(2 * var(--s)) calc(4 * var(--s));
+      place-self: end;
+    }
 
-	  <a class="tile" href="./style/images/album/memories (7).jpeg" target="_blank" rel="noopener">
-		<img src="./style/images/album/memories (7).jpeg" alt="Memory 7" loading="lazy">
-	  </a>
+    .container img:nth-child(2) {
+      translate: 0 calc(2 * var(--s));
+    }
 
-	  <a class="tile" href="./style/images/album/memories (8).jpeg" target="_blank" rel="noopener">
-		<img src="./style/images/album/memories (8).jpeg" alt="Memory 8" loading="lazy">
-	  </a>
+    .container img:nth-child(3) {
+      translate: calc(-2 * var(--s)) calc(4 * var(--s));
+      place-self: start;
+    }
 
-	  <a class="tile" href="./style/images/album/memories (9).jpeg" target="_blank" rel="noopener">
-		<img src="./style/images/album/memories (9).jpeg" alt="Memory 9" loading="lazy">
-	  </a>
+    .container img:nth-child(4) {
+      translate: calc(4 * var(--s)) 0;
+      width: calc(4 * 4 * var(--s));
+      height: calc(3 * 4 * var(--s));
+      place-self: center;
+    }
 
+    .container img:nth-child(5) {
+      width: calc(2 * 4 * var(--s));
+      height: calc(4 * 4 * var(--s));
+      place-self: center;
+    }
 
-	</article>
-  </body>
+    .container img:nth-child(6) {
+      translate: calc(-4 * var(--s)) 0;
+      width: calc(4 * 4 * var(--s));
+      height: calc(3 * 4 * var(--s));
+      place-self: center;
+    }
+
+    .container img:nth-child(7) {
+      translate: calc(2 * var(--s)) calc(-4 * var(--s));
+      place-self: end;
+    }
+
+    .container img:nth-child(8) {
+      translate: 0 calc(-2 * var(--s));
+    }
+
+    .container img:nth-child(9) {
+      translate: calc(-2 * var(--s)) calc(-4 * var(--s));
+      place-self: start;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <img src="/style/images/album/memories (1).jpeg">
+    <img src="/style/images/album/memories (2).jpeg">
+    <img src="/style/images/album/memories (3).jpeg">
+    <img src="/style/images/album/memories (4).jpeg">
+    <img src="/style/images/album/memories (5).jpeg">
+    <img src="/style/images/album/memories (6).jpeg">
+    <img src="/style/images/album/memories (7).jpeg">
+    <img src="/style/images/album/memories (8).jpeg">
+    <img src="/style/images/album/memories (9).jpeg">
+
+    <img src="/style/images/album/memories (10).jpeg">
+    <img src="/style/images/album/memories (11).jpeg">
+    <img src="/style/images/album/memories (12).jpeg">
+    <img src="/style/images/album/memories (13).jpeg">
+    <img src="/style/images/album/memories (14).jpeg">
+    <img src="/style/images/album/memories (15).jpeg">
+    <img src="/style/images/album/memories (16).jpeg">
+    <img src="/style/images/album/memories (17).jpeg">
+    <img src="/style/images/album/memories (18).jpeg">
+    <img src="/style/images/album/memories (19).jpeg">
+    <img src="/style/images/album/memories (20).jpeg">
+  </div>
+</body>
+
 </html>
