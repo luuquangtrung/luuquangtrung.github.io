@@ -6,7 +6,10 @@ description: Cycle d'ingénieur, Électronique et Informatique pour l'Embarqué 
 nav: false
 ---
 
-TBD.
+
+### Sujets de TP
+* [TP1 - Résoudre un labyrinthe avec Dijkstra et A*]()
+
 
 <!--
 ### Objectif 
