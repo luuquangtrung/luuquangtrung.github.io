@@ -7,7 +7,7 @@ nav: false
 ---
 
 
-### Sujets de TP
+### Travaux pratiques (TPs)
 * [TP1 - Résoudre un labyrinthe avec Dijkstra et A*]()
 
 
