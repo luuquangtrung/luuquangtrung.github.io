@@ -17,6 +17,7 @@ nav_order: 5
 * [Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://github.com/luuquangtrung/flexibleconfiguration)
 * [Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://github.com/luuquangtrung/flexibleorder)
 * [Accelerating Network Slice Embedding with Reinforcement Learning](https://github.com/luuquangtrung/slice-enbedding-rl) 
+* [SfcEmbedder: An ILP-based algorithm to solve the problem of SFC embedding](https://github.com/luuquangtrung/SfcEmbedder)
 * [DCoflow: Deadline-Aware Scheduling Algorithm for Coflows in Datacenter Networks](https://github.com/luuquangtrung/CoflowSimulator)
 * [FLRNet: Flow Field Reconstruction with Physics-Informed Machine Learning](https://github.com/hphong1990/flrnet)
 * [Deep Learning Reconstruction of Tropical Cyclogenesis in the Western North Pacific](https://github.com/luuquangtrung/ml4typhoon)
