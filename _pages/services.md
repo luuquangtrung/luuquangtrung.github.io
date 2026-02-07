@@ -20,9 +20,24 @@ nav_order: 5
 * Jury member, [2020 Annual Ph.D Student Workshop of CentraleSupélec (session “AI and networking”)](https://association.centralesupelec-alumni.com/fr/article/journee-annuelle-des-doctorants/04/02/2020/2538)
   
 **Technical Program Committee (TPC)**
-* [Symposium on Information and Communication Technology (SoICT)](https://soict.org/)
-* [International Conference on Networks (ICN)](https://www.iaria.org/conferences2020/ICN20.html)
-* [IEEE International Conference on Communications and Electronics (ICCE)](https://www.ieee-icce.org/)
+
+* IEEE Global Communication Conference (GLOBECOM): [GLOBECOM'26](https://globecom2026.ieee-globecom.org/)
+
+* International Conference on Information Technology and Its Applications (CITA): 
+	[Special Session on Sustainable and AI-Enabled Telecommunication Systems for Perception-Aware Connected Societies (SPACS’26)](https://cita-conf.org/menu/15/submenu/5)
+* IEEE International Conference on Communications and Electronics (ICCE): 
+	[ICCE’24](https://2024.ieee-icce.org/p/commitees), 
+	[ICCE’26](https://2026.ieee-icce.org/p/commitees)
+* International Conference on Advanced Technologies For Communications (ATC): 
+	[ATC’25](https://atc-conf.org/committees/committees-atc)
+* International Conference on Computing and Communication Technologies (RIVF): 
+	[RIVF’25](https://rivf2025.org/?page_id=12)
+* International Symposium on Information and Communication Technology (SoICT)’: 
+	[SoICT’22](https://soict.org/2022/committees/program-committees/)
+* International Conference on Networks (ICN): 
+	[ICN’20](https://www.iaria.org/conferences2020/ComICN20.html), 
+	[ICN’21](https://www.iaria.org/conferences2021/ComICN21.html), 
+	[ICN’22](https://www.iaria.org/conferences2022/ComICN22.html)
 
 **Regular reviewer for journals**
 * IEEE Journal on Selected Areas in Communications (JSAC)
