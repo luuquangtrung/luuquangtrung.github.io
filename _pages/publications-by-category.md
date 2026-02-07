@@ -20,7 +20,7 @@ Profiles:
    Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
    "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/),"
    *submitted to IEEE Transactions on Network and Service Management*, 2026
-   (preprint: [arXiv:2412.05993](https://arxiv.org/abs/2412.05993)).
+   [[arXiv:2412.05993](https://arxiv.org/abs/2412.05993)].
    
 1. Tuan-Vu Truong, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, Van-Dinh Nguyen, and Symeon Chatzinotas,
    "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
