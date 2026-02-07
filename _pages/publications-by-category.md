@@ -28,7 +28,7 @@ Profiles:
    
 1. Minh-Tuong Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, and Le-Nam Tran,
    "[Deadline-Aware Task Offloading with Concurrency in Serverless Edge Computing](https://ieeexplore.ieee.org/),"
-   *submitted to *IEEE Internet of Things Journal*, 2026.
+   *submitted to IEEE Internet of Things Journal*, 2026.
         
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, Senura H. Wanasekara, Van-Dinh Nguyen,
    **Quang-Trung Luu**, Nguyen Cong Luong, and Anh Tuan Nguyen,
@@ -134,7 +134,6 @@ Profiles:
    "[Real-Time Pig Counting Embedded System via Video Object Detection and Tracking](https://ieeexplore.ieee.org/document/10908322)," 
    in *Proc. International Conference on Advanced Technologies for Communications (ATC)*, 2024,
    doi: 10.1109/ATC63255.2024.10908322.
-
 
 1. Tuan-Vu Truong, **Quang-Trung Luu**, and Van-Dinh Nguyen,
    "[Efficient Resource Allocation Framework for Network Slicing-enabled Open RAN](https://ieeexplore.ieee.org/document/10634735/)," 
