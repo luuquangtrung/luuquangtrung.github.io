@@ -23,10 +23,10 @@ nav_order: 1
 * 04/2017-09/2017: Research Intern, [Inria](https://www.inria.fr/en) & [Ecole Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France
 
 ### Education
-* 2017-2020: Ph.D in Networking, Information, and Communications, [CentraleSupélec](https://www.centralesupelec.fr/) - [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
-* 2016-2017: M.Sc. in Multimedia Networking, [Télécom Paris](https://www.telecom-paris.fr/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
-* 2015-2016: M.Sc. in Antennas and Telecom Devices, [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
-* 2008-2013: B.Eng. in Electronics and Telecommunications, [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/), Vietnam
+* 2017-2020: Ph.D, [CentraleSupélec](https://www.centralesupelec.fr/) - [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
+* 2016-2017: M.Sc., [Télécom Paris](https://www.telecom-paris.fr/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
+* 2015-2016: M.Sc., [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
+* 2008-2013: B.Eng., [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/), Vietnam
 * 2005-2008: High school diploma, [HUS High School for Gifted Students (HSGS)](https://hsgs.edu.vn/), Vietnam National University, Vietnam
 
 ### Awards
