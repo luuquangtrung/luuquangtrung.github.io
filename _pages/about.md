@@ -33,7 +33,8 @@ Curriculum vitæ
 
 ## research interests
 * Applied AI/ML for 5G & beyond: resource allocation, task scheduling
-* Open radio access networks (Open RAN): flexible functional split, network slicing
+* Network slicing, network function virtualization
+* Open RAN, AI-RAN
 
 
 
