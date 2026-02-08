@@ -125,7 +125,7 @@ Profiles:
    doi: 10.1109/ATC67618.2025.11268771.
    
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tai-Hung Nguyen, Michel Kieffer, Van-Dinh Nguyen, Quang-Lap Luu, and Trung-Toan Nguyen,
-   "Admission Control and Embedding of Network Slices with Flexible VNF Order,"
+   "[Admission Control and Embedding of Network Slices with Flexible VNF Order](https://ieeexplore.ieee.org/document/10814606),"
    in *Proc. 20th International Conference on Network and Service Management (CNSM)*, 2024
    doi: 10.23919/CNSM62983.2024.10814606. 
    (**CORE Rank B**).
