@@ -6,10 +6,13 @@ nav: true
 nav_order: 1
 ---
 
-**Download**: 
-[CV in english](https://luuquangtrung.github.io/assets/pdf/luu_cv_en.pdf), 
-[CV en français](https://luuquangtrung.github.io/assets/pdf/luu_cv_fr.pdf) 
-(last updated: Feb. 1, 2026)
+
+<a href="https://centralesupelec-my.sharepoint.com/:f:/g/personal/quangtrung_luu_centralesupelec_fr/IgACKiLY60kqSb3rBLRB6rHjASmqe6abGbw-kiC5xNJ6_5U?e=WymBXg">Link to PDF files</a>
+(last updated: Feb. 8, 2026)
+
+
+
+
 
 ### Experiences
 * 09/2025-present: Associate Professor, [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
