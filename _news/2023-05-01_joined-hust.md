@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-**I joined Hanoi University of Science and Technology as a lecturer (assistant professor)**
+I joined Hanoi University of Science and Technology as a lecturer (assistant professor).
