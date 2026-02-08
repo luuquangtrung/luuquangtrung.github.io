@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I joined Université Paris-Saclay as a maître de conférences (associate professor)
+title: <strong>I joined Université Paris-Saclay as a maître de conférences (associate professor)</strong>
 date: 2025-09-01 09:00:00-0400
 inline: false
 related_posts: false
