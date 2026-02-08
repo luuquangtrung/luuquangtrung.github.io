@@ -61,7 +61,7 @@ nav_order: 5
 #### Social Activities
 * [telecom-vn](https://www.facebook.com/groups/telecomvn) (a Facebook group for Vietnamese researchers in telecommunications): Administrator; Organize regular seminars (record videos achieved [here](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ))
 * [Global Young Vietnamese Scholars Forum](http://trithuctrevietnam.vn/): Participant & Presenter (2019)
-* [Vietnam Summer School of Science (VSSS)](https://www.truonghekhoahoc.com/): Organizer (2022); Invited Lecturer (2015); Participant (2014)
+* [Vietnam Summer School of Science (VSSS)](https://www.truonghekhoahoc.com/): Organizer (2022-present); Invited Lecturer (2015); Participant (2014)
 * Public talks/interviews:
 	* [Short interview with VOV World (The Voice of Vietnam) on recent development of 5G networks](https://vovworld.vn/vi-VN/nguoi-viet-muon-phuong/mang-di-dong-5g-co-hoi-phat-trien-cong-nghiep-vien-thong-tai-viet-nam-938761.vov)
 
