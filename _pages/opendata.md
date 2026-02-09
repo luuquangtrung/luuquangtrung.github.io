@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 
-### Open platform
+### Open platforms
 * [5G platform using Open5GS, srsRAN, and O-RAN SC RIC](https://github.com/newt2105/5G-testbed-ANSA)
 
 ### Open datasets 
