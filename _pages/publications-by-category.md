@@ -22,13 +22,7 @@ Profiles:
    *submitted to IEEE Transactions on Network and Service Management*, 2026
    [[arXiv:2412.05993](https://arxiv.org/abs/2412.05993)].
    
-1. Tuan-Vu Truong, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, Van-Dinh Nguyen, and Symeon Chatzinotas,
-   "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Transactions on Network and Service Management*, 2026.
-   
-1. Minh-Tuong Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, and Le-Nam Tran,
-   "[Deadline-Aware Task Offloading with Concurrency in Serverless Edge Computing](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Internet of Things Journal*, 2026.
+
         
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, Senura H. Wanasekara, Van-Dinh Nguyen,
    **Quang-Trung Luu**, Nguyen Cong Luong, and Anh Tuan Nguyen,
@@ -46,6 +40,15 @@ Profiles:
 
 
 ### Journal papers
+
+1. Tuan-Vu Truong, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, Van-Dinh Nguyen, and Symeon Chatzinotas,
+   "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
+   *IEEE Transactions on Network and Service Management*, 2026.
+   
+1. Minh-Tuong Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, and Le-Nam Tran,
+   "[Deadline-Aware Task Offloading with Concurrency in Serverless Edge Computing](https://ieeexplore.ieee.org/),"
+   *IEEE Internet of Things Journal*, 2026.
+   
 1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
    "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/11347585),"
    *IEEE Networking Letters*, 2026.
