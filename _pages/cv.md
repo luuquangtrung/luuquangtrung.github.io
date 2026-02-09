@@ -7,11 +7,14 @@ nav_order: 1
 ---
 
 
-<a href="https://centralesupelec-my.sharepoint.com/:f:/g/personal/quangtrung_luu_centralesupelec_fr/IgACKiLY60kqSb3rBLRB6rHjASmqe6abGbw-kiC5xNJ6_5U?e=WymBXg">Link to PDF files</a>
+<!-- <a href="https://centralesupelec-my.sharepoint.com/:f:/g/personal/quangtrung_luu_centralesupelec_fr/IgACKiLY60kqSb3rBLRB6rHjASmqe6abGbw-kiC5xNJ6_5U?e=WymBXg">Link to PDF files</a>
 (last updated: Feb. 8, 2026)
+ -->
 
-
-
+Link to PDF files: 
+<a href="/assets/pdf/luu_cv_en.pdf">CV in English</a>, 
+<a href="/assets/pdf/luu_cv_fr.pdf">CV en français</a> 
+(last updated: Feb. 8, 2026)
 
 
 ### Experiences
