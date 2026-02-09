@@ -8,7 +8,7 @@ nav_order: 5
 
 
 ### Open platform
-* [5G platform using Open5GS, srsRAN_Project and ORAN SC RIC](https://github.com/newt2105/5G-testbed-ANSA)
+* [5G platform using Open5GS, srsRAN, and O-RAN SC RIC](https://github.com/newt2105/5G-testbed-ANSA)
 
 ### Open datasets 
 * [Processing of MERRA-2/FNL/IBTrACS data for typhoon formation prediction](https://doi.org/10.5281/zenodo.15640334)
