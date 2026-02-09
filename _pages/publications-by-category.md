@@ -41,7 +41,7 @@ Profiles:
 
 1. Tuan-Vu Truong, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, Van-Dinh Nguyen, and Symeon Chatzinotas,
    "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   *IEEE Transactions on Network and Service Management*, 2026.
+   in *IEEE Transactions on Network and Service Management*, 2026.
    
 1. Minh-Tuong Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, and Le-Nam Tran,
    "[Deadline-Aware Task Offloading with Concurrency in Serverless Edge Computing](https://ieeexplore.ieee.org/),"
@@ -49,11 +49,12 @@ Profiles:
    
 1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
    "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/11347585),"
-   *IEEE Networking Letters*, 2026.
+   in *IEEE Networking Letters*, 2026,
+   doi: 10.1109/LNET.2026.3653831
    
 1. Phong C. H. Nguyen, Joseph B. Choi, and **Quang-Trung Luu**,
-   "[Flow field reconstruction from sparse sensor measurement using physics-aware recurrent convolution neural network](https://ieeexplore.ieee.org/),"
-   *Scientific Reports*, 2026 
+   "[Deep learning with fourier features for regressive flow field reconstruction from sparse sensor measurements](https://www.nature.com/articles/s41598-026-36301-y),"
+   in *Scientific Reports*, 2026 
    [[arXiv:2411.13815](https://arxiv.org/abs/2411.13815)]
    
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
