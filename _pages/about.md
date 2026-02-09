@@ -26,9 +26,12 @@ Prior to joining Paris-Saclay, I was a lecturer at the [School of Electrical and
 I serve as the co-coordinator for the Industry Communities of the IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC).
 
 
-Curriculum vitæ 
-<a href="https://centralesupelec-my.sharepoint.com/:f:/g/personal/quangtrung_luu_centralesupelec_fr/IgACKiLY60kqSb3rBLRB6rHjASmqe6abGbw-kiC5xNJ6_5U?e=WymBXg">[PDF]</a>
+Curriculum vitæ: 
+<a href="/assets/pdf/luu_cv_en.pdf">[en]</a>, 
+<a href="/assets/pdf/luu_cv_fr.pdf">[fr]</a> 
 
+<!-- <a href="https://centralesupelec-my.sharepoint.com/:f:/g/personal/quangtrung_luu_centralesupelec_fr/IgACKiLY60kqSb3rBLRB6rHjASmqe6abGbw-kiC5xNJ6_5U?e=WymBXg">[PDF]</a>
+ -->
 
 
 ## research interests
