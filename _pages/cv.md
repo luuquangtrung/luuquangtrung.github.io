@@ -30,7 +30,7 @@ Link to PDF files:
 * 2016-2017: M.Sc., [Télécom Paris](https://www.telecom-paris.fr/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
 * 2015-2016: M.Sc., [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
 * 2008-2013: B.Eng., [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/), Vietnam
-* 2005-2008: Baccalaureate, [HUS High School for Gifted Students (HSGS)](https://hsgs.edu.vn/), Vietnam National University, Vietnam
+* 2005-2008: Baccalaureate, [HUS High School for Gifted Students (HSGS)](https://hsgs.edu.vn/), VNU-Hanoi, Vietnam
 
 ### Awards
 * 2023: Best Poster Award, [Asian Internet Engineering Conference (AINTEC)](https://interlab.ait.ac.th/aintec2023/)
