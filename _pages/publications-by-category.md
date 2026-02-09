@@ -21,8 +21,6 @@ Profiles:
    "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/),"
    *submitted to IEEE Transactions on Network and Service Management*, 2026
    [[arXiv:2412.05993](https://arxiv.org/abs/2412.05993)].
-   
-
         
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, Senura H. Wanasekara, Van-Dinh Nguyen,
    **Quang-Trung Luu**, Nguyen Cong Luong, and Anh Tuan Nguyen,
