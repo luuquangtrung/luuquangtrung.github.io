@@ -14,7 +14,7 @@ nav_order: 1
 Link to PDF files: 
 <a href="/assets/pdf/luu_cv_en.pdf">CV in English</a>, 
 <a href="/assets/pdf/luu_cv_fr.pdf">CV en français</a> 
-(last updated: Feb. 9, 2026)
+(last updated: Feb. 11, 2026)
 
 
 ### Experiences
