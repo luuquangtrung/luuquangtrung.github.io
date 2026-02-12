@@ -20,8 +20,8 @@ nav_order: 5
 * Jury member, [2020 Annual Ph.D Student Workshop of CentraleSupélec (session “AI and networking”)](https://association.centralesupelec-alumni.com/fr/article/journee-annuelle-des-doctorants/04/02/2020/2538)
   
 **Technical Program Committee (TPC)**
-
 * IEEE Global Communication Conference (GLOBECOM): [GLOBECOM'26](https://globecom2026.ieee-globecom.org/)
+* International Conference on Network of the Future (NoF): [NoF'26](https://nof.dnac.org/2026/)
 * International Conference on Information Technology and Its Applications (CITA): 
 	[Special Session on Sustainable and AI-Enabled Telecommunication Systems for Perception-Aware Connected Societies (SPACS’26)](https://cita-conf.org/menu/15/submenu/5)
 * IEEE International Conference on Communications and Electronics (ICCE): 
