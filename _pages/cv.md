@@ -16,7 +16,7 @@ Link to PDF files:
 <a href="/assets/pdf/luu_cv_fr.pdf">CV en français</a> 
 (last updated: Feb. 12, 2026)
 
-Link to my online CV on the HAL open archive: <a href="https://cv.hal.science/quang-trung-luu">[cv-hal]</a>
+Link to my online CV on the HAL open archive: <a href="https://cv.hal.science/quang-trung-luu">{cv-hal}</a> 
 
 ### Experiences
 * 09/2025-present: Associate Professor, [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France

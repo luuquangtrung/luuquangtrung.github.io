@@ -38,9 +38,9 @@ I serve as the co-coordinator for the Industry Communities of the
 
 
 Curriculum vitæ: 
-<a href="/assets/pdf/luu_cv_en.pdf">[english]</a> 
-<a href="/assets/pdf/luu_cv_fr.pdf">[français]</a> 
-<a href="https://cv.hal.science/quang-trung-luu">[cv-hal]</a> 
+<a href="/assets/pdf/luu_cv_en.pdf">{english}</a> 
+<a href="/assets/pdf/luu_cv_fr.pdf">{français}</a> 
+<a href="https://cv.hal.science/quang-trung-luu">{cv-hal}</a> 
 
 <!-- <a href="https://centralesupelec-my.sharepoint.com/:f:/g/personal/quangtrung_luu_centralesupelec_fr/IgACKiLY60kqSb3rBLRB6rHjASmqe6abGbw-kiC5xNJ6_5U?e=WymBXg">[PDF]</a>
  -->
