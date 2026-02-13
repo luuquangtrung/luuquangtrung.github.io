@@ -27,7 +27,7 @@ within the CIFRE Ph.D Fellowship program supported by the [French government (AN
 My thesis was awarded the [2022 Best PhD Dissertation Award on Distributed Systems and Networks](https://gdr-rsd.cnrs.fr/laureats-prix-de-these-2022/) 
 by the [French Research Community on Networks and Distributed Systems](https://gdr-rsd.cnrs.fr/), and [ACM SigOps France](http://www.sigops-france.fr/). 
 
-Prior to joining Paris-Saclay, I was a lecturer at the 
+Prior to joining Paris-Saclay, I was a lecturer (assistant professor) at the 
 [School of Electrical and Electronic Engineering](https://seee.hust.edu.vn/), 
 [Hanoi University of Science and Technology](https://en.hust.edu.vn/) (2023 - 2025), 
 and postdoctoral fellow at the [University of Avignon](https://lia.univ-avignon.fr/) 
