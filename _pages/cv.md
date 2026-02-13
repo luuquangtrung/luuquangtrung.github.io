@@ -12,8 +12,8 @@ nav_order: 1
  -->
 
 Link to PDF files: 
-<a href="/assets/pdf/luu_cv_en.pdf">CV in English</a>, 
-<a href="/assets/pdf/luu_cv_fr.pdf">CV en français</a> 
+<a href="/assets/pdf/luu_cv_en.pdf">{english}</a> 
+<a href="/assets/pdf/luu_cv_fr.pdf">{français}</a> 
 (last updated: Feb. 12, 2026)
 
 Link to my online CV on the HAL open archive: <a href="https://cv.hal.science/quang-trung-luu">{cv-hal}</a> 
