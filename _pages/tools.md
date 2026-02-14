@@ -12,7 +12,7 @@ nav_order: 8
 
 * CloudFlare remote: Turn on `CloudFlare WARP`, open `Remote Desktop Connection`. Login: `192.168.0.200`, ID: `trunglq`, MDP: `Hn@2024`
 * [Public Firefox browser to download papers via L2S network](https://ffbrowser-saclay-lqt.j12tee.qzz.io)
-* Remote desktop: https://webrdp-picoblue200-lqt.j12tee.qzz.io/, ID: `user0`, MDP: `su`
+* [Remote desktop to picoblue200](https://webrdp-picoblue200-lqt.j12tee.qzz.io/). ID: `user0`, MDP: `su`
 * SSH: `ssh trunglq@100.103.33.41`. Desktop login: `trunglq`, MDP: `Hn@2024`
 * Use `byobu` to keep session alive. Commands: 
 	* `f2` (new tab)
