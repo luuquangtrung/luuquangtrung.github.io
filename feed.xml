@@ -1,4 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-14T21:24:16+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp</title><link href="luuquangtrung.github.io/posts/2023/09/cifre-vietnam/" rel="alternate" type="text/html" title="R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp" /><published>2023-09-27T00:00:00+00:00</published><updated>2023-09-27T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/09/cifre</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/09/cifre-vietnam/"><![CDATA[<p>Bài gốc đăng trên báo <a href="https://thanhnien.vn/rd-ban-dap-tu-dao-tao-tien-si-lien-ket-han-lam-cong-nghiep-185230927084731245.htm">Thanh niên</a>, 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-14T23:34:04+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">Distill</title><link href="luuquangtrung.github.io/blog/2026/distill/" rel="alternate" type="text/html" title="Distill" /><published>2026-02-14T00:00:00+00:00</published><updated>2026-02-14T00:00:00+00:00</updated><id>luuquangtrung.github.io/blog/2026/distill</id><content type="html" xml:base="luuquangtrung.github.io/blog/2026/distill/"><![CDATA[<hr />
+<p>layout: distill
+title: a distill-style blog post
+description: an example of a distill-style blog post and main elements
+tags: distill formatting
+giscus_comments: true
+date: 2026-02-14
+featured: true
+map: true</p>
+
+<!-- mermaid:
+  enabled: true
+  zoomable: true
+code_diff: true -->
+
+<!-- chart:
+  chartjs: true
+  echarts: true
+  vega_lite: true
+tikzjax: true
+typograms: true -->
+
+<!-- authors:
+  - name: Albert Einstein
+    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+    affiliations:
+      name: IAS, Princeton
+  - name: Boris Podolsky
+    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
+    affiliations:
+      name: IAS, Princeton
+  - name: Nathan Rosen
+    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
+    affiliations:
+      name: IAS, Princeton -->
+
+<!-- bibliography: 2018-12-22-distill.bib -->
+
+<h1 id="optionally-you-can-add-a-table-of-contents-to-your-post">Optionally, you can add a table of contents to your post.</h1>
+<h1 id="notes">NOTES:</h1>
+<h1 id="--make-sure-that-toc-names-match-the-actual-section-names">- make sure that TOC names match the actual section names</h1>
+<h1 id="for-hyperlinks-within-the-post-to-work-correctly">for hyperlinks within the post to work correctly.</h1>
+<h1 id="--we-may-want-to-automate-toc-generation-in-the-future-using">- we may want to automate TOC generation in the future using</h1>
+<h1 id="jekyll-toc-plugin-httpsgithubcomtoshimarujekyll-toc">jekyll-toc plugin (https://github.com/toshimaru/jekyll-toc).</h1>
+<p>toc:</p>
+<ul>
+  <li>name: Equations
+    <h1 id="if-a-section-has-subsections-you-can-add-them-as-follows">if a section has subsections, you can add them as follows:</h1>
+    <h1 id="subsections">subsections:</h1>
+    <h1 id="--name-example-child-subsection-1">- name: Example Child Subsection 1</h1>
+    <h1 id="--name-example-child-subsection-2">- name: Example Child Subsection 2</h1>
+  </li>
+  <li>name: Citations</li>
+</ul>
+
+<h2 id="equations">Equations</h2>
+
+<p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine.
+You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>.
+If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
+
+<p>In fact, you can also use a single dollar sign <code class="language-plaintext highlighter-rouge">$</code> to create inline formulas, such as <code class="language-plaintext highlighter-rouge">$ E = mc^2 $</code>, which will render as $ E = mc^2 $. This approach provides the same effect during TeX-based compilation, but visually it appears slightly less bold compared to double-dollar signs <code class="language-plaintext highlighter-rouge">$$</code>, making it blend more naturally with surrounding text.</p>
+
+<p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge">$$</code> and place it as a separate paragraph.
+Here is an example:</p>
+
+\[\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)\]]]></content><author><name></name></author><summary type="html"><![CDATA[layout: distill title: a distill-style blog post description: an example of a distill-style blog post and main elements tags: distill formatting giscus_comments: true date: 2026-02-14 featured: true map: true]]></summary></entry><entry><title type="html">R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp</title><link href="luuquangtrung.github.io/posts/2023/09/cifre-vietnam/" rel="alternate" type="text/html" title="R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp" /><published>2023-09-27T00:00:00+00:00</published><updated>2023-09-27T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/09/cifre</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/09/cifre-vietnam/"><![CDATA[<p>Bài gốc đăng trên báo <a href="https://thanhnien.vn/rd-ban-dap-tu-dao-tao-tien-si-lien-ket-han-lam-cong-nghiep-185230927084731245.htm">Thanh niên</a>, 
 viết cùng <a href="https://www.di.ens.fr/users/phan/index.html">GS. Phan Dương Hiệu</a> (Télécom Paris, Institut Polytechnique de Paris).</p>
 
 <p><strong>Để cải thiện và thúc đẩy R&amp;D, ngoài các luật giúp các công ty có những ưu đãi trong việc triển 
