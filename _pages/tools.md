@@ -7,6 +7,9 @@ nav: false
 nav_order: 8
 ---
 
+#### Paris-Saclay's resources
+* [Moulon mesocentre](https://mesocentre.pages.centralesupelec.fr/user_doc/): Computing resource pool of CentraleSupélec and ENS Paris-Saclay,
+* [Imprimante CentraleSupélec](https://moncompte.centralesupelec.fr/people/me/printCanon)
 
 #### **picoblue200** (miniPC)
 
