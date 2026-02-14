@@ -14,16 +14,18 @@ nav_order: 8
 	* Turn on `CloudFlare WARP`, open `Remote Desktop Connection`
 	* Login: `192.168.0.200`, ID: `trunglq`, MDP: `Hn@2024`
 * [Public Firefox browser to download papers via L2S network](https://ffbrowser-saclay-lqt.j12tee.qzz.io)
-* [Remote desktop to picoblue200](https://webrdp-picoblue200-lqt.j12tee.qzz.io/). ID: `user0`, MDP: `su`
-* SSH: `ssh trunglq@100.103.33.41`. Desktop login: `trunglq`, MDP: `Hn@2024`
+* [Remote desktop to picoblue200](https://webrdp-picoblue200-lqt.j12tee.qzz.io/)
+	* Login ID: `user0`, MDP: `su`
+* SSH: `ssh trunglq@100.103.33.41`
+	* Desktop login: `trunglq`, MDP: `Hn@2024`
 * Use `byobu` to keep session alive. Commands: 
 	* `f2` (new tab)
 	* `f3/f4` (switch tab)
 	* `ctrl+f6` (close tab)
 	* `f6` (close byobu and keeps tabs open)
-* [Dashboard of picoblue200](https://picoblue200-lqt.j12tee.qzz.io). Tools: 
-	* `Navigator` (browse folders and upload files)
-	* `Terminal` (execute scripts)
+* [Dashboard of picoblue200](https://picoblue200-lqt.j12tee.qzz.io). 
+	* Login ID: `trunglq`, MDP: `Hn@2024`
+	* Tools: `Navigator` (browse folders and upload files), `Terminal` (execute scripts)
 * ssh/rdp: `192.168.122.1`
 	
 
@@ -33,15 +35,17 @@ nav_order: 8
 	mainboard Asus Z790 DDR5, 
 	RAM Kingston FURY Beast RGB 64GB (2x32GB) DDR5,
 	SSD Kingston 2TB PCIe 4.0 x4 NVMe M.2 
-* [Local Jupyter notebook](https://jupyter-ansalab.j12tee.qzz.io). ID: `ansalab01`, MDP: `su`
-* [Local Overleaf](https://overleaf-ansalab.j12tee.qzz.io). ID: `ansa@local.host`, MDP: `12345678`
+* [Local Jupyter notebook](https://jupyter-ansalab.j12tee.qzz.io).
+	* Login ID: `ansalab01`, MDP: `su`
+* [Local Overleaf](https://overleaf-ansalab.j12tee.qzz.io)
+	* Login ID: `ansa@local.host`, MDP: `12345678`
 * [ChatLLM](https://chatllm-ansalab.j12tee.qzz.io/)
 
 
 #### **Jetson Orin 2**
-* [Dashboard of Orin](https://orin4-saclay-lqt.j12tee.qzz.io/). ID: `nvidia`, MDP: `123456`. Tools: 
-	* `Navigator` (browse folders and upload files)
-	* `Terminal` (execute scripts)
+* [Dashboard of Orin](https://orin4-saclay-lqt.j12tee.qzz.io/)
+	* Login ID: `nvidia`, MDP: `123456`
+	* Tools: `Navigator` (browse folders and upload files), `Terminal` (execute scripts)
 
 #### **Other tools**
 * [IP check](https://j12tee.qzz.io/ipcheck)
