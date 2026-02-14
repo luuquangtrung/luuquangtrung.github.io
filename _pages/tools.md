@@ -3,7 +3,7 @@ layout: page
 permalink: /tools/
 title: tools
 description: Collection of frequently used tools
-nav: true
+nav: false
 nav_order: 8
 ---
 
