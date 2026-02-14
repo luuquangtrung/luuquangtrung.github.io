@@ -14,9 +14,14 @@ nav_order: 8
 * [Public Firefox browser to download papers via L2S network](https://ffbrowser-saclay-lqt.j12tee.qzz.io)
 * Remote desktop: https://webrdp-picoblue200-lqt.j12tee.qzz.io/, ID: `user0`, MDP: `su`
 * SSH: `ssh trunglq@100.103.33.41`. Desktop login: `trunglq`, MDP: `Hn@2024`
-* Use `byobu` to keep session alive. Commands: `f2` (new tab), `f3/f4` (switch tab), `ctrl+f6` (close tab), `f6` (close byobu and keeps tabs open)
-* [Dashboard of picoblue200](https://picoblue200-lqt.j12tee.qzz.io). 
-Tools: `Navigator` (browse folders and upload files), `Terminal` (execute scripts)
+* Use `byobu` to keep session alive. Commands: 
+	* `f2` (new tab)
+	* `f3/f4` (switch tab)
+	* `ctrl+f6` (close tab)
+	* `f6` (close byobu and keeps tabs open)
+* [Dashboard of picoblue200](https://picoblue200-lqt.j12tee.qzz.io). Tools: 
+	* `Navigator` (browse folders and upload files)
+	* `Terminal` (execute scripts)
 * ssh/rdp: `192.168.122.1`
 	
 
@@ -30,8 +35,9 @@ Tools: `Navigator` (browse folders and upload files), `Terminal` (execute script
 
 
 #### **Jetson Orin 2**
-* [Dashboard of Orin](https://orin4-saclay-lqt.j12tee.qzz.io/). ID: `nvidia`, MDP: `123456`.
-	Tools: `Navigator` (browse folders and upload files), `Terminal` (execute scripts)
+* [Dashboard of Orin](https://orin4-saclay-lqt.j12tee.qzz.io/). ID: `nvidia`, MDP: `123456`. Tools: 
+	* `Navigator` (browse folders and upload files)
+	* `Terminal` (execute scripts)
 
 #### **Other tools**
 * [IP check](https://j12tee.qzz.io/ipcheck)
