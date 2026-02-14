@@ -30,7 +30,7 @@ Tools: `Navigator` (browse folders and upload files), `Terminal` (execute script
 
 
 #### **Jetson Orin 2**
-* [Dashboard of Orin](https://orin4-saclay-lqt.j12tee.qzz.io/). ID: `nvidia`, MDP: `123456.
+* [Dashboard of Orin](https://orin4-saclay-lqt.j12tee.qzz.io/). ID: `nvidia`, MDP: `123456`.
 	Tools: `Navigator` (browse folders and upload files), `Terminal` (execute scripts)
 
 #### **Other tools**
