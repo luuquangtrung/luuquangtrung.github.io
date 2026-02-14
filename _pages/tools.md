@@ -12,11 +12,13 @@ nav_order: 8
 
 * CloudFlare remote: Turn on `CloudFlare WARP`, open `Remote Desktop Connection`. Login: `192.168.0.200`, ID: `trunglq`, pwd `Hn@2024`
 * [Public Firefox browser to download papers via L2S network](https://ffbrowser-saclay-lqt.j12tee.qzz.io)
-* Cockpit dashboard: https://picoblue200-lqt.j12tee.qzz.io, ssh/rdp: `192.168.122.1`
 * Remote desktop: https://webrdp-picoblue200-lqt.j12tee.qzz.io/, ID: `user0`, mdp: `su`
 * SSH: `ssh trunglq@100.103.33.41`. Desktop login: `trunglq`, mdp: `Hn@2024`
 * Use `byobu` to keep session alive. Commands: `f2` (new tab), `f3/f4` (switch tab), `ctrl+f6` (close tab), `f6` (close byobu and keeps tabs open)
-
+* [Dashboard of picoblue200](https://picoblue200-lqt.j12tee.qzz.io). 
+Tools: `Navigator` (browse folders and upload files), `Terminal` (execute scripts)
+* ssh/rdp: `192.168.122.1`
+	
 
 #### petitgreen (HUST-T2023-TD-011-ORAN project)
 * Specs: CPU Intel Core i9 14900K (36MB Cache, up to 6.0 GHz, 24C32T, socket 1700), 
@@ -28,7 +30,8 @@ nav_order: 8
 
 
 #### Jetson Orin 2
-* Access: https://orin4-saclay-lqt.j12tee.qzz.io/. ID: `nvidia`, mdp: `123456
+* [Dashboard of Orin](https://orin4-saclay-lqt.j12tee.qzz.io/). ID: `nvidia`, mdp: `123456.
+	Tools: `Navigator` (browse folders and upload files), `Terminal` (execute scripts)
 
 #### Other tools
-* IP check: [](https://j12tee.qzz.io/ipcheck)
+* [IP check](https://j12tee.qzz.io/ipcheck)
