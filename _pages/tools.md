@@ -8,7 +8,7 @@ nav_order: 8
 ---
 
 
-#### picoblue200 (miniPC)
+#### **picoblue200** (miniPC)
 
 * CloudFlare remote: Turn on `CloudFlare WARP`, open `Remote Desktop Connection`. Login: `192.168.0.200`, ID: `trunglq`, pwd `Hn@2024`
 * [Public Firefox browser to download papers via L2S network](https://ffbrowser-saclay-lqt.j12tee.qzz.io)
@@ -20,7 +20,7 @@ Tools: `Navigator` (browse folders and upload files), `Terminal` (execute script
 * ssh/rdp: `192.168.122.1`
 	
 
-#### petitgreen (HUST-T2023-TD-011-ORAN project)
+#### **petitgreen** (HUST-T2023-TD-011-ORAN project)
 * Specs: CPU Intel Core i9 14900K (36MB Cache, up to 6.0 GHz, 24C32T, socket 1700), 
 	Gigabyte GeForce RTX 4090 24GB, mainboard Asus Z790 DDR5, RAM Kingston FURY Beast RGB 64GB (2x32GB) DDR5,
 	SSD Kingston 2TB PCIe 4.0 x4 NVMe M.2 
@@ -29,9 +29,9 @@ Tools: `Navigator` (browse folders and upload files), `Terminal` (execute script
 * [ChatLLM](https://chatllm-ansalab.j12tee.qzz.io/)
 
 
-#### Jetson Orin 2
+#### **Jetson Orin 2**
 * [Dashboard of Orin](https://orin4-saclay-lqt.j12tee.qzz.io/). ID: `nvidia`, mdp: `123456.
 	Tools: `Navigator` (browse folders and upload files), `Terminal` (execute scripts)
 
-#### Other tools
+#### **Other tools**
 * [IP check](https://j12tee.qzz.io/ipcheck)
