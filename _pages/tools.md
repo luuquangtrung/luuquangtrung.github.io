@@ -26,8 +26,10 @@ nav_order: 8
 	
 
 #### **petitgreen** (HUST-T2023-TD-011-ORAN project)
-* Specs: CPU Intel Core i9 14900K (36MB Cache, up to 6.0 GHz, 24C32T, socket 1700), 
-	Gigabyte GeForce RTX 4090 24GB, mainboard Asus Z790 DDR5, RAM Kingston FURY Beast RGB 64GB (2x32GB) DDR5,
+* Specs: CPU Intel Core i9 14900K, 
+	Gigabyte GeForce RTX 4090 24GB, 
+	mainboard Asus Z790 DDR5, 
+	RAM Kingston FURY Beast RGB 64GB (2x32GB) DDR5,
 	SSD Kingston 2TB PCIe 4.0 x4 NVMe M.2 
 * [Local Jupyter notebook](https://jupyter-ansalab.j12tee.qzz.io). ID: `ansalab01`, MDP: `su`
 * [Local Overleaf](https://overleaf-ansalab.j12tee.qzz.io). ID: `ansa@local.host`, MDP: `12345678`
