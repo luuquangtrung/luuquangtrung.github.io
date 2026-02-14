@@ -1,20 +1,14 @@
 ---
 layout: page
-permalink: /research/
-title: research
+permalink: /projects/
+title: projects
 nav: true
-nav_order: 2
+nav_order: 9
 ---
 
 
   
 ### Funded Projects
-
-* **Federated Few-Shot Learning with Large Language and Visual Foundation Models under Data Scarcity and Heterogeneity**\
-  Funded by the U.S. Air Force Office of Scientific Research (AFOSR) (FA2386-26-1-4005)\
-  Duration: 2026 - 2027\
-  Role: Senior member
-
 * **Investigation of optimal resource allocation algorithms for next-generation mobile networks using network slicing**\
   Funded by Vietnamese Ministry of Education and Training (MOET)\
   Duration: Jan. 2025 - Dec. 2026\
