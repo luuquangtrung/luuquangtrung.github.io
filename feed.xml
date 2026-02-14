@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-14T23:34:04+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">Distill</title><link href="luuquangtrung.github.io/blog/2026/distill/" rel="alternate" type="text/html" title="Distill" /><published>2026-02-14T00:00:00+00:00</published><updated>2026-02-14T00:00:00+00:00</updated><id>luuquangtrung.github.io/blog/2026/distill</id><content type="html" xml:base="luuquangtrung.github.io/blog/2026/distill/"><![CDATA[<hr />
-<p>layout: distill
-title: a distill-style blog post
-description: an example of a distill-style blog post and main elements
-tags: distill formatting
-giscus_comments: true
-date: 2026-02-14
-featured: true
-map: true</p>
-
-<!-- mermaid:
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-14T23:39:23+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">a distill-style blog post</title><link href="luuquangtrung.github.io/blog/2026/distill/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2026-02-14T00:00:00+00:00</published><updated>2026-02-14T00:00:00+00:00</updated><id>luuquangtrung.github.io/blog/2026/distill</id><content type="html" xml:base="luuquangtrung.github.io/blog/2026/distill/"><![CDATA[<!-- mermaid:
   enabled: true
   zoomable: true
 code_diff: true -->
@@ -64,7 +54,7 @@ If you leave it inside a paragraph, it will produce an inline expression, just l
 <p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge">$$</code> and place it as a separate paragraph.
 Here is an example:</p>
 
-\[\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)\]]]></content><author><name></name></author><summary type="html"><![CDATA[layout: distill title: a distill-style blog post description: an example of a distill-style blog post and main elements tags: distill formatting giscus_comments: true date: 2026-02-14 featured: true map: true]]></summary></entry><entry><title type="html">R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp</title><link href="luuquangtrung.github.io/posts/2023/09/cifre-vietnam/" rel="alternate" type="text/html" title="R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp" /><published>2023-09-27T00:00:00+00:00</published><updated>2023-09-27T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/09/cifre</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/09/cifre-vietnam/"><![CDATA[<p>Bài gốc đăng trên báo <a href="https://thanhnien.vn/rd-ban-dap-tu-dao-tao-tien-si-lien-ket-han-lam-cong-nghiep-185230927084731245.htm">Thanh niên</a>, 
+\[\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)\]]]></content><author><name></name></author><category term="distill" /><category term="formatting" /><summary type="html"><![CDATA[an example of a distill-style blog post and main elements]]></summary></entry><entry><title type="html">R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp</title><link href="luuquangtrung.github.io/posts/2023/09/cifre-vietnam/" rel="alternate" type="text/html" title="R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp" /><published>2023-09-27T00:00:00+00:00</published><updated>2023-09-27T00:00:00+00:00</updated><id>luuquangtrung.github.io/posts/2023/09/cifre</id><content type="html" xml:base="luuquangtrung.github.io/posts/2023/09/cifre-vietnam/"><![CDATA[<p>Bài gốc đăng trên báo <a href="https://thanhnien.vn/rd-ban-dap-tu-dao-tao-tien-si-lien-ket-han-lam-cong-nghiep-185230927084731245.htm">Thanh niên</a>, 
 viết cùng <a href="https://www.di.ens.fr/users/phan/index.html">GS. Phan Dương Hiệu</a> (Télécom Paris, Institut Polytechnique de Paris).</p>
 
 <p><strong>Để cải thiện và thúc đẩy R&amp;D, ngoài các luật giúp các công ty có những ưu đãi trong việc triển 
