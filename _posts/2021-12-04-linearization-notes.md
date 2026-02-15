@@ -34,14 +34,13 @@ authors:
 toc:
 	- name: Introduction
 	- name: Some linearization techniques
-		subsections:
-			- name: Max-min functions
-			- name: Rounding functions: Ceil and Floor
-			- name: Product of two binary variables
-			- name: Product of multiple binary variables
-			- name: Product of a binary and a non-negative continuous variable
-			- name: Activate or deactivate a specific constraint
-			- name: Preventing loops in linear directed graph
+		- name: Max-min functions
+		- name: Rounding functions: Ceil and Floor
+		- name: Product of two binary variables
+		- name: Product of multiple binary variables
+		- name: Product of a binary and a non-negative continuous variable
+		- name: Activate or deactivate a specific constraint
+		- name: Preventing loops in linear directed graph
 	- name: References
 ---
 
