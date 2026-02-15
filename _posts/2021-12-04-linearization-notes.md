@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: "Some linearization techniques in linear programming"
+title: Some linearization techniques in linear programming
 description: A personal note on some useful linearization techniques in LP, mostly collected from [MathOverflow](https://mathoverflow.net/)
 date: 2021-12-04
 permalink: /posts/2021/12/notes-linearization/ 
@@ -12,7 +12,6 @@ header:
 tags:
   - linearization
   - linear program
-  
 giscus_comments: true
 featured: true
 mermaid:
@@ -32,7 +31,6 @@ authors:
     url: "https://luuquangtrung.github.io/"
     affiliations:
       name: L2S, CentraleSupélec, Université Paris-Saclay
-
 toc:
 	- name: Introduction
 	- name: Some linearization techniques
@@ -44,8 +42,8 @@ toc:
 		- name: 6. Activate or deactivate a specific constraint
 		- name: 7. Preventing loops in linear directed graph
 	- name: References
-
 ---
+
 
  
 ## Introduction
