@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-15T17:58:35+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">a distill-style blog post</title><link href="luuquangtrung.github.io/blog/2026/distill/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2026-02-14T00:00:00+00:00</published><updated>2026-02-14T00:00:00+00:00</updated><id>luuquangtrung.github.io/blog/2026/distill</id><content type="html" xml:base="luuquangtrung.github.io/blog/2026/distill/"><![CDATA[<h2 id="equations">Equations</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-15T18:01:09+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">a distill-style blog post</title><link href="luuquangtrung.github.io/blog/2026/distill/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2026-02-14T00:00:00+00:00</published><updated>2026-02-14T00:00:00+00:00</updated><id>luuquangtrung.github.io/blog/2026/distill</id><content type="html" xml:base="luuquangtrung.github.io/blog/2026/distill/"><![CDATA[<h2 id="equations">Equations</h2>
 
 <p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine.
 You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>.
@@ -615,7 +615,7 @@ quả đã nêu.
       <p>27/2015/TTLT-BKHCN-BTC, <a href="http://www.nafosted.gov.vn/vi/archives/view/272015TTLT-BKHCN-BTC-32/">Quy định khoán chi thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước</a>, 30/12/2015. <a href="#fnref:BKHCN27" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><category term="blog" /><category term="research proposal" /><category term="nafosted" /><category term="funding" /><summary type="html"><![CDATA[Nội dung của bài viết này chủ yếu lấy từ tài liệu [Tran2016]1 và các văn bản quy chế của Quỹ Nafosted23456. Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, The 3rd NAFOSTED Conference on Information and Computer Science, 2016. &#8617; 37/2014/TT-BKHCN, Quy định quản lý đề tài nghiên cứu cơ bản do Quỹ phát triển khoa học và công nghệ quốc gia tài trợ., 12/12/2014. &#8617; 31/QĐ-HĐQL-NAFOSTED, Phê duyệt và ban hành các danh mục tạp chí uy tín trong lĩnh vực KHTN&amp;KT theo quy định tại TT 37/2014/BKHCN, 30/03/2016. &#8617; 73/QĐ-HĐQL-NAFOSTED, Phê duyệt danh mục tạp chí quốc gia có uy tín trong lĩnh vực khoa học tự nhiên và kỹ thuật, 19/05/2016. &#8617; 55/2015/TTLT-BTC-BKHCN, Hướng dẫn định mức xây dựng, phân bố dự toán và quyết toán kinh phí đối với nhiệm vụ khoa học và công nghệ có sử dụng ngân sách nhà nước, 08/06/2015. &#8617; 27/2015/TTLT-BKHCN-BTC, Quy định khoán chi thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước, 30/12/2015. &#8617;]]></summary></entry><entry><title type="html">Some linearization techniques in linear programming</title><link href="luuquangtrung.github.io/blog/2021/linearization-notes/" rel="alternate" type="text/html" title="Some linearization techniques in linear programming" /><published>2021-12-04T00:00:00+00:00</published><updated>2021-12-04T00:00:00+00:00</updated><id>luuquangtrung.github.io/blog/2021/linearization-notes</id><content type="html" xml:base="luuquangtrung.github.io/blog/2021/linearization-notes/"><![CDATA[<!-- toc:
+</div>]]></content><author><name></name></author><category term="blog" /><category term="research proposal" /><category term="nafosted" /><category term="funding" /><summary type="html"><![CDATA[Nội dung của bài viết này chủ yếu lấy từ tài liệu [Tran2016]1 và các văn bản quy chế của Quỹ Nafosted23456. Trần Xuân Nam, Kinh nghiệm xây dựng thuyết minh đề cương đề tài NCCB, The 3rd NAFOSTED Conference on Information and Computer Science, 2016. &#8617; 37/2014/TT-BKHCN, Quy định quản lý đề tài nghiên cứu cơ bản do Quỹ phát triển khoa học và công nghệ quốc gia tài trợ., 12/12/2014. &#8617; 31/QĐ-HĐQL-NAFOSTED, Phê duyệt và ban hành các danh mục tạp chí uy tín trong lĩnh vực KHTN&amp;KT theo quy định tại TT 37/2014/BKHCN, 30/03/2016. &#8617; 73/QĐ-HĐQL-NAFOSTED, Phê duyệt danh mục tạp chí quốc gia có uy tín trong lĩnh vực khoa học tự nhiên và kỹ thuật, 19/05/2016. &#8617; 55/2015/TTLT-BTC-BKHCN, Hướng dẫn định mức xây dựng, phân bố dự toán và quyết toán kinh phí đối với nhiệm vụ khoa học và công nghệ có sử dụng ngân sách nhà nước, 08/06/2015. &#8617; 27/2015/TTLT-BKHCN-BTC, Quy định khoán chi thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước, 30/12/2015. &#8617;]]></summary></entry><entry><title type="html">Linearization techniques in linear programming</title><link href="luuquangtrung.github.io/blog/2021/linearization-notes/" rel="alternate" type="text/html" title="Linearization techniques in linear programming" /><published>2021-12-04T00:00:00+00:00</published><updated>2021-12-04T00:00:00+00:00</updated><id>luuquangtrung.github.io/blog/2021/linearization-notes</id><content type="html" xml:base="luuquangtrung.github.io/blog/2021/linearization-notes/"><![CDATA[<!-- toc:
   - name: Introduction
   - name: Some linearization techniques
     subsections: 
@@ -628,22 +628,27 @@ quả đã nêu.
 	- name: 7. Preventing loops in linear directed graph
   - name: References -->
 
-<!-- <d-contents>
+<d-contents>
   <nav class="l-text figcaption">
-  <h3>Contents</h3>
-    <div><a href="#representing-the-data">Representing the data</a></div>
-    <div><a href="#constructing-a-neural-tpp-model">Constructing a neural TPP model</a></div>
+    <h3>Contents</h3>
+
+    <div><a href="#introduction">Introduction</a></div>
+
+    <div><a href="#some-linearization-techniques">Some linearization techniques</a></div>
     <ul>
-      <li><a href="#encoding-the-history-into-a-vector">Encoding the history into a vector</a></li>
-      <li><a href="#choosing-a-parametric-distribution">Choosing a parametric distribution</a></li>
-      <li><a href="#conditional-distribution">Conditional distribution</a></li>
+      <li><a href="#max-min-functions">1. Max-min functions</a></li>
+      <li><a href="#rounding-functions-ceil-and-floor">2. Rounding functions: Ceil and Floor</a></li>
+      <li><a href="#product-of-two-binary-variables">3. Product of two binary variables</a></li>
+      <li><a href="#product-of-multiple-binary-variables">4. Product of multiple binary variables</a></li>
+      <li><a href="#product-of-a-binary-and-a-non-negative-continuous-variable">5. Product of a binary and a non-negative continuous variable</a></li>
+      <li><a href="#activate-or-deactivate-a-specific-constraint">6. Activate or deactivate a specific constraint</a></li>
+      <li><a href="#preventing-loops-in-linear-directed-graph">7. Preventing loops in linear directed graph</a></li>
     </ul>
-    <div><a href="#likelihood-function">Likelihood function</a></div>
-    <div><a href="#putting-everything-together">Putting everything together</a></div>
-    <div><a href="#concluding-remarks">Concluding remarks</a></div>
+
+    <div><a href="#references">References</a></div>
+
   </nav>
 </d-contents>
- -->
 
 <h2 id="introduction">Introduction</h2>
 
@@ -810,4 +815,4 @@ y &amp; \text{if }x=1.
       <p>StackExchange, <a href="https://math.stackexchange.com/questions/2479079/cycle-elimination-constraint-in-a-directed-graph"><em>Cycle elimination constraint in a directed graph</em></a>. Accessed Feb. 2024. <a href="#fnref:Cycle_Elimination" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name>Quang-Trung Luu</name></author><category term="blog" /><category term="linearization" /><category term="linear program" /><summary type="html"><![CDATA[My personal collection of useful linearization techniques in linear programming]]></summary></entry></feed>
+</div>]]></content><author><name>Quang-Trung Luu</name></author><category term="blog" /><category term="linearization" /><category term="linear program" /><summary type="html"><![CDATA[My personal collection of useful linearization techniques in LP]]></summary></entry></feed>
