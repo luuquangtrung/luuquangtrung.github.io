@@ -34,6 +34,11 @@ authors:
 toc:
   - name: Introduction
   - name: Some linearization techniques
+  - name: References
+---
+
+<!--   - name: Introduction
+  - name: Some linearization techniques
     subsections: 
 	- name: 1. Max-min functions
 	- name: 2. Rounding functions: Ceil and Floor
@@ -43,9 +48,7 @@ toc:
 	- name: 6. Activate or deactivate a specific constraint
 	- name: 7. Preventing loops in linear directed graph
   - name: References
----
-
-
+-->
  
 ## Introduction
 
