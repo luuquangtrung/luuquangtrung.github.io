@@ -1,7 +1,7 @@
 ---
 layout: page
-title: open data
-permalink: /opendata/
+title: data
+permalink: /data/
 nav: true
 nav_order: 5
 ---
