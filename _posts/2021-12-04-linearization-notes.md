@@ -31,7 +31,9 @@ authors:
     url: "https://luuquangtrung.github.io/"
     affiliations:
       name: L2S, CentraleSupélec, Université Paris-Saclay
-toc:
+---
+
+<!-- toc:
   - name: Introduction
   - name: Some linearization techniques
     subsections: 
@@ -42,10 +44,25 @@ toc:
 	- name: 5. Product of a binary and a non-negative continuous variable
 	- name: 6. Activate or deactivate a specific constraint
 	- name: 7. Preventing loops in linear directed graph
-  - name: References
----
+  - name: References -->
 
 
+<!-- <d-contents>
+  <nav class="l-text figcaption">
+  <h3>Contents</h3>
+    <div><a href="#representing-the-data">Representing the data</a></div>
+    <div><a href="#constructing-a-neural-tpp-model">Constructing a neural TPP model</a></div>
+    <ul>
+      <li><a href="#encoding-the-history-into-a-vector">Encoding the history into a vector</a></li>
+      <li><a href="#choosing-a-parametric-distribution">Choosing a parametric distribution</a></li>
+      <li><a href="#conditional-distribution">Conditional distribution</a></li>
+    </ul>
+    <div><a href="#likelihood-function">Likelihood function</a></div>
+    <div><a href="#putting-everything-together">Putting everything together</a></div>
+    <div><a href="#concluding-remarks">Concluding remarks</a></div>
+  </nav>
+</d-contents>
+ -->
 
  
 ## Introduction
