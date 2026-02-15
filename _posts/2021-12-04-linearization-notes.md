@@ -25,8 +25,8 @@ chart:
   vega_lite: true
 tikzjax: true
 typograms: true
-
-authors:
+---
+<!-- authors:
   - name: Quang-Trung Luu
     url: "https://luuquangtrung.github.io/"
     affiliations:
@@ -41,8 +41,8 @@ toc:
 		- name: 5. Product of a binary and a non-negative continuous variable
 		- name: 6. Activate or deactivate a specific constraint
 		- name: 7. Preventing loops in linear directed graph
-	- name: References
----
+	- name: References -->
+
 
 
  
