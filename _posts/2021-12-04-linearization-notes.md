@@ -3,7 +3,7 @@ layout: distill
 title: Some linearization techniques in linear programming
 description: A personal note on some useful linearization techniques in LP, mostly collected from [MathOverflow](https://mathoverflow.net/)
 date: 2021-12-04
-permalink: /posts/2021/12/notes-linearization/ 
+<!-- permalink: /posts/2021/12/notes-linearization/  -->
 read_time: false
 categories:
   - blog
