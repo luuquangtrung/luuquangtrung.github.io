@@ -787,35 +787,20 @@ d-byline h3 {
   color: var(--global-text-color) !important;
 }
 
-d-byline a,
-d-article d-byline a {
+d-byline a, d-article d-byline a {
   color: var(--global-text-color) !important;
 }
-d-byline a:hover,
-d-article d-byline a:hover {
+d-byline a:hover, d-article d-byline a:hover {
   color: var(--global-hover-color) !important;
 }
 
 d-article {
   border-top-color: var(--global-divider-color) !important;
 }
-d-article p,
-d-article h1,
-d-article h2,
-d-article h3,
-d-article h4,
-d-article h5,
-d-article h6,
-d-article li,
-d-article table {
+d-article p, d-article h1, d-article h2, d-article h3, d-article h4, d-article h5, d-article h6, d-article li, d-article table {
   color: var(--global-text-color) !important;
 }
-d-article h1,
-d-article h2,
-d-article hr,
-d-article table,
-d-article table th,
-d-article table td {
+d-article h1, d-article h2, d-article hr, d-article table, d-article table th, d-article table td {
   border-bottom-color: var(--global-divider-color) !important;
 }
 d-article a {
@@ -826,9 +811,6 @@ d-article a:hover {
 }
 d-article b i {
   display: inline;
-}
-d-article blockquote {
-  border-left: 2px solid var(--global-theme-color) !important;
 }
 d-article details {
   color: var(--global-text-color);
@@ -903,39 +885,19 @@ d-article d-contents toc-line {
 }
 d-article d-footnote {
   scroll-margin-top: 66px;
-  color: var(--global-theme-color) !important; /* Footnote text color */
-}
-d-article d-footnote:hover {
-  color: var(--global-hover-color) !important; /* Footnote hover color */
-}
-d-article {
-  /* Citations */
-}
-d-article d-cite a,
-d-article a.citation {
-  /* Target citations within d-cite and also general .citation links */
-  color: var(--global-theme-color) !important;
-}
-d-article d-cite a:hover,
-d-article a.citation:hover {
-  color: var(--global-hover-color) !important;
 }
 
 d-appendix {
   border-top-color: var(--global-divider-color) !important;
   color: var(--global-distill-app-color) !important;
 }
-d-appendix h3,
-d-appendix li,
-d-appendix span {
+d-appendix h3, d-appendix li, d-appendix span {
   color: var(--global-distill-app-color) !important;
 }
-d-appendix a,
-d-appendix a.footnote-backlink {
+d-appendix a, d-appendix a.footnote-backlink {
   color: var(--global-distill-app-color) !important;
 }
-d-appendix a:hover,
-d-appendix a.footnote-backlink:hover {
+d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   color: var(--global-hover-color) !important;
 }
 
