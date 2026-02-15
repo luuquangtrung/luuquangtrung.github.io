@@ -1,6 +1,7 @@
 ---
+layout: distill
 title: "Some linearization techniques in linear programming"
-layout: post
+description: A personal note on some useful linearization techniques in LP, mostly collected from [MathOverflow](https://mathoverflow.net/)
 date: 2021-12-04
 permalink: /posts/2021/12/notes-linearization/ 
 read_time: false
@@ -11,8 +12,43 @@ header:
 tags:
   - linearization
   - linear program
+  
+giscus_comments: true
+featured: true
+mermaid:
+  enabled: true
+  zoomable: true
+code_diff: true
+map: true
+chart:
+  chartjs: true
+  echarts: true
+  vega_lite: true
+tikzjax: true
+typograms: true
+
+authors:
+  - name: Quang-Trung Luu
+    url: "https://luuquangtrung.github.io/"
+    affiliations:
+      name: L2S, CentraleSupélec, Université Paris-Saclay
+
+toc:
+	- name: Introduction
+	- name: Some linearization techniques
+		- name: 1. Max-min functions
+		- name: 2. Rounding functions: Ceil and Floor
+		- name: 3. Product of two binary variables
+		- name: 4. Product of multiple binary variables
+		- name: 5. Product of a binary and a non-negative continuous variable
+		- name: 6. Activate or deactivate a specific constraint
+		- name: 7. Preventing loops in linear directed graph
+	- name: References
+
 ---
 
+ 
+## Introduction
 
 Linear programming (LP) is the minimization of a linear form on a polyhedron[^Dantzig1955]. The standard form of an LP is
 
