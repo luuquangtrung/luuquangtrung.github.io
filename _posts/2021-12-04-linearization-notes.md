@@ -34,11 +34,6 @@ authors:
 toc:
   - name: Introduction
   - name: Some linearization techniques
-  - name: References
----
-
-<!--   - name: Introduction
-  - name: Some linearization techniques
     subsections: 
 	- name: 1. Max-min functions
 	- name: 2. Rounding functions: Ceil and Floor
@@ -48,7 +43,10 @@ toc:
 	- name: 6. Activate or deactivate a specific constraint
 	- name: 7. Preventing loops in linear directed graph
   - name: References
--->
+---
+
+
+
  
 ## Introduction
 
@@ -73,7 +71,7 @@ where $$c \in \mathbb{R}^n$$, $$b \in \mathbb{R}^m$$, and $$A$$ is the $$m{\time
 ## Some linearization techniques
 Following are some linearization techniques which transform nonlinear terms to linear forms, which may involve additional (usually integer or binary) variables.
 
-##### 1. Max-min functions
+### 1. Max-min functions
 The term $$X = \max\{x_{1}, x_{2}\}$$ can be linearized by introducing an additional binary decision variable $$y$$ and using the so-called big-$$M$$ method.
 
 The following constraints[^SE_max] enforce the definition of $$X$$ and $$y$$:
@@ -105,7 +103,7 @@ The value of $$M$$ has to be carefully chosen. See more [here](https://or.stacke
 [^SE_min]: StackExchange, [*How to linearize min function as a constraint?*](https://or.stackexchange.com/questions/1160/how-to-linearize-min-function-as-a-constraint). Accessed Dec. 2021.
 
 
-##### 2. Rounding functions: Ceil and Floor
+### 2. Rounding functions: Ceil and Floor
 
 A floor function $$y = \lfloor x \rfloor$$ can be linearized as[^SE_round]
 
@@ -129,7 +127,7 @@ $$
 [^SE_round]: StackExchange, [*Linear program with ceiling or floor functions*](https://math.stackexchange.com/questions/1862885/linear-program-with-ceiling-or-floor-functions). Accessed Dec. 2021.
 
 
-##### 3. Product of two binary variables
+### 3. Product of two binary variables
 A product term $$x_{1}x_{2}$$, where $$x_{1}, x_{2} \in \{0,1\}$$ occuring in a linear program can be replaced by an auxiliary continuous variable $$y \in [0,1]$$ and the following so-called Fortet' constraints[^Fortet1960]:
 
 $$
@@ -143,7 +141,7 @@ $$
 [^Fortet1960]: R. Fortet. Applications de l’algèbre de Boole en recherche opérationelle. *Revue Française de Recherche Opérationelle*, 4:17–26, 1960.
 
 
-##### 4. Product of multiple binary variables
+### 4. Product of multiple binary variables
 The above technique could also be extended to the product of multiple variables: $$y_\mathcal{I} = \prod_{i \in \mathcal{I}} x_i$$, where $$x_i \in \{0,1\}$$, $$\forall i \in \mathcal{I}$$. The linearization constraints are[^Liberti2018]
 
 $$
@@ -153,7 +151,7 @@ y_{\mathcal{I}} & \geq \sum_{i \in \mathcal{I}} x_{i} - |\mathcal{I}| + 1.
 \end{align*}
 $$
 
-##### 5. Product of a binary and a non-negative continuous variable
+### 5. Product of a binary and a non-negative continuous variable
 
 Suppose we have a binary variable $$x \in \{0,1\}$$ and a non-negative continuous variable $$y \in \mathbb{R_+}$$. The product $$z = xy$$ is thus
 
@@ -175,7 +173,7 @@ where $$z \in \mathbb{R_+}$$, $$M$$ is a sufficiently large value so that it wou
 [^SE_prod]: StackExchange, [*How to linearize the product of a binary and a non-negative continuous variable?*](https://or.stackexchange.com/questions/39/how-to-linearize-the-product-of-a-binary-and-a-non-negative-continuous-variable). Accessed Dec. 2021.
 
 
-##### 6. Activate or deactivate a specific constraint
+### 6. Activate or deactivate a specific constraint
 
 The Big-$$M$$ method can also be used to activate or deactivate a specific constraint as follows[^SE_activate]
 
@@ -212,7 +210,7 @@ The Big-$$M$$ method can also be used to activate or deactivate a specific const
 
 [^SE_activate]: StackExchange, [*In an integer program, how can I “activate” a constraint only if a decision variable has a certain value?*](https://or.stackexchange.com/questions/76/in-an-integer-program-how-can-i-activate-a-constraint-only-if-a-decision-vari). Accessed Sept. 2023.
 
-##### 7. Preventing loops in linear directed graph
+### 7. Preventing loops in linear directed graph
 Let $$x_{ij}$$ be a binary variable indicating that the arc $$(i,j)$$ is present, the constraint
 
 $$
@@ -230,5 +228,5 @@ See more:
 * [In an integer program, how I can force a binary variable to equal 1 if some condition holds?](https://or.stackexchange.com/questions/33/in-an-integer-program-how-i-can-force-a-binary-variable-to-equal-1-if-some-cond)
 
   
-### References
+## References
 
