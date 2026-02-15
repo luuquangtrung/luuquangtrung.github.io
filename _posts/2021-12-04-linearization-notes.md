@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Linearization techniques in linear programming
+title: "Linearization techniques in linear programming"
 description: My personal collection of useful linearization techniques in LP
 date: 2021-12-04
 <!-- permalink: /posts/2021/12/notes-linearization/  -->
