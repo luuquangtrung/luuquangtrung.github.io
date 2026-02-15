@@ -25,8 +25,8 @@ chart:
   vega_lite: true
 tikzjax: true
 typograms: true
----
-<!-- authors:
+
+authors:
   - name: Quang-Trung Luu
     url: "https://luuquangtrung.github.io/"
     affiliations:
@@ -34,15 +34,16 @@ typograms: true
 toc:
 	- name: Introduction
 	- name: Some linearization techniques
-		- name: 1. Max-min functions
-		- name: 2. Rounding functions: Ceil and Floor
-		- name: 3. Product of two binary variables
-		- name: 4. Product of multiple binary variables
-		- name: 5. Product of a binary and a non-negative continuous variable
-		- name: 6. Activate or deactivate a specific constraint
-		- name: 7. Preventing loops in linear directed graph
-	- name: References -->
-
+		subsections:
+			- name: 1. Max-min functions
+			- name: 2. Rounding functions: Ceil and Floor
+			- name: 3. Product of two binary variables
+			- name: 4. Product of multiple binary variables
+			- name: 5. Product of a binary and a non-negative continuous variable
+			- name: 6. Activate or deactivate a specific constraint
+			- name: 7. Preventing loops in linear directed graph
+	- name: References
+---
 
 
  
