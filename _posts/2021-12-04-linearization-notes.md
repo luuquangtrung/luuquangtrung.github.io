@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Some linearization techniques in linear programming
-description: My personal collection of useful linearization techniques in linear programming
+title: Linearization techniques in linear programming
+description: My personal collection of useful linearization techniques in LP
 date: 2021-12-04
 <!-- permalink: /posts/2021/12/notes-linearization/  -->
 read_time: false
@@ -47,22 +47,27 @@ authors:
   - name: References -->
 
 
-<!-- <d-contents>
+<d-contents>
   <nav class="l-text figcaption">
-  <h3>Contents</h3>
-    <div><a href="#representing-the-data">Representing the data</a></div>
-    <div><a href="#constructing-a-neural-tpp-model">Constructing a neural TPP model</a></div>
+    <h3>Contents</h3>
+
+    <div><a href="#introduction">Introduction</a></div>
+
+    <div><a href="#some-linearization-techniques">Some linearization techniques</a></div>
     <ul>
-      <li><a href="#encoding-the-history-into-a-vector">Encoding the history into a vector</a></li>
-      <li><a href="#choosing-a-parametric-distribution">Choosing a parametric distribution</a></li>
-      <li><a href="#conditional-distribution">Conditional distribution</a></li>
+      <li><a href="#max-min-functions">1. Max-min functions</a></li>
+      <li><a href="#rounding-functions-ceil-and-floor">2. Rounding functions: Ceil and Floor</a></li>
+      <li><a href="#product-of-two-binary-variables">3. Product of two binary variables</a></li>
+      <li><a href="#product-of-multiple-binary-variables">4. Product of multiple binary variables</a></li>
+      <li><a href="#product-of-a-binary-and-a-non-negative-continuous-variable">5. Product of a binary and a non-negative continuous variable</a></li>
+      <li><a href="#activate-or-deactivate-a-specific-constraint">6. Activate or deactivate a specific constraint</a></li>
+      <li><a href="#preventing-loops-in-linear-directed-graph">7. Preventing loops in linear directed graph</a></li>
     </ul>
-    <div><a href="#likelihood-function">Likelihood function</a></div>
-    <div><a href="#putting-everything-together">Putting everything together</a></div>
-    <div><a href="#concluding-remarks">Concluding remarks</a></div>
+
+    <div><a href="#references">References</a></div>
+
   </nav>
 </d-contents>
- -->
 
  
 ## Introduction
