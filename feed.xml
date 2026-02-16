@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-16T15:17:51+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp</title><link href="luuquangtrung.github.io/blog/2023/cifre/" rel="alternate" type="text/html" title="R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp" /><published>2023-09-27T00:00:00+00:00</published><updated>2023-09-27T00:00:00+00:00</updated><id>luuquangtrung.github.io/blog/2023/cifre</id><content type="html" xml:base="luuquangtrung.github.io/blog/2023/cifre/"><![CDATA[<d-contents>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="luuquangtrung.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="luuquangtrung.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-16T16:28:26+00:00</updated><id>luuquangtrung.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp</title><link href="luuquangtrung.github.io/blog/2023/cifre/" rel="alternate" type="text/html" title="R&amp;amp;D: Bàn đạp từ đào tạo tiến sĩ liên kết hàn lâm - công nghiệp" /><published>2023-09-27T00:00:00+00:00</published><updated>2023-09-27T00:00:00+00:00</updated><id>luuquangtrung.github.io/blog/2023/cifre</id><content type="html" xml:base="luuquangtrung.github.io/blog/2023/cifre/"><![CDATA[<d-contents>
   <nav class="l-text figcaption">
     <h3>Nội dung</h3>
     <div><a href="#dong-co-lien-ket">Động cơ liên kết</a></div>
@@ -297,7 +297,7 @@ các bên đều thấy có ích lợi thực sự, chứ không thể tự dưn
 
     <div><a href="#some-linearization-techniques">Some linearization techniques</a></div>
     <ul>
-      <li><a href="#max-min-functions">Max-min functions</a></li>
+      <li><a href="#max-min-functions">1. Max-min functions</a></li>
       <li><a href="#rounding-functions-ceil-and-floor">2. Rounding functions: Ceil and Floor</a></li>
       <li><a href="#product-of-two-binary-variables">3. Product of two binary variables</a></li>
       <li><a href="#product-of-multiple-binary-variables">4. Product of multiple binary variables</a></li>
@@ -326,7 +326,10 @@ các bên đều thấy có ích lợi thực sự, chứ không thể tự dưn
 <h2 id="some-linearization-techniques">Some linearization techniques</h2>
 <p>Following are some linearization techniques which transform nonlinear terms to linear forms, which may involve additional (usually integer or binary) variables.</p>
 
-<h3 id="max-min-functions">Max-min functions</h3>
+<h3 id="max-min-functions">1. Max-min functions</h3>
+
+<!-- ### Max-min functions -->
+
 <p>The term \(X = \max\{x_{1}, x_{2}\}\) can be linearized by introducing an additional binary decision variable \(y\) and using the so-called big-\(M\) method.</p>
 
 <p>The following constraints<sup id="fnref:SE_max"><a href="#fn:SE_max" class="footnote" rel="footnote" role="doc-noteref">3</a></sup> enforce the definition of \(X\) and \(y\):</p>
