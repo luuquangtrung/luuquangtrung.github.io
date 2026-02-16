@@ -55,7 +55,7 @@ authors:
 
     <div><a href="#some-linearization-techniques">Some linearization techniques</a></div>
     <ul>
-      <li><a href="#max-min-functions">Max-min functions</a></li>
+      <li><a href="#max-min-functions">1. Max-min functions</a></li>
       <li><a href="#rounding-functions-ceil-and-floor">2. Rounding functions: Ceil and Floor</a></li>
       <li><a href="#product-of-two-binary-variables">3. Product of two binary variables</a></li>
       <li><a href="#product-of-multiple-binary-variables">4. Product of multiple binary variables</a></li>
@@ -93,7 +93,11 @@ where $$c \in \mathbb{R}^n$$, $$b \in \mathbb{R}^m$$, and $$A$$ is the $$m{\time
 ## Some linearization techniques
 Following are some linearization techniques which transform nonlinear terms to linear forms, which may involve additional (usually integer or binary) variables.
 
-### Max-min functions
+
+<h3 id="max-min-functions">1. Max-min functions</h3>
+
+<!-- ### Max-min functions -->
+
 The term $$X = \max\{x_{1}, x_{2}\}$$ can be linearized by introducing an additional binary decision variable $$y$$ and using the so-called big-$$M$$ method.
 
 The following constraints[^SE_max] enforce the definition of $$X$$ and $$y$$:
