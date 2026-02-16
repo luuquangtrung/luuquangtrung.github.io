@@ -219,26 +219,30 @@
   </nav>
 </d-contents>
 
-<h2 id="introduction">Introduction</h2>
+<!-- ## Introduction -->
+<h2 id="#introduction">Introduction</h2>
 
 <p>Linear programming (LP) is the minimization of a linear form on a polyhedron<sup id="fnref:Dantzig1955"><a href="#fn:Dantzig1955" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>. 
-The standard form of an LP is
-\(\begin{align*}
+The standard form of an LP is</p>
+
+\[\begin{align*}
 \min &amp; \quad c^\top x \\
      &amp; \quad Ax = b, \\
      &amp; \quad x \geq 0,
-\end{align*}\)
-where \(c \in \mathbb{R}^n\), \(b \in \mathbb{R}^m\), and \(A\) is the \(m{\times}n\)-matrix of coefficients. LP has been shown<sup id="fnref:Liberti2018"><a href="#fn:Liberti2018" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> to be fell into the computational complexity class <strong>P</strong>. It is hard sometimes to cast the problem as an LP. It such situation we may need to add some integer or binary variables. This leads us to an MILP (mixed integer LP) problem, which includes ILP (integer variables only), BLP (binary variables only), or LP as a special case. MILP is another fundamental problem in mathematical programming, and has been shown to be <strong>NP</strong>-hard<sup id="fnref:Liberti2018:1"><a href="#fn:Liberti2018" class="footnote" rel="footnote" role="doc-noteref">2</a></sup>.</p>
+\end{align*}\]
 
+<p>where \(c \in \mathbb{R}^n\), \(b \in \mathbb{R}^m\), and \(A\) is the \(m{\times}n\)-matrix of coefficients. LP has been shown<sup id="fnref:Liberti2018"><a href="#fn:Liberti2018" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> to be fell into the computational complexity class <strong>P</strong>. It is hard sometimes to cast the problem as an LP. It such situation we may need to add some integer or binary variables. This leads us to an MILP (mixed integer LP) problem, which includes ILP (integer variables only), BLP (binary variables only), or LP as a special case. MILP is another fundamental problem in mathematical programming, and has been shown to be <strong>NP</strong>-hard<sup id="fnref:Liberti2018:1"><a href="#fn:Liberti2018" class="footnote" rel="footnote" role="doc-noteref">2</a></sup>.</p>
+
+<!-- ## Some linearization techniques -->
 <h2 id="some-linearization-techniques">Some linearization techniques</h2>
+
 <p>Following are some linearization techniques which transform nonlinear terms to linear forms, 
 which may involve additional (usually integer or binary) variables.</p>
 
 <!-- ### Max-min functions -->
 <h3 id="max-min-functions">1. Max-min functions</h3>
 
-<p>The term \(X = \max\{x_{1}, x_{2}\}\) can be linearized by introducing an additional binary 
-decision variable \(y\) and using the so-called big-\(M\) method.</p>
+<p>The term \(X = \max\{x_{1}, x_{2}\}\) can be linearized by introducing an additional binary decision variable \(y\) and using the so-called big-\(M\) method.</p>
 
 <p>The following constraints<sup id="fnref:SE_max"><a href="#fn:SE_max" class="footnote" rel="footnote" role="doc-noteref">3</a></sup> enforce the definition of \(X\) and \(y\):</p>
 
@@ -258,8 +262,7 @@ X &amp; \geq x_{1} - M(1 - y), \\
 X &amp; \geq x_{2} - My.
 \end{align*}\]
 
-<p>The value of \(M\) has to be carefully chosen. 
-See more <a href="https://or.stackexchange.com/questions/236/why-is-it-important-to-choose-big-m-carefully-and-what-are-the-consequences-of-d" rel="external nofollow noopener" target="_blank">here</a>.</p>
+<p>The value of \(M\) has to be carefully chosen. See more <a href="https://or.stackexchange.com/questions/236/why-is-it-important-to-choose-big-m-carefully-and-what-are-the-consequences-of-d" rel="external nofollow noopener" target="_blank">here</a>.</p>
 
 <!-- ### 2. Rounding functions: Ceil and Floor -->
 <h3 id="rounding-functions-ceil-and-floor">2. Rounding functions: Ceil and Floor</h3>
@@ -281,9 +284,7 @@ See more <a href="https://or.stackexchange.com/questions/236/why-is-it-important
 <!-- ### 3. Product of two binary variables -->
 <h3 id="product-of-two-binary-variables">3. Product of two binary variables</h3>
 
-<p>A product term \(x_{1}x_{2}\), where \(x_{1}, x_{2} \in \{0,1\}\) occuring in a linear program 
-can be replaced by an auxiliary continuous variable \(y \in [0,1]\) and the following so-called 
-Fortet’ constraints<sup id="fnref:Fortet1960"><a href="#fn:Fortet1960" class="footnote" rel="footnote" role="doc-noteref">6</a></sup>:</p>
+<p>A product term \(x_{1}x_{2}\), where \(x_{1}, x_{2} \in \{0,1\}\) occuring in a linear program can be replaced by an auxiliary continuous variable \(y \in [0,1]\) and the following so-called Fortet’ constraints<sup id="fnref:Fortet1960"><a href="#fn:Fortet1960" class="footnote" rel="footnote" role="doc-noteref">6</a></sup>:</p>
 
 \[\begin{align*}
 y &amp; \leq x_{1}, \\
@@ -294,27 +295,28 @@ y &amp; \geq x_{1} + x_{2} - 1.
 <!-- ### 4. Product of multiple binary variables -->
 <h3 id="product-of-multiple-binary-variables">4. Product of multiple binary variables</h3>
 
-<p>The above technique could also be extended to the product of multiple variables: 
-\(y_\mathcal{I} = \prod_{i \in \mathcal{I}} x_i\), where \(x_i \in \{0,1\}\), \(\forall i \in \mathcal{I}\). 
-The linearization constraints are<sup id="fnref:Liberti2018:2"><a href="#fn:Liberti2018" class="footnote" rel="footnote" role="doc-noteref">2</a></sup>
-\(\begin{align*}
+<p>The above technique could also be extended to the product of multiple variables: \(y_\mathcal{I} = \prod_{i \in \mathcal{I}} x_i\), where \(x_i \in \{0,1\}\), \(\forall i \in \mathcal{I}\). The linearization constraints are<sup id="fnref:Liberti2018:2"><a href="#fn:Liberti2018" class="footnote" rel="footnote" role="doc-noteref">2</a></sup></p>
+
+\[\begin{align*}
 y_{\mathcal{I}} &amp; \leq x_{i}, \quad \forall i \in \mathcal{I}, \\
 y_{\mathcal{I}} &amp; \geq \sum_{i \in \mathcal{I}} x_{i} - |\mathcal{I}| + 1.
-\end{align*}\)</p>
+\end{align*}\]
 
 <!-- ### 5. Product of a binary and a non-negative continuous variable -->
 <h3 id="product-of-a-binary-and-a-non-negative-continuous-variable">5. Product of a binary and a non-negative continuous variable</h3>
 
-<p>Suppose we have a binary variable \(x \in \{0,1\}\) and a non-negative continuous variable \(y \in \mathbb{R_+}\). 
-The product \(z = xy\) is thus
-\(z=\begin{cases}
+<p>Suppose we have a binary variable \(x \in \{0,1\}\) and a non-negative continuous variable \(y \in \mathbb{R_+}\). The product \(z = xy\) is thus</p>
+
+\[z=\begin{cases}
 0 &amp; \text{if }x=0, \\
 y &amp; \text{if }x=1.
-\end{cases}\)</p>
+\end{cases}\]
 
-<p>\(z\) can be linearized by using the big-\(M\) method<sup id="fnref:SE_prod"><a href="#fn:SE_prod" class="footnote" rel="footnote" role="doc-noteref">7</a></sup>,
-\(z \geq y - (1-x)M,\)
-where \(z \in \mathbb{R_+}\), \(M\) is a sufficiently large value so that it would not be part of any feasible solution.</p>
+<p>\(z\) can be linearized by using the big-\(M\) method<sup id="fnref:SE_prod"><a href="#fn:SE_prod" class="footnote" rel="footnote" role="doc-noteref">7</a></sup>,</p>
+
+\[z \geq y - (1-x)M,\]
+
+<p>where \(z \in \mathbb{R_+}\), \(M\) is a sufficiently large value so that it would not be part of any feasible solution.</p>
 
 <!-- ### 6. Activate or deactivate a specific constraint -->
 <h3 id="activate-or-deactivate-a-specific-constraint">6. Activate or deactivate a specific constraint</h3>
@@ -323,33 +325,41 @@ where \(z \in \mathbb{R_+}\), \(M\) is a sufficiently large value so that it wou
 
 <ul>
   <li>
-    <p><strong>LEQ (less-than-or-equal-to) constraint</strong> (i.e., \(Ax \leq b\)): It could be activated/deactivated by 
-using an additional variable \(y  \in \{0,1\}\) as
-\(Ax \leq b + M(1 − y).\)
-Here if \(y = 0\) the constraint \(Ax \leq b\) is deactivated, and otherwise if \(y = 1\).</p>
+    <p><strong>LEQ (less-than-or-equal-to) constraint</strong> (i.e., \(Ax \leq b\)): It could be activated/deactivated by using an additional variable \(y  \in \{0,1\}\) as</p>
+
+\[Ax \leq b + M(1 − y).\]
+
+    <p>Here if \(y = 0\) the constraint \(Ax \leq b\) is deactivated, and otherwise if \(y = 1\).</p>
   </li>
   <li>
-    <p><strong>GEQ (greater-than-or-equal-to) constraint</strong> (i.e., \(Ax \geq b\)): Then we need the following
-\(Ax \geq b − M(1−y).\)
-If all coefficients in \(A\) are nonnegative, we can instead write
-\(Ax \geq b(1−y),\)
-which is tighter than the previous constraint.</p>
+    <p><strong>GEQ (greater-than-or-equal-to) constraint</strong> (i.e., \(Ax \geq b\)): Then we need the following</p>
+
+\[Ax \geq b − M(1−y).\]
+
+    <p>If all coefficients in \(A\) are nonnegative, we can instead write</p>
+
+\[Ax \geq b(1−y),\]
+
+    <p>which is tighter than the previous constraint.</p>
   </li>
   <li>
-    <p><strong>Equality constraint</strong> (i.e., \(Ax = b\)): Then the following constraints are used
-\(\begin{align*}
-Ax &amp; \leq b + M(1 − y), \\
-Ax &amp; \geq b − M(1 − y)
-\end{align*}\)</p>
+    <p><strong>Equality constraint</strong> (i.e., \(Ax = b\)): Then the following constraints are used</p>
+
+\[\begin{align*}
+ Ax &amp; \leq b + M(1 − y), \\
+ Ax &amp; \geq b − M(1 − y)
+\end{align*}\]
   </li>
 </ul>
 
 <!-- ### 7. Preventing loops in linear directed graph -->
 <h3 id="preventing-loops-in-linear-directed-graph">7. Preventing loops in linear directed graph</h3>
 
-<p>Let \(x_{ij}\) be a binary variable indicating that the arc \((i,j)\) is present, the constraint
-\(\sum_{i,j\in\mathcal{V}^{'}}x_{ij}\leq\left|\mathcal{V}^{'}\right|-1,\quad\forall\mathcal{V}^{'}\subseteq\mathcal{V}\)
-will prevent creating loops in a linear directed graph<sup id="fnref:Cycle_Elimination"><a href="#fn:Cycle_Elimination" class="footnote" rel="footnote" role="doc-noteref">9</a></sup>.</p>
+<p>Let \(x_{ij}\) be a binary variable indicating that the arc \((i,j)\) is present, the constraint</p>
+
+\[\sum_{i,j\in\mathcal{V}^{'}}x_{ij}\leq\left|\mathcal{V}^{'}\right|-1,\quad\forall\mathcal{V}^{'}\subseteq\mathcal{V}\]
+
+<p>will prevent creating loops in a linear directed graph<sup id="fnref:Cycle_Elimination"><a href="#fn:Cycle_Elimination" class="footnote" rel="footnote" role="doc-noteref">9</a></sup>.</p>
 
 <p>See more:</p>
 <ul>
@@ -359,8 +369,8 @@ will prevent creating loops in a linear directed graph<sup id="fnref:Cycle_Elimi
   <li><a href="https://or.stackexchange.com/questions/33/in-an-integer-program-how-i-can-force-a-binary-variable-to-equal-1-if-some-cond" rel="external nofollow noopener" target="_blank">In an integer program, how I can force a binary variable to equal 1 if some condition holds?</a></li>
 </ul>
 
-<h2 id="references">References</h2>
-
+<!-- ## References -->
+<h2 id="#references">References</h2>
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:Dantzig1955">
