@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: distill
 permalink: /research/
 title: research
 nav: true
