@@ -7,8 +7,21 @@ nav_order: 2
 ---
 
 
+
+<d-contents>
+  <nav class="l-text figcaption">
+    <h3>Contents</h3>
+	
+    <div><a href="#funded-projects">Funded Projects</a></div>
+    <div><a href="#supervisions">Supervisions</a></div>
+  </nav>
+</d-contents>
+
+
+
   
-### Funded Projects
+<!-- ### Funded Projects -->
+<h2 id="#funded-projects">Funded Projects</h2>
 
 * **Federated Few-Shot Learning with Large Language and Visual Foundation Models under Data Scarcity and Heterogeneity**\
   Funded by the U.S. Air Force Office of Scientific Research (AFOSR) (FA2386-26-1-4005)\
@@ -36,7 +49,9 @@ nav_order: 2
   Role: Senior member
 
 
-### Supervisions
+<!-- ### Supervisions -->
+<h2 id="#supervisions">Supervisions</h2>
+
 ###### Ph.D students
 1. **[Minh-Thanh Nguyen](https://j12tee.qzz.io/)** (Trinity College Dublin, 2026–2030, co-advised with [Prof. Van-Dinh Nguyen)](https://www.tcd.ie/scss/people/academic-staff/nguyenva/)\
   Topic: Optimizing communication networks using multi-agent deep reinforcement learning
