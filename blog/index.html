@@ -90,9 +90,6 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/services/">services</a>
               </li>
-              <li class="nav-item active">
-                <a class="nav-link" href="/blog/index.html">blog<span class="sr-only">(current)</span></a>
-              </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/misc/">misc</a>
               </li>
@@ -120,7 +117,26 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- ---
+layout: default
+title: blog
+nav_exclude: false
+nav: true
+nav_order: 7
+sitemap: false
+pagination:
+  enabled: true
+  collection: posts
+  permalink: /page/:num/
+  per_page: 5
+  sort_field: date
+  sort_reverse: true
+  trail:
+    before: 1 # The number of links before the current page
+    after: 3  # The number of links after the current page
+--- -->
+
+<div class="post">
 
   <div class="header-bar">
     <h1></h1>
