@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: blog
 nav_exclude: false
 nav: true
