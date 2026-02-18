@@ -44,7 +44,7 @@ Profiles:
    in *IEEE Transactions on Network and Service Management*, 2026.
    
 1. Minh-Tuong Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, and Le-Nam Tran,
-   "[Deadline-Aware Task Offloading with Concurrency in Serverless Edge Computing](https://ieeexplore.ieee.org/),"
+   "[Deadline-Aware Task Offloading with Concurrency in Serverless Edge Computing](https://ieeexplore.ieee.org/document/11396962),"
    *IEEE Internet of Things Journal*, 2026,
    doi: 10.1109/JIOT.2026.3665108.
    (**Scopus Q1, IF 8.2**).
