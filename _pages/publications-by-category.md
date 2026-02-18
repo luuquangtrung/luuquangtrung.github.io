@@ -45,12 +45,15 @@ Profiles:
    
 1. Minh-Tuong Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, and Le-Nam Tran,
    "[Deadline-Aware Task Offloading with Concurrency in Serverless Edge Computing](https://ieeexplore.ieee.org/),"
-   *IEEE Internet of Things Journal*, 2026.
+   *IEEE Internet of Things Journal*, 2026,
+   doi: 10.1109/JIOT.2026.3665108.
+   (**Scopus Q1, IF 8.2**).
    
 1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
    "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/11347585),"
    in *IEEE Networking Letters*, 2026,
-   doi: 10.1109/LNET.2026.3653831
+   doi: 10.1109/LNET.2026.3653831.
+   (**Scopus Q1, IF x.x**).
    
 1. Phong C. H. Nguyen, Joseph B. Choi, and **Quang-Trung Luu**,
    "[Deep learning with fourier features for regressive flow field reconstruction from sparse sensor measurements](https://www.nature.com/articles/s41598-026-36301-y),"
