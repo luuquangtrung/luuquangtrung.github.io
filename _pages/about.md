@@ -34,7 +34,7 @@ and postdoctoral fellow at the [University of Avignon](https://lia.univ-avignon.
 and the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France, France (2021 - 2023). 
 
 I serve as the co-coordinator for the Industry Communities of the 
-<a href="/assets/pdf/NGNI_TC_Newsletter_Issue1.pdf">IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)</a> .
+<a href="/assets/pdf/NGNI_TC_Newsletter_Issue1.pdf">IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)</a>.
 
 
 Curriculum vitæ: 
