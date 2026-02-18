@@ -25,6 +25,7 @@ par renforcement pour la navigation autonome (Q-learning), contrôle de trajecto
 Matlab/Python, études de cas et mini-projets orientés robotique autonome et systèmes intelligents.
 
 ### Compétences acquises
+A l’issue du module, l’étudiant sera capable de :
 * Modéliser le comportement cinématique d’un robot mobile.
 * Concevoir un algorithme de planification de trajectoire (Dijkstra, A*).
 * Développer une stratégie de navigation autonome intégrant perception et décision.
