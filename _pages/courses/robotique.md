@@ -11,26 +11,27 @@ nav: false
 * [TP1 - Résoudre un labyrinthe avec Dijkstra et A*]()
 
 
-<!--
 ### Objectif 
-Ce cours a pour objectif d’introduire les principes fondamentaux des objets connectés (IoT), depuis les capteurs 
-et systèmes embarqués jusqu’aux réseaux de communication et aux plateformes applicatives. Les étudiants acquerront 
-une vision complète des architectures IoT et développeront des compétences pratiques pour concevoir, déployer et 
-évaluer des systèmes IoT fiables, sobres en énergie et communicants.
+Ce cours a pour objectif d’introduire les principes fondamentaux de la robotique mobile et autonome, depuis la modélisation 
+cinématique des robots jusqu’aux algorithmes de planification et de prise de décision. Les étudiants acquerront une vision 
+complète des architectures robotiques intégrant perception, planification et contrôle, et développeront des compétences 
+pratiques pour concevoir, simuler et implémenter des systèmes robotiques intelligents.
 
 ### Thèmes traités
-Introduction à l’internet des objets (IoT) et aux architectures IoT, capteurs et actionneurs, microcontrôleurs et cartes 
-embarquées (ESP32, Arduino, etc.), communication sans fil pour l’IoT (Wi-Fi, Bluetooth Low Energy, LoRa/LoRaWAN), 
-protocoles applicatifs (MQTT, HTTP), intégration avec le cloud et le edge computing (MEC), gestion de l’énergie 
-et energy harvesting, sécurité des objets connectés, notions d’Age of Information (AoI), ainsi que des études 
-de cas et projets pratiques orientés applications industrielles et smart systems.
+Introduction à la robotique mobile et aux architectures robotiques (Sense–Plan–Act), modélisation cinématique et dynamique 
+des robots (modèle différentiel, unicycle), capteurs embarqués (IMU, LIDAR, caméra), représentation de l’environnement 
+(grilles d’occupation), planification de trajectoire (Dijkstra, A*, heuristiques admissibles), introduction à l’apprentissage 
+par renforcement pour la navigation autonome (Q-learning), contrôle de trajectoire et stabilisation, simulation sous environnement 
+Matlab/Python, études de cas et mini-projets orientés robotique autonome et systèmes intelligents.
 
 ### Compétences acquises
-* Concevoir et analyser une architecture complète de système IoT, des capteurs jusqu’aux applications cloud/edge.
-* Programmer et interfacer des objets connectés en respectant les contraintes de ressources, d’énergie et de communication.
-* Mettre en œuvre des protocoles IoT (MQTT, HTTP, LoRaWAN) et assurer l’échange fiable des données.
-* Évaluer les performances, la sécurité et la fiabilité d’un système d’objets connectés.
+* Modéliser le comportement cinématique d’un robot mobile.
+* Concevoir un algorithme de planification de trajectoire (Dijkstra, A*).
+* Développer une stratégie de navigation autonome intégrant perception et décision.
+* Implémenter et optimiser des algorithmes d’apprentissage (ex. Q-learning) pour la robotique.
+* Analyser et valider les performances d’un système robotique en simulation.
+* Intégrer les briques perception–planification–contrôle dans un mini-projet autonome.
 
 #### Références
-* O. Hersent, D. Boswarthick, O. Elloumi (2012). *The Internet of Things: Key Applications and Protocols*, 2nd edition, Wiley.
--->
+1. De Kai. Lecture 10 : Dijkstra’s Shortest Path Algorithm. Hong Kong University of Science and Technology (HKUST). [Online]. Available : https ://www.cse.ust.hk/~dekai/271/notes/L10/L10.pdf
+2. Siyang Chen. The A* Search Algorithm. [Online]. Available : https ://courses.cs.duke.edu/fall11/cps149s/notes/a_star.pdf
