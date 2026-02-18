@@ -54,7 +54,9 @@ Profiles:
    
 1. Phong C. H. Nguyen, Joseph B. Choi, and **Quang-Trung Luu**,
    "[Deep learning with fourier features for regressive flow field reconstruction from sparse sensor measurements](https://www.nature.com/articles/s41598-026-36301-y),"
-   in *Scientific Reports*, 2026 
+   in *Scientific Reports*, 2026,
+   doi: 10.1038/s41598-026-36301-y.
+   (**Scopus Q1, IF 3.9**).
    [[arXiv:2411.13815](https://arxiv.org/abs/2411.13815)]
    
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
