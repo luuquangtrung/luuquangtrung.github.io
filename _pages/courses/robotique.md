@@ -34,5 +34,5 @@ A l’issue du module, l’étudiant sera capable de :
 * Intégrer les briques perception–planification–contrôle dans un mini-projet autonome.
 
 #### Références
-1. De Kai. Lecture 10 : Dijkstra’s Shortest Path Algorithm. Hong Kong University of Science and Technology (HKUST). [Online]. Available : https ://www.cse.ust.hk/~dekai/271/notes/L10/L10.pdf
-2. Siyang Chen. The A* Search Algorithm. [Online]. Available : https ://courses.cs.duke.edu/fall11/cps149s/notes/a_star.pdf
+1. De Kai. Lecture 10 : Dijkstra’s Shortest Path Algorithm. Hong Kong University of Science and Technology (HKUST). [Online]. Available : [{URL}](https ://www.cse.ust.hk/~dekai/271/notes/L10/L10.pdf)
+2. Siyang Chen. The A* Search Algorithm. [Online]. Available : [{URL}](https ://courses.cs.duke.edu/fall11/cps149s/notes/a_star.pdf)
