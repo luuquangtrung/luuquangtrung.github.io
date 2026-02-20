@@ -15,10 +15,9 @@ social: true  # includes social icons at the bottom of the page
 
 Maître de conférences, <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
 Co-coordinator, IEEE ComSoc NGNI-TC Industry Communities<br>
-Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br>
-<a href="https://l2s.centralesupelec.fr/u/luu-quang-trung-2/">My official page at L2S</a><br><br>
+Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br><br>
 
-I am an associate professor (maître de conférences) at 
+I am currently an associate professor (maître de conférences) at 
 [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France, 
 affiliated with the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/) of [CentraleSupélec](https://centralesupelec.fr/).
 
@@ -34,14 +33,17 @@ Prior to joining Paris-Saclay, I was a lecturer (assistant professor) at the
 and postdoctoral fellow at the [University of Avignon](https://lia.univ-avignon.fr/) 
 and the [French National Centre for Scientific Research](https://www.cnrs.fr/en) (LAAS-CNRS), Toulouse, France, France (2021 - 2023). 
 
-I serve as the co-coordinator for the Industry Communities of the 
-<a href="/assets/pdf/NGNI_TC_Newsletter_Issue1.pdf">IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)</a>.
+I serve as a reviewer for many top-tier international journals and as a reviewer and TPC member for several flagship international conferences 
+in networking, computer science, and telecommunications. Since 2026, I have also been serving as the co-coordinator for the Industry Communities 
+of the <a href="/assets/pdf/NGNI_TC_Newsletter_Issue1.pdf">IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)</a>.
 
 
 Curriculum vitæ: 
 <a href="/assets/pdf/luu_cv_en.pdf">{english}</a> 
 <a href="/assets/pdf/luu_cv_fr.pdf">{français}</a> 
 <a href="https://cv.hal.science/quang-trung-luu">{cv-hal}</a> 
+
+My official page at L2S: <a href="https://l2s.centralesupelec.fr/u/luu-quang-trung-2/">{url}</a>
 
 <!-- <a href="https://centralesupelec-my.sharepoint.com/:f:/g/personal/quangtrung_luu_centralesupelec_fr/IgACKiLY60kqSb3rBLRB6rHjASmqe6abGbw-kiC5xNJ6_5U?e=WymBXg">[PDF]</a>
  -->
