@@ -43,7 +43,6 @@ of the <a href="/assets/pdf/NGNI_TC_Newsletter_Issue1.pdf">IEEE ComSoc Next-Gene
 Curriculum vitæ: 
 <a href="/assets/pdf/luu_cv_en.pdf">{english}</a> 
 <a href="/assets/pdf/luu_cv_fr.pdf">{français}</a> 
-<a href="https://cv.hal.science/quang-trung-luu">{cv-hal}</a> 
 
 My official page at L2S: <a href="https://l2s.centralesupelec.fr/u/luu-quang-trung-2/">{url}</a>
 
