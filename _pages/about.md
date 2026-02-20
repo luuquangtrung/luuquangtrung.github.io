@@ -15,7 +15,8 @@ social: true  # includes social icons at the bottom of the page
 
 Maître de conférences, <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
 Co-coordinator, IEEE ComSoc NGNI-TC Industry Communities<br>
-Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br><br>
+Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br>
+<a href="https://l2s.centralesupelec.fr/u/luu-quang-trung-2/">My official page at L2S</a><br><br>
 
 I am an associate professor (maître de conférences) at 
 [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France, 
