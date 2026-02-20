@@ -13,13 +13,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Maître de conférences, <a href='https://www.universite-paris-saclay.fr/en'>Université Paris-Saclay</a><br>
-Co-coordinator, IEEE ComSoc NGNI-TC Industry Communities<br>
+Maître de conférences/Associate Professor<br>
+Laboratory of Signals and Systems (L2S)<br>
+CentraleSupélec, Université Paris-Saclay<br>
 Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br><br>
 
 I am currently an associate professor (maître de conférences) at 
 [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France, 
-affiliated with the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/) of [CentraleSupélec](https://centralesupelec.fr/).
+affiliated with the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/u/luu-quang-trung-2/) of
+[CentraleSupélec](https://centralesupelec.fr/).
 
 I obtained a Ph.D from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/), France, in 2022. 
 My thesis was also realized at [Nokia Bell Labs France](https://www.bell-labs.com/), 
