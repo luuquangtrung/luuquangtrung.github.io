@@ -61,6 +61,10 @@ nav_order: 8
   [IFIP Networking](https://networking.ifip.org/)
   
 #### Useful links
+* Paris-Saclay's entities:
+	* [Graduate School « Informatique et Sciences du Numérique »](https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-informatique-et-sciences-du-numerique)
+	* [Graduate School « Sciences de l'Ingénierie et des Systèmes »](https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-sciences-de-lingenierie-et-des-systemes-sis)
+
 * [Academic Gates](https://www.academicgates.com/)
 * Former affiliated labs: 
 	[Bell Labs](https://www.bell-labs.com/), 
