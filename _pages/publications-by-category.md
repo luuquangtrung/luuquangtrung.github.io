@@ -241,7 +241,7 @@ Profiles:
 * **Quang-Trung Luu**, Contrôle et Optimisation des Réseaux Virtuels Sans Fil (Dynamic Control and Optimization of Wireless Virtual Network), 
    *Ph.D Thesis*, [Paris-Saclay University](https://www.universite-paris-saclay.fr/), 2021 
    ([2022 Best PhD Dissertation Award on Distributed Systems and Networks by GDR-RSD and ACM SigOps France](https://gdr-rsd.fr/laureats-prix-de-these-2022/))
-   [[pdf](https://hal.archives-ouvertes.fr/tel-03351942)] [[slides]({{ site.url }}/files/misc/slides_soutenance_full.pdf)]
+   [{pdf}](https://hal.archives-ouvertes.fr/tel-03351942) [{slides}]({{ site.url }}/files/misc/slides_soutenance_full.pdf)
 
 * **Quang-Trung Luu**, Modelling and Analysis of Frame Aggregation Mechanism in 802.11-based Wireless Networks, 
    *M.Sc Thesis*, [Télécom ParisTech](https://www.telecom-paris.fr/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/), 2017.
