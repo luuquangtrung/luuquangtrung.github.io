@@ -20,7 +20,7 @@ Profiles:
    Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
    "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/),"
    *submitted to IEEE Transactions on Network and Service Management*, 2026
-   [[arXiv:2412.05993](https://arxiv.org/abs/2412.05993)].
+   [{arXiv:2412.05993}](https://arxiv.org/abs/2412.05993).
         
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, Senura H. Wanasekara, Van-Dinh Nguyen,
    **Quang-Trung Luu**, Nguyen Cong Luong, and Anh Tuan Nguyen,
@@ -34,7 +34,7 @@ Profiles:
 1. Nguyen Van Duc, Bui Duc Manh, **Quang-Trung Luu**, Dinh Thai Hoang, Van-Linh Nguyen, and Diep N. Nguyen
    "[Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing](https://www.sciencedirect.com/journal/ad-hoc-networks),"
    *submitted to Journal of Information Security and Applications*, 2026
-   [[arXiv:2507.09860](https://arxiv.org/abs/2507.09860)]
+   [{arXiv:2507.09860}](https://arxiv.org/abs/2507.09860)
 
 
 ### Journal papers
@@ -62,7 +62,7 @@ Profiles:
    in *Scientific Reports*, 2026,
    doi: 10.1038/s41598-026-36301-y.
    (**Scopus Q1, IF 3.9**).
-   [[arXiv:2411.13815](https://arxiv.org/abs/2411.13815)]
+   [{arXiv:2411.13815}](https://arxiv.org/abs/2411.13815)
    
 1. Xuan Hoang Nguyen, Van-Dinh Nguyen, **Quang-Trung Luu**, Toan Dinh Gian, and Oh-Soon Shin,
    "[Robust WiFi Sensing-based Human Pose Estimation Using Denoising Autoencoder and CNN with Dynamic Subcarrier Attention](https://ieeexplore.ieee.org/document/10855560/),"
@@ -75,7 +75,7 @@ Profiles:
    in *IEEE Transactions on Network and Service Management*, vol. 21, no. 4, pp. 4268-4281, Aug. 2024, 
    doi: 10.1109/TNSM.2024.3395992.
    (**Scopus Q1, IF 5.3**)
-   [[hal-04632942](https://hal.science/hal-04632942)]
+   [{hal-04632942}](https://hal.science/hal-04632942)
    
 
 1. Olivier Brun, Rachid El-Azouzi, **Quang-Trung Luu**, Francesco De Pellegrini, Balakrishna J. Prabhu, and Cédric Richier, 
@@ -83,15 +83,15 @@ Profiles:
    in *IEEE Transactions on Cloud Computing*, vol. 12, no. 2, pp. 644-658, April-June 2024, 
    doi: 10.1109/TCC.2024.3384514.
    (**Scopus Q1, IF 6.5**)
-   [[2303.17175](https://arxiv.org/abs/2303.17175)]
+   [{arXiv:2303.17175}](https://arxiv.org/abs/2303.17175)
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, and Michel Kieffer, 
    "[Admission Control and Resource Reservation for Prioritized Slice Requests with Guaranteed SLA under Uncertainties](https://ieeexplore.ieee.org/abstract/document/9737314)," 
    in *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, pp. 3136-3153, Sept. 2022, 
    doi: 10.1109/TNSM.2022.3160352.
    (**Scopus Q1, IF 5.3**)
-   [[hal-03614028](https://hal.archives-ouvertes.fr/hal-03614028/)]
-   [[arXiv:2203.09367](https://arxiv.org/abs/2203.09367)]
+   [{hal-03614028}](https://hal.archives-ouvertes.fr/hal-03614028/)
+   [{arXiv:2203.09367}](https://arxiv.org/abs/2203.09367)
    
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, and Michel Kieffer, 
@@ -99,8 +99,8 @@ Profiles:
    in *IEEE Transactions on Network and Service Management*, vol. 18, no. 1, pp. 79-93, March 2021, 
    doi: 10.1109/TNSM.2021.3058139.
    (**Scopus Q1, IF 5.3**)
-   [[hal-03418308](https://hal.archives-ouvertes.fr/hal-03418308)]
-   [[arXiv:2006.01104](https://arxiv.org/abs/2006.01104)]
+   [{hal-03418308}](https://hal.archives-ouvertes.fr/hal-03418308)
+   [{arXiv:2006.01104}](https://arxiv.org/abs/2006.01104)
    
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, Alexandre Mouradian, and Michel Kieffer, 
@@ -108,8 +108,8 @@ Profiles:
    in *IEEE/ACM Transactions on Networking*, vol. 28, no. 6, pp. 2393-2406, Dec. 2020, 
    doi: 10.1109/TNET.2020.3019098.
    (**Scopus Q1, IF 3.7**)
-   [[hal-03097001](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001)] 
-   [[arXiv:1907.09211v3](https://arxiv.org/abs/1907.09211v3)]
+   [{hal-03097001}](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097001)
+   [{arXiv:1907.09211v3}](https://arxiv.org/abs/1907.09211v3)
 
 
 ### Conference and workshop papers
@@ -159,39 +159,40 @@ Profiles:
    in *Proc. IFIP Networking*, Catania, Italy, June, 2022, 
    doi: 10.23919/IFIPNetworking55013.2022.9829789. 
    (**CORE Rank B**) 
-   [[hal-03657370](https://hal.archives-ouvertes.fr/hal-03657370)] [[2205.01229v1](https://arxiv.org/abs/2205.01229)]
+   [{hal-03657370}](https://hal.archives-ouvertes.fr/hal-03657370)
+   [{arXiv:2205.01229v1}](https://arxiv.org/abs/2205.01229)
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, and Michel Kieffer, 
    "[Foresighted Resource Provisioning for Network Slicing](https://ieeexplore.ieee.org/document/9481832)," 
    in *Proc. IEEE International Conference on High Performance Switching and Routing (HPSR)*, Paris, pp. 1-8, June 2021, 
    doi: 10.1109/HPSR52026.2021.9481832. 
    (**invited paper**, **CORE Rank C**) 
-   [[hal-03420010](https://hal.archives-ouvertes.fr/hal-03420010)]
+   [{hal-03420010}](https://hal.archives-ouvertes.fr/hal-03420010)
    
 
 1. **Quang-Trung Luu**, Sylvaine Kerboeuf, Alexandre Mouradian, and Michel Kieffer, 
    "[Radio Resource Provisioning for Network Slicing with Coverage Constraints](https://ieeexplore.ieee.org/document/9148897)," 
    in *Proc. IEEE International Conference on Communications (ICC)*, Dublin, Ireland, pp. 1-6, June, 2020, 
    doi: 10.1109/ICC40277.2020.9148897. 
-   [[hal-03097210](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097210)]
+   [{hal-03097210}](https://hal-centralesupelec.archives-ouvertes.fr/hal-03097210)
 
 1. **Quang-Trung Luu**, Michel Kieffer, Alexandre Mouradian, and Sylvaine Kerboeuf, 
    "[Aggregated Resource Provisioning for Network Slices](https://ieeexplore.ieee.org/abstract/document/8648039)," 
    in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, UAE, pp. 1-6, Dec. 2018, 
    doi: 10.1109/GLOCOM.2018.8648039 (**CORE Rank B**)
-   [[hal-02097749](https://hal.archives-ouvertes.fr/hal-02097749)]
+   [{hal-02097749}](https://hal.archives-ouvertes.fr/hal-02097749)
 
 1. **Quang-Trung Luu**, Stavros Koulouridis, Antoine Diet, Yann Le Bihan, and Lionel Pichon, 
    “[Investigation of Inductive and Radiating Energy Harvesting for an Implanted Biotelemetry Antenna](https://ieeexplore.ieee.org/document/7928620/),” 
    in *Proc. The 11th European Conference on Antennas and Propagation (EuCAP)*, Paris, Mar. 2017, 
    doi: 10.23919/EuCAP.2017.7928620.
-   [[hal-01633025](https://hal.archives-ouvertes.fr/hal-01633025)]
+   [{hal-01633025}](https://hal.archives-ouvertes.fr/hal-01633025)
 
 1. Antoine Diet, Stavros Koulouridis, Yann Le Bihan, **Quang-Trung Luu**, Olivier Meyer, Lionel Pichon, and Marc Biancheri-Astier, 
    “[Sub-GHz Inductive Power Transmission from Helical Coils for Implanted Medical Devices](https://ieeexplore.ieee.org/document/7915348/),” 
    in *Proc. IEEE International Workshop on Antenna Technology (iWAT)*, Athens, Greece, Mar. 2017, 
    doi: 10.1109/IWAT.2017.7915348.
-   [[hal-01633015](https://hal.archives-ouvertes.fr/hal-01633015)]
+   [{hal-01633015}](https://hal.archives-ouvertes.fr/hal-01633015)
 
 1. **Quang-Trung Luu**, Duc-Hung Tran, Bao-Huy Nguyen, Yem Vu-Van, and Cao-Minh Ta, 
    “[Design of the Resonators for Coupled Magnetic Resonance based Wireless Power Transmission Systems](https://sites.google.com/site/vcca2013/home),” 
@@ -212,7 +213,7 @@ Profiles:
 1. Antoine Diet, Stavros Koulouridis, Yann Le Bihan, **Quang-Trung Luu**, Olivier Meyer, Lionel Pichon, M. Biancheri-Astier, 
    "[RF Link for Implanted Medical Devices (IMDs) and Sub-GHz Inductive Power Transmission](https://jetsan2017.sciencesconf.org/program.html)," 
    in *Journées d’Etude sur la Télésanté (JetSan)*, 6ème édition, Bourges, France, May 2017. 
-   [hal-01692423](https://hal.archives-ouvertes.fr/hal-01692423/)]
+   [{hal-01692423}](https://hal.archives-ouvertes.fr/hal-01692423/)
 
 <!-- 2. **Quang-Trung Luu**, Sylvaine Kerboeuf, Alexandre Mouradian, and Michel Kieffer, 
    "Towards Green Computing for Next Generation Mobile Net-works: A Resource Provisioning Method for 5G," 
