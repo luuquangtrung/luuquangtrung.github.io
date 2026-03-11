@@ -23,7 +23,7 @@ nav_order: 2
 <!-- ### Funded Projects -->
 <h2 id="#funded-projects">Funded Projects</h2>
 
-* **Federated Few-Shot Learning with Large Language and Visual Foundation Models under Data Scarcity and Heterogeneity**\
+* [**Federated Few-Shot Learning with Large Language and Visual Foundation Models under Data Scarcity and Heterogeneity**](https://www.highergov.com/grant/FA23862614005/)\
   Funded by the U.S. Air Force Office of Scientific Research (AFOSR) (FA2386-26-1-4005)\
   Duration: 2026 - 2027\
   Role: Senior member
@@ -43,7 +43,7 @@ nav_order: 2
   Duration: Nov. 2023 - Oct. 2025\
   Role: Principal investigator
   
-* **Machine learning for typhoon formation prediction** ([URL](https://vinif.org/annual/vinif-2023-da019-du-bao-su-hinh-thanh-bao-bang-phuong-phap-hoc-may/))\
+* [**Machine learning for typhoon formation prediction**](https://vinif.org/annual/vinif-2023-da019-du-bao-su-hinh-thanh-bao-bang-phuong-phap-hoc-may/)\
   Funded by VinGroup Innovation Foundation (VinIF, No. VINIF.2023.DA019)\
   Duration: Oct. 2023 - Oct. 2026\
   Role: Senior member
