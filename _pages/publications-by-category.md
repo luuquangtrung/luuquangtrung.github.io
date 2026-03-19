@@ -41,7 +41,7 @@ Profiles:
 
 1. Tuan-Vu Truong, Van-Dinh Nguyen, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, and Symeon Chatzinotas,
    "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11397754),"
-   in *IEEE Transactions on Network and Service Management*, 2026,
+   in *IEEE Transactions on Network and Service Management*, vol. 23, pp. 3055-3070, 2026,
    doi: 10.1109/TNSM.2026.3665553.
    (**Scopus Q1, IF 5.3**)
    
