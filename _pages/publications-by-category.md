@@ -51,7 +51,7 @@ Profiles:
    doi: 10.1109/JIOT.2026.3665108.
    (**Scopus Q1, IF 8.2**).
    
-1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
+1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Michel Kieffer, Dinh Thai Hoang, Tai-Hung Nguyen, Huu-Thanh Nguyen, and Van-Dinh Nguyen, 
    "[Network Slicing with Flexible Configurations: A Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/11347585),"
    in *IEEE Networking Letters*, 2026,
    doi: 10.1109/LNET.2026.3653831.
