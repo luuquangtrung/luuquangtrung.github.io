@@ -8,14 +8,14 @@ nav_order: 2
 
 
 
-<d-contents>
+<!-- <d-contents>
   <nav class="l-text figcaption">
     <h3>Contents</h3>
 	
     <div><a href="#funded-projects">Funded Projects</a></div>
     <div><a href="#supervisions">Supervisions</a></div>
   </nav>
-</d-contents>
+</d-contents> -->
 
 
 
