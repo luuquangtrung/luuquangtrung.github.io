@@ -31,6 +31,10 @@ Profiles:
    "[Oranits: Mission Assignment and Task Offloading in ITS Integrating MEC and Open RAN using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
    *submitted to IEEE Transactions on Mobile Computing*, 2026.
 
+1. Kim-Hoan Do, **Quang-Trung Luu**, Ngoc Hung Nguyen, Tai-Hung Nguyen, Huu-Thanh Nguyen, and Van-Dinh Nguyen,
+   "[Topology-Aware Network Slicing in Open RAN via Graph-based Proximal Policy Optimization](https://ieeexplore.ieee.org/),"
+   *submitted to IEEE Internet of Things Journal*, 2026.
+   
 1. Nguyen Van Duc, Bui Duc Manh, **Quang-Trung Luu**, Dinh Thai Hoang, Van-Linh Nguyen, and Diep N. Nguyen
    "[Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing](https://www.sciencedirect.com/journal/ad-hoc-networks),"
    *submitted to Journal of Information Security and Applications*, 2026
