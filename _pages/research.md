@@ -26,7 +26,7 @@ nav_order: 2
 * [**Federated Few-Shot Learning with Large Language and Visual Foundation Models under Data Scarcity and Heterogeneity**](https://www.highergov.com/grant/FA23862614005/)\
   Funded by the U.S. Air Force Office of Scientific Research (AFOSR) (FA2386-26-1-4005)\
   Duration: 2026 - 2027\
-  Role: Senior member
+  Role: Co-investigator
 
 * **Investigation of optimal resource allocation algorithms for next-generation mobile networks using network slicing**\
   Funded by Vietnamese Ministry of Education and Training (MOET)\
@@ -36,7 +36,7 @@ nav_order: 2
 * **Enhancing the performance of 6G Open RAN integrating edge computing and network slicing**\
   Funded by National Foundation for Science & Technology Development (NAFOSTED No. 102.04-2023.17)\
   Duration: 2024 - 2026\
-  Role: Senior member
+  Role: Co-PI
 
 * **Optimizing resource allocation for O-RAN slices in next-generation communication systems**\
   Funded by Hanoi University of Science and Technology (HUST, No. T2023-TĐ-011)\
@@ -46,7 +46,7 @@ nav_order: 2
 * [**Machine learning for typhoon formation prediction**](https://vinif.org/annual/vinif-2023-da019-du-bao-su-hinh-thanh-bao-bang-phuong-phap-hoc-may/)\
   Funded by VinGroup Innovation Foundation (VinIF, No. VINIF.2023.DA019)\
   Duration: Oct. 2023 - Oct. 2026\
-  Role: Senior member
+  Role: Co-investigator
 
 
 <!-- ### Supervisions -->
