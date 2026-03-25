@@ -13,27 +13,27 @@ nav_order: 4
    * [Robotique](https://luuquangtrung.github.io/teaching/robotique): Fall 2025
      
 1. **Hanoi University of Science and Technology** (lecturer, 2023-2025)
-   * [Virtual Reality](https://luuquangtrung.github.io/teaching/ac4010): Fall 2023, Fall 2024
-   * [Augmented Reality](https://luuquangtrung.github.io/teaching/ac4020): Fall 2023, Fall 2024
-   * [Fundamentals of Data Communication](https://luuquangtrung.github.io/teaching/et4070): Summer 2024
-   * [Multimedia Data Compression and Coding](https://luuquangtrung.github.io/teaching/et4262e): Spring 2024
+   * [Virtual reality](https://luuquangtrung.github.io/teaching/ac4010): Fall 2023, Fall 2024
+   * [Augmented reality](https://luuquangtrung.github.io/teaching/ac4020): Fall 2023, Fall 2024
+   * [Fundamentals of data communication](https://luuquangtrung.github.io/teaching/et4070): Summer 2024
+   * [Multimedia data compression and coding](https://luuquangtrung.github.io/teaching/et4262e): Spring 2024
   
 1. **Troy University** (invited lecturer, 2023-present)
-   * [Computer Security](https://luuquangtrung.github.io/teaching/cs4451): Spring 2024
-   * [Foundations of Computer Science](https://luuquangtrung.github.io/teaching/cs3310): Fall 2023
+   * [Computer security](https://luuquangtrung.github.io/teaching/cs4451): Spring 2024
+   * [Foundations of computer science](https://luuquangtrung.github.io/teaching/cs3310): Fall 2023
      
 1. **Paris-Saclay University** (teaching assistant, 2020-2022)
-   * [Communication Numérique](https://luuquangtrung.github.io/teaching/g10): Fall 2020
-   * [Joint Research Project](https://luuquangtrung.github.io/teaching/mn915) (joint master's program with Institut Polytechnique de Paris): Fall 2020, Fall 2021
+   * [Communication numérique](https://luuquangtrung.github.io/teaching/g10): Fall 2020
+   * [Joint research project](https://luuquangtrung.github.io/teaching/mn915) (joint master's program with Institut Polytechnique de Paris): Fall 2020, Fall 2021
 
 #### Resources
 
 ###### Networking
 * [Private 5G: A Systems Approach](https://5g.systemsapproach.org/) (Peterson et al., 2022).
-* [Mathematical Modelling for Computer Networks](https://www.cs.helsinki.fi/u/ldaniel/mm_cn/) (Daniel and Narayanan).
+* [Mathematical Modelling for computer Networks](https://www.cs.helsinki.fi/u/ldaniel/mm_cn/) (Daniel and Narayanan).
 * [Modèles et algorithmes pour l'ingéniérie de trafic](https://homepages.laas.fr/brun/drupal/node/28) (Brun).
 * [Modèles & Algorithmes pour la Planification des Réseaux](https://homepages.laas.fr/brun/drupal/node/28) (Brun).
-* [Game Theory in Wireless and Communication Networks: Theory, Models, and Applications](http://www2.egr.uh.edu/~zhan2/game_theory_course/) (Han).
+* [Game Theory in Wireless and communication Networks: Theory, Models, and Applications](http://www2.egr.uh.edu/~zhan2/game_theory_course/) (Han).
 * [Selected Topics in Telecoms and Queueing Networks](https://www-sop.inria.fr/members/Eitan.Altman/Research.html) (Altman).
 
 ###### Optimization & Maths
