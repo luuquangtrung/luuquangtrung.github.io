@@ -13,7 +13,31 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Maître de conférences/Associate Professor<br>
+Assistant Professor<br>
+Hanoi University of Science and Technology (HUST), Vietnam<br>
+CentraleSupélec, Université Paris-Saclay, France<br><br>
+
+
+Lưu Quang Trung is currently an Assistant Professor at the School of Electrical and Electronic Engineering, 
+Hanoi University of Science and Technology (HUST), Vietnam. He is also affiliated with the Laboratory of 
+Signals and Systems (L2S) at CentraleSupélec, Paris-Saclay University, France. 
+
+Dr. Lưu obtained his Ph.D. from CentraleSupélec – Université Paris-Saclay, France, in 2022. His doctoral research 
+was conducted in collaboration with Nokia Bell Labs France under the CIFRE Ph.D. program supported by the French 
+government (ANRT). His thesis received the 2022 Best PhD Dissertation Award on Distributed Systems and Networks from 
+the French research community (GDR RSD) and ACM SIGOPS France.
+
+Prior to his current positions, he was a postdoctoral researcher at the University of Avignon and LAAS-CNRS, Toulouse, 
+France (2021–2023), and served as a lecturer (assistant professor) at HUST (2023–2025). He is also an APNIC Professional 
+Fellow, actively contributing to regional initiatives in Internet development and resilience.
+
+He actively contributes to the research community as a reviewer for leading international journals and as a reviewer 
+and TPC member for major conferences in networking, computer science, and telecommunications. Since 2026, he has been 
+serving as co-coordinator of the Industry Communities within the IEEE ComSoc Next-Generation Networking and Internet 
+Technical Committee (NGNI-TC).
+
+
+<!-- Maître de conférences/Associate Professor<br>
 <a href="https://l2s.centralesupelec.fr/u/luu-quang-trung-2/">Laboratory of Signals and Systems (L2S)</a><br>
 CentraleSupélec, Université Paris-Saclay<br>
 Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br><br>
@@ -37,7 +61,7 @@ and the [French National Centre for Scientific Research](https://www.cnrs.fr/en)
 
 He currently as a reviewer for many top-tier international journals and as a reviewer and TPC member for several flagship international conferences 
 in networking, computer science, and telecommunications. Since 2026, he has also been serving as the co-coordinator for the Industry Communities 
-of the <a href="/assets/pdf/NGNI_TC_Newsletter_Issue1.pdf">IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)</a>.
+of the <a href="/assets/pdf/NGNI_TC_Newsletter_Issue1.pdf">IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)</a>. -->
 
 
 Curriculum vitæ: 
