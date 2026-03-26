@@ -14,8 +14,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Assistant Professor<br>
-Hanoi University of Science and Technology (HUST), Vietnam<br>
-CentraleSupélec, Université Paris-Saclay, France<br><br>
+Hanoi University of Science and Technology (HUST), Vietnam<br><br>
+<!-- CentraleSupélec, Université Paris-Saclay, France<br><br> -->
 
 
 Lưu Quang Trung is currently an Assistant Professor at the School of Electrical and Electronic Engineering, 
