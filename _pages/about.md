@@ -14,7 +14,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Assistant Professor<br>
-<a href="https://research.hust.edu.vn/trung.luuquang?ws=seee-lab-advanced-networking-and-smart-applications-lab">Hanoi University of Science and Technology (HUST), Vietnam<br><br>
+<a href="https://research.hust.edu.vn/trung.luuquang?ws=seee-lab-advanced-networking-and-smart-applications-lab">Hanoi University of Science and Technology (HUST), Vietnam<br>
 <a href="https://www.apnic.net/community/fellowship/fs-2025/fellows/">APNIC Professional Fellow<br><br><br>
 <!-- CentraleSupélec, Université Paris-Saclay, France<br><br> -->
 
