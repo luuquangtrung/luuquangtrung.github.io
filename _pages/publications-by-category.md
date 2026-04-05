@@ -16,12 +16,7 @@ Profiles:
 
 
 ### Submitted, in review
-1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Michel Kieffer, Tuan-Anh Do, and Van-Dinh Nguyen,
-   Quoc-Dung Duong, Tai-Hung Nguyen, Van-Dinh Nguyen, and Michel Kieffer,
-   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Transactions on Network and Service Management*, 2026
-   [{arXiv:2412.05993}](https://arxiv.org/abs/2412.05993) (major revision).
-   
+
 1. Le-Hung Hoang, **Quang-Trung Luu**, Dinh Thai Hoang, Diep N. Nguyen, and Van-Dinh Nguyen,
    "[Securing SIM-Assisted Wireless Networks via Quantum Reinforcement Learning](https://ieeexplore.ieee.org/),"
    *submitted to IEEE Transations on Communications*, 2026 (major revision).
@@ -43,6 +38,11 @@ Profiles:
 
 ### Journal papers
 
+1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tuan-Anh Do, Michel Kieffer, Tai Hung Nguyen, Huu Thanh Nguyen, and Van-Dinh Nguyen,
+   "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/document/11474638),"
+   in *IEEE Transactions on Network and Service Management*, 2026
+   [{arXiv:2412.05993}](https://arxiv.org/abs/2412.05993).
+   
 1. Tuan-Vu Truong, Van-Dinh Nguyen, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, and Symeon Chatzinotas,
    "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11397754),"
    in *IEEE Transactions on Network and Service Management*, vol. 23, pp. 3055-3070, 2026,
