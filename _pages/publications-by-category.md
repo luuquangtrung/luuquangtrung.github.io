@@ -24,7 +24,7 @@ Profiles:
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, Senura H. Wanasekara, Van-Dinh Nguyen,
    **Quang-Trung Luu**, Nguyen Cong Luong, and Anh Tuan Nguyen,
    "[Oranits: Mission Assignment and Task Offloading in ITS Integrating MEC and Open RAN using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Transactions on Mobile Computing*, 2026.
+   *submitted to IEEE Transactions on Intelligent Transport Systems*, 2026.
 
 1. Kim-Hoan Do, **Quang-Trung Luu**, Ngoc Hung Nguyen, Tai-Hung Nguyen, Huu-Thanh Nguyen, and Van-Dinh Nguyen,
    "[Topology-Aware Network Slicing in Open RAN via Graph-based Proximal Policy Optimization](https://ieeexplore.ieee.org/),"
