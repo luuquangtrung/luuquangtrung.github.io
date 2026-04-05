@@ -23,7 +23,7 @@ nav_order: 2
 <!-- ### Funded Projects -->
 <h2 id="#funded-projects">Funded Projects</h2>
 
-* [**Federated Few-Shot Learning with Large Language and Visual Foundation Models under Data Scarcity and Heterogeneity**](https://www.highergov.com/grant/FA23862614005/)\
+* [**Federated few-shot learning with large language and visual foundation models under data scarcity and heterogeneity**](https://www.highergov.com/grant/FA23862614005/)\
   Funded by the U.S. Air Force Office of Scientific Research (AFOSR) (FA2386-26-1-4005)\
   Duration: 2026 - 2027\
   Role: Co-investigator
