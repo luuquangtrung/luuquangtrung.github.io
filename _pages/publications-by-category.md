@@ -32,7 +32,7 @@ Profiles:
    
 1. Nguyen Van Duc, Bui Duc Manh, **Quang-Trung Luu**, Dinh Thai Hoang, Van-Linh Nguyen, and Diep N. Nguyen
    "[Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing](https://www.sciencedirect.com/journal/ad-hoc-networks),"
-   *submitted to Journal of Information Security and Applications*, 2026
+   *submitted to Computer Communications*, 2026
    [{arXiv:2507.09860}](https://arxiv.org/abs/2507.09860)
 
 
