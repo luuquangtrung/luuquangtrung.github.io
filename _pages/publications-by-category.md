@@ -124,7 +124,7 @@ Profiles:
    in *Proc. 2026 40th International Conference on Information Networking (ICOIN)*, 2026. 
 
 1. Ngoc Hung Nguyen, Van Thieu Nguyen, **Quang-Trung Luu**, Vo Phi Son, and Van-Dinh Nguyen,
-   "A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems,"
+   "[A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems](https://ieeexplore.ieee.org/document/11431892),"
    in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2025. 
    (**CORE Rank B**).
 
