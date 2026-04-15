@@ -19,7 +19,7 @@ Assistant Professor<br>
 <!-- CentraleSupélec, Université Paris-Saclay, France<br><br> -->
 
 
-Lưu Quang Trung is currently an Assistant Professor at the School of Electrical and Electronic Engineering, 
+<!-- Lưu Quang Trung is currently an Assistant Professor at the School of Electrical and Electronic Engineering, 
 Hanoi University of Science and Technology (HUST), Vietnam. He is also affiliated with the Laboratory of 
 Signals and Systems (L2S) at CentraleSupélec, Paris-Saclay University, France. 
 
@@ -35,10 +35,10 @@ Fellow, actively contributing to regional initiatives in Internet development an
 He actively contributes to the research community as a reviewer for leading international journals and as a reviewer 
 and TPC member for major conferences in networking, computer science, and telecommunications. Since 2026, he has been 
 serving as co-coordinator of the Industry Communities within the IEEE ComSoc Next-Generation Networking and Internet 
-Technical Committee (NGNI-TC).
+Technical Committee (NGNI-TC). -->
 
 
-<!-- Maître de conférences/Associate Professor<br>
+Maître de conférences/Associate Professor<br>
 <a href="https://l2s.centralesupelec.fr/u/luu-quang-trung-2/">Laboratory of Signals and Systems (L2S)</a><br>
 CentraleSupélec, Université Paris-Saclay<br>
 Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br><br>
@@ -69,7 +69,7 @@ Curriculum vitæ:
 <a href="/assets/pdf/luu_cv_en.pdf">{english}</a> 
 <a href="/assets/pdf/luu_cv_fr.pdf">{français}</a> 
 
--->
+
 
 
 <!-- <a href="https://centralesupelec-my.sharepoint.com/:f:/g/personal/quangtrung_luu_centralesupelec_fr/IgACKiLY60kqSb3rBLRB6rHjASmqe6abGbw-kiC5xNJ6_5U?e=WymBXg">[PDF]</a>
