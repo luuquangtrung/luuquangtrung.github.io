@@ -45,7 +45,7 @@ CentraleSupélec, Université Paris-Saclay<br>
 Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br><br> -->
 
 Associate Professor, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)<br>
-Co-coordinator, Industry Communities, <a href="https://ngni.committees.comsoc.org/officers/">IEEE NGNI-TC</a><br>
+Co-coordinator, <a href="https://ngni.committees.comsoc.org/officers/">IEEE NGNI-TC's Industry Communities</a><br>
 Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br><br>
 
 
