@@ -51,9 +51,9 @@ Building IBM France Lab Saclay, rue Alfred Kastler, 91400 Orsay, France<br><br>
 
 Lưu Quang Trung has been an associate professor (maître de conférences) at 
 the [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/u/luu-quang-trung-2/) of
-[CentraleSupélec](https://centralesupelec.fr/), [Paris-Saclay University](https://www.universite-paris-saclay.fr/en), France.
+[CentraleSupélec](https://centralesupelec.fr/), [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en), France.
 
-Dr. Lưu obtained a Ph.D from [CentraleSupélec - Paris-Saclay University](https://l2s.centralesupelec.fr/), France, in 2022. 
+Dr. Lưu obtained a Ph.D from [CentraleSupélec - Université Paris-Saclay](https://l2s.centralesupelec.fr/), France, in 2022. 
 His thesis was also realized at [Nokia Bell Labs France](https://www.bell-labs.com/), 
 within the CIFRE Ph.D Fellowship program supported by the [French government (ANRT)](https://www.anrt.asso.fr/fr). 
 His thesis was awarded the [2022 Best PhD Dissertation Award on Distributed Systems and Networks](https://gdr-rsd.cnrs.fr/laureats-prix-de-these-2022/) 
