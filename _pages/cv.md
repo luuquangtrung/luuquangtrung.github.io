@@ -19,7 +19,7 @@ Link to PDF files:
 Link to my online CV on the HAL open archive: <a href="https://cv.hal.science/quang-trung-luu">{cv-hal}</a> 
 
 ### Experiences
-* 09/2025-present: Associate Professor, [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
+* 09/2025-present: Associate Professor, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
 * 05/2023-08/2025: Assistant Professor, [Hanoi University of Science and Technology](https://seee.hust.edu.vn/), Vietnam
 * 09/2021-03/2022: Postdoctoral Fellow, [French National Centre for Scientific Research (CNRS)](https://www.laas.fr/public/), France
 * 03/2021-09/2021: Postdoctoral Fellow, [University of Avignon](https://lia.univ-avignon.fr/), France
@@ -27,9 +27,9 @@ Link to my online CV on the HAL open archive: <a href="https://cv.hal.science/qu
 * 04/2017-09/2017: Research Intern, [Inria](https://www.inria.fr/en) & [Ecole Normale Supérieure de Lyon](http://www.ens-lyon.fr/), France
 
 ### Education
-* 2017-2020: Ph.D, [CentraleSupélec](https://www.centralesupelec.fr/) - [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
-* 2016-2017: M.Sc., [Télécom Paris](https://www.telecom-paris.fr/) and [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
-* 2015-2016: M.Sc., [Paris-Saclay University](https://www.universite-paris-saclay.fr/), France
+* 2017-2020: Ph.D, [CentraleSupélec](https://www.centralesupelec.fr/) - [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
+* 2016-2017: M.Sc., [Télécom Paris](https://www.telecom-paris.fr/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
+* 2015-2016: M.Sc., [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), France
 * 2008-2013: B.Eng., [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/), Vietnam
 * 2005-2008: Baccalaureate, [HUS High School for Gifted Students (HSGS)](https://hsgs.edu.vn/), VNU-Hanoi, Vietnam
 
@@ -41,7 +41,7 @@ Link to my online CV on the HAL open archive: <a href="https://cv.hal.science/qu
 * 2019: Travel Grant, Global Young Vietnamese Scholars Network
 * 2018: [Student Travel Grant Award](https://globecom2018.ieee-globecom.org/content/student-travel-grants.html), IEEE Global Communications Conference (GLOBECOM) 
 * 2017: CIFRE Ph.D Fellowship, [French National Association for Technical Research](https://www.anrt.asso.fr/fr)
-* 2015: IDEX International Master’s Scholarship, [Paris-Saclay University](https://www.universite-paris-saclay.fr/)
+* 2015: IDEX International Master’s Scholarship, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/)
 * 2013: Student Research Prize (first runner-up), [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
 <!-- * 2023: [Qualification for the University Professor/Lecturer Position](https://www.galaxie.enseignementsup-recherche.gouv.fr/ensup/qualification/Resultats_2023/Qualifies_MCF2023.pdf), French National Council of Universities (Conseil National des Universités, CNU) -->
