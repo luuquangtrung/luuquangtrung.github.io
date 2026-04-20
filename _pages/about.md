@@ -63,7 +63,7 @@ and the [French National Centre for Scientific Research](https://www.cnrs.fr/en)
 
 He currently as a reviewer for many top-tier international journals and as a reviewer and TPC member for several flagship international conferences 
 in networking, computer science, and telecommunications. Since 2026, he has also been serving as the co-coordinator for the Industry Communities 
-of the <a href="/assets/pdf/NGNI_TC_Newsletter_Issue1.pdf">IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)</a>. 
+of the <a href="https://ngni.committees.comsoc.org/officers/">IEEE ComSoc Next-Generation Networking and Internet Technical Committee (NGNI-TC)</a>. 
 
 
 Curriculum vitæ: 
