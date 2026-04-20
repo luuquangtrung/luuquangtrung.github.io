@@ -65,7 +65,7 @@ nav_order: 2
 5. **[Minh-Tuong Nguyen](https://scholarships.vinuni.edu.vn/cohort-2025/)** (VinUniversity & University of Technology Sydney, 2023–2027, co-advised with [Prof. Van-Dinh Nguyen)](https://www.tcd.ie/scss/people/academic-staff/nguyenva/)\
   Topic: Resource allocation for serverless functions in mobile edge cloud environments
 
-###### Master's Students
+###### Master's students
 
 1. **[Kim-Hoan Do](https://scholar.google.com/citations?hl=en&authuser=1&user=y8G_S-4AAAAJ)**, (HUST, 2024-2026) \
    Topic: Resource allocation for Open RAN slicing
