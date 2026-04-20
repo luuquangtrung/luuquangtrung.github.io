@@ -59,16 +59,17 @@ nav_order: 2
 1. **Thanh Pham** (HUST, 2024–2028, co-advised with Prof. Trung-Kien Dao)\
   Topic: Fault-tolerant algorithm for distributed mutual exclusion (mutex)
 
-3. **[Tuan-Vu Truong](https://scholarships.vinuni.edu.vn/cohort-2025/)** (VinUniversity & University of Technology Sydney, 2023–2027, co-advised with [Prof. Van-Dinh Nguyen)](https://www.tcd.ie/scss/people/academic-staff/nguyenva/)\
+1. **[Tuan-Vu Truong](https://scholarships.vinuni.edu.vn/cohort-2025/)** (VinUniversity & University of Technology Sydney, 2023–2027, co-advised with [Prof. Van-Dinh Nguyen)](https://www.tcd.ie/scss/people/academic-staff/nguyenva/)\
   Topic: Resouce allocation for network slicing in open radio access network (Open RAN)
 
-5. **[Minh-Tuong Nguyen](https://scholarships.vinuni.edu.vn/cohort-2025/)** (VinUniversity & University of Technology Sydney, 2023–2027, co-advised with [Prof. Van-Dinh Nguyen)](https://www.tcd.ie/scss/people/academic-staff/nguyenva/)\
+1. **[Minh-Tuong Nguyen](https://scholarships.vinuni.edu.vn/cohort-2025/)** (VinUniversity & University of Technology Sydney, 2023–2027, co-advised with [Prof. Van-Dinh Nguyen)](https://www.tcd.ie/scss/people/academic-staff/nguyenva/)\
   Topic: Resource allocation for serverless functions in mobile edge cloud environments
 
 ###### Master's students
 
 1. **[Kim-Hoan Do](https://scholar.google.com/citations?hl=en&authuser=1&user=y8G_S-4AAAAJ)**, (HUST, 2024-2026) \
    Topic: Resource allocation for Open RAN slicing
+   
 1. **[Quang-Lap Luu](https://www.linkedin.com/in/luu-quang-lap-846076190/)** (HUST, 2023-2026)\
   Topic: Machine learning for typhoon formation prediction
 
