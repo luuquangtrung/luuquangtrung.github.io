@@ -133,7 +133,8 @@ Profiles:
 
 1. Ngoc Hung Nguyen, Van Thieu Nguyen, **Quang-Trung Luu**, Vo Phi Son, and Van-Dinh Nguyen,
    "[A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems](https://ieeexplore.ieee.org/document/11431892),"
-   in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, Dec. 2025. 
+   in *Proc. IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, 2025, pp. 811-816, 
+   doi: 10.1109/GLOBECOM59602.2025.11431892. 
    (**CORE Rank B**).
 
 1. Le-Hung Hoang, Minh Hoang Pham, **Quang-Trung Luu**, Vo Phi Son, and Van-Dinh Nguyen,
