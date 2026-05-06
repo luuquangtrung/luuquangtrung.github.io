@@ -58,7 +58,7 @@ Profiles:
    doi: 10.1109/TNSM.2026.3665553.
    (**Scopus Q1, IF 5.3**)
    
-1. Minh-Tuong Nguyen, **Quang-Trung Luu**, Vo Phi Son, Le-Nam Tran, Van-Dinh Nguyen,
+1. Minh-Tuong Nguyen, **Quang-Trung Luu**, Vo Phi Son, Le-Nam Tran, and Van-Dinh Nguyen,
    "[Deadline-Aware Task Offloading with Concurrency in Serverless Edge Computing](https://ieeexplore.ieee.org/document/11396962),"
    *IEEE Internet of Things Journal*, 2026,
    doi: 10.1109/JIOT.2026.3665108.
