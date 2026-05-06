@@ -66,7 +66,7 @@ Profiles:
    
 1. **Quang-Trung Luu**, Do-Minh Tran, Minh-Thanh Nguyen, Michel Kieffer, Dinh Thai Hoang, Tai-Hung Nguyen, Huu-Thanh Nguyen, and Van-Dinh Nguyen, 
    "[Network Slice Embedding With Flexible Configurations in 5G Networks and Beyond](https://ieeexplore.ieee.org/document/11347585),"
-   in *IEEE Networking Letters*, 2026,
+   in *IEEE Networking Letters*, vol. 8, pp. 135-139, 2026,
    doi: 10.1109/LNET.2026.3653831.
    (**Scopus Q1**).
    
