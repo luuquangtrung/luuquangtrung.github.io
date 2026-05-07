@@ -128,8 +128,9 @@ Profiles:
 ### Conference and workshop papers
 
 1. Kim-Hoan Do, Tai-Hung Nguyen, **Quang-Trung Luu**, Minh-Thanh Nguyen, Do-Minh Tran, and Van-Dinh Nguyen,
-   "Graph Neural PPO for Joint User Association and Resource Allocation in Open RAN,"
-   in *Proc. 2026 40th International Conference on Information Networking (ICOIN)*, 2026. 
+   "[Graph Neural PPO for Joint User Association and Resource Allocation in Open RAN](https://ieeexplore.ieee.org/document/11480477),"
+   in *Proc. 2026 40th International Conference on Information Networking (ICOIN)*, 2026, pp. 37-42, 
+   doi: 10.1109/ICOIN68469.2026.11480477. 
 
 1. Ngoc Hung Nguyen, Van Thieu Nguyen, **Quang-Trung Luu**, Vo Phi Son, and Van-Dinh Nguyen,
    "[A Metaheuristic Approach for Mission Assignment and Task Offloading in Open RAN-Enabled Intelligent Transport Systems](https://ieeexplore.ieee.org/document/11431892),"
