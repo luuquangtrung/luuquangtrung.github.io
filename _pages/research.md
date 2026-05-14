@@ -67,6 +67,10 @@ nav_order: 2
 
 ###### Master's students
 
+1. **[Enzo Henry](https://www.linkedin.com/in/henry-enzo/)**, (ENS Paris-Saclay, 2026) \
+   Topic: Energy-aware network slice placement, co-supervised with [Michel Kieffer](https://l2s.centralesupelec.fr/u/kieffer-michel/) 
+   and [Laura Galluccio](https://www.dieei.unict.it/docenti/laura.galluccio)
+
 1. **[Kim-Hoan Do](https://scholar.google.com/citations?hl=en&authuser=1&user=y8G_S-4AAAAJ)**, (HUST, 2024-2026) \
    Topic: Resource allocation for Open RAN slicing
    
