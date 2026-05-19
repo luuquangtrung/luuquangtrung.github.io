@@ -39,18 +39,16 @@ Profiles:
 ### Journal papers
 
 
-1. Duc-Trong Le, Tran-Binh Dang, Anh-Duc Hoang Gia, Duc-Hai Nguyen, Minh-Hoa Tien, Xuan-Truong Ngo, **Quang-Trung Luu**, 
-	Quang-Lap Luu, Tai-Hung Nguyen, Thanh T.N. Nguyen, and Chanh Kieu,
-   "[From Reanalysis to Climatology: Deep Learning Reconstruction of Tropical Cyclogenesis in the Western North Pacific](https://gmd.copernicus.org/articles/19/4009/2026/),"
-   in *Geoscientific Model Development*, vol. 19, pp. 4009–4030, doi: 10.5194/gmd-19-4009-2026, 2026. (**Scopus Q1, IF 4.9**)
-   [{arXiv:2510.06118}](https://arxiv.org/abs/2510.06118).
-   
-   
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tuan-Anh Do, Michel Kieffer, Tai Hung Nguyen, Huu Thanh Nguyen, and Van-Dinh Nguyen,
    "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/document/11474638),"
    in *IEEE Transactions on Network and Service Management*, vol. 23, pp. 3805-3818, 2026, doi: 10.1109/TNSM.2026.3680673. (**Scopus Q1, IF 5.3**)
    [{arXiv:2412.05993}](https://arxiv.org/abs/2412.05993).
    
+1. Duc-Trong Le, Tran-Binh Dang, Anh-Duc Hoang Gia, Duc-Hai Nguyen, Minh-Hoa Tien, Xuan-Truong Ngo, **Quang-Trung Luu**, 
+	Quang-Lap Luu, Tai-Hung Nguyen, Thanh T.N. Nguyen, and Chanh Kieu,
+   "[From Reanalysis to Climatology: Deep Learning Reconstruction of Tropical Cyclogenesis in the Western North Pacific](https://gmd.copernicus.org/articles/19/4009/2026/),"
+   in *Geoscientific Model Development*, vol. 19, pp. 4009–4030, doi: 10.5194/gmd-19-4009-2026, 2026. (**Scopus Q1, IF 4.9**)
+   [{arXiv:2510.06118}](https://arxiv.org/abs/2510.06118).
    
 1. Tuan-Vu Truong, Van-Dinh Nguyen, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, and Symeon Chatzinotas,
    "[Accelerating Resource Allocation in Open RAN Slicing via Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11397754),"
