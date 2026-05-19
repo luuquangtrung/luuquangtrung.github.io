@@ -42,7 +42,7 @@ Profiles:
 1. Duc-Trong Le, Tran-Binh Dang, Anh-Duc Hoang Gia, Duc-Hai Nguyen, Minh-Hoa Tien, Xuan-Truong Ngo, **Quang-Trung Luu**, 
 	Quang-Lap Luu, Tai-Hung Nguyen, Thanh T.N. Nguyen, and Chanh Kieu,
    "[From Reanalysis to Climatology: Deep Learning Reconstruction of Tropical Cyclogenesis in the Western North Pacific](https://ieeexplore.ieee.org/document/11474638),"
-   in *Geoscientific Model Development*, 2026. (**Scopus Q1, IF 4.9**)
+   in *Geoscientific Model Development*, vol. 19, pp. 4009–4030, doi: 10.5194/gmd-19-4009-2026, 2026. (**Scopus Q1, IF 4.9**)
    [{arXiv:2510.06118}](https://arxiv.org/abs/2510.06118).
    
    
