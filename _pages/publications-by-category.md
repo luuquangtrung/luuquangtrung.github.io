@@ -21,11 +21,6 @@ Profiles:
    "[Securing SIM-Assisted Wireless Networks via Quantum Reinforcement Learning](https://ieeexplore.ieee.org/),"
    *submitted to IEEE Transations on Communications*, 2026 (major revision).
    
-1. Ngoc Hung Nguyen, Nguyen Van Thieu, Senura H. Wanasekara, Van-Dinh Nguyen,
-   **Quang-Trung Luu**, Nguyen Cong Luong, and Anh Tuan Nguyen,
-   "[Oranits: Mission Assignment and Task Offloading in ITS Integrating MEC and Open RAN using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Transactions on Intelligent Transport Systems*, 2026 (minor revision).
-
 1. Kim-Hoan Do, **Quang-Trung Luu**, Ngoc Hung Nguyen, Tai-Hung Nguyen, Huu-Thanh Nguyen, and Van-Dinh Nguyen,
    "[Topology-Aware Network Slicing in Open RAN via Graph-based Proximal Policy Optimization](https://ieeexplore.ieee.org/),"
    *submitted to IEEE Internet of Things Journal*, 2026.
@@ -38,7 +33,10 @@ Profiles:
 
 ### Journal papers
 
-
+1. Ngoc Hung Nguyen, Nguyen Van Thieu, **Quang-Trung Luu**, Anh Tuan Nguyen, Senura Wanasekara, Nguyen Cong Luong, Fatemeh Kavehmadavani, and Van-Dinh Nguyen,
+   "[Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
+   in *IEEE Transactions on Intelligent Transportation Systems*, 2026.
+   
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tuan-Anh Do, Michel Kieffer, Tai Hung Nguyen, Huu Thanh Nguyen, and Van-Dinh Nguyen,
    "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/document/11474638),"
    in *IEEE Transactions on Network and Service Management*, vol. 23, pp. 3805-3818, 2026, doi: 10.1109/TNSM.2026.3680673. (**Scopus Q1, IF 5.3**)
