@@ -25,7 +25,7 @@ Profiles:
    "[Topology-Aware Network Slicing in Open RAN via Graph-based Proximal Policy Optimization](https://ieeexplore.ieee.org/),"
    *submitted to IEEE Internet of Things Journal*, 2026.
    
-1. Tien Khanh Luong, Ngoc Cuong Ho, Dai Duong Nguyen, Quang-Trung Luu, Quoc Cuong Nguyen, Hoa Le-Minh, Minh Thuy Le, and Kien Nguyen,
+1. Tien Khanh Luong, Ngoc Cuong Ho, Dai Duong Nguyen, **Quang-Trung Luu**, Quoc Cuong Nguyen, Hoa Le-Minh, Minh Thuy Le, and Kien Nguyen,
    "[An End-to-End IoT System for Continuous Methane Monitoring in Rice Paddies: Design and Field Validation](https://ieeexplore.ieee.org/),"
    *submitted to IEEE Internet of Things Journal*, 2026.
    
