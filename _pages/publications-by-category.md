@@ -19,7 +19,7 @@ Profiles:
 
 1. Le-Hung Hoang, **Quang-Trung Luu**, Dinh Thai Hoang, Diep N. Nguyen, and Van-Dinh Nguyen,
    "[Securing SIM-Assisted Wireless Networks via Quantum Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Transations on Communications*, 2026 (major revision).
+   *submitted to IEEE Transations on Communications*, 2026 (minor revision).
    
 1. Kim-Hoan Do, **Quang-Trung Luu**, Ngoc Hung Nguyen, Tai-Hung Nguyen, Huu-Thanh Nguyen, and Van-Dinh Nguyen,
    "[Topology-Aware Network Slicing in Open RAN via Graph-based Proximal Policy Optimization](https://ieeexplore.ieee.org/),"
