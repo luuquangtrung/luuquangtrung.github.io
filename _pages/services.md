@@ -30,7 +30,8 @@ nav_order: 6
 * International Conference on Advanced Technologies For Communications (ATC): 
 	[ATC’25](https://atc-conf.org/committees/committees-atc)
 * International Conference on Computing and Communication Technologies (RIVF): 
-	[RIVF’25](https://rivf2025.org/?page_id=12)
+	[RIVF’25](https://rivf2025.org/?page_id=12),
+	[RIVF’26](https://rivf2026.org/committee.html)
 * International Symposium on Information and Communication Technology (SoICT)’: 
 	[SoICT’22](https://soict.org/2022/committees/program-committees/)
 * International Conference on Networks (ICN): 
