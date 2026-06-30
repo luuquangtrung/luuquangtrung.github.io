@@ -38,7 +38,7 @@ Profiles:
 ### Journal papers
 
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, **Quang-Trung Luu**, Anh Tuan Nguyen, Senura Wanasekara, Nguyen Cong Luong, Fatemeh Kavehmadavani, and Van-Dinh Nguyen,
-   "[Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/),"
+   "[Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11586005),"
    in *IEEE Transactions on Intelligent Transportation Systems*, 2026.
    
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tuan-Anh Do, Michel Kieffer, Tai Hung Nguyen, Huu Thanh Nguyen, and Van-Dinh Nguyen,
