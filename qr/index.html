@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QR Code Generator</title>
+  <meta name="description" content="Simple QR Code Generator for text and links." />
+
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+
+  <style>
+    :root {
+      --bg: #f5f7fb;
+      --card: #ffffff;
+      --text: #172033;
+      --muted: #6b7280;
+      --border: #dfe3ea;
+      --primary: #2563eb;
+      --primary-hover: #1d4ed8;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    .container {
+      width: min(100%, 760px);
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+
+    .header h1 {
+      margin: 0 0 8px;
+      font-size: clamp(28px, 5vw, 42px);
+      letter-spacing: -0.03em;
+    }
+
+    .header p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 24px;
+      box-shadow: 0 12px 35px rgba(15, 23, 42, 0.08);
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
+
+    textarea,
+    select {
+      width: 100%;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: #fff;
+      color: var(--text);
+      font: inherit;
+    }
+
+    textarea {
+      min-height: 130px;
+      padding: 14px;
+      resize: vertical;
+      line-height: 1.5;
+    }
+
+    textarea:focus,
+    select:focus {
+      outline: 3px solid rgba(37, 99, 235, 0.14);
+      border-color: var(--primary);
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 12px;
+      margin-top: 14px;
+    }
+
+    select {
+      padding: 0 12px;
+      min-height: 46px;
+    }
+
+    button {
+      min-height: 46px;
+      border: 0;
+      border-radius: 12px;
+      padding: 0 18px;
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+      transition: 0.15s ease;
+    }
+
+    .primary {
+      background: var(--primary);
+      color: white;
+    }
+
+    .primary:hover {
+      background: var(--primary-hover);
+    }
+
+    .secondary {
+      background: #eef2ff;
+      color: #1e40af;
+    }
+
+    .secondary:hover {
+      background: #e0e7ff;
+    }
+
+    .qr-section {
+      display: none;
+      margin-top: 24px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+      text-align: center;
+    }
+
+    #qrcode {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: auto;
+      max-width: 100%;
+    }
+
+    #qrcode img,
+    #qrcode canvas {
+      display: block;
+      max-width: 100%;
+      height: auto !important;
+    }
+
+    .download {
+      margin-top: 16px;
+    }
+
+    .hint {
+      margin-top: 14px;
+      text-align: center;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .error {
+      min-height: 20px;
+      margin-top: 8px;
+      color: #b91c1c;
+      font-size: 14px;
+    }
+
+    @media (max-width: 560px) {
+      .card {
+        padding: 18px;
+      }
+
+      .controls {
+        grid-template-columns: 1fr;
+      }
+
+      button {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="container">
+    <header class="header">
+      <h1>QR Code Generator</h1>
+      <p>Tạo QR code nhanh từ text hoặc đường link.</p>
+    </header>
+
+    <section class="card">
+      <label for="qrText">Text hoặc URL</label>
+      <textarea
+        id="qrText"
+        placeholder="Ví dụ: https://luuquangtrung.github.io/"
+        autofocus
+      ></textarea>
+
+      <div class="error" id="error"></div>
+
+      <div class="controls">
+        <select id="qrSize" aria-label="QR code size">
+          <option value="200">200 × 200 px</option>
+          <option value="300" selected>300 × 300 px</option>
+          <option value="400">400 × 400 px</option>
+          <option value="500">500 × 500 px</option>
+          <option value="800">800 × 800 px</option>
+        </select>
+
+        <button class="primary" id="generateBtn">Generate QR Code</button>
+      </div>
+
+      <div class="qr-section" id="qrSection">
+        <div id="qrcode"></div>
+
+        <div class="download">
+          <button class="secondary" id="downloadBtn">Download PNG</button>
+        </div>
+      </div>
+    </section>
+
+    <p class="hint">
+      QR code được tạo trực tiếp trên trình duyệt, không gửi nội dung lên server.
+    </p>
+  </main>
+
+  <script>
+    const textInput = document.getElementById("qrText");
+    const sizeSelect = document.getElementById("qrSize");
+    const generateBtn = document.getElementById("generateBtn");
+    const downloadBtn = document.getElementById("downloadBtn");
+    const qrContainer = document.getElementById("qrcode");
+    const qrSection = document.getElementById("qrSection");
+    const errorBox = document.getElementById("error");
+
+    function generateQR() {
+      const text = textInput.value.trim();
+      const size = Number(sizeSelect.value);
+
+      errorBox.textContent = "";
+
+      if (!text) {
+        qrSection.style.display = "none";
+        errorBox.textContent = "Nhập text hoặc URL trước khi tạo QR code.";
+        textInput.focus();
+        return;
+      }
+
+      qrContainer.innerHTML = "";
+
+      new QRCode(qrContainer, {
+        text: text,
+        width: size,
+        height: size,
+        colorDark: "#000000",
+        colorLight: "#ffffff",
+        correctLevel: QRCode.CorrectLevel.H
+      });
+
+      qrSection.style.display = "block";
+    }
+
+    function downloadQR() {
+      const canvas = qrContainer.querySelector("canvas");
+      const img = qrContainer.querySelector("img");
+
+      let dataUrl = "";
+
+      if (canvas) {
+        dataUrl = canvas.toDataURL("image/png");
+      } else if (img) {
+        dataUrl = img.src;
+      } else {
+        return;
+      }
+
+      const link = document.createElement("a");
+      link.href = dataUrl;
+      link.download = "qrcode.png";
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+    }
+
+    generateBtn.addEventListener("click", generateQR);
+    downloadBtn.addEventListener("click", downloadQR);
+
+    textInput.addEventListener("keydown", (event) => {
+      if ((event.ctrlKey || event.metaKey) && event.key === "Enter") {
+        generateQR();
+      }
+    });
+  </script>
+</body>
+</html>
