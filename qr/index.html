@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>QR Code Generator | Quang-Trung Luu</title>
-  <meta name="description" content="Simple QR code generator for text and URLs.">
+  <meta name="description" content="Simple QR code generator for text and URLs with customizable RGB color.">
 
   <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 
@@ -35,7 +35,7 @@
 
     .wrapper {
       width: 100%;
-      max-width: 680px;
+      max-width: 720px;
     }
 
     .top-link {
@@ -51,7 +51,7 @@
     }
 
     .card {
-      background: white;
+      background: #ffffff;
       border: 1px solid #e3e3e3;
       border-radius: 14px;
       padding: 30px;
@@ -70,75 +70,133 @@
       line-height: 1.5;
     }
 
+    .section-title {
+      margin: 22px 0 10px;
+      font-size: 15px;
+      font-weight: 600;
+    }
+
     label {
       display: block;
       margin-bottom: 8px;
       font-weight: 600;
     }
 
-    textarea {
+    textarea,
+    select,
+    input[type="number"] {
       width: 100%;
-      min-height: 130px;
-      padding: 14px;
       border: 1px solid #cfcfcf;
       border-radius: 10px;
-      resize: vertical;
-      font: inherit;
-      line-height: 1.45;
-      background: white;
+      background: #ffffff;
       color: #202124;
+      font: inherit;
     }
 
-    textarea:focus {
+    textarea {
+      min-height: 130px;
+      padding: 14px;
+      resize: vertical;
+      line-height: 1.45;
+    }
+
+    select,
+    input[type="number"] {
+      min-height: 44px;
+      padding: 0 12px;
+    }
+
+    textarea:focus,
+    select:focus,
+    input[type="number"]:focus {
       outline: none;
       border-color: #555;
       box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.06);
     }
 
-    .row {
+    .main-row {
       display: grid;
       grid-template-columns: 1fr auto;
       gap: 12px;
       margin-top: 14px;
     }
 
-    select,
+    .color-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+
+    .color-field label {
+      margin-bottom: 6px;
+      color: #555;
+      font-size: 13px;
+    }
+
+    .color-tools {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      align-items: center;
+      gap: 12px;
+      margin-top: 12px;
+    }
+
+    .picker-wrap {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    input[type="color"] {
+      width: 52px;
+      height: 44px;
+      padding: 3px;
+      border: 1px solid #cfcfcf;
+      border-radius: 9px;
+      background: #ffffff;
+      cursor: pointer;
+    }
+
+    .color-preview {
+      height: 44px;
+      border: 1px solid #cfcfcf;
+      border-radius: 9px;
+      background: #000000;
+    }
+
+    .rgb-text {
+      min-width: 105px;
+      color: #666;
+      font-size: 13px;
+      text-align: right;
+      white-space: nowrap;
+    }
+
     button {
       min-height: 44px;
-      border-radius: 9px;
-      font: inherit;
-    }
-
-    select {
-      width: 100%;
-      padding: 0 12px;
-      border: 1px solid #cfcfcf;
-      background: white;
-      color: #202124;
-    }
-
-    button {
       border: none;
+      border-radius: 9px;
       padding: 0 18px;
       cursor: pointer;
+      font: inherit;
       font-weight: 600;
     }
 
     #generateBtn {
       background: #202124;
-      color: white;
+      color: #ffffff;
     }
 
     #generateBtn:hover {
-      background: #000;
+      background: #000000;
     }
 
-    #downloadBtn {
+    .secondary-btn {
       background: #ededed;
       color: #202124;
     }
 
-    #downloadBtn:hover {
+    .secondary-btn:hover {
       background: #dedede;
     }
 
@@ -159,12 +217,12 @@
 
     #qrcode {
       display: inline-block;
+      max-width: 100%;
+      overflow: auto;
       padding: 16px;
       border: 1px solid #e2e2e2;
       border-radius: 10px;
-      background: white;
-      max-width: 100%;
-      overflow: auto;
+      background: #ffffff;
     }
 
     #qrcode canvas,
@@ -175,7 +233,17 @@
     }
 
     .download-row {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
       margin-top: 16px;
+    }
+
+    .hint {
+      margin-top: 12px;
+      color: #777;
+      font-size: 13px;
+      line-height: 1.5;
     }
 
     footer {
@@ -185,7 +253,7 @@
       font-size: 13px;
     }
 
-    @media (max-width: 560px) {
+    @media (max-width: 600px) {
       body {
         padding: 16px;
       }
@@ -194,16 +262,36 @@
         padding: 20px;
       }
 
-      .row {
+      h1 {
+        font-size: 27px;
+      }
+
+      .main-row {
         grid-template-columns: 1fr;
+      }
+
+      .color-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .color-tools {
+        grid-template-columns: 1fr;
+      }
+
+      .picker-wrap {
+        justify-content: space-between;
+      }
+
+      .rgb-text {
+        text-align: left;
       }
 
       button {
         width: 100%;
       }
 
-      h1 {
-        font-size: 27px;
+      .download-row {
+        flex-direction: column;
       }
     }
   </style>
@@ -216,16 +304,15 @@
     <main class="card">
       <h1>QR Code Generator</h1>
       <p class="subtitle">
-        Generate a QR code from any text or URL directly in your browser.
+        Generate a QR code from any text or URL and customize its color.
       </p>
 
       <label for="qrText">Text or URL</label>
-
       <textarea id="qrText" placeholder="https://luuquangtrung.github.io/" autofocus></textarea>
 
       <div id="message"></div>
 
-      <div class="row">
+      <div class="main-row">
         <select id="qrSize" aria-label="QR code size">
           <option value="200">200 × 200 px</option>
           <option value="300" selected>300 × 300 px</option>
@@ -239,11 +326,47 @@
         </button>
       </div>
 
+      <div class="section-title">QR color</div>
+
+      <div class="color-grid">
+        <div class="color-field">
+          <label for="redInput">Red (R)</label>
+          <input id="redInput" type="number" min="0" max="255" value="0">
+        </div>
+
+        <div class="color-field">
+          <label for="greenInput">Green (G)</label>
+          <input id="greenInput" type="number" min="0" max="255" value="0">
+        </div>
+
+        <div class="color-field">
+          <label for="blueInput">Blue (B)</label>
+          <input id="blueInput" type="number" min="0" max="255" value="0">
+        </div>
+      </div>
+
+      <div class="color-tools">
+        <div class="picker-wrap">
+          <input id="colorPicker" type="color" value="#000000" aria-label="Choose QR color">
+          <button id="resetColorBtn" class="secondary-btn" type="button">
+            Reset
+          </button>
+        </div>
+
+        <div id="colorPreview" class="color-preview" aria-label="Color preview"></div>
+
+        <div id="rgbText" class="rgb-text">RGB(0, 0, 0)</div>
+      </div>
+
+      <p class="hint">
+        Darker colors are recommended for reliable QR scanning. Very light colors may be difficult for cameras to detect.
+      </p>
+
       <section id="qrArea">
         <div id="qrcode"></div>
 
         <div class="download-row">
-          <button id="downloadBtn" type="button">
+          <button id="downloadBtn" class="secondary-btn" type="button">
             Download PNG
           </button>
         </div>
@@ -260,13 +383,95 @@
     const sizeSelect = document.getElementById("qrSize");
     const generateBtn = document.getElementById("generateBtn");
     const downloadBtn = document.getElementById("downloadBtn");
+
+    const redInput = document.getElementById("redInput");
+    const greenInput = document.getElementById("greenInput");
+    const blueInput = document.getElementById("blueInput");
+    const colorPicker = document.getElementById("colorPicker");
+    const resetColorBtn = document.getElementById("resetColorBtn");
+    const colorPreview = document.getElementById("colorPreview");
+    const rgbText = document.getElementById("rgbText");
+
     const qrcode = document.getElementById("qrcode");
     const qrArea = document.getElementById("qrArea");
     const message = document.getElementById("message");
 
+    function clamp(value) {
+      const number = Number(value);
+
+      if (Number.isNaN(number)) {
+        return 0;
+      }
+
+      return Math.max(0, Math.min(255, Math.round(number)));
+    }
+
+    function componentToHex(value) {
+      return clamp(value).toString(16).padStart(2, "0");
+    }
+
+    function rgbToHex(r, g, b) {
+      return "#" +
+        componentToHex(r) +
+        componentToHex(g) +
+        componentToHex(b);
+    }
+
+    function hexToRgb(hex) {
+      const cleanHex = hex.replace("#", "");
+
+      return {
+        r: parseInt(cleanHex.substring(0, 2), 16),
+        g: parseInt(cleanHex.substring(2, 4), 16),
+        b: parseInt(cleanHex.substring(4, 6), 16)
+      };
+    }
+
+    function getCurrentRgb() {
+      return {
+        r: clamp(redInput.value),
+        g: clamp(greenInput.value),
+        b: clamp(blueInput.value)
+      };
+    }
+
+    function updateColorFromRgb() {
+      const { r, g, b } = getCurrentRgb();
+
+      redInput.value = r;
+      greenInput.value = g;
+      blueInput.value = b;
+
+      const hex = rgbToHex(r, g, b);
+
+      colorPicker.value = hex;
+      colorPreview.style.backgroundColor = hex;
+      rgbText.textContent = `RGB(${r}, ${g}, ${b})`;
+    }
+
+    function updateRgbFromPicker() {
+      const { r, g, b } = hexToRgb(colorPicker.value);
+
+      redInput.value = r;
+      greenInput.value = g;
+      blueInput.value = b;
+
+      colorPreview.style.backgroundColor = colorPicker.value;
+      rgbText.textContent = `RGB(${r}, ${g}, ${b})`;
+    }
+
+    function resetColor() {
+      redInput.value = 0;
+      greenInput.value = 0;
+      blueInput.value = 0;
+      updateColorFromRgb();
+    }
+
     function generateQR() {
       const text = input.value.trim();
       const size = parseInt(sizeSelect.value, 10);
+      const { r, g, b } = getCurrentRgb();
+      const qrColor = rgbToHex(r, g, b);
 
       message.textContent = "";
 
@@ -282,13 +487,14 @@
         return;
       }
 
+      updateColorFromRgb();
       qrcode.innerHTML = "";
 
       new QRCode(qrcode, {
         text: text,
         width: size,
         height: size,
-        colorDark: "#000000",
+        colorDark: qrColor,
         colorLight: "#ffffff",
         correctLevel: QRCode.CorrectLevel.H
       });
@@ -316,11 +522,19 @@
       const link = document.createElement("a");
       link.href = dataUrl;
       link.download = "qrcode.png";
+
       document.body.appendChild(link);
       link.click();
       link.remove();
     }
 
+    [redInput, greenInput, blueInput].forEach((element) => {
+      element.addEventListener("input", updateColorFromRgb);
+      element.addEventListener("change", updateColorFromRgb);
+    });
+
+    colorPicker.addEventListener("input", updateRgbFromPicker);
+    resetColorBtn.addEventListener("click", resetColor);
     generateBtn.addEventListener("click", generateQR);
     downloadBtn.addEventListener("click", downloadQR);
 
@@ -335,8 +549,9 @@
 
     if (preset) {
       input.value = preset;
-      generateQR();
     }
+
+    updateColorFromRgb();
   </script>
 </body>
 </html>
