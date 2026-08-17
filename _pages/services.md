@@ -44,7 +44,8 @@ nav_order: 6
 * IEEE/ACM Transactions on Networking (TON)
 * IEEE Transactions on Mobile Computing (TMC)
 * IEEE Transactions on Network and Service Management (TNSM)
-* IEEE Transactions on Parallel and Distributed Systems (TPDS
+* IEEE Transactions on Parallel and Distributed Systems (TPDS)
+* IEEE Transactions on Services Computing (TSC)
 * IEEE Open Journal of the Communications Society (OJCOMS)
 * IEEE System Journal (ISJ)
 * IEEE Communications Letters (COMML)
