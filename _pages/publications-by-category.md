@@ -17,17 +17,17 @@ Profiles:
 
 ### Submitted, in review
 
-1. Le-Hung Hoang, **Quang-Trung Luu**, Dinh Thai Hoang, Diep N. Nguyen, and Van-Dinh Nguyen,
-   "[Securing SIM-Assisted Wireless Networks via Quantum Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Transations on Communications*, 2026 (minor revision).
-   
 1. Kim-Hoan Do, **Quang-Trung Luu**, Ngoc Hung Nguyen, Tai-Hung Nguyen, Huu-Thanh Nguyen, and Van-Dinh Nguyen,
    "[Topology-Aware Network Slicing in Open RAN via Graph-based Proximal Policy Optimization](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Internet of Things Journal*, 2026.
+   *submitted to IEEE Open Journal of the Communications Society*, 2026.
    
 1. Tien Khanh Luong, Ngoc Cuong Ho, Dai Duong Nguyen, **Quang-Trung Luu**, Quoc Cuong Nguyen, Hoa Le-Minh, Minh Thuy Le, and Kien Nguyen,
    "[An End-to-End IoT System for Continuous Methane Monitoring in Rice Paddies: Design and Field Validation](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Internet of Things Journal*, 2026.
+   *submitted to Smart Agricultural Technology*, 2026.
+   
+1. Chanh Kieu, Thanh T.N. Nguyen, Duc-Trong Le, Duc Gia-Anh Hoang, Quang-Lap Luu, Binh T. Dang, Truong X. Ngo, **Quang-Trung Luu**, 
+	Tien D. Du, Khiem V. Mai, "Reconstructing Historical Tropical Cyclogenesis Climatology Using Deep Learning," 
+	*submitted to Journal of Climate*, 2026 (minor revision)
    
 1. Nguyen Van Duc, Bui Duc Manh, **Quang-Trung Luu**, Dinh Thai Hoang, Van-Linh Nguyen, and Diep N. Nguyen
    "[Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing](https://www.sciencedirect.com/journal/ad-hoc-networks),"
@@ -36,6 +36,11 @@ Profiles:
 
 
 ### Journal papers
+
+
+1. Le-Hung Hoang, **Quang-Trung Luu**, Dinh Thai Hoang, Diep N. Nguyen, and Van-Dinh Nguyen,
+   "[Securing SIM-Assisted Wireless Networks via Quantum Reinforcement Learning](https://ieeexplore.ieee.org/),"
+   *IEEE Transactions on Communications*, 2026 (accepted).
 
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, **Quang-Trung Luu**, Anh Tuan Nguyen, Senura Wanasekara, Nguyen Cong Luong, Fatemeh Kavehmadavani, and Van-Dinh Nguyen,
    "[Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11586005),"
