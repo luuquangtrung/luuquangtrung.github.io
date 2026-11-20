@@ -160,6 +160,10 @@ Profiles:
 
 ### Conference and workshop papers
 
+1. Quang Huy Duong, Nguyen Phuc Tran, Vu Hong Hai Phan, and **Quang-Trung Luu**,
+    "[Make-Before-Break SFC Reoptimization: Comparing Compact and Column Generation Formulations with Raw-Bandwidth Minimization](https://ieeexplore.ieee.org/),"
+	in *Proc. International Symposium on Information and Communication Technology (SOICT)*, Ho Chi Minh City, Vietnam, 2026.
+
 1. Kim-Hoan Do, Tai-Hung Nguyen, **Quang-Trung Luu**, Minh-Thanh Nguyen, Do-Minh Tran, and Van-Dinh Nguyen,
    "[Graph Neural PPO for Joint User Association and Resource Allocation in Open RAN](https://ieeexplore.ieee.org/document/11480477),"
    in *Proc. 2026 40th International Conference on Information Networking (ICOIN)*, 2026, pp. 37-42, 
