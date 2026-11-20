@@ -17,22 +17,49 @@ Profiles:
 
 ### Submitted, in review
 
-1. Kim-Hoan Do, **Quang-Trung Luu**, Ngoc Hung Nguyen, Tai-Hung Nguyen, Huu-Thanh Nguyen, and Van-Dinh Nguyen,
-   "[Topology-Aware Network Slicing in Open RAN via Graph-based Proximal Policy Optimization](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Open Journal of the Communications Society*, 2026.
+1. Chanh Kieu, Thanh T.N. Nguyen, Duc-Trong Le, Duc Gia-Anh Hoang, Quang-Lap Luu, Binh T. Dang, Truong X. Ngo, **Quang-Trung Luu**, Tien D. Du, Khiem V. Mai, 
+	"[Reconstructing Historical Tropical Cyclogenesis Climatology Using Deep Learning](https://ieeexplore.ieee.org/)," 
+	*submitted to Journal of Climate*, 2026 (minor revision).
 
-1. Chanh Kieu, Thanh T.N. Nguyen, Duc-Trong Le, Duc Gia-Anh Hoang, Quang-Lap Luu, Binh T. Dang, Truong X. Ngo, **Quang-Trung Luu**, 
-	Tien D. Du, Khiem V. Mai, "Reconstructing Historical Tropical Cyclogenesis Climatology Using Deep Learning," 
-	*submitted to Journal of Climate*, 2026 (minor revision)	
-	
+1. Quang Huy Duong, Nguyen Phuc Tran, Phan Vu Hong Hai, **Quang-Trung Luu**, and Trinh Van Chien, 
+	"[Make-Before-Break SFC Reoptimization: Objective Selection Under Compute and Transport Constraints](https://ieeexplore.ieee.org/)," 
+	*submitted to IEEE Networking Letters*, 2026.
+
+1. Van-Duc Nguyen, **Quang-Trung Luu**, and Van-Linh Nguyen, 
+	"[DVAS-EV: Delivery-Verified Authorization and Settlement for Electric Vehicle Charging Systems](https://ieeexplore.ieee.org/)," 
+	*submitted to IEEE Transactions on Industrial Informatics*, 2026.
+
+1. Nguyen Doan Hieu, Le Tung Giang, Mai Dinh Cong, Nguyen Xuan Tung, Trinh Van Chien, **Quang-Trung Luu**, Van-Dinh Nguyen, and Won-Joo Hwang, 
+	"[Quantum-Enhanced Federated Learning for Future Communication Networks: A Network-Centric Survey of Architectures, Quantum Placement and Security](https://ieeexplore.ieee.org/)," 
+	*submitted to IEEE Internet of Things Journal*, 2026.
+
+
+1. Minh-Tuong Nguyen, **Quang-Trung Luu**, Dinh Thai Hoang, Diep N. Nguyen, and Van-Dinh Nguyen, 
+	"[Best-Effort Deadline Attainment for Task Offloading in Serverless Edge Computing](https://ieeexplore.ieee.org/)," 
+	*submitted to IEEE Internet of Things Journal*, 2026.
+
+
+1. Tuan-Vu Truong, **Quang-Trung Luu**, Diep N. Nguyen, Dinh Thai Hoang, Phi-Son Vo, and Van-Dinh Nguyen,
+	"[Multi-Agent Learning for Joint Radio and Computing Orchestration in Open RAN Slicing](https://ieeexplore.ieee.org/)," 
+	*submitted to IEEE Transactions on Network and Service Management*, 2026.
+
+
+1. Tuan-Vu Truong, **Quang-Trung Luu**, Van-Dinh Nguyen, Dinh Thai Hoang, and Diep N. Nguyen, 
+	"[A Multi-Agent and Attention-Based DRL Approach for Joint Radio and Computing Resource Orchestration in Open RAN Slicing](https://ieeexplore.ieee.org/)," 
+	*submitted to IEEE Transactions on Machine Learning in Communications and Networking*, 2026.
+
+
+1. Tuan-Vu Truong, **Quang-Trung Luu**, Diep N. Nguyen, Dinh Thai Hoang, and Van-Dinh Nguyen, 
+	"[Context-Aware Multi-timescale AI-Native Slice Orchestration for Open and Intelligent 6G RAN](https://ieeexplore.ieee.org/)," 
+	*submitted to IEEE Journal on Selected Areas in Communications*, 2026.
+
+1. Kim-Hoan Do, **Quang-Trung Luu**, Ngoc Hung Nguyen, Tai-Hung Nguyen, Huu-Thanh Nguyen, and Van-Dinh Nguyen, 
+	"[Joint Network Slicing and Resource Orchestration in Open RAN via Proximal Policy Optimization](https://ieeexplore.ieee.org/)," 
+	*submitted to IEEE Open Journal of the Communications Society*, 2026.
+
 1. Tien Khanh Luong, Ngoc Cuong Ho, Dai Duong Nguyen, **Quang-Trung Luu**, Quoc Cuong Nguyen, Hoa Le-Minh, Minh Thuy Le, and Kien Nguyen,
    "[An End-to-End IoT System for Continuous Methane Monitoring in Rice Paddies: Design and Field Validation](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Internet of Things Journal*, 2026.
-   
-1. Nguyen Van Duc, Bui Duc Manh, **Quang-Trung Luu**, Dinh Thai Hoang, Van-Linh Nguyen, and Diep N. Nguyen
-   "[Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing](https://www.sciencedirect.com/journal/ad-hoc-networks),"
-   *submitted to Computer Communications*, 2026
-   [{arXiv:2507.09860}](https://arxiv.org/abs/2507.09860)
+   *submitted to Smart Agricultural Technology*, 2026 (major revision).
 
 
 ### Journal papers
