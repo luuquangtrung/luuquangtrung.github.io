@@ -17,13 +17,17 @@ Profiles:
 
 ### Submitted, in review
 
+1. Le-Hung Hoang, **Quang-Trung Luu**, Dinh Thai Hoang, Diep N. Nguyen, and Van-Dinh Nguyen,
+   "[Securing SIM-Assisted Wireless Networks via Quantum Reinforcement Learning](https://ieeexplore.ieee.org/),"
+   *submitted to IEEE Transations on Communications*, 2026 (minor revision).
+   
 1. Kim-Hoan Do, **Quang-Trung Luu**, Ngoc Hung Nguyen, Tai-Hung Nguyen, Huu-Thanh Nguyen, and Van-Dinh Nguyen,
    "[Topology-Aware Network Slicing in Open RAN via Graph-based Proximal Policy Optimization](https://ieeexplore.ieee.org/),"
-   *submitted to IEEE Open Journal of the Communications Society*, 2026.
+   *submitted to IEEE Internet of Things Journal*, 2026.
    
 1. Tien Khanh Luong, Ngoc Cuong Ho, Dai Duong Nguyen, **Quang-Trung Luu**, Quoc Cuong Nguyen, Hoa Le-Minh, Minh Thuy Le, and Kien Nguyen,
    "[An End-to-End IoT System for Continuous Methane Monitoring in Rice Paddies: Design and Field Validation](https://ieeexplore.ieee.org/),"
-   *submitted to Smart Agricultural Technology*, 2026.
+   *submitted to IEEE Internet of Things Journal*, 2026.
    
 1. Nguyen Van Duc, Bui Duc Manh, **Quang-Trung Luu**, Dinh Thai Hoang, Van-Linh Nguyen, and Diep N. Nguyen
    "[Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing](https://www.sciencedirect.com/journal/ad-hoc-networks),"
@@ -33,14 +37,9 @@ Profiles:
 
 ### Journal papers
 
-
-1. Le-Hung Hoang, **Quang-Trung Luu**, Dinh Thai Hoang, Diep N. Nguyen, and Van-Dinh Nguyen,
-   "[Securing SIM-Assisted Wireless Networks via Quantum Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   in *IEEE Transactions on Communications*, 2026 (accepted).
-
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, **Quang-Trung Luu**, Anh Tuan Nguyen, Senura Wanasekara, Nguyen Cong Luong, Fatemeh Kavehmadavani, and Van-Dinh Nguyen,
    "[Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11586005),"
-   in *IEEE Transactions on Intelligent Transportation Systems*, vol. 27, no. 10, pp. 12515-12530, Oct. 2026, doi: 10.1109/TITS.2026.3705751 (**Scopus Q1, IF 8.4**).
+   in *IEEE Transactions on Intelligent Transportation Systems*, 2026.
    
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tuan-Anh Do, Michel Kieffer, Tai Hung Nguyen, Huu Thanh Nguyen, and Van-Dinh Nguyen,
    "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/document/11474638),"
@@ -264,5 +263,4 @@ Profiles:
 
 * **Quang-Trung Luu**, Wireless Power Transfer for Implantable Medical Devices, 
    *M.Sc Thesis*, University of Paris-Sud (Paris 11, now [Paris-Saclay University](https://www.universite-paris-saclay.fr/)), 2016.
-
 
