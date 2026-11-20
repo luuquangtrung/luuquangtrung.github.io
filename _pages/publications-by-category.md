@@ -70,11 +70,13 @@ Profiles:
 
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, **Quang-Trung Luu**, Anh Tuan Nguyen, Senura Wanasekara, Nguyen Cong Luong, Fatemeh Kavehmadavani, and Van-Dinh Nguyen,
    "[Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11586005),"
-   in *IEEE Transactions on Intelligent Transportation Systems*, 2026.
+   in *IEEE Transactions on Intelligent Transportation Systems*, vol. 27, no. 10, pp. 12515-12530, Oct. 2026, doi: 10.1109/TITS.2026.3705751. 
+   (**Scopus Q1, IF 8.4**).
    
 1. **Quang-Trung Luu**, Minh-Thanh Nguyen, Tuan-Anh Do, Michel Kieffer, Tai Hung Nguyen, Huu Thanh Nguyen, and Van-Dinh Nguyen,
    "[Network Slicing with Flexible VNF Order: A Branch-and-Bound Approach](https://ieeexplore.ieee.org/document/11474638),"
-   in *IEEE Transactions on Network and Service Management*, vol. 23, pp. 3805-3818, 2026, doi: 10.1109/TNSM.2026.3680673. (**Scopus Q1, IF 5.3**)
+   in *IEEE Transactions on Network and Service Management*, vol. 23, pp. 3805-3818, 2026, doi: 10.1109/TNSM.2026.3680673. 
+   (**Scopus Q1, IF 5.3**)
    [{arXiv:2412.05993}](https://arxiv.org/abs/2412.05993).
    
 1. Tuan-Vu Truong, Van-Dinh Nguyen, **Quang-Trung Luu**, Phi-Son Vo, Xuan-Phu Nguyen, Fatemeh Kavehmadavani, and Symeon Chatzinotas,
