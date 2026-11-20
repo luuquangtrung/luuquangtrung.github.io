@@ -59,14 +59,14 @@ Profiles:
 
 1. Tien Khanh Luong, Ngoc Cuong Ho, Dai Duong Nguyen, **Quang-Trung Luu**, Quoc Cuong Nguyen, Hoa Le-Minh, Minh Thuy Le, and Kien Nguyen,
    "[An End-to-End IoT System for Continuous Methane Monitoring in Rice Paddies: Design and Field Validation](https://ieeexplore.ieee.org/),"
-   *submitted to Smart Agricultural Technology*, 2026 (major revision).
+   *submitted to Smart Agricultural Technology*, 2026 (major revision). 
 
 
 ### Journal papers
 
 1. Le-Hung Hoang, **Quang-Trung Luu**, Dinh Thai Hoang, Diep N. Nguyen, and Van-Dinh Nguyen,
    "[Securing SIM-Assisted Wireless Networks via Quantum Reinforcement Learning](https://ieeexplore.ieee.org/),"
-   in *IEEE Transactions on Communications*, 2026 (to appear).
+   in *IEEE Transactions on Communications*, 2026 [{arXiv:2602.13238}](https://arxiv.org/abs/2602.13238).
 
 1. Ngoc Hung Nguyen, Nguyen Van Thieu, **Quang-Trung Luu**, Anh Tuan Nguyen, Senura Wanasekara, Nguyen Cong Luong, Fatemeh Kavehmadavani, and Van-Dinh Nguyen,
    "[Oranits: Mission Assignment and Task Offloading in Open RAN-based ITS using Metaheuristic and Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11586005),"
