@@ -25,10 +25,6 @@ Profiles:
    "[An End-to-End IoT System for Continuous Methane Monitoring in Rice Paddies: Design and Field Validation](https://ieeexplore.ieee.org/),"
    *submitted to Smart Agricultural Technology*, 2026.
    
-1. Chanh Kieu, Thanh T.N. Nguyen, Duc-Trong Le, Duc Gia-Anh Hoang, Quang-Lap Luu, Binh T. Dang, Truong X. Ngo, **Quang-Trung Luu**, 
-	Tien D. Du, Khiem V. Mai, "Reconstructing Historical Tropical Cyclogenesis Climatology Using Deep Learning," 
-	*submitted to Journal of Climate*, 2026 (minor revision)
-   
 1. Nguyen Van Duc, Bui Duc Manh, **Quang-Trung Luu**, Dinh Thai Hoang, Van-Linh Nguyen, and Diep N. Nguyen
    "[Secure and Efficient UAV-Based Face Detection via Homomorphic Encryption and Edge Computing](https://www.sciencedirect.com/journal/ad-hoc-networks),"
    *submitted to Computer Communications*, 2026
